@@ -11,6 +11,7 @@
   };
   let audio = null;
   let utterance = null;
+  let shouldPlay = false;
   const diagnostics = { source: 'fixed-en-GB-audio', plays: [], errors: [] };
   window.__stableListeningAudioDiagnostics = diagnostics;
 
@@ -19,6 +20,7 @@
     if (typeof handler === 'function') handler(new CustomEvent(name, { detail }));
   }
   function stop() {
+    shouldPlay = false;
     if (!audio) return;
     audio.onended = null;
     audio.onerror = null;
@@ -27,6 +29,20 @@
     audio.load();
     audio = null;
     utterance = null;
+  }
+  function playCurrent(instance, retries = 0) {
+    instance.play().catch(error => {
+      if (audio !== instance || !shouldPlay) return;
+      if (error?.name === 'AbortError' && retries < 3) {
+        setTimeout(() => playCurrent(instance, retries + 1), 60);
+        return;
+      }
+      diagnostics.errors.push({ type: 'play-rejected', message: String(error) });
+      notify('error', { error: 'play-rejected' });
+      audio = null;
+      utterance = null;
+      shouldPlay = false;
+    });
   }
   function speak(next) {
     stop();
@@ -41,6 +57,7 @@
     utterance = next;
     audio = new Audio(new URL(relative, document.baseURI).href);
     const instance = audio;
+    shouldPlay = true;
     audio.preload = 'auto';
     audio.playbackRate = Math.min(1, Math.max(0.78, Number(next.rate) || 0.9));
     diagnostics.plays.push({ src: audio.src, rate: audio.playbackRate, text: next.text });
@@ -48,6 +65,7 @@
       notify('end');
       audio = null;
       utterance = null;
+      shouldPlay = false;
     };
     audio.onerror = () => {
       const src = audio?.src;
@@ -55,18 +73,20 @@
       notify('error', { error: 'audio-error', src });
       audio = null;
       utterance = null;
+      shouldPlay = false;
     };
-    audio.play().catch(error => {
-      if (audio !== instance) return;
-      if (error?.name === 'AbortError' && instance.paused) return;
-      diagnostics.errors.push({ type: 'play-rejected', message: String(error) });
-      notify('error', { error: 'play-rejected' });
-      audio = null;
-      utterance = null;
-    });
+    playCurrent(instance);
   }
-  function pause() { if (audio && !audio.paused) audio.pause(); }
-  function resume() { if (audio?.paused) audio.play().catch(error => diagnostics.errors.push({ type: 'resume-rejected', message: String(error) })); }
+  function pause() {
+    shouldPlay = false;
+    if (audio && !audio.paused) audio.pause();
+  }
+  function resume() {
+    if (!audio?.paused) return;
+    shouldPlay = true;
+    const instance = audio;
+    setTimeout(() => { if (audio === instance && shouldPlay) playCurrent(instance); }, 60);
+  }
 
   try {
     synth.speak = speak;
