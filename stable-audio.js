@@ -1,13 +1,25 @@
 (() => {
   const mapping = window.__LISTENING_AUDIO_MAP__ || {};
-  const synth = window.speechSynthesis;
-  if (!synth) return;
+  const synth = window.speechSynthesis || {};
+  if (!window.speechSynthesis) {
+    Object.defineProperty(window, 'speechSynthesis', { value: synth, configurable: true });
+  }
+  if (!window.SpeechSynthesisUtterance) {
+    window.SpeechSynthesisUtterance = class SpeechSynthesisUtterance {
+      constructor(text = '') {
+        this.text = String(text);
+        this.lang = '';
+        this.rate = 1;
+        this.pitch = 1;
+      }
+    };
+  }
 
   const native = {
-    speak: synth.speak.bind(synth),
-    cancel: synth.cancel.bind(synth),
-    pause: synth.pause.bind(synth),
-    resume: synth.resume.bind(synth),
+    speak: typeof synth.speak === 'function' ? synth.speak.bind(synth) : null,
+    cancel: typeof synth.cancel === 'function' ? synth.cancel.bind(synth) : null,
+    pause: typeof synth.pause === 'function' ? synth.pause.bind(synth) : null,
+    resume: typeof synth.resume === 'function' ? synth.resume.bind(synth) : null,
   };
   let audio = null;
   let utterance = null;
@@ -96,6 +108,6 @@
     diagnostics.overrideActive = synth.speak === speak;
   } catch (error) {
     diagnostics.errors.push({ type: 'override-failed', message: String(error) });
-    Object.assign(synth, native);
+    for (const [name, method] of Object.entries(native)) if (method) synth[name] = method;
   }
 })();
