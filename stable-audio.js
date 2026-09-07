@@ -58,6 +58,7 @@
     };
     audio.play().catch(error => {
       if (audio !== instance) return;
+      if (error?.name === 'AbortError' && instance.paused) return;
       diagnostics.errors.push({ type: 'play-rejected', message: String(error) });
       notify('error', { error: 'play-rejected' });
       audio = null;
