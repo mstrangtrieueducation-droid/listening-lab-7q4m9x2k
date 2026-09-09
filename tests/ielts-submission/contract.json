@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "kind": "fighter",
+  "publicBase": "/listening-lab-7q4m9x2k/",
+  "pages": [
+    {
+      "file": "index.html",
+      "expected": [
+        {
+          "role": "client",
+          "file": "submission-client.1608db39982c.js"
+        },
+        {
+          "role": "runtime",
+          "file": "fighter-durable.558e29889a22.js"
+        },
+        {
+          "role": "module",
+          "file": "index-58ddf8cbf506.js"
+        }
+      ],
+      "inline": []
+    }
+  ],
+  "assets": [
+    {
+      "file": "submission-client.1608db39982c.js",
+      "sha256": "1608db39982c70e90c33691bfaa88b6469122679f4c3b33dc7d67015af7f5924",
+      "requires": [
+        "enqueueListening(",
+        "subscribe(listener)",
+        "async lookup(",
+        "indexedDB.open",
+        "SUBMISSION_PAYLOAD_CHANGED",
+        "validateReceipt(payload"
+      ]
+    },
+    {
+      "file": "fighter-durable.558e29889a22.js",
+      "sha256": "558e29889a22810a0d0481d9fbfe3553a98a69d1d893b7293c81881aef6982c2",
+      "requires": [
+        "root.IELTSFighterDurable=",
+        "indexedDB.open",
+        "root.IELTSSubmission.send(",
+        "root.IELTSSubmission.subscribe?.("
+      ]
+    },
+    {
+      "file": "index-58ddf8cbf506.js",
+      "sha256": "d8725760d583864facfd563270c1b64f332ff951afcef847d9a522b5e8709daa",
+      "requires": [
+        "window.IELTSFighterDurable.prepare(",
+        "window.IELTSFighterDurable.send(",
+        "window.IELTSFighterDurable.subscribe(",
+        "window.IELTSFighterDurable.readAsync("
+      ]
+    }
+  ]
+}
