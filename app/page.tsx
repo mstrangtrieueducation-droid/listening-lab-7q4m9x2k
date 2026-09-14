@@ -2,10 +2,18 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import brandLogo from "../../work/vocabulary-reading-web-publish/ms-trang-trieu-education-logo.png";
+import {
+  generatedLevel1Academic,
+  generatedLevel1Lessons,
+  generatedLevel1Vocabulary,
+  generatedLevel2Academic,
+  generatedLevel2Lessons,
+  generatedLevel2Vocabulary,
+} from "./real-course.generated";
 
 type LessonMedia = {
   videoSrc: string; posterSrc: string; duration: number; segments: [number, number][];
-  sourceTitle: string; sourceUrl: string; credit: string;
+  sourceTitle: string; sourceUrl: string; credit: string; aspectRatio?: string;
 };
 
 type Lesson = {
@@ -282,8 +290,32 @@ const realSourceLessons: Lesson[] = [
     }
   },
   {
-    day: "REAL VOICE 01", category: "COGNITIVE SCIENCE", title: "Does bilingualism make you smarter?",
-    kicker: "A real VOA report uses research evidence and the Stroop Test to explain how bilingual brains control attention.", level: "B2+ · 4:00 · REAL HUMAN SPEECH",
+    day: "REAL VOICE 01", category: "NEUROSCIENCE & SOCIETY", title: "How does reading change the brain?",
+    kicker: "A fast-paced BBC World Service feature connects neuroscience, writing systems, screen habits and the social value of deep reading.", level: "B2+/C1 · 5:54 · NATURAL-SPEED BBC",
+    answers: ["thousands of years", "written language", "innately", "evolutionary time scale", "dedicated reading brain", "co-opt", "earliest writing systems", "sophisticated", "sounds and meanings", "all four lobes", "brain connectivity", "logographic system", "visual association", "corroborated", "remained intact", "requirements of Chinese", "anterior insula", "empathic processes", "adaptable", "passive scrolling", "susceptible to misinformation", "think critically", "attentional executive function", "hyper stimulated", "deep reading"],
+    paragraphs: [
+      "Clicking on this video activated circuits in your brain that took [1] to develop: the ones required for reading. We think of language as natural and reading is [2], so it must be natural. But it isn't. Scientific studies indicate that a neurotypical brain is born with the circuitry that allows our eyes to see and our vocal cords to produce sounds, but it doesn't [3] have the ability to read. From an [4], our brain hasn't had enough time to develop a [5]. And so, to build a reading brain network, we [6] parts of the brain involved in vision and auditory processing, language, attention and affect.",
+      "The Sumerian cuneiform symbols are thought to be one of the [7] in the world, dating back to around 3300 BC. Around the same time, Egyptians started developing their hieroglyphics. Symbols evolved over time. The more we read and wrote, the more [8] they became, becoming the letters and characters we recognise today. Scientists now know that reading activates the brain so that letters and words become associated with [9]. Reading is really a whole-brain process. It involves activation in [10] of the cortex. Developing a reading brain alters everything from brain activity to brain structure and [11].",
+      "The language we read also shapes our brain. Chinese characters, for instance, are an example of a [12]. Each object or idea is represented by a symbol rather than by a set of letters of the alphabet. Research indicates that learning logographic writing systems activates different areas of the brain than learning an alphabet-based language like English. The areas involved in visual memory and [13] do more of the work.",
+      "This theory was [14] after scientists studied a bilingual patient who knew both Chinese and English. The man suffered a massive stroke, which affected some areas of his brain, including his ability to read Chinese, but astonishingly, his proficiency in English [15]. It's a beautiful example of how the brain circuit reflects the [16], which inevitably means more visual memory and visual processing of those beautifully intricate symbols or characters. Whatever the language, reading not only impacts the brain, but it also affects us on a physical level. We might feel in our guts the nervousness or pain of a character. The [17], which is responsible for gastromotoric movement and feelings of nausea, pain and discomfort, is also the part of the brain associated with many of the [18].",
+      "The brain is very [19]. Evidence suggests that it's already changing as a result of new technologies. Reading on a phone or tablet is generally [20], often interrupted by messages and alerts. When we read on screens, we tend to skim, and when we skim, we're more [21]. We need to support individuals in being able to [22] about the things that they're reading, because our ability to analyse and think deeply about the information we're consuming is fundamental to a democracy. Some academic research even suggests that children who use cell phones from an early age perform worse in school later in life. At eight years of age, the amount of digital exposure predicted their [23] processing and academic performance.",
+      "The more digital exposure, the worse the academic outcomes. If that brain is constantly being distracted and [24], children may not be able to move from one stimulus to the next without a desire for ever quicker intervals between stimuli. They then go offline and say they're bored. It's a relatively new field of research, and some studies suggest that monitored, education-focused screen time can be beneficial to children. For parents concerned about navigating the digital world, the advice is to go back to basics: have children immersed in reading and model a reading life. The power of [25] is fundamental to our humanity. When we read deeply, we change our brains and who we are. That process of changing the minds and hearts of individuals changes society and allows us to build bigger, more beautiful futures."
+    ],
+    essay: { question: "", plan: [], language: [] },
+    media: {
+      videoSrc: "media/real-source-trials/L2-reading-brain.mp4",
+      posterSrc: "media/real-source-trials/L2-reading-brain.webp",
+      duration: 354.84,
+      segments: [[0, 49], [49, 103], [103, 152], [152, 208], [208, 268], [268, 354.84]],
+      sourceTitle: "How reading changes the way your brain works",
+      sourceUrl: "https://www.youtube.com/watch?v=X1L1Hd3xfrU",
+      credit: "BBC World Service · natural-speed narration and expert interviews",
+      aspectRatio: "16 / 9"
+    }
+  },
+  {
+    day: "REAL VOICE 02", category: "LANGUAGE & ATTENTION", title: "Does bilingualism make you smarter?",
+    kicker: "A real VOA report uses research evidence and the Stroop Test to explain how bilingual brains control attention.", level: "B1+/B2 · 4:00 · VOA REAL HUMAN SPEECH",
     answers: ["early 1950s", "scored lower on intelligence tests", "more than one language", "found the opposite", "American Association for the Advancement of Science", "does not necessarily make people smarter", "capture your attention", "monitor all of them", "controlling their attention", "Executive Control System", "most important cognitive system", "what to ignore", "measure the Executive Control System", "Stroop Test", "words in different colors", "ignore the word", "lighting up all these circuits", "a mechanism to override that", "continually practice this function", "active in their brain", "suppress one", "separate a word from its meaning", "different cultures", "four to five years later", "far behind the rest of the world"],
     paragraphs: [
       "I'm Carolyn Presutti with the VOA Special English Health Report. In the [1], researchers found that people [2] if they spoke [3]. Research in the 1960s [4]. So which is it? Researchers presented their newest studies in February at a meeting of the [5]. The latest evidence shows that being bilingual [6]. But researcher Ellen Bialystok says it probably does make you better at certain skills.",
@@ -322,7 +354,23 @@ const realSourceAcademicBridge: AcademicNote[] = [
     ]
   },
   {
-    code: "FL2-R01", style: "PARAPHRASE PRACTICE · REAL COGNITIVE SCIENCE", focus: "Track a nuanced claim, its example and its wider implications.",
+    code: "FL2-R01", style: "PARAPHRASE PRACTICE · BBC NEUROSCIENCE", focus: "Track explanations, evidence and consequences across fast narration and expert interviews.",
+    signals: ["Scientific studies indicate…", "Research indicates…", "Evidence suggests…", "Some academic research…"],
+    paraphrases: [
+      ["develop a dedicated reading brain", "develop a specialised neural system for reading", "Replace the everyday noun with a precise neuroscience phrase.", 31, 38],
+      ["co-opt parts of the brain", "repurpose existing neural regions", "Use a formal verb and a more concise technical noun phrase.", 38, 49],
+      ["alters everything from brain activity to brain structure", "changes both neural function and physical organisation", "Compress the range into two parallel academic concepts.", 131, 143],
+      ["represented by a symbol", "encoded through a single visual sign", "Change the passive verb and specify the type of representation.", 147, 157],
+      ["This theory was corroborated", "The evidence supported this explanation", "Turn the passive reporting structure into an active one.", 212, 219],
+      ["his proficiency in English remained intact", "his English reading ability was preserved", "Use a contextual synonym and a passive construction.", 223, 231],
+      ["more susceptible to misinformation", "more vulnerable to false information", "Replace the adjective and unpack the formal noun.", 343, 349],
+      ["think critically about the things that they're reading", "evaluate written information carefully", "Condense the clause into a formal verb phrase.", 349, 359],
+      ["the amount of digital exposure predicted", "screen exposure was associated with later", "Shift from a predictive verb to a cautious research relationship.", 412, 423],
+      ["immersed in reading", "deeply engaged in a reading-rich environment", "Expand the metaphor into an academic description.", 507, 518]
+    ]
+  },
+  {
+    code: "FL1-R02", style: "PARAPHRASE PRACTICE · VOA LANGUAGE REPORT", focus: "Follow an evidence-based explanation and connect an experiment to its wider implications.",
     signals: ["The latest evidence shows…", "And the answer, she says…", "The problem is that…", "This mental exercise might…"],
     paraphrases: [
       ["scored lower on intelligence tests", "achieved poorer results in intelligence testing", "Change the verb phrase and nominalise tests.", 6.4, 16.5],
@@ -353,6 +401,18 @@ const realSourceVocabulary: VocabularyNote[][] = [
     { term: "epidemiological study", meaning: "nghiên cứu dịch tễ học", note: "Research that follows health patterns across a population." }
   ],
   [
+    { term: "circuitry", meaning: "hệ thống mạch thần kinh", note: "A connected system of neural pathways that performs a function." },
+    { term: "innately", meaning: "một cách bẩm sinh", note: "Naturally present from birth rather than learned." },
+    { term: "co-opt", meaning: "tận dụng cho chức năng mới", note: "Take an existing system and use it for a new purpose." },
+    { term: "auditory processing", meaning: "xử lý thông tin thính giác", note: "The brain's interpretation of sounds and spoken information." },
+    { term: "cuneiform", meaning: "chữ hình nêm", note: "An ancient writing system made with wedge-shaped marks." },
+    { term: "cortex", meaning: "vỏ não", note: "The outer layer of the brain involved in complex thought and perception." },
+    { term: "connectivity", meaning: "khả năng kết nối thần kinh", note: "The pattern and strength of connections between brain regions." },
+    { term: "logographic", meaning: "thuộc hệ chữ biểu ý", note: "Using symbols to represent words, objects or ideas." },
+    { term: "corroborate", meaning: "xác nhận bằng thêm bằng chứng", note: "Support a claim or theory with additional evidence." },
+    { term: "susceptible", meaning: "dễ bị tác động", note: "Likely to be influenced or harmed by something." }
+  ],
+  [
     { term: "bilingual", meaning: "song ngữ", note: "Able to use two languages." },
     { term: "necessarily", meaning: "nhất thiết, tất yếu", note: "Used to say that something must be true in every case." },
     { term: "monitor", meaning: "theo dõi liên tục", note: "Watch or check something carefully over time." },
@@ -366,30 +426,53 @@ const realSourceVocabulary: VocabularyNote[][] = [
   ]
 ];
 
-const lessons = [...level1Lessons, ...level2Lessons, ...realSourceLessons];
-const academicBridge: AcademicNote[] = [...level1AcademicBridge, ...level2AcademicBridge, ...realSourceAcademicBridge];
-const lessonVocabulary = [...level1LessonVocabulary, ...level2LessonVocabulary, ...realSourceVocabulary];
+// Fighter Listening now starts with verified real-human sources. The earlier
+// synthetic practice drafts stay outside the student-facing lesson catalogue.
+const lessons: Lesson[] = [
+  realSourceLessons[0], realSourceLessons[2], ...(generatedLevel1Lessons as Lesson[]),
+  realSourceLessons[1], ...(generatedLevel2Lessons as Lesson[]),
+];
+const academicBridge: AcademicNote[] = [
+  realSourceAcademicBridge[0], realSourceAcademicBridge[2], ...(generatedLevel1Academic as AcademicNote[]),
+  realSourceAcademicBridge[1], ...(generatedLevel2Academic as AcademicNote[]),
+];
+const lessonVocabulary: VocabularyNote[][] = [
+  realSourceVocabulary[0], realSourceVocabulary[2], ...generatedLevel1Vocabulary,
+  realSourceVocabulary[1], ...generatedLevel2Vocabulary,
+];
 
 const paraphraseOrder = [6, 1, 8, 0, 7, 3, 9, 4, 2, 5];
 const fighterClasses = ["FIGHTER 5", "FIGHTER 6", "FIGHTER 7", "FIGHTER 8", "FIGHTER 9"];
 const formLessonCodes = [
-  "FL1-P01 · SCIENCE", "FL1-P02 · NEWS & COMMUNITY", "FL1-P03 · TEEN LIFE", "FL1-P04 · HUMOUR & STORYTELLING",
-  "FL2-P01 · SCIENCE", "FL2-P02 · NEWS & ANALYSIS", "FL2-P03 · SOCIAL SCIENCE", "FL2-P04 · HUMOUR & STORYTELLING",
-  "FL1-R01 · REAL SCIENCE REPORT", "FL2-R01 · REAL COGNITIVE SCIENCE"
+  ...Array.from({ length: 10 }, (_, index) => `FL1-R${String(index + 1).padStart(2, "0")} · REAL HUMAN LISTENING`),
+  ...Array.from({ length: 10 }, (_, index) => `FL2-R${String(index + 1).padStart(2, "0")} · REAL HUMAN LISTENING`),
 ];
 const formQuestionEntries = ["493387", "166904167", "1986170864", "707260550", "1338229682", "562418472", "556434685", "1080689249", "1457708675", "1877689499"];
 type AccessConfig = { level: number; week: number; lessonIndex: number };
 const weeklyAccess: Record<string, AccessConfig> = {
   "a7c9e2f4b6d1": { level: 1, week: 1, lessonIndex: 0 },
   "e3b8d1a6f9c2": { level: 1, week: 2, lessonIndex: 1 },
-  "c5f2a9d7e1b4": { level: 1, week: 3, lessonIndex: 2 },
-  "f8a1c6e3d9b2": { level: 1, week: 4, lessonIndex: 3 },
-  "8f3c1a7d9b2e": { level: 2, week: 1, lessonIndex: 4 },
-  "4d8a2f6c1e9b": { level: 2, week: 2, lessonIndex: 5 },
-  "7b1e9c3a5d8f": { level: 2, week: 3, lessonIndex: 6 },
-  "2c6f8a4e1d7b": { level: 2, week: 4, lessonIndex: 7 },
-  "r1v7k3m9q5x2": { level: 1, week: 5, lessonIndex: 8 },
-  "t8n2c6p4w9h1": { level: 2, week: 5, lessonIndex: 9 },
+  "2zmksvvwo2vl": { level: 1, week: 3, lessonIndex: 2 },
+  "2tsywa36yjcu": { level: 1, week: 4, lessonIndex: 3 },
+  "6osb7ukftc3t": { level: 1, week: 5, lessonIndex: 4 },
+  "dk1r8mj4owbg": { level: 1, week: 6, lessonIndex: 5 },
+  "5ftfjzmrrozm": { level: 1, week: 7, lessonIndex: 6 },
+  "q6nb8x9v2w2j": { level: 1, week: 8, lessonIndex: 7 },
+  "bwgjrh83btma": { level: 1, week: 9, lessonIndex: 8 },
+  "6r292cch4964": { level: 1, week: 10, lessonIndex: 9 },
+  "8f3c1a7d9b2e": { level: 2, week: 1, lessonIndex: 10 },
+  "ts2txtumw2ow": { level: 2, week: 2, lessonIndex: 11 },
+  "hpedy2gq165c": { level: 2, week: 3, lessonIndex: 12 },
+  "60juxgy64kvj": { level: 2, week: 4, lessonIndex: 13 },
+  "9zzq6o7aavjr": { level: 2, week: 5, lessonIndex: 14 },
+  "7ojte6vwom5e": { level: 2, week: 6, lessonIndex: 15 },
+  "zbe725as3s8h": { level: 2, week: 7, lessonIndex: 16 },
+  "g9x0gshmu2l9": { level: 2, week: 8, lessonIndex: 17 },
+  "lwoc5x4tv416": { level: 2, week: 9, lessonIndex: 18 },
+  "cztd3lpqg5co": { level: 2, week: 10, lessonIndex: 19 },
+  "r1v7k3m9q5x2": { level: 1, week: 1, lessonIndex: 0 },
+  "v4m8q2s7k1d6": { level: 1, week: 2, lessonIndex: 1 },
+  "t8n2c6p4w9h1": { level: 2, week: 1, lessonIndex: 10 },
 };
 
 const norm = (value: string) => value.toLowerCase().replace(/[.,’']/g, "").replace(/\s+/g, " ").trim();
@@ -597,16 +680,16 @@ export default function Home() {
 
   return <main>
     <nav><a className="brand" href="#top"><img src={typeof brandLogo === "string" ? brandLogo : brandLogo.src} alt="Ms. Trang Trieu Education"/><b>FIGHTER LISTENING</b></a><div className="nav-meta"><span>ONE DAY · ONE STORY</span><b>GRADE 8–9</b></div></nav>
-    <header id="top"><div className="eyebrow">ACADEMIC LISTENING PRACTICE · 3–4 MINUTES EACH</div><h1>One lesson.<br/><em>One clear world.</em></h1><p className="intro">Science · News & Analysis · Social Science · Humour & Storytelling. Mỗi buổi là một bài nghe độc lập với 25 cụm chính tả, ngôn ngữ học thuật, signposting và paraphrase practice.</p></header>
+    <header id="top"><div className="eyebrow">REAL-SOURCE ACADEMIC LISTENING · 4–6 MINUTES</div><h1>One lesson.<br/><em>One clear world.</em></h1><p className="intro">VOA · BBC · real presenters and expert interviews. Mỗi video là một bài nghe độc lập với 25 cụm chính tả, ngôn ngữ học thuật, signposting và paraphrase practice.</p></header>
 
-    <section className={`student-panel ${studentReady ? "ready" : ""}`} aria-label="Student information"><div><span>STUDENT CHECK-IN{accessConfig ? ` · LEVEL ${accessConfig.level} · WEEK ${accessConfig.week}` : ""}</span><h2>{!accessConfig ? "Liên kết bài học không hợp lệ." : studentReady ? `${studentName} · ${studentClass}` : "Điền đủ thông tin để mở bài nghe."}</h2></div><label>HỌ VÀ TÊN<input disabled={!accessConfig || submitted} value={studentName} onChange={e => { setStudentName(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }} placeholder="Nhập đầy đủ họ tên" /></label><label>LỚP<select disabled={!accessConfig || submitted} value={studentClass} onChange={e => { setStudentClass(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }}><option value="">— Chọn lớp FIGHTER —</option>{fighterClasses.map(name => <option value={name} key={name}>{name}</option>)}</select></label><button className="start-week" disabled={!accessConfig || !studentName.trim() || !studentClass || submitted} onClick={openLesson}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP" : studentReady ? "✓ BÀI ĐÃ MỞ" : `MỞ BÀI${accessConfig ? ` TUẦN ${accessConfig.week}` : ""} →`}</button></section>
+    <section className={`student-panel ${studentReady ? "ready" : ""}`} aria-label="Student information"><div><span>STUDENT CHECK-IN{accessConfig ? ` · LEVEL ${accessConfig.level} · VIDEO ${accessConfig.week}` : ""}</span><h2>{!accessConfig ? "Liên kết bài học không hợp lệ." : studentReady ? `${studentName} · ${studentClass}` : "Điền đủ thông tin để mở bài nghe."}</h2></div><label>HỌ VÀ TÊN<input disabled={!accessConfig || submitted} value={studentName} onChange={e => { setStudentName(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }} placeholder="Nhập đầy đủ họ tên" /></label><label>LỚP<select disabled={!accessConfig || submitted} value={studentClass} onChange={e => { setStudentClass(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }}><option value="">— Chọn lớp FIGHTER —</option>{fighterClasses.map(name => <option value={name} key={name}>{name}</option>)}</select></label><button className="start-week" disabled={!accessConfig || !studentName.trim() || !studentClass || submitted} onClick={openLesson}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP" : studentReady ? "✓ BÀI ĐÃ MỞ" : `MỞ VIDEO${accessConfig ? ` ${accessConfig.week}` : ""} →`}</button></section>
 
     {!studentReady && <section className="locked-message"><b>🔒 BÀI NGHE ĐANG KHÓA</b><p>{accessConfig ? "Học sinh cần nhập họ tên và chọn đúng lớp FIGHTER ở trên." : "Vui lòng sử dụng đúng đường link do giáo viên cung cấp."}</p></section>}
     {studentReady && <>
     <section className="lesson-hero"><div><span>{lesson.day} · {lesson.category}</span><h2>{lesson.title}</h2><p>{lesson.kicker}</p></div><strong>{lesson.answers.length}<small>GAPS</small></strong></section>
 
     {lesson.media ? <section className="real-video-player" aria-label="Real source video player">
-      <div className="video-stage">
+      <div className="video-stage" style={{ aspectRatio: lesson.media.aspectRatio || "64 / 31" }}>
         <video
           ref={videoRef}
           preload="none"
@@ -634,10 +717,10 @@ export default function Home() {
 
     <section className="worksheet"><div className="worksheet-head"><span>{lesson.media ? "VIDEO TRANSCRIPT" : "FULL DICTATION"}</span><h2>Write exactly what you hear.</h2><p>Spelling, word forms, apostrophes and numbers all matter.</p></div>{lesson.paragraphs.map((text, i) => <article key={i}><div className="part-label"><b>{lesson.media ? `TRANSCRIPT · ${String(i + 1).padStart(2, "0")}` : `PART ${i + 1}`}</b>{!lesson.media && <button onClick={() => chooseSegment(String(i))}>▶ PLAY PART {i + 1}</button>}</div><p>{renderText(text)}</p></article>)}</section>
 
-    <section className="finish"><div><span>{listeningFilled}/25 COMPLETED</span><h2>Complete all 25 listening answers.</h2><p>{listeningComplete ? "Phần nghe đã hoàn thành. Tiếp tục làm đủ 10 câu paraphrase rồi nộp bài một lần ở cuối trang." : "Điền đủ 25 ô để hoàn thành phần nghe."}</p></div><button disabled>{listeningComplete ? "LISTENING COMPLETE ✓" : `COMPLETE ${25 - listeningFilled} MORE`} <b>→</b></button></section>
+    <section className="finish"><div><span>{listeningFilled}/25 COMPLETED</span><h2>Complete all 25 listening answers.</h2><p>{listeningComplete ? "Phần nghe đã hoàn thành. Tiếp tục làm đủ 10 câu paraphrase rồi nộp bài một lần ở cuối trang." : "Điền đủ 25 ô để hoàn thành phần nghe."}</p></div></section>
     {submitted && <section className="results" aria-live="polite"><div className="score">{score}<small>/25</small></div><div><span>LISTENING SCORE · FINAL</span><h2>{score === 25 ? "Flawless listening." : score >= 20 ? "Strong work, fighter." : "Review. Notice. Learn."}</h2><p>Điểm đã được khóa. Các câu sai hiện đáp án chính xác để học sinh nghe lại và tự chữa bài.</p></div></section>}
     {submitted && lesson.media && <section className="transcript-review"><div><span>FULL TRANSCRIPT · AFTER SUBMISSION</span><h2>Read, replay and notice.</h2><p>Transcript đầy đủ chỉ mở sau khi học sinh đã nộp bài.</p></div>{lesson.paragraphs.map((_, index) => <p key={index}><b>{String(index + 1).padStart(2, "0")}</b>{fillScript(lesson, index)}</p>)}</section>}
-    {submitted && <section className="vocabulary-review"><div className="vocabulary-heading"><span>VOCABULARY REVIEW · LEVEL {accessConfig?.level} · WEEK {accessConfig?.week}</span><h2>Understand the answer, not only the spelling.</h2><p>Các từ và cụm từ đáng học trong bài nghe tuần này.</p></div><div className="vocabulary-grid">{lessonVocabulary[lessonIndex].map(item => <article key={item.term}><h3>{item.term}</h3><b>{item.meaning}</b><p>{item.note}</p></article>)}</div></section>}
+    {submitted && <section className="vocabulary-review"><div className="vocabulary-heading"><span>VOCABULARY REVIEW · LEVEL {accessConfig?.level} · VIDEO {accessConfig?.week}</span><h2>Understand the answer, not only the spelling.</h2><p>Các từ và cụm từ đáng học trong bài nghe này.</p></div><div className="vocabulary-grid">{lessonVocabulary[lessonIndex].map(item => <article key={item.term}><h3>{item.term}</h3><b>{item.meaning}</b><p>{item.note}</p></article>)}</div></section>}
 
     <section className="academic"><div className="academic-number">02</div><div className="academic-main"><span>PARAPHRASE PRACTICE · {academicBridge[lessonIndex].code}</span><h2>Same idea, different words.</h2><div className="academic-banner"><b>{academicBridge[lessonIndex].style}</b><p>{academicBridge[lessonIndex].focus}</p></div><div className="practice-steps"><span><b>1</b> HEAR & LOCATE</span><span><b>2</b> MATCH A–J</span><span><b>3</b> ONE SCORE / ATTEMPT</span></div><div className="match-bank"><h3>MEANING BANK · A–J</h3><div>{paraphraseOrder.map((sourceIndex, bankIndex) => <p key={sourceIndex}><b>{String.fromCharCode(65 + bankIndex)}</b>{academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</p>)}</div></div><div className="matching-grid">{academicBridge[lessonIndex].paraphrases.map((pair, question) => { const correctChoice = paraphraseOrder.indexOf(question); const isCorrect = paraChoices[question] === correctChoice; return <article className={submitted ? isCorrect ? "match-correct" : "match-wrong" : ""} key={pair[0]}><span className="match-number">{String(question + 1).padStart(2, "0")}</span><div className="match-source"><small>PHRASE FROM THE LISTENING</small><h3>{pair[0]}</h3>{submitted && <div className="technique"><b>HOW IT CHANGED</b>{pair[2]}</div>}</div><button className="hear-small" onClick={() => speakPhrase(pair[0], pair[3], pair[4])}>▶ HEAR</button><label><span>MATCH</span><select disabled={submitted} aria-label={`Match phrase ${question + 1}`} value={paraChoices[question]} onChange={e => { const next = [...paraChoices]; next[question] = Number(e.target.value); setParaChoices(next); }}><option value={-1}>— Chọn đáp án —</option>{paraphraseOrder.map((sourceIndex, bankIndex) => <option value={bankIndex} key={bankIndex}>{String.fromCharCode(65 + bankIndex)} · {academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</option>)}</select></label></article>})}</div><div className="para-check"><button disabled={submitted || !listeningComplete || !paraphraseComplete || recordStatus === "saving"} onClick={submitAttempt}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP · ĐIỂM ĐÃ KHÓA" : recordStatus === "saving" ? "ĐANG GHI ĐIỂM…" : "NỘP BÀI & XEM ĐÁP ÁN →"}</button>{submitted && <strong>{paraScore}/10 CORRECT</strong>}<span className="record-note">{recordStatus === "saved" ? "✓ Điểm lượt này đã được ghi tự động." : recordStatus === "error" ? "Bài đã được giữ lại và hệ thống đang tự gửi lại điểm." : submitted ? "Đang ghi điểm tự động…" : !listeningComplete || !paraphraseComplete ? "Hoàn thành đủ 25 câu nghe và 10 câu paraphrase để nộp." : "Mỗi lượt làm chỉ được nộp một lần."}</span></div>{submitted && <div className="combined-score" aria-live="polite"><div><span>LISTENING · LƯỢT NÀY</span><b>{score}<small>/25</small></b></div><div><span>PARAPHRASE · LƯỢT NÀY</span><b>{paraScore}<small>/10</small></b></div><div className="total"><span>TOTAL · LƯỢT NÀY</span><b>{score + paraScore}<small>/35</small></b></div><p>Muốn làm lượt mới, hãy thoát hẳn trang rồi mở lại đường link bài tập.</p></div>}<div className="signal-strip"><h3>Structure signals from this talk</h3>{academicBridge[lessonIndex].signals.map((x, i) => <span key={x}><b>0{i + 1}</b>{x}</span>)}</div></div></section>
 
