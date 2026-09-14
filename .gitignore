@@ -38,3 +38,7 @@ yarn-error.log*
 /.wrangler/
 /outputs/
 /work/
+/source-media-work/
+/tsconfig.tsbuildinfo
+/pnpm-lock.yaml
+/pnpm-workspace.yaml
