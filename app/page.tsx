@@ -280,7 +280,7 @@ const realSourceLessons: Lesson[] = [
     ],
     essay: { question: "", plan: [], language: [] },
     media: {
-      videoSrc: "media/real-source-trials/L1-mobile-brain.mp4",
+      videoSrc: "https://drive.usercontent.google.com/download?id=1EmP1G3R7kbdkoYt0xEZo7QbwuJfrjNHf&export=download&confirm=t",
       posterSrc: "media/real-source-trials/L1-mobile-brain.webp",
       duration: 238.63,
       segments: [[0, 36.8], [36.8, 88.9], [88.9, 163.1], [163.1, 238.63]],
@@ -303,7 +303,7 @@ const realSourceLessons: Lesson[] = [
     ],
     essay: { question: "", plan: [], language: [] },
     media: {
-      videoSrc: "media/real-source-trials/L2-reading-brain.mp4",
+      videoSrc: "https://drive.usercontent.google.com/download?id=1kNWVm5cdOUl9No4sCvy-J2odfj2Jy6bZ&export=download&confirm=t",
       posterSrc: "media/real-source-trials/L2-reading-brain.webp",
       duration: 354.84,
       segments: [[0, 49], [49, 103], [103, 152], [152, 208], [208, 268], [268, 354.84]],
@@ -325,7 +325,7 @@ const realSourceLessons: Lesson[] = [
     ],
     essay: { question: "", plan: [], language: [] },
     media: {
-      videoSrc: "media/real-source-trials/L2-bilingual-brain.mp4",
+      videoSrc: "https://drive.usercontent.google.com/download?id=1F3eSoQ_XaobATkI1kmz3mOf3uACSyL2L&export=download&confirm=t",
       posterSrc: "media/real-source-trials/L2-bilingual-brain.webp",
       duration: 239.93,
       segments: [[0, 52.4], [52.4, 107.2], [107.2, 166.8], [166.8, 239.93]],

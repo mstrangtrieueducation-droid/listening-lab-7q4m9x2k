@@ -47,7 +47,7 @@ export const generatedLevel1Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L1-03-water.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=10PquQmKw4nJupeSMm62BrfaDEyVMZGyA&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L1-03-water.webp",
       "duration": 292.0,
       "segments": [
@@ -124,7 +124,7 @@ export const generatedLevel1Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L1-04-sleep.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1P4vvYzkhm5-YZI-iCbjis9qhpFSPX-4U&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L1-04-sleep.webp",
       "duration": 345.0,
       "segments": [
@@ -201,7 +201,7 @@ export const generatedLevel1Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L1-05-stress-brain.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1oY88jQN-pj9DENIi7fQ97MPnEYl64RMb&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L1-05-stress-brain.webp",
       "duration": 256.0,
       "segments": [
@@ -278,7 +278,7 @@ export const generatedLevel1Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L1-06-vitamins.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1q0MUNyIAP8eP7gz25bOkhUxsJeTM-27e&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L1-06-vitamins.webp",
       "duration": 284.0,
       "segments": [
@@ -355,7 +355,7 @@ export const generatedLevel1Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L1-07-immune-system.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1HBfEDlVOFwvZi5gTzF8iQ5NbhRg7gH9i&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L1-07-immune-system.webp",
       "duration": 323.0,
       "segments": [
@@ -432,7 +432,7 @@ export const generatedLevel1Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L1-08-biodiversity.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1DQF4ppZiqjpQie0P5pNE8fxJULPV-UzY&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L1-08-biodiversity.webp",
       "duration": 259.0,
       "segments": [
@@ -509,7 +509,7 @@ export const generatedLevel1Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L1-09-miscommunication.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1ZVeS0Tqbqf-U0dvf3zoivAoXZjMR5Zm_&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L1-09-miscommunication.webp",
       "duration": 273.0,
       "segments": [
@@ -586,7 +586,7 @@ export const generatedLevel1Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L1-10-critical-thinking.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1TmjPnRF3g4-ylfqR8eRwy_cx9IG5sNNu&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L1-10-critical-thinking.webp",
       "duration": 270.0,
       "segments": [
@@ -1752,7 +1752,7 @@ export const generatedLevel2Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L2-02-chaos.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1dyZqOw8FRN65u3ekfARvQBoCatPancC_&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L2-02-chaos.webp",
       "duration": 310.0,
       "segments": [
@@ -1829,7 +1829,7 @@ export const generatedLevel2Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L2-03-epigenetics.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1tQxey8-zobZGzm9A1FPaRBvRflpcngMq&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L2-03-epigenetics.webp",
       "duration": 343.0,
       "segments": [
@@ -1906,7 +1906,7 @@ export const generatedLevel2Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L2-04-evolution.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1o-MFAkePHwwRYPbNid6SSX0OVv_7n-ex&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L2-04-evolution.webp",
       "duration": 323.0,
       "segments": [
@@ -1983,7 +1983,7 @@ export const generatedLevel2Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L2-05-bayesian.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1b1wAYm6yZdXqJxDsRWgkWyA2T8jchiSo&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L2-05-bayesian.webp",
       "duration": 295.0,
       "segments": [
@@ -2060,7 +2060,7 @@ export const generatedLevel2Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L2-06-errors-science.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1qW9lKXdJLGyl3F4MvQReWyGlDfEJnxoF&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L2-06-errors-science.webp",
       "duration": 293.0,
       "segments": [
@@ -2137,7 +2137,7 @@ export const generatedLevel2Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L2-07-dancing-brain.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1qCbQLXKWGKrrtpx1DdEE8oeEz4Uqb6hq&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L2-07-dancing-brain.webp",
       "duration": 453.0,
       "segments": [
@@ -2214,7 +2214,7 @@ export const generatedLevel2Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L2-08-perception.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1mxz07E-uT-k96SymvwCKc8u1ScAFrgUJ&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L2-08-perception.webp",
       "duration": 361.0,
       "segments": [
@@ -2291,7 +2291,7 @@ export const generatedLevel2Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L2-09-charts.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1iwmBQUMj2IUa_V1ue7JTKWLYnFA8qxUC&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L2-09-charts.webp",
       "duration": 362.0,
       "segments": [
@@ -2368,7 +2368,7 @@ export const generatedLevel2Lessons = [
       "language": []
     },
     "media": {
-      "videoSrc": "media/real-source-trials/L2-10-genes-behaviour.mp4",
+      "videoSrc": "https://drive.usercontent.google.com/download?id=1Ik80DKylXZdsLIn9rdYokwgYysmKAMtO&export=download&confirm=t",
       "posterSrc": "media/real-source-trials/L2-10-genes-behaviour.webp",
       "duration": 362.0,
       "segments": [
