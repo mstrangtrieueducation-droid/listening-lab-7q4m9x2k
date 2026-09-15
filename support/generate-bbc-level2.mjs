@@ -40,6 +40,9 @@ function cleanTranscript(html) {
     return !/worksheet|our website|bbclearningenglish|transcript of this episode|subscribe|six minutes are up|bye for now|goodbye|test what you(?:'|’)ve learned|hello and welcome|let's recap the vocabulary|link in the notes below/i.test(sentence);
   });
   return sentences.join(" ")
+    .replace(/\bNext\s+Find an A-Z list of our programmes[\s\S]*$/i, "")
+    .replace(/\bTo learn English from news headlines[\s\S]*$/i, "")
+    .replace(/\bPractise your reading skills with The Reading Room[\s\S]*$/i, "")
     .replace(/BBC Radio 4 programme\s+[A-Z][A-Za-z ]+/g, "a radio programme")
     .replace(/BBC World Service/g, "the programme")
     .replace(/BBC Learning English/g, "the programme")

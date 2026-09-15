@@ -105,26 +105,27 @@ export const bbcLevel2ExtraLessons = [
     "kicker": "A focused discussion with real presenters, research evidence and expert viewpoints.",
     "level": "B2+/C1 · 6:36 · SEPT 2026",
     "answers": [
-      "words and expressions used in a new",
-      "language we use to talk about them",
-      "show notes for this podcast",
-      "Sarah Keith-Lucas That’s a great question, Phil",
+      "us understand what's happening with extreme weather",
+      "programme videos all about weather and climate",
+      "webpage, or in the show notes for",
+      "what’s the difference between climate and weather",
       "see and feel every day",
-      "term can be seen in the weather",
-      "Sarah, it’s traditional for us to set",
+      "Today I’ll explain how a change in",
+      "learning some key vocabulary to talk about",
       "much has Earth's temperature increased since 1970",
-      "Around 2C Phil I don't know",
-      "listen to the end to find out",
-      "mean by 'tropical storms', Sarah",
-      "rotating storm systems formed over warm tropical",
+      "c) Around 2C Phil I don't",
+      "Sarah Keith-Lucas I'll give the answer at",
+      "we're going to talk about tropical storms",
+      "They're large rotating storm systems formed over",
       "same, we just use different names depending",
-      "Ocean and Typhoons in the West Pacific",
+      "Hurricanes are found in the Atlantic, Cyclones",
+      "world warms, climate scientists think that these",
       "weather videos, meteorologist Darren Bett tells us",
       "Darren Bett Scientists also think storms are",
       "moving across as quickly, and that means",
-      "stronger for longer, and the rain will",
-      "likelihood of flooding and landslides and also",
-      "storm moves more slowly, there will be",
+      "rain will last for longer producing more",
+      "Phil Darren said that if a storm",
+      "Likelihood is the noun that we use",
       "Darren also told us about landslides and",
       "large amount of earth or rock moves",
       "things can happen after particularly heavy rain",
@@ -134,25 +135,24 @@ export const bbcLevel2ExtraLessons = [
       "gets swept inland and produces widespread flooding",
       "potentially could mean that a storm surge",
       "other, those storm surges could become even",
-      "used to talk about people killed or",
+      "word casualty , and this is used to",
       "Sarah Keith-Lucas Darren talked about storm surges",
       "sea level rises quickly pushed by the",
       "storm surges can be up to 10",
-      "Phil We heard about the storm sweeping",
-      "quiz question you asked earlier",
+      "get destroyed, people can drown",
+      "sweeping in is moving quickly and powerfully",
       "world's average temperature increased since 1970",
       "Sarah Keith-Lucas It's actually around one degree",
-      "Arctic that's warming 3 times faster than",
-      "small increase in average temperature can lead",
-      "increase in extreme events such as heatwaves"
+      "places are warming much quicker than",
+      "Arctic that's warming 3 times faster than"
     ],
     "paragraphs": [
-      "Hello, this is this programme from the programme. It seems that we're hearing about more and more terrible weather, but how exactly is climate change affecting extreme weather? I'm lucky today to be joined by the programme Weather forecaster, meteorologist and presenter, Sarah Keith-Lucas. Sarah Keith-Lucas Hi Phil. It's great to be here. Phil Sarah's here to help us understand what's happening with extreme weather. She'll also help explain some of the [1] series of the programme videos all about weather and climate and the [2]. You can find the link to them on our webpage, or in the [3]. Sarah, let’s start with a really important question: what’s the difference between climate and weather?",
-      "[4]. The weather is what you [5]. Climate is more long-term. Today I’ll explain how a change in the climate over the long [6]. Phil As always, we will also be learning some key vocabulary to talk about the topic. And, [7] a quiz question. Have you got one for us? Sarah Keith-Lucas Yes, I have! By how [8]. 5C b) Around 1C c) [9], about 2 degrees? Sarah Keith-Lucas I'll give the answer at the end of the programme, so [10]. Phil Now, we're going to talk about tropical storms. What do we [11]? Sarah Well, those are hurricanes, cyclones and typhoons. They're large [12] waters. These are actually the [13] on where in the world they form.",
-      "Hurricanes are found in the Atlantic, Cyclones in the Indian [14]. As the world warms, climate scientists think that these storms will get more destructive. Phil In one of our new Learning English for [15] about another worrying change. [16] slowing down. They're not [17] if a storm is in the same area for longer, the winds will be [18] last for longer producing more flooding and more [19] mudslides . Phil Darren said that if a [20] more likelihood of flooding. Likelihood is the noun that we use to say how probable, or how likely something is to happen. [21] mudslides . Sarah Keith-Lucas Yes, landslides are where a [22] down a slope quickly.",
-      "Mudslides tend to be faster and more liquid. Both of these [23] and can cause damage to buildings. People can also be killed or injured by them. [24] in a hurricane, typhoon or cyclone? [25] very dangerous is a storm surge. Let's [26]. Darren Bett Storm surge , that's that body of water that [27]. Climate change is warming our seas, and the sea levels are rising. That [28] which is one element of a storm that produces more casualties than any [29] more dangerous. Phil So, we had the word casualty , and this is [30] injured by an accident, a military attack, or in this case an extreme weather event. [31] . A storm surge is where the [32] strong winds caused by a storm.",
-      "This water comes onto land with an enormous amount lot of force, and [33] metres high. Buildings get destroyed, people can drown. [34] inland. Something sweeping in is moving quickly and powerfully. Sarah, how about the answer to the [35]? Sarah Keith-Lucas OK, Phil. So, I asked by how much has the [36]. Phil And I thought that it was around two celsius. [37] celsius. 1C is just an average across all of earth's land and ocean surface. Some places are warming much quicker than this such as the [38] the average rate. Just a [39] to a much bigger [40], wildfires and floods. Phil Oh wow, so that is an important difference.",
-      "Sarah Keith-Lucas Landslides and mudslides which can occur after heavy rainfall make earth or mud move downhill very fast. Phil A storm surge is a sudden rise in the sea level, that can move inland causing destruction. Sarah Keith-Lucas If something sweeps in, it moves in very fast and very powerfully. Phil And finally, a casualty is someone who is injured or killed by an accident, attack, or something like an extreme weather event. Phil Thank for joining us today, Sarah! Next Find an A-Z list of our programmes . To learn English from news headlines, listen to Learning English from the News . Practise your reading skills with The Reading Room ."
+      "Hello, this is this programme from the programme. It seems that we're hearing about more and more terrible weather, but how exactly is climate change affecting extreme weather? I'm lucky today to be joined by the programme Weather forecaster, meteorologist and presenter, Sarah Keith-Lucas. Sarah Keith-Lucas Hi Phil. It's great to be here. Phil Sarah's here to help [1]. She'll also help explain some of the words and expressions used in a new series of the [2] and the language we use to talk about them. You can find the link to them on our [3] this podcast. Sarah, let’s start with a really important question: [4]? Sarah Keith-Lucas That’s a great question, Phil.",
+      "The weather is what you [5]. Climate is more long-term. [6] the climate over the long term can be seen in the weather. Phil As always, we will also be [7] the topic. And, Sarah, it’s traditional for us to set a quiz question. Have you got one for us? Sarah Keith-Lucas Yes, I have! By how [8]. 5C b) Around 1C [9] know, about 2 degrees? [10] the end of the programme, so listen to the end to find out. Phil Now, [11]. What do we mean by 'tropical storms', Sarah? Sarah Well, those are hurricanes, cyclones and typhoons. [12] warm tropical waters. These are actually the [13] on where in the world they form.",
+      "[14] in the Indian Ocean and Typhoons in the West Pacific. As the [15] storms will get more destructive. Phil In one of our new Learning English for [16] about another worrying change. [17] slowing down. They're not [18] if a storm is in the same area for longer, the winds will be stronger for longer, and the [19] flooding and more likelihood of flooding and landslides and also mudslides . [20] moves more slowly, there will be more likelihood of flooding. [21] to say how probable, or how likely something is to happen. [22] mudslides . Sarah Keith-Lucas Yes, landslides are where a [23] down a slope quickly.",
+      "Mudslides tend to be faster and more liquid. Both of these [24] and can cause damage to buildings. People can also be killed or injured by them. [25] in a hurricane, typhoon or cyclone? [26] very dangerous is a storm surge. Let's [27]. Darren Bett Storm surge , that's that body of water that [28]. Climate change is warming our seas, and the sea levels are rising. That [29] which is one element of a storm that produces more casualties than any [30] more dangerous. Phil So, we had the [31] talk about people killed or injured by an accident, a military attack, or in this case an extreme weather event.",
+      "[32] . A storm surge is where the [33] strong winds caused by a storm. This water comes onto land with an enormous amount lot of force, and [34] metres high. Buildings [35]. Phil We heard about the storm sweeping inland. Something [36]. Sarah, how about the answer to the quiz question you asked earlier? Sarah Keith-Lucas OK, Phil. So, I asked by how much has the [37]. Phil And I thought that it was around two celsius. [38] celsius. 1C is just an average across all of earth's land and ocean surface. Some [39] this such as the [40] the average rate. Just a small increase in average temperature can lead to a much bigger increase in extreme events such as heatwaves, wildfires and floods.",
+      "Phil Oh wow, so that is an important difference. Sarah Keith-Lucas Landslides and mudslides which can occur after heavy rainfall make earth or mud move downhill very fast. Phil A storm surge is a sudden rise in the sea level, that can move inland causing destruction. Sarah Keith-Lucas If something sweeps in, it moves in very fast and very powerfully. Phil And finally, a casualty is someone who is injured or killed by an accident, attack, or something like an extreme weather event. Phil Thank for joining us today, Sarah!"
     ],
     "essay": {
       "question": "",
@@ -890,26 +890,27 @@ export const bbcLevel2ExtraLessons = [
     "level": "B2+/C1 · 6:13 · JUL 2026",
     "answers": [
       "long history of cycling and another where",
-      "learning some useful new words and phrases",
+      "usual, we'll be learning some useful new",
+      "country that's world famous for its bikes",
       "Netherlands' cycle network spreads over 95,000 miles",
-      "bikes in the country than its 18",
+      "country than its 18 million citizens",
       "20 million, b) 24 million, or c",
       "I'm going to say c) 34 million",
-      "correct answer later in the programme",
-      "Glaser, CEO of Amsterdam's Urban Cycling Institute",
-      "Inquiry more about Dutch people's love of",
+      "Netherlands, let's hear from Meredith Glaser, CEO",
+      "Meredith tells the programme programme The Inquiry",
+      "bicycle is deeply ingrained into Dutch culture",
       "industrial era, when bicycle manufacturing took off",
-      "toy for rich people to an everyday",
-      "important milestone for cycling in the Netherlands",
-      "Deeply ingrained are two words that go",
+      "people to an everyday tool for transportation",
+      "Cycling is deeply ingrained into Dutch culture",
+      "together commonly, and it means something that's",
       "During the 1890s, bike manufacturing took",
       "phrasal verb meaning to suddenly become popular",
-      "brands became symbols of a new, comfortable",
-      "factories made bikes cheaper to buy",
-      "important event in someone's life or in",
+      "became symbols of a new, comfortable style",
+      "milestone for cycling in the Netherlands",
       "second destination is better known for cars",
+      "United Arab Emirates or UAE",
       "explore tourist attractions in cities like Dubai",
-      "consultant Martin Tillman, who lives in the",
+      "Tillman, who lives in the Gulf region",
       "quality of life and liveability",
       "ranked very high in those global rankings",
       "Gulf cities like Dubai want a reputation",
@@ -921,22 +922,21 @@ export const bbcLevel2ExtraLessons = [
       "course, there are big differences between the",
       "Dubai regularly hits 45 C",
       "Dubai is studying countries like the Netherlands",
-      "paste of what is good in Holland",
+      "It's certainly not a copy and paste",
       "Cycling in UAE isn't a copy and",
-      "mean an exact copy of something, which",
-      "measures, including water stations and shaded rest",
-      "Cycling isn't the perfect solution for everyone",
-      "places, it can be a popular and",
-      "reminds me of your question, Becca",
-      "There are certainly a lot of bikes"
+      "phrase a copy and paste to mean",
+      "Dubai can't simply copy the Netherlands, and",
+      "including water stations and shaded rest areas",
+      "isn't the perfect solution for everyone, everywhere",
+      "reminds me of your question, Becca"
     ],
     "paragraphs": [
-      "Hello, this is this programme from the programme. Cycling is a popular activity in Britain. This year, sales of bicycles, or bikes as they're usually called, are up in Britain. Many people choose cycling because it's good for their health and the environment. And electric bikes are making cycling accessible to more people, including older people. In this episode, we'll visit two countries: one with a [1] it's just getting started. And as usual, we'll be [2]. But first, Neil, I have a question about a country that's world famous for its bikes: the Netherlands, also often referred to as Holland.",
-      "The [3], and there are more [4] million citizens. So, roughly speaking, how many bikes are there in the Netherlands? Is it: a) [5]) 34 million? Well, [6]. Well, we'll reveal the [7]. Staying in the Netherlands, let's hear from Meredith [8]. Here, Meredith tells the programme programme The [9] cycling. The bicycle is deeply ingrained into Dutch culture. But the rise of cycling started in the [10] . And it went from a [11] tool for transportation, and this was a really [12]. Cycling is deeply ingrained into Dutch culture. [13] together commonly, and it means something that's firmly established within a person or culture, and unlikely to change.",
-      "[14] off in the Netherlands. Take off is a [15] or successful. Certain [16] style of bike. New [17]. This was a milestone for cycling in the Netherlands. A milestone is an [18] the development of something. Our [19] than bicycles: the United Arab Emirates or UAE. UAE is hoping cycling could be a greener way for visitors to [20] and Abu Dhabi. Transport [21] Gulf region, explained more to the programme programme The Inquiry. We also have [22] . All the cities in the Gulf are very competitive, and they would love to be [23], and cycling is seen as part of that quality-of-life solution.",
-      "[24] as places with a good quality of life . The [25] level of enjoyment, comfort and [26]. It's a measure of a person's overall wellbeing. [27] – the degree to which somewhere is a pleasant place to live. Cycling is good for mental as well as physical health, and [28]km of cycle tracks [29] attractive to live in. Of [30] Netherlands and UAE – the temperature for one, which in [31]. Martin told the programme's The Inquiry that [32] not to copy them, but to discover what works. It's certainly not a copy and [33] or Denmark, but the key is that we're looking for the principles.",
-      "[34] paste of cycling in Holland. Martin uses the phrase a copy and paste to [35] is moved and put somewhere else. Dubai can't simply copy the Netherlands, and a range of [36] areas, have been created for cycling in the heat. [37], everywhere. But in some [38] green alternative. Yes, just look at the Netherlands. And that [39]. I asked you roughly how many bikes are there in the Netherlands? [40] in the Netherlands. However, there are only roughly 24 million bikes. That's still quite a lot! If something takes off , it suddenly becomes popular or successful.",
-      "A milestone is an important event in the development of something or someone. Quality of life describes a person's wellbeing in terms of their level of enjoyment, comfort, and health. The noun liveability means the degree to which a place is pleasant to live in. And finally, a copy and paste is an exact copy of something, which is then moved and put somewhere else. Next Find an A-Z list of our programmes . Learn more about jargon in this Business jargon podcast series. Practise your reading skills with The Reading Room ."
+      "Hello, this is this programme from the programme. Cycling is a popular activity in Britain. This year, sales of bicycles, or bikes as they're usually called, are up in Britain. Many people choose cycling because it's good for their health and the environment. And electric bikes are making cycling accessible to more people, including older people. In this episode, we'll visit two countries: one with a [1] it's just getting started. And as [2] words and phrases. But first, Neil, I have a question about a [3]: the Netherlands, also often referred to as Holland.",
+      "The [4], and there are more bikes in the [5]. So, roughly speaking, how many bikes are there in the Netherlands? Is it: a) [6]) 34 million? Well, [7]. Well, we'll reveal the correct answer later in the programme. Staying in the [8] of Amsterdam's Urban Cycling Institute. Here, [9] more about Dutch people's love of cycling. The [10]. But the rise of cycling started in the [11] . And it went from a toy for rich [12], and this was a really important milestone for cycling in the Netherlands. [13]. Deeply ingrained are two words that go [14] firmly established within a person or culture, and unlikely to change.",
+      "[15] off in the Netherlands. Take off is a [16] or successful. Certain brands [17] of bike. New factories made bikes cheaper to buy. This was a [18]. A milestone is an important event in someone's life or in the development of something. Our [19] than bicycles: the [20]. UAE is hoping cycling could be a greener way for visitors to [21] and Abu Dhabi. Transport consultant Martin [22], explained more to the programme programme The Inquiry. We also have [23] . All the cities in the Gulf are very competitive, and they would love to be [24], and cycling is seen as part of that quality-of-life solution.",
+      "[25] as places with a good quality of life . The [26] level of enjoyment, comfort and [27]. It's a measure of a person's overall wellbeing. [28] – the degree to which somewhere is a pleasant place to live. Cycling is good for mental as well as physical health, and [29]km of cycle tracks [30] attractive to live in. Of [31] Netherlands and UAE – the temperature for one, which in [32]. Martin told the programme's The Inquiry that [33] not to copy them, but to discover what works.",
+      "[34] of what is good in Holland or Denmark, but the key is that we're looking for the principles. [35] paste of cycling in Holland. Martin uses the [36] an exact copy of something, which is moved and put somewhere else. [37] a range of measures, [38], have been created for cycling in the heat. Cycling [39]. But in some places, it can be a popular and green alternative. Yes, just look at the Netherlands. And that [40]. I asked you roughly how many bikes are there in the Netherlands? There are certainly a lot of bikes in the Netherlands.",
+      "However, there are only roughly 24 million bikes. That's still quite a lot! If something takes off , it suddenly becomes popular or successful. A milestone is an important event in the development of something or someone. Quality of life describes a person's wellbeing in terms of their level of enjoyment, comfort, and health. The noun liveability means the degree to which a place is pleasant to live in. And finally, a copy and paste is an exact copy of something, which is then moved and put somewhere else."
     ],
     "essay": {
       "question": "",
@@ -987,15 +987,15 @@ export const bbcLevel2ExtraLessons = [
     "kicker": "A focused discussion with real presenters, research evidence and expert viewpoints.",
     "level": "B2+/C1 · 6:34 · JUL 2026",
     "answers": [
-      "without a simple greeting like 'hi",
-      "effect of putting her immediately on the",
+      "name and without a simple greeting like",
+      "always has the effect of putting her",
       "here, who recently received a single emoji",
       "listener doesn't like emails which start with",
-      "phrase to put someone on the defensive",
-      "something which makes them feel threatened or",
-      "email was answered with a single emoji",
-      "emails are examples of people being uncivil",
-      "note, the noun that goes with this",
+      "put her on the defensive",
+      "say something which makes them feel threatened",
+      "listener found it rude when their email",
+      "think that would annoy me too",
+      "uncivil – an adjective meaning rude or impolite",
       "Last year, thousands of US government workers",
       "justify their job by listing five things",
       "Donald Trump, b) JD Vance, or c",
@@ -1010,31 +1010,31 @@ export const bbcLevel2ExtraLessons = [
       "They're just trying to get it off",
       "make us belittle someone – make them feel",
       "example, a boss sends a group email",
+      "someone else the credit for the work",
       "place – an idiom meaning to show someone",
       "flight response, meanwhile, can be seen when",
       "message or give a quick, unhelpful reply",
       "get work off their plate – another idiom",
-      "give them to someone else to deal",
+      "own workload and give them to someone",
       "deadline it's hard to make sure all",
       "Emma Russell said when she spoke to",
       "Because we're operating in these environments where",
+      "risk of engaging in incivility",
       "we're frazzled – an informal adjective describing feeling",
       "because you're doing too many things at",
       "feel angry when writing an email, pause",
-      "save your friendship or even your job",
-      "politely ask you to please reveal the",
+      "Becca, I'm going to politely ask you",
       "sent the email requiring workers to justify",
       "thought it might have been JD Vance",
-      "correct answer was Elon Musk",
-      "belittle someone means to make them feel"
+      "going to fire you, Phil, but you"
     ],
     "paragraphs": [
-      "Hello, this is this programme from the programme. Sending emails is a big part of modern work, and most people try to write emails politely. Recently, a radio programme. Here, presenter Claudia Hammond and guest Pete Olusoga discuss what listeners had to say: Rachel in Manchester says what annoys her is people who start their emails with just your name and [1]'. She says the unnecessary formality always has the [2] defensive . We've got an anonymous one [3] in response to a carefully considered and worded email.",
-      "One [4] just her name because they put her on the defensive . The [5] means to do or say [6] unsure. Another listener found it rude when their [7], and I think that would annoy me too. These [8] – an adjective meaning rude or impolite. And just to [9] is incivility . But first, I have a question for you, Phil. [10] received an email requiring them to [11] they had accomplished that week… or resign. But who sent this email? Was it: a) [12]) Elon Musk? Ooh, I don't know... [13]. Now, according to some [14] a fight-or-flight response humans feel when stressed.",
-      "[15] responses for a radio programme's All in the Mind. So, a [16] to dominate or belittle other people. Emails that are hostile in [17] personnel in on the [18] and put someone in their place . Then the [19] protect themselves by withdrawing or avoiding. They [20], maybe they don't answer all of the points in the email. [21] their plate . The fight response can [22] inferior or unimportant. For [23] in which they give someone else the credit for the work you did.",
-      "The boss wants to put you in your [24] that they are less important than they think they are. The [25] co-workers ignore your [26]. Such colleagues want to [27], meaning to remove tasks from your own workload and [28] with. Unfortunately, when stressed and working to a [29] your emails are polite. That's what [30] a radio programme's All in the Mind. [31] we are all quite frazzled , we are more at risk of engaging in incivility . We're more likely to be uncivil when [32] tired or anxious [33] the same time.",
-      "Luckily, there are ways to help. If you [34] before you hit send. One day it might [35]! Becca, I'm going to [36] answer to your question. I asked you who [37] their employment or resign. I said that I [38]. Well, we're not going to fire you, Phil, but you are wrong. The [39]. The adjective uncivil means impolite, and we have a similar noun that's incivility . To [40] inferior or unimportant. If you put someone in their place , you show them that they're not as important as they think they are.",
-      "To get something off your plate means to give someone else a task or problem instead of dealing with it yourself. And finally, if you're frazzled , you feel tired or anxious because you're doing too much. If you want to know more about communication at work, check out our series Office English. Next Find an A-Z list of our programmes . Learn more about jargon in this Business jargon podcast series. Practise your reading skills with The Reading Room ."
+      "Hello, this is this programme from the programme. Sending emails is a big part of modern work, and most people try to write emails politely. Recently, a radio programme. Here, presenter Claudia Hammond and guest Pete Olusoga discuss what listeners had to say: Rachel in Manchester says what annoys her is people who start their emails with just your [1] 'hi'. She says the unnecessary formality [2] immediately on the defensive . We've got an anonymous one [3] in response to a carefully considered and worded email.",
+      "One [4] just her name because they [5] . The phrase to put someone on the defensive means to do or [6] or unsure. Another [7] was answered with a single emoji, and I [8]. These emails are examples of people being [9]. And just to note, the noun that goes with this is incivility . But first, I have a question for you, Phil. [10] received an email requiring them to [11] they had accomplished that week… or resign. But who sent this email? Was it: a) [12]) Elon Musk?",
+      "Ooh, I don't know... [13]. Now, according to some [14] a fight-or-flight response humans feel when stressed. [15] responses for a radio programme's All in the Mind. So, a [16] to dominate or belittle other people. Emails that are hostile in [17] personnel in on the [18] and put someone in their place . Then the [19] protect themselves by withdrawing or avoiding. They [20], maybe they don't answer all of the points in the email. [21] their plate . The fight response can [22] inferior or unimportant.",
+      "For [23] in which they give [24] you did. The boss wants to put you in your [25] that they are less important than they think they are. The [26] co-workers ignore your [27]. Such colleagues want to [28], meaning to remove tasks from your [29] else to deal with. Unfortunately, when stressed and working to a [30] your emails are polite. That's what [31] a radio programme's All in the Mind. [32] we are all quite frazzled , we are more at [33] .",
+      "We're more likely to be uncivil when [34] tired or anxious [35] the same time. Luckily, there are ways to help. If you [36] before you hit send. One day it might save your friendship or even your job! [37] to please reveal the answer to your question. I asked you who [38] their employment or resign. I said that I [39]. Well, we're not [40] are wrong. The correct answer was Elon Musk. The adjective uncivil means impolite, and we have a similar noun that's incivility .",
+      "To belittle someone means to make them feel inferior or unimportant. If you put someone in their place , you show them that they're not as important as they think they are. To get something off your plate means to give someone else a task or problem instead of dealing with it yourself. And finally, if you're frazzled , you feel tired or anxious because you're doing too much. If you want to know more about communication at work, check out our series Office English."
     ],
     "essay": {
       "question": "",
@@ -1086,32 +1086,33 @@ export const bbcLevel2ExtraLessons = [
     "level": "B2+/C1 · 6:45 · JUN 2026",
     "answers": [
       "I'm not surprised – they're delicious",
-      "dinner time can be fun – a chance",
+      "Family dinner time can be fun – a",
       "children refuse to eat the food that's",
       "radio programme-Reed whether her kids eat everything",
-      "through multiple periods of ups and downs",
+      "go through multiple periods of ups and",
       "sudden it comes right back",
       "dinner time, Charlotte's children go through ups",
-      "good and bad things happen to them",
+      "mixture of good and bad things happen",
       "depends on many things, including their day",
+      "person's mood is the way they are",
       "parents make dinnertime something everyone enjoys",
       "three experts on young children's eating habits",
-      "useful new words and phrases too",
       "Charlotte Stirling-Reed is a child nutritionist and",
       "make sure your child eats five pieces",
-      "don't pressure your child to eat everything",
-      "seem like quite good tips",
-      "We'll find out the answer later in",
+      "day, b) don't pressure your child to",
+      "child to lots of new flavours quickly",
+      "I'm going to go with c) introduce",
+      "Dr Anne Fishel is another expert in",
       "Family Dinner Project, an organisation promoting children's",
       "Here, Anne explains one reason why mealtimes",
-      "programme programme The Food Chain",
+      "Many parents say dinnertime can become a",
       "you're eating can trigger so much tension",
-      "few areas that they have control over",
-      "it's up to kids to decide whether",
+      "mean, parents can cook what they want",
+      "kids to decide whether they're going to",
       "Dinnertime often becomes a battleground – a place",
       "Anne thinks that's because it's one of",
       "kids, controlling what they're willing to eat",
-      "like Charlotte and Anne struggle at mealtimes",
+      "Charlotte and Anne struggle at mealtimes, imagine",
       "body makes you sick after eating certain",
       "Sharon Wee, a food writer from Singapore",
       "daughter was born with allergies and it",
@@ -1119,20 +1120,19 @@ export const bbcLevel2ExtraLessons = [
       "first five years of her life",
       "eat, making cooking for the whole family",
       "something her daughter could safely eat – rice",
-      "parents help their children develop good eating",
-      "things that our experts all agree upon",
-      "offering small, healthy snacks and dips before",
-      "atmosphere by not pressurising kids to finish",
-      "go ahead and reveal the correct answer",
-      "food nutritionist Charlotte Stirling-Reed recommends for stress-free"
+      "method or strategy that produces successful results",
+      "help their children develop good eating habits",
+      "choice – for example, by offering small, healthy",
+      "create a stress-free atmosphere by not pressurising",
+      "helps with your quiz question, Neil, so"
     ],
     "paragraphs": [
-      "Hello, this is this programme from the programme. Some kids hate eating broccoli. For others, it's mushrooms. And worst of all, of course, are Brussels sprouts! Every parent of young children knows what food they will and won't eat. What food did you dislike as a child, Georgie? Ooh, when I was little, I used to absolutely hate nuts and avocados. But now, as an adult, I absolutely love both of those things. [1]! What about you, Neil? Did you dislike any foods? I think I liked most things. Family [2] to reconnect, hear about everyone's day and share a meal. But when [3] been cooked, the result is often conflict rather than family fun.",
-      "a [4] she gives them. : They definitely don't. We go [5] where their appetite is much lower, and then all of a [6]. It depends on the weather, what they've been doing that day. It can depend on their mood . At [7] and downs , a phrase meaning that a mixture of [8]. Sometimes they eat everything happily. Other times they don't. It [9], the weather and their mood . A person's mood is the way they are feeling at a particular time. So, how can [10]? In this episode, we'll be hearing from [11] and learning some [12]. But first of course, Georgie, I have a question for you. [13] she has some tips for stress-free family meals.",
-      "Which of these do you think she recommends? Is it: a) [14] of fruit and veg a day, b) [15] on the plate, or c) introduce your child to lots of new flavours quickly? They all [16]. I'm going to go with c) introduce your child to lots of new flavours quickly. [17] the programme. Dr Anne Fishel is another expert in child nutrition. She co-founded the [18] healthy eating in the US. [19] can become stressful, to Ruth Alexander for the [20]. : Many parents say dinnertime can become a battleground , so why is it that what [21]? I think for small children it's one of the [22]. I mean, parents can cook what they want and serve it when they want, but [23] they're going to eat it.",
-      "And for young kids, that's a big deal . They have some control. [24] where argument or conflict happens. [25] the few areas where children have control. For [26] is a big deal – something of special importance to them. If experts [27], imagine how hard it could be if your child has a food allergy – a condition where the [28] foods. That was the experience of [29], who speaks here with the programme programme The Food Chain. My [30] was quite a struggle at first. And to be honest with you, we [31] and beans, and she grew up eating rice and beans probably for the [32].",
-      "Sharon's daughter's allergies restricted what she could [33] a struggle. Luckily, Sharon discovered the winning formula – [34] and beans. A winning formula is a method or strategy that produces successful results. So, Georgie, how can [35] habits? Well, there are some [36]. For one, give children a choice – for example, by [37] the meal. And most importantly of all, create a stress-free [38] everything on their plate. Well, that also helps with your quiz question, Neil, so why not [39]? I asked you what child [40] family meals. I said c) introduce your child to lots of new flavours quickly. I'm afraid you were wrong, Georgie.",
-      "The answer is actually b) don't pressure your child to eat everything on the plate. Your mood is how you feel at a particular time. A battleground is a place or situation where argument or conflict happens. If something is a big deal , it's of special importance to you. A food allergy is a medical condition where certain foods make your body sick. And finally, a winning formula is a method or strategy that produces successful results. See you again soon. Next Find an A-Z list of our programmes . Learn more about jargon in this Business jargon podcast series. Practise your reading skills with The Reading Room ."
+      "Hello, this is this programme from the programme. Some kids hate eating broccoli. For others, it's mushrooms. And worst of all, of course, are Brussels sprouts! Every parent of young children knows what food they will and won't eat. What food did you dislike as a child, Georgie? Ooh, when I was little, I used to absolutely hate nuts and avocados. But now, as an adult, I absolutely love both of those things. [1]! What about you, Neil? Did you dislike any foods? I think I liked most things. [2] chance to reconnect, hear about everyone's day and share a meal. But when [3] been cooked, the result is often conflict rather than family fun.",
+      "a [4] she gives them. : They definitely don't. We [5] downs where their appetite is much lower, and then all of a [6]. It depends on the weather, what they've been doing that day. It can depend on their mood . At [7] and downs , a phrase meaning that a [8] to them. Sometimes they eat everything happily. Other times they don't. It [9], the weather and their mood . A [10] feeling at a particular time. So, how can [11]? In this episode, we'll be hearing from [12] and learning some useful new words and phrases too. But first of course, Georgie, I have a question for you.",
+      "[13] she has some tips for stress-free family meals. Which of these do you think she recommends? Is it: a) [14] of fruit and veg a [15] eat everything on the plate, or c) introduce your [16]? They all seem like quite good tips. [17] your child to lots of new flavours quickly. We'll find out the answer later in the programme. [18] child nutrition. She co-founded the [19] healthy eating in the US. [20] can become stressful, to Ruth Alexander for the programme programme The Food Chain. : [21] battleground , so why is it that what [22]? I think for small children it's one of the few areas that they have control over.",
+      "I [23] and serve it when they want, but it's up to [24] eat it. And for young kids, that's a big deal . They have some control. [25] where argument or conflict happens. [26] the few areas where children have control. For [27] is a big deal – something of special importance to them. If experts like [28] how hard it could be if your child has a food allergy – a condition where the [29] foods. That was the experience of [30], who speaks here with the programme programme The Food Chain. My [31] was quite a struggle at first. And to be honest with you, we [32] and beans, and she grew up eating rice and beans probably for the [33].",
+      "Sharon's daughter's allergies restricted what she could [34] a struggle. Luckily, Sharon discovered the winning formula – [35] and beans. A winning formula is a [36]. So, Georgie, how can parents [37]? Well, there are some things that our experts all agree upon. For one, give children a [38] snacks and dips before the meal. And most importantly of all, [39] kids to finish everything on their plate. Well, that also [40] why not go ahead and reveal the correct answer? I asked you what child food nutritionist Charlotte Stirling-Reed recommends for stress-free family meals.",
+      "I said c) introduce your child to lots of new flavours quickly. I'm afraid you were wrong, Georgie. The answer is actually b) don't pressure your child to eat everything on the plate. Your mood is how you feel at a particular time. A battleground is a place or situation where argument or conflict happens. If something is a big deal , it's of special importance to you. A food allergy is a medical condition where certain foods make your body sick. And finally, a winning formula is a method or strategy that produces successful results. See you again soon."
     ],
     "essay": {
       "question": "",
@@ -1285,50 +1285,50 @@ export const bbcLevel2ExtraLessons = [
       "we're unsure, we don't know what to",
       "It's something that helps us navigate uncertain",
       "start doing that from an early age",
-      "know, these people who help us learn",
+      "people, it's about our teachers – you know",
       "through things like endorsements – you know, dentists",
       "Ben says that endorsements work as a",
-      "helps us make a decision quickly",
-      "we're going to look at the way",
+      "something that helps us make a decision",
+      "episode, we're going to look at the",
       "usual, we'll learn some useful new words",
       "Today we're talking about behavioural science",
-      "theory, b) pull theory, or c) nudge",
-      "recent years, many fast-food chains have installed",
-      "They've reported taking more money as a",
+      "says people respond to small prompts",
+      "I'm going to say b) pull theory",
+      "years, many fast-food chains have installed touchscreen",
+      "reported taking more money as a result",
       "Here's product designer Dean Ward speaking to",
-      "Firstly, the psychology of speaking to someone",
+      "feeling judged – we think is a key",
       "think there's definitely a large proportion of",
-      "judged in those instances and may say",
+      "There's the fact that you've got more",
       "see the product, you can see what's",
-      "products linked to it as well",
       "Because you've got more time and you're",
+      "much more inclined to actually say yes",
       "increased basket spend of typically 25–30%",
       "means that they worry what other people",
       "human for extra fries, we might worry",
       "upsell something, then you get someone to",
-      "people to buy larger portions, more drinks",
+      "buy larger portions, more drinks, or dessert",
       "basket spend is the total amount that",
       "business using behavioural science to nudge people",
       "it's not just businesses that use behavioural",
       "World Food Programme wanted to encourage people",
       "Takwa Khelifi from the World Food Programme",
       "needed something really creative and really different",
-      "let people see themselves in those stories",
-      "like, observing others' behaviours and others' actions",
-      "tried this product or this TV series",
-      "Takwa says that they needed to think",
-      "way, to come up with something creative",
-      "behave in a way that other people",
-      "think it's time to hear the answer",
-      "people respond to small prompts to change"
+      "box , or to let people see themselves",
+      "imitating and modelling and, like, observing others",
+      "actions and emotional reactions to things",
+      "series – in order that you impact people",
+      "different way, to come up with something",
+      "programme leads to people modelling behaviour",
+      "think it's time to hear the answer"
     ],
     "paragraphs": [
-      "Hello, this is this programme from the programme. What's the last thing you bought and why did you buy it? I bought a new pair of headphones recently because my old ones broke, and I did lots of research to try and find a good pair. I bought a soft drink on the way to work this morning. It might be because I saw someone I like promoting it in an advert. We call this a celebrity endorsement. But why do they work? Let's start by hearing from [1] to the programme programme Business Daily. When [2] do, it's kind of easy to follow the lead of those who we think are credible or knowledgeable. It's a mental shortcut . [3] times or make quick choices. We [4].",
-      "Our parents… for some people, it's about our teachers – you [5] and make sense of the world. And some businesses can draw on this [6] recommending toothpaste, athletes endorsing sportswear. [7] mental shortcut . This is something that [8]. If we trust the endorsement, then we don't need to think about it that much. In this episode, [9] that people can be convinced to do things. And as [10] and phrases. But first I have a question for you, Pippa. [11]. What's the name of the theory that says people respond to small prompts? Is it: a) push [12] theory? I'm going to say b) pull theory. Well, we'll find out the answer at the end of the programme.",
-      "In [13] touchscreen machines for people to order their food. [14] result. Could behavioural science tell us why this happens? [15] the programme's Business Daily. [16] and feeling judged – we think is a key factor. So, would you like extra fries? Would you like to go large? Not all people, but I [17] people who may feel [18] no. There's the fact that you've got more time to look. You can [19] in it, you can see all the [20]. And also around upsell as well. Would you like to add this? Would you like to do that? [21] not being judged , you're very much more inclined to actually say yes to these things. And that's typically what we're seeing – an [22].",
-      ": If people feel judged , then it [23] will think of them. If we have to ask a [24] what they think of us, but no one feels judged by a computer screen. If you [25] spend more. For example, waiters often try to get [26], or dessert. Dean says that upselling can increase people's basket spend . A [27] someone spends in one transaction, on everything that's in their basket. Now, this is an example of a [28] to do things. But [29] science in this way. In Tunisia, the United Nations [30] to eat food together more often. They made a TV show set in a restaurant. Let's hear from [31], talking to the programme's Business Daily. So, we [32] to think outside of the box , or to [33], because people are learning and changing by imitating and modelling and, [34] and emotional reactions to things.",
-      "So, this is why we tried this project or this... [35] – in order that you impact people. [36] outside the box . This means to try and think in a different [37]. The TV programme leads to people modelling behaviour. If you model behaviour, then you [38] can copy. Now Phil , I [39] to your question. I asked what theory says that [40] their behaviour. I thought it was pull theory... which I'm afraid was the wrong answer. Nudge theory says that people's behaviour can be changed by small prompts or nudges.",
-      "If someone feels judged , then they're worried about what other people think about them. Upsell refers to persuading someone to buy something extra, like a dessert at a restaurant. Basket spend is what you spend in one transaction on the things in your shopping basket. If you think outside the box , then you think about something in a different way to come up with a creative solution. And finally, modelling is behaving in a way that others can copy. See you again soon! Next Find an A-Z list of our programmes . Learn more about jargon in this Business jargon podcast series. Practise your reading skills with The Reading Room ."
+      "Hello, this is this programme from the programme. What's the last thing you bought and why did you buy it? I bought a new pair of headphones recently because my old ones broke, and I did lots of research to try and find a good pair. I bought a soft drink on the way to work this morning. It might be because I saw someone I like promoting it in an advert. We call this a celebrity endorsement. But why do they work? Let's start by hearing from [1] to the programme programme Business Daily. When [2] do, it's kind of easy to follow the lead of those who we think are credible or knowledgeable. It's a mental shortcut . [3] times or make quick choices.",
+      "We [4]. Our parents… for some [5], these people who help us learn and make sense of the world. And some businesses can draw on this [6] recommending toothpaste, athletes endorsing sportswear. [7] mental shortcut . This is [8] quickly. If we trust the endorsement, then we don't need to think about it that much. In this [9] way that people can be convinced to do things. And as [10] and phrases. But first I have a question for you, Pippa. [11]. What's the name of the theory that [12]? Is it: a) push theory, b) pull theory, or c) nudge theory? [13]. Well, we'll find out the answer at the end of the programme.",
+      "In recent [14] machines for people to order their food. They've [15]. Could behavioural science tell us why this happens? [16] the programme's Business Daily. Firstly, the psychology of speaking to someone and [17] factor. So, would you like extra fries? Would you like to go large? Not all people, but I [18] people who may feel judged in those instances and may say no. [19] time to look. You can [20] in it, you can see all the products linked to it as well. And also around upsell as well. Would you like to add this? Would you like to do that? [21] not being judged , you're very [22] to these things.",
+      "And that's typically what we're seeing – an [23]. : If people feel judged , then it [24] will think of them. If we have to ask a [25] what they think of us, but no one feels judged by a computer screen. If you [26] spend more. For example, waiters often try to get people to [27]. Dean says that upselling can increase people's basket spend . A [28] someone spends in one transaction, on everything that's in their basket. Now, this is an example of a [29] to do things. But [30] science in this way. In Tunisia, the United Nations [31] to eat food together more often. They made a TV show set in a restaurant.",
+      "Let's hear from [32], talking to the programme's Business Daily. So, we [33] to think outside of the [34] in those stories, because people are learning and changing by [35]' behaviours and others' [36]. So, this is why we tried this project or this... tried this product or this TV [37]. Takwa says that they needed to think outside the box . This means to try and think in a [38] creative. The TV [39]. If you model behaviour, then you behave in a way that other people can copy. Now Phil , I [40] to your question. I asked what theory says that people respond to small prompts to change their behaviour. I thought it was pull theory...",
+      "which I'm afraid was the wrong answer. Nudge theory says that people's behaviour can be changed by small prompts or nudges. If someone feels judged , then they're worried about what other people think about them. Upsell refers to persuading someone to buy something extra, like a dessert at a restaurant. Basket spend is what you spend in one transaction on the things in your shopping basket. If you think outside the box , then you think about something in a different way to come up with a creative solution. And finally, modelling is behaving in a way that others can copy. See you again soon!"
     ],
     "essay": {
       "question": "",
@@ -1380,53 +1380,53 @@ export const bbcLevel2ExtraLessons = [
     "level": "B2+/C1 · 6:35 · JUN 2026",
     "answers": [
       "hear poetry is an open mic night",
-      "programme reporter Maria recites her open mic",
-      "stroke, for the programme programme People Fixing",
-      "poem, I wrote it about a friend",
+      "anyone is allowed to stand up on",
+      "reporter Maria recites her open mic poem",
+      "programme programme People Fixing the World",
       "You're awake And trying to grasp who",
-      "I've enough stuff to tell you, I",
-      "open mic night , people can really touch",
-      "day, life can feel so much better",
-      "heal emotions and touch your soul , meaning",
-      "episode, we'll hear more about the positive",
+      "study my face, Eyes wide",
+      "go to an open mic night , people",
+      "even if you're having a bad day",
+      "Maria, poetry has the power to heal",
+      "deeply on an emotional or spiritual level",
       "usual, we'll learn some useful new words",
       "phrase the positive power of poetry, repeating",
       "p' sound across a string of words",
-      "assonance, b) alliteration, or c) simile",
-      "I'm going to say b) alliteration",
-      "Now, poetry helped Maria overcome sadness, but",
-      "group helping people understand the science behind",
-      "go to meetings like the UN Climate",
+      "feature of poetry, but what's it called",
+      "English degree might come in handy",
+      "hope you don't get embarrassed, Pippa",
+      "power to heal work in other areas",
+      "science behind global issues like climate change",
+      "like the UN Climate Conference and listen",
       "Here's Hot Poet Liv Torc, reciting her",
       "adventure at sea, A big blue murder",
       "epic humanity fail Of overfishing and polluting",
       "Liv's poem is based on a study",
       "complex research project that many find hard",
-      "Myra Anubi for the programme programme People",
+      "Anubi for the programme programme People Fixing",
       "there is an issue around the communication",
       "science is quite impenetrable to normal people",
       "Science uses lots of jargon – specialist or",
       "quite different from everyday language",
       "word precipitation, while in everyday English we",
       "scientific papers impenetrable , an adjective meaning impossible",
-      "something that people dislike or find uninteresting",
-      "complex environmental ideas easy to understand through",
-      "scientist whose study Liv based her poem",
+      "turn-off – something that people dislike or find",
+      "making complex environmental ideas easy to understand",
+      "environmental scientist whose study Liv based her",
+      "Myra Anubi for the programme's People Fixing",
       "poem, having actually experienced everything she's saying",
-      "goosebumps when I hear it now",
-      "say and put into words myself",
+      "think it's everything that I wish I",
       "Liv's poem gave Kat goosebumps , meaning she",
       "her skin stood up, making tiny bumps",
-      "Kat, it's making an impact for good",
-      "words beginning with the same sound, it's"
+      "fix everything, but for Kat, it's making"
     ],
     "paragraphs": [
-      "Hello, this is this programme from the programme. In this episode we're discussing poetry. For some, poetry is what you study at school, then forget, while for others it becomes an important part of their life. Have you ever read or written any poetry, Neil? Well, I haven't written any poetry since I was at school. I would love to read more poetry, but I just don't get it, really. I find it difficult to understand. A good place to [1] , a live event where anyone is allowed to stand up on stage to sing or recite poems. Here, the [2] poem about a friend who suffered a [3] the World.",
-      "This first [4] who I love dearly. It's called Stroke. [5] it is. I pull my mask past my lips and you study my face, Eyes wide. [6] say, Sinking into a chair. Sometimes if you go to an [7] your soul with what they're saying. And even if you're having a bad [8] after going to an open mic night . For Maria, poetry has the power to [9] to affect you deeply on an emotional or spiritual level. In this [10] power of poetry and, as [11] and phrases. But first, I have a question for you, Pippa. Just now, you used the [12] the same initial '[13]. Doing this is a common feature of poetry, but what's it called?",
-      "Is it: a) [14]? Finally, my English degree might come in handy! And [15]. Well, we'll find out at the end, and I hope you don't get embarrassed, Pippa! [16] could its power to heal work in other areas too? Hot Poets is a [17] global issues like climate change. They [18] Conference and listen to scientific papers being presented. Then they write a poem about it all and perform that back to the audience. [19] poem to the programme's People Fixing the World. It starts with an [20] mystery, where the killer is not the whale But an [21] at unimaginable scale.",
-      "[22] into biodiversity. It's a [23] to understand. Here, Liv discusses this with [24] Fixing the World: And Liv, I mean, so what you've identified is that [25] of science. Yes, a lot of this jargon is really hard to understand, or a lot of the [26], so it's instantly a turn-off . [27] technical vocabulary which is [28]. For example, a scientist might use the [29] would say rain. Jargon can make [30] to understand. And worse, it makes science a turn-off – [31]. Hot Poets try to change all of that by making [32] poetry. And it works, says Kat Bruce, the environmental [33] on, talking here with Myra Anubi for the programme's People Fixing the World.",
-      "What did it mean for you, Kat, hearing the [34]? It still gives me [35]. I think it's everything that I wish I could [36]. I feel like Liv just, you know, has done that. [37] was so emotionally affected that the hairs on [38]. Maybe poetry can't fix everything, but for [39]. Now, what was the answer to your question, Neil? Well, you seemed very clear, Pippa, that when you use a string of [40] called alliteration... and you're absolutely right. If something touches your soul , it affects you deeply on an emotional or spiritual level.",
-      "Jargon means special words and phrases that are used in a particular profession or subject. The adjective impenetrable means impossible to understand. A turn-off is something that people dislike or find uninteresting. And finally, if you get goosebumps , the hairs on your skin stand up because you're cold, emotionally affected, or afraid. See you again soon. Next Find an A-Z list of our programmes . Learn more about jargon in this Business jargon podcast series. Practise your reading skills with The Reading Room ."
+      "Hello, this is this programme from the programme. In this episode we're discussing poetry. For some, poetry is what you study at school, then forget, while for others it becomes an important part of their life. Have you ever read or written any poetry, Neil? Well, I haven't written any poetry since I was at school. I would love to read more poetry, but I just don't get it, really. I find it difficult to understand. A good place to [1] , a live event where [2] stage to sing or recite poems. Here, the programme [3] about a friend who suffered a stroke, for the [4].",
+      "This first poem, I wrote it about a friend who I love dearly. It's called Stroke. [5] it is. I pull my mask past my lips and you [6]. I've enough stuff to tell you, I say, Sinking into a chair. Sometimes if you [7] can really touch your soul with what they're saying. And [8], life can feel so much better after going to an open mic night . For [9] emotions and touch your soul , meaning to affect you [10]. In this episode, we'll hear more about the positive power of poetry and, as [11] and phrases. But first, I have a question for you, Pippa.",
+      "Just now, you used the [12] the same initial '[13]. Doing this is a common [14]? Is it: a) assonance, b) alliteration, or c) simile? Finally, my [15]! And I'm going to say b) alliteration. Well, we'll find out at the end, and I [16]! Now, poetry helped Maria overcome sadness, but could its [17] too? Hot Poets is a group helping people understand the [18]. They go to meetings [19] to scientific papers being presented. Then they write a poem about it all and perform that back to the audience. [20] poem to the programme's People Fixing the World.",
+      "It starts with an [21] mystery, where the killer is not the whale But an [22] at unimaginable scale. [23] into biodiversity. It's a [24] to understand. Here, Liv discusses this with Myra [25] the World: And Liv, I mean, so what you've identified is that [26] of science. Yes, a lot of this jargon is really hard to understand, or a lot of the [27], so it's instantly a turn-off . [28] technical vocabulary which is [29]. For example, a scientist might use the [30] would say rain. Jargon can make [31] to understand. And worse, it makes science a [32] uninteresting.",
+      "Hot Poets try to change all of that by [33] through poetry. And it works, says Kat Bruce, the [34] poem on, talking here with [35] the World. What did it mean for you, Kat, hearing the [36]? It still gives me goosebumps when I hear it now. I [37] could say and put into words myself. I feel like Liv just, you know, has done that. [38] was so emotionally affected that the hairs on [39]. Maybe poetry can't [40] an impact for good. Now, what was the answer to your question, Neil? Well, you seemed very clear, Pippa, that when you use a string of words beginning with the same sound, it's called alliteration...",
+      "and you're absolutely right. If something touches your soul , it affects you deeply on an emotional or spiritual level. Jargon means special words and phrases that are used in a particular profession or subject. The adjective impenetrable means impossible to understand. A turn-off is something that people dislike or find uninteresting. And finally, if you get goosebumps , the hairs on your skin stand up because you're cold, emotionally affected, or afraid. See you again soon."
     ],
     "essay": {
       "question": "",
@@ -1478,53 +1478,53 @@ export const bbcLevel2ExtraLessons = [
     "level": "B2+/C1 · 6:37 · MAY 2026",
     "answers": [
       "save every single penny that I earn",
-      "refers to money a person has borrowed",
-      "bank, a credit card company, or another",
+      "Debt refers to money a person has",
+      "pay back , usually to a bank, a",
       "1000 people contacted the UK Citizens Advice",
-      "debt gets out of control, it causes",
-      "radio programme, Jason, about his debt",
-      "Sometimes you need to take out loans",
-      "can't see a way out, other than",
+      "day of the year for help with",
+      "gets out of control, it causes stress",
+      "jobs there are aren't enough to provide",
+      "few times, but you can't ever pay",
+      "way out, other than winning the lottery",
       "means, like, five years paying them off",
-      "phrases, pay back , pay off , and clear",
-      "give back the money you've borrowed",
-      "learning some useful new words and phrases",
+      "pay back , pay off , and clear debt",
+      "episode, we'll hear more about living with",
       "debt support group The Money Charity, roughly",
+      "British adult in debt through credit cards",
       "2,200, b) £4,200, or c) £6,200",
-      "out the answer later in the programme",
-      "Ryan spent months living in a low-income",
-      "gave the fictional name Woldham",
-      "explains more to a radio programme's Thinking",
-      "let people know that I was interested",
-      "interviews with residents, and I paid attention",
+      "Jason's story features in a new book",
+      "spent months living in a low-income housing",
+      "residents and listened to their money worries",
+      "approach was to let people know that",
+      "lives and how they were making ends",
+      "paid attention to where debt came up",
       "many people in Woldham, Jason included, debt",
       "monthly payment commitments – was part of daily",
       "make ends meet means having just enough",
       "basic living expenses like food, bills and",
       "arrears , a phrase meaning to still owe",
       "residents, debt was a normal part of",
-      "low incomes, it can cause serious distress",
-      "residents he met felt about their debt",
+      "regular income, debt can be managed, but",
+      "Here, Ryan discusses how the residents he",
       "Jason actually fluctuated between wanting to clear",
       "other what he described as living on",
       "supposed moral obligation to pay his debts",
-      "strain on him and his partner increased",
+      "financial strain on him and his partner",
       "living on the never-never , an informal phrase",
-      "regular small payments over a long time",
+      "need by making regular small payments over",
       "Jason experienced financial strain – emotional stress caused",
-      "basic needs or to repay his debt",
-      "many people and there are support groups",
+      "meet his basic needs or to repay",
+      "affects many people and there are support",
       "average amount of debt a British adult",
-      "said it was around £2,200",
-      "phrases to pay back , to pay off"
+      "said it was around £2,200"
     ],
     "paragraphs": [
-      "Hello, this is this programme from the programme. Are you good at saving money, Neil? Or do you like to spend it? Well, actually, a bit of both. I like to spend money on nice things, but I also try to save, mainly because I've got children. Yeah, I'm the same. I like to save money, or I try to, for the future. But I also do spend it. I don't count every penny that I spend and [1]. Well, whether you're a saver or a spender, being in debt is common in the UK. Debt [2] to buy something and which they have to pay back , usually to a [3] person. Many people avoid talking about debt , but it affects us all.",
-      "In 2025, over [4] Bureau every single day of the year for help with their debt . And when [5] stress and worry. a [6] . Whatever jobs there are aren't enough to provide for a family. [7]. I've done it a few times, but you can't ever pay it back . You [8] winning the lottery or something. I'd like to think I could clear them all one day, even if it [9] . Jason uses three [10] debt , all of which mean the same thing – to [11]. In this episode, we'll hear more about living with debt by [12]. But first, I have a question for you, Pippa. According to [13] how much is the average British adult in debt through credit cards, overdrafts and personal loans?",
-      "Is it: a) £[14]? Well, we will find [15]. Jason's story features in a new book by sociologist Ryan Davey. [16] housing estate, which he [17]. He talked with residents and listened to their money worries. Here, Ryan [18] Allowed: My approach was to [19] in learning about their lives and how they were making ends meet , so I did some [20] to where debt came up in everyday conversations. For [21] was an ordinary feature of daily life. And beyond that, being in arrears – so, being behind with one or more [22] life.",
-      "The people of Woldham were making ends meet . To [23] money to pay for [24] rent. : Ryan found that many residents were in [25] money that should have already been repaid. For most [26] daily life. With a regular income, debt can be managed, but for those who are unemployed or on [27]. Here, Ryan discusses how the [28] with a radio programme's Thinking Allowed: [29] all of his debts on the one hand, and on the [30] the never-never and actually questioning the [31] . Over the months that I knew him, the financial [32]. They missed some of their bills. Their internet was disconnected.",
-      "Jason was [33] for buying the things you need by making [34]. It's called the never-never because it seems the debt will never be repaid. [35] by a lack of money to meet his [36] . Debt is a serious issue. It affects [37] who can help if you need it. Neil, what was the answer to your question? I asked what the [38] has through credit cards, overdrafts and personal loans. I [39]. I'm afraid that's not the right answer. In fact, it's £4,232. : The [40] , and to clear a debt all mean to give back money you have borrowed. If someone is making ends meet , they have just enough money to pay for basic living expenses.",
-      "And if they are in arrears , they still owe money that should have been repaid already. If you buy something on the never-never , you buy it by making small regular payments over a long period. And finally, financial strain is emotional stress caused by a lack of money to meet your basic needs. com, to find a full vocabulary list. See you again soon. Next Find an A-Z list of our programmes . To learn English from news headlines, listen to Learning English from the News . Practise your reading skills with The Reading Room ."
+      "Hello, this is this programme from the programme. Are you good at saving money, Neil? Or do you like to spend it? Well, actually, a bit of both. I like to spend money on nice things, but I also try to save, mainly because I've got children. Yeah, I'm the same. I like to save money, or I try to, for the future. But I also do spend it. I don't count every penny that I spend and [1]. Well, whether you're a saver or a spender, being in debt is common in the UK. [2] borrowed to buy something and which they have to [3] credit card company, or another person. Many people avoid talking about debt , but it affects us all.",
+      "In 2025, over [4] Bureau every single [5] their debt . And when debt [6] and worry. a radio programme, Jason, about his debt . Whatever [7] for a family. Sometimes you need to take out loans. I've done it a [8] it back . You can't see a [9] or something. I'd like to think I could clear them all one day, even if it [10] . Jason uses three phrases, [11] , all of which mean the same thing – to give back the money you've borrowed. In this [12] debt by learning some useful new words and phrases. But first, I have a question for you, Pippa.",
+      "According to [13] how much is the average [14], overdrafts and personal loans? Is it: a) £[15]? Well, we will find out the answer later in the programme. [16] by sociologist Ryan Davey. Ryan [17] estate, which he gave the fictional name Woldham. He talked with [18]. Here, Ryan explains more to a radio programme's Thinking Allowed: My [19] I was interested in learning about their [20] meet , so I did some interviews with residents, and I [21] in everyday conversations. For [22] was an ordinary feature of daily life.",
+      "And beyond that, being in arrears – so, being behind with one or more [23] life. The people of Woldham were making ends meet . To [24] money to pay for [25] rent. : Ryan found that many residents were in [26] money that should have already been repaid. For most [27] daily life. With a [28] for those who are unemployed or on low incomes, it can cause serious distress. [29] met felt about their debt with a radio programme's Thinking Allowed: [30] all of his debts on the one hand, and on the [31] the never-never and actually questioning the [32] .",
+      "Over the months that I knew him, the [33] increased. They missed some of their bills. Their internet was disconnected. Jason was [34] for buying the things you [35] a long time. It's called the never-never because it seems the debt will never be repaid. [36] by a lack of money to [37] his debt . Debt is a serious issue. It [38] groups who can help if you need it. Neil, what was the answer to your question? I asked what the [39] has through credit cards, overdrafts and personal loans. I [40]. I'm afraid that's not the right answer. In fact, it's £4,232.",
+      ": The phrases to pay back , to pay off , and to clear a debt all mean to give back money you have borrowed. If someone is making ends meet , they have just enough money to pay for basic living expenses. And if they are in arrears , they still owe money that should have been repaid already. If you buy something on the never-never , you buy it by making small regular payments over a long period. And finally, financial strain is emotional stress caused by a lack of money to meet your basic needs. com, to find a full vocabulary list. See you again soon."
     ],
     "essay": {
       "question": "",
@@ -1577,52 +1577,52 @@ export const bbcLevel2ExtraLessons = [
     "answers": [
       "four billion people around the world who",
       "rattle of train tracks, honking car horns",
-      "World Health Organisation reports that by 2050",
-      "people will experience hearing loss, and exposure",
-      "episode, we'll be hearing about ways to",
-      "relaxing places, using some useful new words",
+      "overhead, modern cities are full of noise",
+      "Organisation reports that by 2050, around 2",
+      "loud noise has been linked to stress",
+      "make our cities quieter, more relaxing places",
       "Sound is measured in units called decibels",
       "3 decibels , b) 13 decibels , or c",
       "I'll go for b) 13 decibels",
+      "noisiest cities in the world",
       "daytime noise levels regularly hit 80 decibels",
       "decibels higher than World Health Organisation recommendations",
-      "native Chhavi Sachdev share her experiences of",
-      "city with the programme programme People Fixing",
-      "dress loud , we talk loud, we celebrate",
+      "Chhavi Sachdev share her experiences of living",
+      "programme programme People Fixing the World",
+      "loud , we talk loud, we celebrate loud",
       "them it's the quiet, because after 12",
-      "US and Europe, when I got back",
+      "got back, I realised I couldn't handle",
       "Chhavi says, \"Indians talk loud, celebrate loud",
-      "dress loud means to wear clothes with",
-      "Chhavi returned to India after living overseas",
+      "wear clothes with bright colours and large",
+      "living overseas, she says she couldn't handle",
       "can't handle something, you find it difficult",
       "interesting approach involves using sound itself to",
       "adding certain sounds to busy public spaces",
       "Sound artist Charles Montambault lives near the",
-      "busy city park in Montreal, Canada",
+      "Charles was inspired to recreate the ocean",
       "Islands in his city park back home",
       "reporter Natasha Fernandes that these sounds included",
       "sand on the Magdalen Islands can sing",
       "sand makes some squeaky sounds, so that's",
-      "busy roads, Charles and his team set",
+      "small park, surrounded by busy roads, Charles",
       "form of speakers planted in flower beds",
       "little quieter by adding some quiet noises",
       "less noisy by adding some calmer sounds",
-      "high-pitched sound called a squeak when stepped",
-      "other relaxing sounds through speakers hidden in",
-      "designed to give people an interactive experience",
-      "installation actually made the park feel quieter",
+      "makes a high-pitched sound called a squeak",
+      "ocean waves and other relaxing sounds through",
+      "art installation – a work of art designed",
+      "relaxing sounds, Charles' art installation actually made",
       "something that's counterintuitive , meaning it happens differently",
-      "relax in other cities too, including Tokyo",
-      "Neil, you asked me a question about",
-      "13 is an unlucky number and you"
+      "similar soundscapes are now helping city dwellers",
+      "Now Neil, you asked me a question"
     ],
     "paragraphs": [
-      "This is this programme from the programme. Neil, I'm going to play you two sound recordings, and I want you to tell me how you feel when you hear them. First this… And now this. Oh, well, that first clip made me feel really relaxed. But the second one – oh, it's horrible! I felt quite stressed out actually. Well, this little experiment shows how much we are affected by the noise around us. And that's a problem if you're one of the [1] live in cities. Yes, whether it's the [2], or the roar of aeroplanes overhead, modern cities are full of noise and this can have serious effects. The [3], around 2.",
-      "5 billion [4] to loud noise has been linked to stress and anxiety. In this [5] make our cities quieter, more [6] and phrases. But now I have a question for you, Georgie. [7] . But how many decibels would it be if I whispered? A whisper is speaking like this. Is it: a) [8]) 30 decibels ? Oh, that's really hard. [9] . Well, we'll find out the answer at the end of the programme. Let's start in one of the noisiest cities in the world – Mumbai in India, where [10] , which is over 20 [11]. Listen to Mumbai [12] living in this noisy [13] the World. I mean, India in general is just really loud.",
-      "We are a loud people. We [14] loud, we watch movies loud. When people ask me what I miss about living abroad, I tell [15] years of living in the [16], I realised I couldn't handle it anymore. I'd gotten used to lower levels of noise. [17] and dress loud . \" To [18] bright colours and large, bold patterns. When [19], she says she couldn't handle the noise. If you [20] to deal or cope with. So, what can be done to tackle noise in cities like Mumbai? One [21] make things feel quieter. Soundscaping is the idea of [22] so that they sound and feel more relaxing. [23] Parc des Madelinots, a [24].",
-      "Charles was inspired to recreate the ocean sounds he heard on holiday in the Magdalen [25]. On the programme programme People Fixing the World, he tells [26] ocean waves and some unusual-sounding sand. The [27]. When you walk into the sand firmly, the [28] one sound that is kind of funny, kind of special. Inside the small park, surrounded by [29] up an immersive sound art installation in the [30]. So, the art installation was really to make this park a [31]. So, it's counterintuitive , but you can make a park [32]. The sand on the Magdalen Islands is squeaky – it makes a [33] on.",
-      "Charles played recordings of this sand, ocean waves and [34] the park. He created an art installation – a work of art [35]. By adding more relaxing sounds, Charles' art [36]. It's an example of [37] from how you would expect. And similar soundscapes are now helping city dwellers [38] and Barcelona. Now [39] a very quiet sound – a whisper. So, are you going to reveal the correct answer? I asked you how loud a whisper is. Yes, and I said 13 decibels . Well, [40] are wrong. It was actually 30. Someone who dresses loud likes to wear clothes with bright colours and bold designs.",
-      "If you can't handle something, you find it difficult to deal with. An art installation is an artwork designed to create an interactive experience in a certain space. The adjective squeaky describes things which make a high-pitched sound like a mouse. And finally, if you call something counterintuitive , you mean it happens differently from how you would expect. See you again soon. Next Find an A-Z list of our programmes . To learn English from news headlines, listen to Learning English from the News . Practise your reading skills with The Reading Room ."
+      "This is this programme from the programme. Neil, I'm going to play you two sound recordings, and I want you to tell me how you feel when you hear them. First this… And now this. Oh, well, that first clip made me feel really relaxed. But the second one – oh, it's horrible! I felt quite stressed out actually. Well, this little experiment shows how much we are affected by the noise around us. And that's a problem if you're one of the [1] live in cities. Yes, whether it's the [2], or the roar of aeroplanes [3] and this can have serious effects. The World Health [4].",
+      "5 billion people will experience hearing loss, and exposure to [5] and anxiety. In this episode, we'll be hearing about ways to [6], using some useful new words and phrases. But now I have a question for you, Georgie. [7] . But how many decibels would it be if I whispered? A whisper is speaking like this. Is it: a) [8]) 30 decibels ? Oh, that's really hard. [9] . Well, we'll find out the answer at the end of the programme. Let's start in one of the [10] – Mumbai in India, where [11] , which is over 20 [12]. Listen to Mumbai native [13] in this noisy city with the [14].",
+      "I mean, India in general is just really loud. We are a loud people. We dress [15], we watch movies loud. When people ask me what I miss about living abroad, I tell [16] years of living in the US and Europe, when I [17] it anymore. I'd gotten used to lower levels of noise. [18] and dress loud . \" To dress loud means to [19], bold patterns. When Chhavi returned to India after [20] the noise. If you [21] to deal or cope with. So, what can be done to tackle noise in cities like Mumbai? One [22] make things feel quieter. Soundscaping is the idea of [23] so that they sound and feel more relaxing.",
+      "[24] Parc des Madelinots, a busy city park in Montreal, Canada. [25] sounds he heard on holiday in the Magdalen [26]. On the programme programme People Fixing the World, he tells [27] ocean waves and some unusual-sounding sand. The [28]. When you walk into the sand firmly, the [29] one sound that is kind of funny, kind of special. Inside the [30] and his team set up an immersive sound art installation in the [31]. So, the art installation was really to make this park a [32]. So, it's counterintuitive , but you can make a park [33].",
+      "The sand on the Magdalen Islands is squeaky – it [34] when stepped on. Charles played recordings of this sand, [35] speakers hidden in the park. He created an [36] to give people an interactive experience. By adding more [37] the park feel quieter. It's an example of [38] from how you would expect. And [39] relax in other cities too, including Tokyo and Barcelona. [40] about a very quiet sound – a whisper. So, are you going to reveal the correct answer? I asked you how loud a whisper is. Yes, and I said 13 decibels .",
+      "Well, 13 is an unlucky number and you are wrong. It was actually 30. Someone who dresses loud likes to wear clothes with bright colours and bold designs. If you can't handle something, you find it difficult to deal with. An art installation is an artwork designed to create an interactive experience in a certain space. The adjective squeaky describes things which make a high-pitched sound like a mouse. And finally, if you call something counterintuitive , you mean it happens differently from how you would expect. See you again soon."
     ],
     "essay": {
       "question": "",
@@ -1673,54 +1673,54 @@ export const bbcLevel2ExtraLessons = [
     "kicker": "A focused discussion with real presenters, research evidence and expert viewpoints.",
     "level": "B2+/C1 · 6:35 · MAY 2026",
     "answers": [
-      "change our brains, and as usual we'll",
-      "Let's start with a quiz question",
+      "experts about how reading can change our",
+      "learning some useful new words and phrases",
       "French author Marcel Proust, a book which",
+      "English, means Remembrance of Things Past",
       "3 million, or c) 13 million",
       "still think 13 million words sounds too",
-      "We'll find out at the end of",
-      "We're born with the potential to do",
-      "Maryanne Wolf, author of the book Reader",
-      "think of language as natural , and reading",
+      "think of reading as like speaking",
+      "something is natural , it's something you were",
+      "Wolf, author of the book Reader Come",
+      "natural , and reading is written language so",
       "Scientific studies suggest that when we're born",
-      "networks that allow our eyes to see",
-      "pathways we need to read",
-      "psychologist and neuroscientist Rebecca Gotlieb, speaking to",
-      "time to develop a dedicated reading brain",
-      "brain involved in vision and auditory processing",
-      "Reading is really a whole brain process",
-      "process of developing a reading brain alters",
-      "activity to brain structure and brain connectivity",
-      "read deeply, we change our brains and",
-      "evolved to include a dedicated reading brain",
-      "because we don't have a part of",
+      "see and our vocal cords to produce",
+      "Let's hear more from psychologist and neuroscientist",
+      "evolutionary timescale, our brain hasn't had enough",
+      "build a reading brain network, we co-opt",
+      "vision and auditory processing, and language, and",
+      "involves activation in all four lobes of",
+      "reading brain alters everything, from brain activity",
+      "power of deep reading is really fundamental",
+      "Rebecca says that our brains haven't evolved",
+      "Dedicated here means designed and used for",
+      "part of the brain designed specifically for",
       "learn to read, we co-opt other parts",
       "read means using lots of different parts",
       "other things, and this changes our brain",
       "Chinese characters, for example, use symbols instead",
       "alphabet to represent words and ideas",
-      "read these symbols activates different areas of",
-      "studied a bilingual man who could read",
+      "learning to read these symbols activates different",
+      "Scientists studied a bilingual man who could",
       "affected parts of his brain, including his",
-      "still able to read English",
-      "brain's circuit reflects the requirements of Chinese",
-      "visual processing of those beautifully intricate symbols",
-      "brain's circuit is shaped by learning to",
+      "amazingly, he was still able to read",
+      "beautiful example of how the brain's circuit",
+      "inevitably means more visual memory and visual",
+      "Maryanne says that the brain's circuit is",
       "visual qualities of Chinese symbols inevitably mean",
       "Inevitably means in a way that cannot",
-      "symbolic Chinese characters as beautifully intricate",
-      "lots of detail, or certainly lots of",
-      "many words are in Marcel Proust's Remembrance",
-      "long sentences, including one with over 900",
-      "language we learned during this programme, starting"
+      "Maryanne describes the symbolic Chinese characters as",
+      "intricate , it has lots of detail",
+      "words – I asked you, Georgie, how many",
+      "contains lots of very long sentences, including"
     ],
     "paragraphs": [
-      "Welcome to this programme from the programme. Georgie Now, Becca, do you read a lot? Hmm, I don't read often. I just feel like I don't have the time, Georgie. How about yourself? I would love to read more, but I don't read very much at the moment. I read mostly before bed because I feel like it helps me relax and go to sleep. And today we're talking all about reading. We'll be hearing from some experts about how reading can [1] be learning some useful new words and phrases. [2]. The longest novel in the world is widely thought to be by [3], when translated into English, means Remembrance of Things Past.",
-      "But how many words does the book contain? Is it: a) 130,000, b) 1. [4]? The longest novel in the world. I [5] many, so I'm going to go with b) 1. [6] the programme. Now, we might think of reading as like speaking. [7] it and then we learn. If something is natural , it's something you were born with or that comes from nature. But [8] Come Home, says that this isn't true. We [9] is written language so it must be natural . It isn't natural at all. [10], our brains already have the [11] and our vocal cords to produce sounds, but not with the [12]. Let's hear more from [13] the the programme.",
-      "From an evolutionary timescale, our brain hasn't had enough [14]. And so, to build a reading brain network, we co-opt parts of the [15], and language, and attention and affect. [16]. It involves activation in all four lobes of the cortex. The [17] everything, from brain [18]. The power of deep reading is really fundamental to our humanity. When we [19] we change who we are. Rebecca says that our brains haven't [20]. Dedicated here means designed and used for one particular purpose. So, [21] the brain designed specifically for reading, when we [22] of the brain. Co-opt here means to include someone or something, often against their will.",
-      "Learning to [23] of the brain that are designed for [24] structure compared to someone who hasn't learned to read. And the language we read also shapes our brain. [25] of letters of the [26]. Research suggests that learning to [27] the brain to reading an alphabet-based system. Scientists [28] and speak Chinese and English. The man suffered a stroke, which [29] ability to read Chinese. But amazingly, he was [30]. Maryanne Wolf explains more to the the programme. It's a beautiful example of how the [31], which inevitably means more visual memory and [32] or characters.",
-      "Maryanne says that the [33] read Chinese. A circuit is a system of connections. The [34] more visual areas of the brain are developed. [35] be stopped or avoided. Maryanne describes the [36] . If something is intricate , it has lots of detail. And something which also has [37] words – I asked you, Georgie, how [38] of Things Past. And you were correct! The book also contains lots of very [39] words. One sentence with 900 words? It's time to recap the [40] with natural , which describes something you were born with or that comes from nature. Dedicated can describe something that is designed and used for one particular purpose.",
-      "If you co-opt someone or something, you involve them, sometimes against their will. A circuit is a system of connections – for example, in the brain. Inevitably means in a way that cannot be stopped or avoided. And intricate describes something which has lots of detail. : That's it for this episode of this programme. Thanks for joining us. Next Find an A-Z list of our programmes . To learn English from news headlines, listen to Learning English from the News . Practise your reading skills with The Reading Room ."
+      "Welcome to this programme from the programme. Georgie Now, Becca, do you read a lot? Hmm, I don't read often. I just feel like I don't have the time, Georgie. How about yourself? I would love to read more, but I don't read very much at the moment. I read mostly before bed because I feel like it helps me relax and go to sleep. And today we're talking all about reading. We'll be hearing from some [1] brains, and as usual we'll be [2]. Let's start with a quiz question. The longest novel in the world is widely thought to be by [3], when translated into [4].",
+      "But how many words does the book contain? Is it: a) 130,000, b) 1. [5]? The longest novel in the world. I [6] many, so I'm going to go with b) 1. We'll find out at the end of the programme. Now, we might [7]. We're born with the potential to do it and then we learn. If [8] born with or that comes from nature. But Maryanne [9] Home, says that this isn't true. We think of language as [10] it must be natural . It isn't natural at all. [11], our brains already have the networks that allow our eyes to [12] sounds, but not with the pathways we need to read. [13] Rebecca Gotlieb, speaking to the the programme.",
+      "From an [14] time to develop a dedicated reading brain. And so, to [15] parts of the brain involved in [16] attention and affect. Reading is really a whole brain process. It [17] the cortex. The process of developing a [18] to brain structure and brain connectivity. The [19] to our humanity. When we read deeply, we change our brains and we change who we are. [20] to include a dedicated reading brain. [21] one particular purpose. So, because we don't have a [22] reading, when we [23] of the brain. Co-opt here means to include someone or something, often against their will.",
+      "Learning to [24] of the brain that are designed for [25] structure compared to someone who hasn't learned to read. And the language we read also shapes our brain. [26] of letters of the [27]. Research suggests that [28] areas of the brain to reading an alphabet-based system. [29] read and speak Chinese and English. The man suffered a stroke, which [30] ability to read Chinese. But [31] English. Maryanne Wolf explains more to the the programme. It's a [32] reflects the requirements of Chinese, which [33] processing of those beautifully intricate symbols or characters.",
+      "[34] shaped by learning to read Chinese. A circuit is a system of connections. The [35] more visual areas of the brain are developed. [36] be stopped or avoided. [37] beautifully intricate . If something is [38]. And something which also has lots of detail, or certainly lots of [39] words are in Marcel Proust's Remembrance of Things Past. And you were correct! The book also [40] one with over 900 words. One sentence with 900 words? It's time to recap the language we learned during this programme, starting with natural , which describes something you were born with or that comes from nature.",
+      "Dedicated can describe something that is designed and used for one particular purpose. If you co-opt someone or something, you involve them, sometimes against their will. A circuit is a system of connections – for example, in the brain. Inevitably means in a way that cannot be stopped or avoided. And intricate describes something which has lots of detail. : That's it for this episode of this programme. Thanks for joining us."
     ],
     "essay": {
       "question": "",
@@ -4018,74 +4018,74 @@ export const bbcLevel2ExtraAcademic = [
     ],
     "paraphrases": [
       [
-        "show notes for this podcast",
-        "demonstrates notes for this podcast",
+        "webpage, or in the show notes for",
+        "webpage, or in the demonstrates notes for",
         "Recast the original phrase with a synonym or a more formal structure.",
-        47.2,
-        56.2
+        47.39,
+        56.39
       ],
       [
-        "Sarah, it’s traditional for us to set",
-        "the idea that sarah, it’s traditional for us to set",
+        "learning some key vocabulary to talk about",
+        "the idea that learning some key vocabulary to talk about",
         "Recast the original phrase with a synonym or a more formal structure.",
-        79.78,
-        88.78
+        78.02,
+        87.02
       ],
       [
-        "mean by 'tropical storms', Sarah",
-        "the idea that mean by 'tropical storms', Sarah",
+        "we're going to talk about tropical storms",
+        "the idea that we're going to talk about tropical storms",
         "Recast the original phrase with a synonym or a more formal structure.",
-        109.26,
-        118.26
+        108.88,
+        117.88
       ],
       [
-        "weather videos, meteorologist Darren Bett tells us",
-        "the idea that weather videos, meteorologist Darren Bett tells us",
+        "world warms, climate scientists think that these",
+        "world warms, climate scientists consider that these",
         "Recast the original phrase with a synonym or a more formal structure.",
-        145.89,
-        154.89
+        141.19,
+        150.19
       ],
       [
-        "likelihood of flooding and landslides and also",
-        "the idea that likelihood of flooding and landslides and also",
+        "rain will last for longer producing more",
+        "rain will last for longer producing a greater amount",
         "Recast the original phrase with a synonym or a more formal structure.",
-        171.17,
-        180.17
+        172.5,
+        181.5
       ],
       [
-        "things can happen after particularly heavy rain",
-        "the idea that things can happen after particularly heavy rain",
+        "large amount of earth or rock moves",
+        "the idea that large amount of earth or rock moves",
         "Recast the original phrase with a synonym or a more formal structure.",
-        205.37,
-        214.37
+        203.44,
+        212.44
       ],
       [
-        "gets swept inland and produces widespread flooding",
-        "the idea that gets swept inland and produces widespread flooding",
+        "hear again from my colleague Darren Bett",
+        "the idea that hear again from my colleague Darren Bett",
         "Recast the original phrase with a synonym or a more formal structure.",
-        233.74,
-        242.74
+        234.15,
+        243.15
       ],
       [
-        "Sarah Keith-Lucas Darren talked about storm surges",
-        "the idea that sarah Keith-Lucas Darren talked about storm surges",
+        "word casualty , and this is used to",
+        "the idea that word casualty , and this is used to",
         "Recast the original phrase with a synonym or a more formal structure.",
-        268.09,
-        277.09
+        265.84,
+        274.84
       ],
       [
-        "quiz question you asked earlier",
-        "the idea that quiz question you asked earlier",
+        "get destroyed, people can drown",
+        "obtain destroyed, individuals can drown",
         "Recast the original phrase with a synonym or a more formal structure.",
-        300.66,
-        309.66
+        297.85,
+        306.85
       ],
       [
-        "small increase in average temperature can lead",
-        "the idea that small increase in average temperature can lead",
+        "places are warming much quicker than",
+        "the idea that places are warming much quicker than",
         "Recast the original phrase with a synonym or a more formal structure.",
-        333.61,
-        342.61
+        335.72,
+        344.72
       ]
     ]
   },
@@ -4682,74 +4682,74 @@ export const bbcLevel2ExtraAcademic = [
     ],
     "paraphrases": [
       [
-        "Netherlands' cycle network spreads over 95,000 miles",
-        "the idea that netherlands' cycle network spreads over 95,000 miles",
+        "country that's world famous for its bikes",
+        "the idea that country that's world famous for its bikes",
         "Recast the original phrase with a synonym or a more formal structure.",
-        50.24,
-        59.24
+        44.25,
+        53.25
       ],
       [
-        "correct answer later in the programme",
-        "the idea that correct answer later in the programme",
+        "I'm going to say c) 34 million",
+        "the idea that i'm going to say c) 34 million",
         "Recast the original phrase with a synonym or a more formal structure.",
-        73.3,
-        82.3
+        71.49,
+        80.49
       ],
       [
-        "toy for rich people to an everyday",
-        "toy for rich individuals to an everyday",
+        "industrial era, when bicycle manufacturing took off",
+        "the idea that industrial era, when bicycle manufacturing took off",
         "Recast the original phrase with a synonym or a more formal structure.",
-        103.95,
-        112.95
+        101.76,
+        110.76
       ],
       [
-        "phrasal verb meaning to suddenly become popular",
-        "the idea that phrasal verb meaning to suddenly become popular",
+        "During the 1890s, bike manufacturing took",
+        "the idea that during the 1890s, bike manufacturing took",
         "Recast the original phrase with a synonym or a more formal structure.",
-        135.58,
-        144.58
+        133.89,
+        142.89
       ],
       [
         "second destination is better known for cars",
         "the idea that second destination is better known for cars",
         "Recast the original phrase with a synonym or a more formal structure.",
-        159.32,
-        168.32
+        164.62,
+        173.62
       ],
       [
-        "ranked very high in those global rankings",
-        "the idea that ranked very high in those global rankings",
+        "quality of life and liveability",
+        "the idea that quality of life and liveability",
         "Recast the original phrase with a synonym or a more formal structure.",
-        193.95,
-        202.95
+        191.94,
+        200.94
       ],
       [
-        "Gulf cities are also interested in liveability",
-        "the idea that gulf cities are also interested in liveability",
+        "health when living in a particular place",
+        "the idea that health when living in a particular place",
         "Recast the original phrase with a synonym or a more formal structure.",
-        220.62,
-        229.62
+        220.97,
+        229.97
       ],
       [
-        "Dubai regularly hits 45 C",
-        "the idea that dubai regularly hits 45 C",
+        "course, there are big differences between the",
+        "course, there are substantial differences between the",
         "Recast the original phrase with a synonym or a more formal structure.",
-        250.07,
-        259.07
+        250.46,
+        259.46
       ],
       [
-        "mean an exact copy of something, which",
-        "the idea that mean an exact copy of something, which",
+        "Cycling in UAE isn't a copy and",
+        "the idea that cycling in UAE isn't a copy and",
         "Recast the original phrase with a synonym or a more formal structure.",
-        280.12,
-        289.12
+        281.35,
+        290.35
       ],
       [
-        "reminds me of your question, Becca",
-        "the idea that reminds me of your question, Becca",
+        "isn't the perfect solution for everyone, everywhere",
+        "the idea that isn't the perfect solution for everyone, everywhere",
         "Recast the original phrase with a synonym or a more formal structure.",
-        309.95,
-        318.95
+        307.82,
+        316.82
       ]
     ]
   },
@@ -4768,71 +4768,71 @@ export const bbcLevel2ExtraAcademic = [
         "here, who recently received a single emoji",
         "the idea that here, who recently received a single emoji",
         "Recast the original phrase with a synonym or a more formal structure.",
-        45.71,
-        54.71
+        47.44,
+        56.44
       ],
       [
-        "email was answered with a single emoji",
-        "the idea that email was answered with a single emoji",
+        "listener found it rude when their email",
+        "listener identified it rude when their email",
         "Recast the original phrase with a synonym or a more formal structure.",
-        77.76,
-        86.76
+        77.56,
+        86.56
       ],
       [
         "justify their job by listing five things",
         "the idea that justify their job by listing five things",
         "Recast the original phrase with a synonym or a more formal structure.",
-        109.47,
-        118.47
+        113.57,
+        122.57
       ],
       [
         "Here, psychologist Dr Emma Russell explains these",
         "the idea that here, psychologist Dr Emma Russell explains these",
         "Recast the original phrase with a synonym or a more formal structure.",
-        140.37,
-        149.37
+        145.62,
+        154.62
       ],
       [
         "flight response is when people try to",
         "flight response is when individuals try to",
         "Recast the original phrase with a synonym or a more formal structure.",
-        171.45,
-        180.45
+        177.86,
+        186.86
       ],
       [
         "example, a boss sends a group email",
         "the idea that example, a boss sends a group email",
         "Recast the original phrase with a synonym or a more formal structure.",
-        200.04,
-        209.04
+        207.51,
+        216.51
       ],
       [
-        "get work off their plate – another idiom",
-        "obtain work off their plate – another idiom",
+        "message or give a quick, unhelpful reply",
+        "the idea that message or give a quick, unhelpful reply",
         "Recast the original phrase with a synonym or a more formal structure.",
-        232.81,
-        241.81
+        235.42,
+        244.42
       ],
       [
-        "Because we're operating in these environments where",
-        "the idea that because we're operating in these environments where",
+        "Emma Russell said when she spoke to",
+        "the idea that emma Russell said when she spoke to",
         "Recast the original phrase with a synonym or a more formal structure.",
-        261.58,
-        270.58
+        264.61,
+        273.61
       ],
       [
-        "save your friendship or even your job",
-        "the idea that save your friendship or even your job",
+        "because you're doing too many things at",
+        "the idea that because you're doing too many things at",
         "Recast the original phrase with a synonym or a more formal structure.",
-        298.25,
-        307.25
+        293.44,
+        302.44
       ],
       [
-        "correct answer was Elon Musk",
-        "the idea that correct answer was Elon Musk",
+        "thought it might have been JD Vance",
+        "the idea that thought it might have been JD Vance",
         "Recast the original phrase with a synonym or a more formal structure.",
-        327.11,
-        336.11
+        330,
+        339
       ]
     ]
   },
@@ -4851,71 +4851,71 @@ export const bbcLevel2ExtraAcademic = [
         "children refuse to eat the food that's",
         "young people refuse to eat the food that's",
         "Recast the original phrase with a synonym or a more formal structure.",
-        47.83,
-        56.83
+        49.35,
+        58.35
       ],
       [
         "dinner time, Charlotte's children go through ups",
         "dinner time, Charlotte's young people go through ups",
         "Recast the original phrase with a synonym or a more formal structure.",
-        80.46,
-        89.46
+        82.99,
+        91.99
       ],
       [
-        "three experts on young children's eating habits",
-        "three experts on young young people's eating habits",
+        "parents make dinnertime something everyone enjoys",
+        "parents produce dinnertime something everyone enjoys",
         "Recast the original phrase with a synonym or a more formal structure.",
-        114.24,
-        123.24
+        110.7,
+        119.7
       ],
       [
-        "don't pressure your child to eat everything",
-        "the idea that don't pressure your child to eat everything",
+        "day, b) don't pressure your child to",
+        "the idea that day, b) don't pressure your child to",
         "Recast the original phrase with a synonym or a more formal structure.",
-        143.11,
-        152.11
+        146.96,
+        155.96
       ],
       [
-        "Here, Anne explains one reason why mealtimes",
-        "the idea that here, Anne explains one reason why mealtimes",
+        "Family Dinner Project, an organisation promoting children's",
+        "Family Dinner Project, an organisation promoting young people's",
         "Recast the original phrase with a synonym or a more formal structure.",
-        176.89,
-        185.89
+        175.61,
+        184.61
       ],
       [
-        "it's up to kids to decide whether",
-        "the idea that it's up to kids to decide whether",
+        "mean, parents can cook what they want",
+        "the idea that mean, parents can cook what they want",
         "Recast the original phrase with a synonym or a more formal structure.",
-        208.22,
-        217.22
+        209.1,
+        218.1
       ],
       [
-        "like Charlotte and Anne struggle at mealtimes",
-        "the idea that like Charlotte and Anne struggle at mealtimes",
+        "kids, controlling what they're willing to eat",
+        "the idea that kids, controlling what they're willing to eat",
         "Recast the original phrase with a synonym or a more formal structure.",
-        239.62,
-        248.62
+        238.07,
+        247.07
       ],
       [
-        "found the winning formula , which was rice",
-        "identified the winning formula , which was rice",
+        "daughter was born with allergies and it",
+        "the idea that daughter was born with allergies and it",
         "Recast the original phrase with a synonym or a more formal structure.",
-        271.48,
-        280.48
+        271.96,
+        280.96
       ],
       [
-        "parents help their children develop good eating",
-        "parents assist their young people develop good eating",
+        "something her daughter could safely eat – rice",
+        "the idea that something her daughter could safely eat – rice",
         "Recast the original phrase with a synonym or a more formal structure.",
-        306.19,
-        315.19
+        303.46,
+        312.46
       ],
       [
-        "go ahead and reveal the correct answer",
-        "the idea that go ahead and reveal the correct answer",
+        "create a stress-free atmosphere by not pressurising",
+        "the idea that create a stress-free atmosphere by not pressurising",
         "Recast the original phrase with a synonym or a more formal structure.",
-        337.74,
-        346.74
+        335.76,
+        344.76
       ]
     ]
   },
@@ -5017,71 +5017,71 @@ export const bbcLevel2ExtraAcademic = [
         "It's something that helps us navigate uncertain",
         "the idea that it's something that helps us navigate uncertain",
         "Recast the original phrase with a synonym or a more formal structure.",
-        50.23,
-        59.23
+        51.79,
+        60.79
       ],
       [
         "Ben says that endorsements work as a",
         "the idea that ben says that endorsements work as a",
         "Recast the original phrase with a synonym or a more formal structure.",
-        78.78,
-        87.78
+        81.21,
+        90.21
       ],
       [
         "Today we're talking about behavioural science",
         "the idea that today we're talking about behavioural science",
         "Recast the original phrase with a synonym or a more formal structure.",
-        107.03,
-        116.03
+        110.32,
+        119.32
       ],
       [
-        "Here's product designer Dean Ward speaking to",
-        "the idea that here's product designer Dean Ward speaking to",
+        "reported taking more money as a result",
+        "reported taking a greater amount money as a result",
         "Recast the original phrase with a synonym or a more formal structure.",
-        142.26,
-        151.26
+        139.67,
+        148.67
       ],
       [
-        "see the product, you can see what's",
-        "the idea that see the product, you can see what's",
+        "There's the fact that you've got more",
+        "There's the fact that you've got a greater amount",
         "Recast the original phrase with a synonym or a more formal structure.",
-        173.31,
-        182.31
+        174.08,
+        183.08
       ],
       [
-        "means that they worry what other people",
-        "means that they worry what other individuals",
+        "increased basket spend of typically 25–30%",
+        "the idea that increased basket spend of typically 25–30%",
         "Recast the original phrase with a synonym or a more formal structure.",
-        204.87,
-        213.87
+        205.23,
+        214.23
       ],
       [
-        "basket spend is the total amount that",
-        "the idea that basket spend is the total amount that",
+        "buy larger portions, more drinks, or dessert",
+        "buy larger portions, a greater amount drinks, or dessert",
         "Recast the original phrase with a synonym or a more formal structure.",
-        234.66,
-        243.66
+        233.52,
+        242.52
       ],
       [
-        "Takwa Khelifi from the World Food Programme",
-        "the idea that takwa Khelifi from the World Food Programme",
+        "World Food Programme wanted to encourage people",
+        "World Food Programme wanted to encourage individuals",
         "Recast the original phrase with a synonym or a more formal structure.",
-        267.32,
-        276.32
+        265.06,
+        274.06
       ],
       [
-        "tried this product or this TV series",
-        "the idea that tried this product or this TV series",
+        "imitating and modelling and, like, observing others",
+        "the idea that imitating and modelling and, like, observing others",
         "Recast the original phrase with a synonym or a more formal structure.",
-        299.69,
-        308.69
+        296.14,
+        305.14
       ],
       [
-        "think it's time to hear the answer",
-        "consider it's time to hear the answer",
+        "programme leads to people modelling behaviour",
+        "programme leads to individuals modelling behaviour",
         "Recast the original phrase with a synonym or a more formal structure.",
-        325.74,
-        334.74
+        325.33,
+        334.33
       ]
     ]
   },
@@ -5097,74 +5097,74 @@ export const bbcLevel2ExtraAcademic = [
     ],
     "paraphrases": [
       [
-        "stroke, for the programme programme People Fixing",
-        "stroke, for the programme programme individuals Fixing",
+        "reporter Maria recites her open mic poem",
+        "the idea that reporter Maria recites her open mic poem",
         "Recast the original phrase with a synonym or a more formal structure.",
-        50.3,
-        59.3
+        46.15,
+        55.15
       ],
       [
-        "open mic night , people can really touch",
-        "open mic night , individuals can really touch",
+        "go to an open mic night , people",
+        "go to an open mic night , individuals",
         "Recast the original phrase with a synonym or a more formal structure.",
-        76.98,
-        85.98
+        78.82,
+        87.82
       ],
       [
         "usual, we'll learn some useful new words",
         "the idea that usual, we'll learn some useful new words",
         "Recast the original phrase with a synonym or a more formal structure.",
-        108.05,
-        117.05
+        111.66,
+        120.66
       ],
       [
-        "I'm going to say b) alliteration",
-        "the idea that i'm going to say b) alliteration",
+        "English degree might come in handy",
+        "the idea that english degree might come in handy",
         "Recast the original phrase with a synonym or a more formal structure.",
-        139.11,
-        148.11
+        140.46,
+        149.46
       ],
       [
-        "Here's Hot Poet Liv Torc, reciting her",
-        "the idea that here's Hot Poet Liv Torc, reciting her",
+        "like the UN Climate Conference and listen",
+        "the idea that like the UN Climate Conference and listen",
         "Recast the original phrase with a synonym or a more formal structure.",
-        177.66,
-        186.66
+        170.82,
+        179.82
       ],
       [
-        "complex research project that many find hard",
-        "the idea that complex research project that many find hard",
+        "Liv's poem is based on a study",
+        "the idea that liv's poem is based on a study",
         "Recast the original phrase with a synonym or a more formal structure.",
-        203.15,
-        212.15
+        205.22,
+        214.22
       ],
       [
-        "Science uses lots of jargon – specialist or",
-        "the idea that science uses lots of jargon – specialist or",
+        "science is quite impenetrable to normal people",
+        "science is quite impenetrable to normal individuals",
         "Recast the original phrase with a synonym or a more formal structure.",
-        235.89,
-        244.89
+        237.23,
+        246.23
       ],
       [
-        "something that people dislike or find uninteresting",
-        "something that individuals dislike or find uninteresting",
+        "scientific papers impenetrable , an adjective meaning impossible",
+        "the idea that scientific papers impenetrable , an adjective meaning impossible",
         "Recast the original phrase with a synonym or a more formal structure.",
-        264.17,
-        273.17
+        262.99,
+        271.99
       ],
       [
-        "goosebumps when I hear it now",
-        "the idea that goosebumps when I hear it now",
+        "Myra Anubi for the programme's People Fixing",
+        "Myra Anubi for the programme's individuals Fixing",
         "Recast the original phrase with a synonym or a more formal structure.",
-        299.93,
-        308.93
+        295.41,
+        304.41
       ],
       [
-        "Kat, it's making an impact for good",
-        "the idea that kat, it's making an impact for good",
+        "her skin stood up, making tiny bumps",
+        "the idea that her skin stood up, making tiny bumps",
         "Recast the original phrase with a synonym or a more formal structure.",
-        325.82,
-        334.82
+        329.98,
+        338.98
       ]
     ]
   },
@@ -5180,74 +5180,74 @@ export const bbcLevel2ExtraAcademic = [
     ],
     "paraphrases": [
       [
-        "bank, a credit card company, or another",
-        "the idea that bank, a credit card company, or another",
+        "pay back , usually to a bank, a",
+        "the idea that pay back , usually to a bank, a",
         "Recast the original phrase with a synonym or a more formal structure.",
-        47.34,
-        56.34
+        47.12,
+        56.12
       ],
       [
-        "Sometimes you need to take out loans",
-        "Sometimes you require to take out loans",
+        "jobs there are aren't enough to provide",
+        "the idea that jobs there are aren't enough to provide",
         "Recast the original phrase with a synonym or a more formal structure.",
-        79.59,
-        88.59
+        78.07,
+        87.07
       ],
       [
-        "give back the money you've borrowed",
-        "the idea that give back the money you've borrowed",
+        "pay back , pay off , and clear debt",
+        "the idea that pay back , pay off , and clear debt",
         "Recast the original phrase with a synonym or a more formal structure.",
-        109.51,
-        118.51
+        107.26,
+        116.26
       ],
       [
-        "out the answer later in the programme",
-        "the idea that out the answer later in the programme",
+        "2,200, b) £4,200, or c) £6,200",
+        "the idea that 2,200, b) £4,200, or c) £6,200",
         "Recast the original phrase with a synonym or a more formal structure.",
-        142.08,
-        151.08
+        143.12,
+        152.12
       ],
       [
-        "let people know that I was interested",
-        "let individuals know that I was interested",
+        "approach was to let people know that",
+        "approach was to let individuals know that",
         "Recast the original phrase with a synonym or a more formal structure.",
-        170.15,
-        179.15
+        175.15,
+        184.15
       ],
       [
-        "make ends meet means having just enough",
-        "produce ends meet means having just enough",
+        "monthly payment commitments – was part of daily",
+        "the idea that monthly payment commitments – was part of daily",
         "Recast the original phrase with a synonym or a more formal structure.",
-        208.52,
-        217.52
+        207.68,
+        216.68
       ],
       [
-        "low incomes, it can cause serious distress",
-        "the idea that low incomes, it can cause serious distress",
+        "residents, debt was a normal part of",
+        "the idea that residents, debt was a normal part of",
         "Recast the original phrase with a synonym or a more formal structure.",
-        238.44,
-        247.44
+        236.28,
+        245.28
       ],
       [
-        "supposed moral obligation to pay his debts",
-        "the idea that supposed moral obligation to pay his debts",
+        "other what he described as living on",
+        "the idea that other what he described as living on",
         "Recast the original phrase with a synonym or a more formal structure.",
-        265.22,
-        274.22
+        268.23,
+        277.23
       ],
       [
-        "Jason experienced financial strain – emotional stress caused",
-        "the idea that jason experienced financial strain – emotional stress caused",
+        "need by making regular small payments over",
+        "require by making regular small payments over",
         "Recast the original phrase with a synonym or a more formal structure.",
-        298.52,
-        307.52
+        298.58,
+        307.58
       ],
       [
-        "said it was around £2,200",
-        "the idea that said it was around £2,200",
+        "average amount of debt a British adult",
+        "the idea that average amount of debt a British adult",
         "Recast the original phrase with a synonym or a more formal structure.",
-        330.05,
-        339.05
+        334.11,
+        343.11
       ]
     ]
   },
@@ -5263,74 +5263,74 @@ export const bbcLevel2ExtraAcademic = [
     ],
     "paraphrases": [
       [
-        "World Health Organisation reports that by 2050",
-        "the idea that world Health Organisation reports that by 2050",
+        "overhead, modern cities are full of noise",
+        "the idea that overhead, modern cities are full of noise",
         "Recast the original phrase with a synonym or a more formal structure.",
-        50.93,
-        59.93
+        46.23,
+        55.23
       ],
       [
         "Sound is measured in units called decibels",
         "the idea that sound is measured in units called decibels",
         "Recast the original phrase with a synonym or a more formal structure.",
-        78.38,
-        87.38
+        81.24,
+        90.24
       ],
       [
-        "decibels higher than World Health Organisation recommendations",
-        "the idea that decibels higher than World Health Organisation recommendations",
+        "daytime noise levels regularly hit 80 decibels",
+        "the idea that daytime noise levels regularly hit 80 decibels",
         "Recast the original phrase with a synonym or a more formal structure.",
-        113.42,
-        122.42
+        112.19,
+        121.19
       ],
       [
-        "them it's the quiet, because after 12",
-        "the idea that them it's the quiet, because after 12",
+        "loud , we talk loud, we celebrate loud",
+        "the idea that loud , we talk loud, we celebrate loud",
         "Recast the original phrase with a synonym or a more formal structure.",
-        145.18,
-        154.18
+        140.62,
+        149.62
       ],
       [
-        "Chhavi returned to India after living overseas",
-        "the idea that chhavi returned to India after living overseas",
+        "wear clothes with bright colours and large",
+        "the idea that wear clothes with bright colours and large",
         "Recast the original phrase with a synonym or a more formal structure.",
-        170.99,
-        179.99
+        171.98,
+        180.98
       ],
       [
-        "Sound artist Charles Montambault lives near the",
-        "the idea that sound artist Charles Montambault lives near the",
+        "adding certain sounds to busy public spaces",
+        "the idea that adding certain sounds to busy public spaces",
         "Recast the original phrase with a synonym or a more formal structure.",
-        203.84,
-        212.84
+        204.14,
+        213.14
       ],
       [
-        "sand on the Magdalen Islands can sing",
-        "the idea that sand on the Magdalen Islands can sing",
+        "reporter Natasha Fernandes that these sounds included",
+        "the idea that reporter Natasha Fernandes that these sounds included",
         "Recast the original phrase with a synonym or a more formal structure.",
-        234.49,
-        243.49
+        234.69,
+        243.69
       ],
       [
-        "little quieter by adding some quiet noises",
-        "the idea that little quieter by adding some quiet noises",
+        "form of speakers planted in flower beds",
+        "the idea that form of speakers planted in flower beds",
         "Recast the original phrase with a synonym or a more formal structure.",
-        264.84,
-        273.84
+        266.53,
+        275.53
       ],
       [
-        "designed to give people an interactive experience",
-        "designed to give individuals an interactive experience",
+        "ocean waves and other relaxing sounds through",
+        "the idea that ocean waves and other relaxing sounds through",
         "Recast the original phrase with a synonym or a more formal structure.",
-        296.75,
-        305.75
+        297.56,
+        306.56
       ],
       [
-        "Neil, you asked me a question about",
-        "the idea that neil, you asked me a question about",
+        "similar soundscapes are now helping city dwellers",
+        "the idea that similar soundscapes are now helping city dwellers",
         "Recast the original phrase with a synonym or a more formal structure.",
-        326.08,
-        335.08
+        328.75,
+        337.75
       ]
     ]
   },
@@ -5349,71 +5349,71 @@ export const bbcLevel2ExtraAcademic = [
         "French author Marcel Proust, a book which",
         "the idea that french author Marcel Proust, a book which",
         "Recast the original phrase with a synonym or a more formal structure.",
-        46.15,
-        55.15
+        47.85,
+        56.85
       ],
       [
-        "We're born with the potential to do",
-        "the idea that we're born with the potential to do",
+        "think of reading as like speaking",
+        "consider of reading as like speaking",
         "Recast the original phrase with a synonym or a more formal structure.",
-        77.8,
-        86.8
+        77.81,
+        86.81
       ],
       [
-        "networks that allow our eyes to see",
-        "the idea that networks that allow our eyes to see",
+        "Scientific studies suggest that when we're born",
+        "the idea that scientific studies suggest that when we're born",
         "Recast the original phrase with a synonym or a more formal structure.",
-        110.53,
-        119.53
+        108.33,
+        117.33
       ],
       [
-        "brain involved in vision and auditory processing",
-        "the idea that brain involved in vision and auditory processing",
+        "build a reading brain network, we co-opt",
+        "the idea that build a reading brain network, we co-opt",
         "Recast the original phrase with a synonym or a more formal structure.",
-        140.69,
-        149.69
+        141.43,
+        150.43
       ],
       [
-        "read deeply, we change our brains and",
-        "read deeply, we alter our brains and",
+        "power of deep reading is really fundamental",
+        "the idea that power of deep reading is really fundamental",
         "Recast the original phrase with a synonym or a more formal structure.",
-        170.62,
-        179.62
+        171.23,
+        180.23
       ],
       [
-        "read means using lots of different parts",
-        "the idea that read means using lots of different parts",
+        "learn to read, we co-opt other parts",
+        "the idea that learn to read, we co-opt other parts",
         "Recast the original phrase with a synonym or a more formal structure.",
-        204.84,
-        213.84
+        200.94,
+        209.94
       ],
       [
-        "read these symbols activates different areas of",
-        "the idea that read these symbols activates different areas of",
+        "alphabet to represent words and ideas",
+        "the idea that alphabet to represent words and ideas",
         "Recast the original phrase with a synonym or a more formal structure.",
-        233.52,
-        242.52
+        235.98,
+        244.98
       ],
       [
-        "brain's circuit reflects the requirements of Chinese",
-        "the idea that brain's circuit reflects the requirements of Chinese",
+        "amazingly, he was still able to read",
+        "the idea that amazingly, he was still able to read",
         "Recast the original phrase with a synonym or a more formal structure.",
-        265.71,
-        274.71
+        264.65,
+        273.65
       ],
       [
-        "Inevitably means in a way that cannot",
-        "Inevitably means in a method that cannot",
+        "visual qualities of Chinese symbols inevitably mean",
+        "the idea that visual qualities of Chinese symbols inevitably mean",
         "Recast the original phrase with a synonym or a more formal structure.",
-        296.11,
-        305.11
+        298.88,
+        307.88
       ],
       [
-        "long sentences, including one with over 900",
-        "the idea that long sentences, including one with over 900",
+        "words – I asked you, Georgie, how many",
+        "the idea that words – I asked you, Georgie, how many",
         "Recast the original phrase with a synonym or a more formal structure.",
-        328.06,
-        337.06
+        327.47,
+        336.47
       ]
     ]
   },
@@ -7300,7 +7300,7 @@ export const bbcLevel2ExtraVocabulary = [
   ],
   [
     {
-      "term": "words and expressions used in a new",
+      "term": "us understand what's happening with extreme weather",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
@@ -7310,7 +7310,7 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Around 2C Phil I don't know",
+      "term": "c) Around 2C Phil I don't",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
@@ -7320,32 +7320,32 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "moving across as quickly, and that means",
+      "term": "Darren Bett Scientists also think storms are",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Darren also told us about landslides and",
+      "term": "Likelihood is the noun that we use",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Sarah Keith-Lucas Well, something else that is",
+      "term": "Phil What else causes loss of life",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "other, those storm surges could become even",
+      "term": "potentially could mean that a storm surge",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "storm surges can be up to 10",
+      "term": "sea level rises quickly pushed by the",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Sarah Keith-Lucas It's actually around one degree",
+      "term": "world's average temperature increased since 1970",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     }
@@ -7721,64 +7721,64 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "20 million, b) 24 million, or c",
+      "term": "country than its 18 million citizens",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Inquiry more about Dutch people's love of",
+      "term": "Meredith tells the programme programme The Inquiry",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Deeply ingrained are two words that go",
+      "term": "Cycling is deeply ingrained into Dutch culture",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "factories made bikes cheaper to buy",
+      "term": "became symbols of a new, comfortable style",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "consultant Martin Tillman, who lives in the",
+      "term": "explore tourist attractions in cities like Dubai",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "phrase quality of life refers to someone's",
+      "term": "Gulf cities like Dubai want a reputation",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "already built will make the city more",
+      "term": "Dubai's town planners are hoping the 600",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "paste of what is good in Holland",
+      "term": "Dubai is studying countries like the Netherlands",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Cycling isn't the perfect solution for everyone",
+      "term": "Dubai can't simply copy the Netherlands, and",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     }
   ],
   [
     {
-      "term": "without a simple greeting like 'hi",
+      "term": "name and without a simple greeting like",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "phrase to put someone on the defensive",
+      "term": "put her on the defensive",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "note, the noun that goes with this",
+      "term": "uncivil – an adjective meaning rude or impolite",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
@@ -7798,22 +7798,22 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "flight response, meanwhile, can be seen when",
+      "term": "place – an idiom meaning to show someone",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "deadline it's hard to make sure all",
+      "term": "own workload and give them to someone",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "because you're doing too many things at",
+      "term": "risk of engaging in incivility",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "sent the email requiring workers to justify",
+      "term": "Becca, I'm going to politely ask you",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     }
@@ -7825,7 +7825,7 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "through multiple periods of ups and downs",
+      "term": "go through multiple periods of ups and",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
@@ -7840,32 +7840,32 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "We'll find out the answer later in",
+      "term": "I'm going to go with c) introduce",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "you're eating can trigger so much tension",
+      "term": "Many parents say dinnertime can become a",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Anne thinks that's because it's one of",
+      "term": "Dinnertime often becomes a battleground – a place",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Sharon Wee, a food writer from Singapore",
+      "term": "body makes you sick after eating certain",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "eat, making cooking for the whole family",
+      "term": "first five years of her life",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "offering small, healthy snacks and dips before",
+      "term": "help their children develop good eating habits",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     }
@@ -7929,22 +7929,22 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "know, these people who help us learn",
+      "term": "people, it's about our teachers – you know",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "we're going to look at the way",
+      "term": "episode, we're going to look at the",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "recent years, many fast-food chains have installed",
+      "term": "I'm going to say b) pull theory",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "think there's definitely a large proportion of",
+      "term": "feeling judged – we think is a key",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
@@ -7954,22 +7954,22 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "upsell something, then you get someone to",
+      "term": "human for extra fries, we might worry",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "it's not just businesses that use behavioural",
+      "term": "business using behavioural science to nudge people",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "let people see themselves in those stories",
+      "term": "needed something really creative and really different",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "way, to come up with something creative",
+      "term": "series – in order that you impact people",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     }
@@ -7986,7 +7986,7 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "heal emotions and touch your soul , meaning",
+      "term": "Maria, poetry has the power to heal",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
@@ -7996,32 +7996,32 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "group helping people understand the science behind",
+      "term": "power to heal work in other areas",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "epic humanity fail Of overfishing and polluting",
+      "term": "adventure at sea, A big blue murder",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "there is an issue around the communication",
+      "term": "Anubi for the programme programme People Fixing",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "word precipitation, while in everyday English we",
+      "term": "quite different from everyday language",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "scientist whose study Liv based her poem",
+      "term": "making complex environmental ideas easy to understand",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Liv's poem gave Kat goosebumps , meaning she",
+      "term": "think it's everything that I wish I",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     }
@@ -8033,12 +8033,12 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "debt gets out of control, it causes",
+      "term": "day of the year for help with",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "means, like, five years paying them off",
+      "term": "way out, other than winning the lottery",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
@@ -8048,32 +8048,32 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "gave the fictional name Woldham",
+      "term": "spent months living in a low-income housing",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "many people in Woldham, Jason included, debt",
+      "term": "paid attention to where debt came up",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "arrears , a phrase meaning to still owe",
+      "term": "basic living expenses like food, bills and",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Jason actually fluctuated between wanting to clear",
+      "term": "Here, Ryan discusses how the residents he",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "living on the never-never , an informal phrase",
+      "term": "financial strain on him and his partner",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "many people and there are support groups",
+      "term": "meet his basic needs or to repay",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     }
@@ -8085,7 +8085,7 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "episode, we'll be hearing about ways to",
+      "term": "loud noise has been linked to stress",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
@@ -8095,89 +8095,89 @@ export const bbcLevel2ExtraVocabulary = [
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "city with the programme programme People Fixing",
+      "term": "Chhavi Sachdev share her experiences of living",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Chhavi says, \"Indians talk loud, celebrate loud",
+      "term": "got back, I realised I couldn't handle",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "interesting approach involves using sound itself to",
+      "term": "can't handle something, you find it difficult",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Islands in his city park back home",
+      "term": "Charles was inspired to recreate the ocean",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "busy roads, Charles and his team set",
+      "term": "sand makes some squeaky sounds, so that's",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "high-pitched sound called a squeak when stepped",
+      "term": "less noisy by adding some calmer sounds",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "something that's counterintuitive , meaning it happens differently",
+      "term": "relaxing sounds, Charles' art installation actually made",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     }
   ],
   [
     {
-      "term": "change our brains, and as usual we'll",
+      "term": "experts about how reading can change our",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "still think 13 million words sounds too",
+      "term": "3 million, or c) 13 million",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "think of language as natural , and reading",
+      "term": "Wolf, author of the book Reader Come",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "psychologist and neuroscientist Rebecca Gotlieb, speaking to",
+      "term": "Let's hear more from psychologist and neuroscientist",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "process of developing a reading brain alters",
+      "term": "involves activation in all four lobes of",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "because we don't have a part of",
+      "term": "Dedicated here means designed and used for",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "Chinese characters, for example, use symbols instead",
+      "term": "other things, and this changes our brain",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "affected parts of his brain, including his",
+      "term": "Scientists studied a bilingual man who could",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "brain's circuit is shaped by learning to",
+      "term": "inevitably means more visual memory and visual",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     },
     {
-      "term": "lots of detail, or certainly lots of",
+      "term": "Maryanne describes the symbolic Chinese characters as",
       "meaning": "cụm từ trọng tâm trong bài nghe",
       "note": "Review this phrase in the surrounding sentence and notice how the words connect in natural speech."
     }
