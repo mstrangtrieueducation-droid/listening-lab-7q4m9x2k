@@ -470,6 +470,12 @@ const weeklyAccess: Record<string, AccessConfig> = {
   "g9x0gshmu2l9": { level: 2, week: 8, lessonIndex: 17 },
   "lwoc5x4tv416": { level: 2, week: 9, lessonIndex: 18 },
   "cztd3lpqg5co": { level: 2, week: 10, lessonIndex: 19 },
+  // Preserve every original Video 1–4 URL after replacing the synthetic lessons.
+  "c5f2a9d7e1b4": { level: 1, week: 3, lessonIndex: 2 },
+  "f8a1c6e3d9b2": { level: 1, week: 4, lessonIndex: 3 },
+  "4d8a2f6c1e9b": { level: 2, week: 2, lessonIndex: 11 },
+  "7b1e9c3a5d8f": { level: 2, week: 3, lessonIndex: 12 },
+  "2c6f8a4e1d7b": { level: 2, week: 4, lessonIndex: 13 },
   "r1v7k3m9q5x2": { level: 1, week: 1, lessonIndex: 0 },
   "v4m8q2s7k1d6": { level: 1, week: 2, lessonIndex: 1 },
   "t8n2c6p4w9h1": { level: 2, week: 1, lessonIndex: 10 },
