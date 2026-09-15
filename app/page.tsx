@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import brandLogo from "../../work/vocabulary-reading-web-publish/ms-trang-trieu-education-logo.png";
+import { voaLevel1Academic, voaLevel1Lessons, voaLevel1Vocabulary } from "./voa-level1.generated";
 import {
   generatedLevel1Academic,
   generatedLevel1Lessons,
@@ -12,7 +13,7 @@ import {
 } from "./real-course.generated";
 
 type LessonMedia = {
-  videoSrc: string; posterSrc: string; duration: number; segments: [number, number][];
+  kind?: "audio" | "video"; videoSrc: string; posterSrc: string; duration: number; segments: [number, number][];
   sourceTitle: string; sourceUrl: string; credit: string; aspectRatio?: string;
 };
 
@@ -429,22 +430,22 @@ const realSourceVocabulary: VocabularyNote[][] = [
 // Fighter Listening now starts with verified real-human sources. The earlier
 // synthetic practice drafts stay outside the student-facing lesson catalogue.
 const lessons: Lesson[] = [
-  realSourceLessons[0], realSourceLessons[2], ...(generatedLevel1Lessons as Lesson[]),
+  ...(voaLevel1Lessons as unknown as Lesson[]),
   realSourceLessons[1], ...(generatedLevel2Lessons as Lesson[]),
 ];
 const academicBridge: AcademicNote[] = [
-  realSourceAcademicBridge[0], realSourceAcademicBridge[2], ...(generatedLevel1Academic as AcademicNote[]),
+  ...(voaLevel1Academic as unknown as AcademicNote[]),
   realSourceAcademicBridge[1], ...(generatedLevel2Academic as AcademicNote[]),
 ];
 const lessonVocabulary: VocabularyNote[][] = [
-  realSourceVocabulary[0], realSourceVocabulary[2], ...generatedLevel1Vocabulary,
+  ...(voaLevel1Vocabulary as unknown as VocabularyNote[][]),
   realSourceVocabulary[1], ...generatedLevel2Vocabulary,
 ];
 
 const paraphraseOrder = [6, 1, 8, 0, 7, 3, 9, 4, 2, 5];
 const fighterClasses = ["FIGHTER 5", "FIGHTER 6", "FIGHTER 7", "FIGHTER 8", "FIGHTER 9"];
 const formLessonCodes = [
-  ...Array.from({ length: 10 }, (_, index) => `FL1-R${String(index + 1).padStart(2, "0")} · REAL HUMAN LISTENING`),
+  ...Array.from({ length: 50 }, (_, index) => `FL1-R${String(index + 1).padStart(2, "0")} · VOA REAL HUMAN LISTENING`),
   ...Array.from({ length: 10 }, (_, index) => `FL2-R${String(index + 1).padStart(2, "0")} · REAL HUMAN LISTENING`),
 ];
 const formQuestionEntries = ["493387", "166904167", "1986170864", "707260550", "1338229682", "562418472", "556434685", "1080689249", "1457708675", "1877689499"];
@@ -460,25 +461,65 @@ const weeklyAccess: Record<string, AccessConfig> = {
   "q6nb8x9v2w2j": { level: 1, week: 8, lessonIndex: 7 },
   "bwgjrh83btma": { level: 1, week: 9, lessonIndex: 8 },
   "6r292cch4964": { level: 1, week: 10, lessonIndex: 9 },
-  "8f3c1a7d9b2e": { level: 2, week: 1, lessonIndex: 10 },
-  "ts2txtumw2ow": { level: 2, week: 2, lessonIndex: 11 },
-  "hpedy2gq165c": { level: 2, week: 3, lessonIndex: 12 },
-  "60juxgy64kvj": { level: 2, week: 4, lessonIndex: 13 },
-  "9zzq6o7aavjr": { level: 2, week: 5, lessonIndex: 14 },
-  "7ojte6vwom5e": { level: 2, week: 6, lessonIndex: 15 },
-  "zbe725as3s8h": { level: 2, week: 7, lessonIndex: 16 },
-  "g9x0gshmu2l9": { level: 2, week: 8, lessonIndex: 17 },
-  "lwoc5x4tv416": { level: 2, week: 9, lessonIndex: 18 },
-  "cztd3lpqg5co": { level: 2, week: 10, lessonIndex: 19 },
+  "6e34fbb89327": { level: 1, week: 11, lessonIndex: 10 },
+  "535867210cdd": { level: 1, week: 12, lessonIndex: 11 },
+  "01b5c4dbe2e2": { level: 1, week: 13, lessonIndex: 12 },
+  "16ff8b81d24e": { level: 1, week: 14, lessonIndex: 13 },
+  "030da0d29e7b": { level: 1, week: 15, lessonIndex: 14 },
+  "0b26031584d4": { level: 1, week: 16, lessonIndex: 15 },
+  "8d16bc18c444": { level: 1, week: 17, lessonIndex: 16 },
+  "a3a71a40456f": { level: 1, week: 18, lessonIndex: 17 },
+  "92a612c825e9": { level: 1, week: 19, lessonIndex: 18 },
+  "c3b4246c0565": { level: 1, week: 20, lessonIndex: 19 },
+  "975faf904a70": { level: 1, week: 21, lessonIndex: 20 },
+  "18c59afcd5b7": { level: 1, week: 22, lessonIndex: 21 },
+  "2bf96ad092ba": { level: 1, week: 23, lessonIndex: 22 },
+  "c4a3b3933d49": { level: 1, week: 24, lessonIndex: 23 },
+  "fa7e6d70a7c0": { level: 1, week: 25, lessonIndex: 24 },
+  "2022a8b45f43": { level: 1, week: 26, lessonIndex: 25 },
+  "183c69f3525e": { level: 1, week: 27, lessonIndex: 26 },
+  "c7b56b33e487": { level: 1, week: 28, lessonIndex: 27 },
+  "d6c257dcf78b": { level: 1, week: 29, lessonIndex: 28 },
+  "99712f504cb9": { level: 1, week: 30, lessonIndex: 29 },
+  "8af57761c637": { level: 1, week: 31, lessonIndex: 30 },
+  "499719d9e2e4": { level: 1, week: 32, lessonIndex: 31 },
+  "7d30dc46423f": { level: 1, week: 33, lessonIndex: 32 },
+  "17b0b445117b": { level: 1, week: 34, lessonIndex: 33 },
+  "5d00de59b97b": { level: 1, week: 35, lessonIndex: 34 },
+  "bde47508716c": { level: 1, week: 36, lessonIndex: 35 },
+  "a56dd99d0817": { level: 1, week: 37, lessonIndex: 36 },
+  "b7972d3a5fec": { level: 1, week: 38, lessonIndex: 37 },
+  "d97fea14d4fd": { level: 1, week: 39, lessonIndex: 38 },
+  "f96214a3496f": { level: 1, week: 40, lessonIndex: 39 },
+  "562c0cc0b75b": { level: 1, week: 41, lessonIndex: 40 },
+  "96af51fa0cd6": { level: 1, week: 42, lessonIndex: 41 },
+  "b20f2bf80058": { level: 1, week: 43, lessonIndex: 42 },
+  "0c99a4d7b1ef": { level: 1, week: 44, lessonIndex: 43 },
+  "d523aea05e85": { level: 1, week: 45, lessonIndex: 44 },
+  "d45460c0290d": { level: 1, week: 46, lessonIndex: 45 },
+  "9dd0f3643da2": { level: 1, week: 47, lessonIndex: 46 },
+  "915929948791": { level: 1, week: 48, lessonIndex: 47 },
+  "2b8744a1dbab": { level: 1, week: 49, lessonIndex: 48 },
+  "943cf361e219": { level: 1, week: 50, lessonIndex: 49 },
+  "8f3c1a7d9b2e": { level: 2, week: 1, lessonIndex: 50 },
+  "ts2txtumw2ow": { level: 2, week: 2, lessonIndex: 51 },
+  "hpedy2gq165c": { level: 2, week: 3, lessonIndex: 52 },
+  "60juxgy64kvj": { level: 2, week: 4, lessonIndex: 53 },
+  "9zzq6o7aavjr": { level: 2, week: 5, lessonIndex: 54 },
+  "7ojte6vwom5e": { level: 2, week: 6, lessonIndex: 55 },
+  "zbe725as3s8h": { level: 2, week: 7, lessonIndex: 56 },
+  "g9x0gshmu2l9": { level: 2, week: 8, lessonIndex: 57 },
+  "lwoc5x4tv416": { level: 2, week: 9, lessonIndex: 58 },
+  "cztd3lpqg5co": { level: 2, week: 10, lessonIndex: 59 },
   // Preserve every original Video 1–4 URL after replacing the synthetic lessons.
   "c5f2a9d7e1b4": { level: 1, week: 3, lessonIndex: 2 },
   "f8a1c6e3d9b2": { level: 1, week: 4, lessonIndex: 3 },
-  "4d8a2f6c1e9b": { level: 2, week: 2, lessonIndex: 11 },
-  "7b1e9c3a5d8f": { level: 2, week: 3, lessonIndex: 12 },
-  "2c6f8a4e1d7b": { level: 2, week: 4, lessonIndex: 13 },
+  "4d8a2f6c1e9b": { level: 2, week: 2, lessonIndex: 51 },
+  "7b1e9c3a5d8f": { level: 2, week: 3, lessonIndex: 52 },
+  "2c6f8a4e1d7b": { level: 2, week: 4, lessonIndex: 53 },
   "r1v7k3m9q5x2": { level: 1, week: 1, lessonIndex: 0 },
   "v4m8q2s7k1d6": { level: 1, week: 2, lessonIndex: 1 },
-  "t8n2c6p4w9h1": { level: 2, week: 1, lessonIndex: 10 },
+  "t8n2c6p4w9h1": { level: 2, week: 1, lessonIndex: 50 },
 };
 
 const norm = (value: string) => value.toLowerCase().replace(/[.,’']/g, "").replace(/\s+/g, " ").trim();
@@ -500,7 +541,7 @@ export default function Home() {
   const [recordStatus, setRecordStatus] = useState<"idle" | "saving" | "saved" | "error">("idle");
   const [speaking, setSpeaking] = useState(false);
   const [paused, setPaused] = useState(false);
-  const [rate, setRate] = useState(.9);
+  const rate = 1;
   const [segment, setSegment] = useState("all");
   const [paraChoices, setParaChoices] = useState<number[]>(Array(10).fill(-1));
   const [studentName, setStudentName] = useState("");
@@ -686,20 +727,22 @@ export default function Home() {
 
   return <main>
     <nav><a className="brand" href="#top"><img src={typeof brandLogo === "string" ? brandLogo : brandLogo.src} alt="Ms. Trang Trieu Education"/><b>FIGHTER LISTENING</b></a><div className="nav-meta"><span>ONE DAY · ONE STORY</span><b>GRADE 8–9</b></div></nav>
-    <header id="top"><div className="eyebrow">REAL-SOURCE ACADEMIC LISTENING · 4–6 MINUTES</div><h1>One lesson.<br/><em>One clear world.</em></h1><p className="intro">VOA · BBC · real presenters and expert interviews. Mỗi video là một bài nghe độc lập với 25 cụm chính tả, ngôn ngữ học thuật, signposting và paraphrase practice.</p></header>
+    <header id="top"><div className="eyebrow">REAL-SOURCE ACADEMIC LISTENING · FULL REPORTS</div><h1>One lesson.<br/><em>One clear world.</em></h1><p className="intro">VOA · BBC · real presenters and expert interviews. Mỗi bài là một ngữ liệu độc lập với 25 cụm chính tả, ngôn ngữ học thuật, signposting và paraphrase practice.</p></header>
 
-    <section className={`student-panel ${studentReady ? "ready" : ""}`} aria-label="Student information"><div><span>STUDENT CHECK-IN{accessConfig ? ` · LEVEL ${accessConfig.level} · VIDEO ${accessConfig.week}` : ""}</span><h2>{!accessConfig ? "Liên kết bài học không hợp lệ." : studentReady ? `${studentName} · ${studentClass}` : "Điền đủ thông tin để mở bài nghe."}</h2></div><label>HỌ VÀ TÊN<input disabled={!accessConfig || submitted} value={studentName} onChange={e => { setStudentName(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }} placeholder="Nhập đầy đủ họ tên" /></label><label>LỚP<select disabled={!accessConfig || submitted} value={studentClass} onChange={e => { setStudentClass(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }}><option value="">— Chọn lớp FIGHTER —</option>{fighterClasses.map(name => <option value={name} key={name}>{name}</option>)}</select></label><button className="start-week" disabled={!accessConfig || !studentName.trim() || !studentClass || submitted} onClick={openLesson}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP" : studentReady ? "✓ BÀI ĐÃ MỞ" : `MỞ VIDEO${accessConfig ? ` ${accessConfig.week}` : ""} →`}</button></section>
+    <section className={`student-panel ${studentReady ? "ready" : ""}`} aria-label="Student information"><div><span>STUDENT CHECK-IN{accessConfig ? ` · LEVEL ${accessConfig.level} · VIDEO ${accessConfig.week}` : ""}</span><h2>{!accessConfig ? "Liên kết bài học không hợp lệ." : studentReady ? `${studentName} · ${studentClass}` : "Điền đủ thông tin để mở bài nghe."}</h2></div><label>HỌ VÀ TÊN<input disabled={!accessConfig || submitted} value={studentName} onChange={e => { setStudentName(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }} placeholder="Nhập đầy đủ họ tên" /></label><label>LỚP<select disabled={!accessConfig || submitted} value={studentClass} onChange={e => { setStudentClass(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }}><option value="">— Chọn lớp FIGHTER —</option>{fighterClasses.map(name => <option value={name} key={name}>{name}</option>)}</select></label><button className="start-week" disabled={!accessConfig || !studentName.trim() || !studentClass || submitted} onClick={openLesson}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP" : studentReady ? "✓ BÀI ĐÃ MỞ" : `MỞ BÀI${accessConfig ? ` ${accessConfig.week}` : ""} →`}</button></section>
 
     {!studentReady && <section className="locked-message"><b>🔒 BÀI NGHE ĐANG KHÓA</b><p>{accessConfig ? "Học sinh cần nhập họ tên và chọn đúng lớp FIGHTER ở trên." : "Vui lòng sử dụng đúng đường link do giáo viên cung cấp."}</p></section>}
     {studentReady && <>
     <section className="lesson-hero"><div><span>{lesson.day} · {lesson.category}</span><h2>{lesson.title}</h2><p>{lesson.kicker}</p></div><strong>{lesson.answers.length}<small>GAPS</small></strong></section>
 
-    {lesson.media ? <section className="real-video-player" aria-label="Real source video player">
-      <div className="video-stage" style={{ aspectRatio: lesson.media.aspectRatio || "64 / 31" }}>
+    {lesson.media ? <section className="real-video-player" aria-label="Real source media player">
+      <div className={`video-stage ${lesson.media.kind === "audio" ? "audio-stage" : ""}`} style={{ aspectRatio: lesson.media.aspectRatio || "64 / 31" }}>
+        {lesson.media.kind === "audio" && <div className="audio-artwork" aria-hidden="true"><span>VOA</span><b>LEARNING ENGLISH</b><small>REAL HUMAN REPORT</small><i></i></div>}
         <video
           ref={videoRef}
+          className={lesson.media.kind === "audio" ? "audio-element" : ""}
           crossOrigin="anonymous"
-          preload="none"
+          preload="metadata"
           poster={lesson.media.posterSrc}
           playsInline
           onClick={togglePause}
@@ -708,19 +751,19 @@ export default function Home() {
           onPlay={() => { setSpeaking(true); setPaused(false); }}
           onPause={() => setSpeaking(false)}
           onEnded={() => { clipEndRef.current = null; setSpeaking(false); setPaused(false); }}
-        ><source src={lesson.media.videoSrc} type="video/mp4" /></video>
-        <button className="video-main-button" onClick={togglePause}>{speaking && !paused ? "Ⅱ" : "▶"}<span>{speaking && !paused ? "PAUSE" : paused ? "CONTINUE" : "PLAY VIDEO"}</span></button>
+        ><source src={lesson.media.videoSrc} type={lesson.media.kind === "audio" ? "audio/mpeg" : "video/mp4"} /></video>
+        <button className="video-main-button" onClick={togglePause}>{speaking && !paused ? "Ⅱ" : "▶"}<span>{speaking && !paused ? "PAUSE" : paused ? "CONTINUE" : lesson.media.kind === "audio" ? "PLAY REPORT" : "PLAY VIDEO"}</span></button>
       </div>
       <div className="video-controls">
         <button onClick={() => { const video = videoRef.current; if (video) { video.currentTime = 0; setVideoTime(0); } startAudio("all"); }}>↺ REPLAY</button>
-        <label className="video-progress"><span>{formatTime(videoTime)}</span><input aria-label="Video position" type="range" min="0" max={videoDuration || lesson.media.duration} step="0.1" value={Math.min(videoTime, videoDuration || lesson.media.duration)} onChange={event => { const video = videoRef.current; const next = Number(event.target.value); clipEndRef.current = null; if (video) video.currentTime = next; setVideoTime(next); }} /><span>{formatTime(videoDuration || lesson.media.duration)}</span></label>
-        <label className="video-speed">SPEED<select value={rate} onChange={event => { const next = Number(event.target.value); setRate(next); if (videoRef.current) videoRef.current.playbackRate = next; }}><option value="0.8">0.8×</option><option value="0.9">0.9×</option><option value="1">1.0×</option></select></label>
+        <label className="video-progress"><span>{formatTime(videoTime)}</span><input aria-label="Media position" type="range" min="0" max={videoDuration || lesson.media.duration} step="0.1" value={Math.min(videoTime, videoDuration || lesson.media.duration)} onChange={event => { const video = videoRef.current; const next = Number(event.target.value); clipEndRef.current = null; if (video) video.currentTime = next; setVideoTime(next); }} /><span>{formatTime(videoDuration || lesson.media.duration)}</span></label>
+        <div className="video-speed">SPEED <b>1.0×</b></div>
         <label className="video-volume">VOL<input aria-label="Volume" type="range" min="0" max="1" step="0.05" value={volume} onChange={event => { const next = Number(event.target.value); setVolume(next); if (videoRef.current) videoRef.current.volume = next; }} /></label>
       </div>
       <div className="source-credit"><b>REAL HUMAN SOURCE</b><span>{lesson.media.credit}</span><small>Nghe bằng tai và điền trực tiếp vào transcript bên dưới.</small></div>
-    </section> : <section className="listening-console" aria-label="Audio controls"><div className="console-heading"><div><span>CHOOSE WHAT TO HEAR</span><h3>{segment === "all" ? "Full report" : `Part ${Number(segment) + 1} of 4`}</h3></div><label>SPEED<select value={rate} onChange={e => { stopAudio(); setRate(Number(e.target.value)); }}><option value="0.78">0.8×</option><option value="0.9">0.9×</option><option value="1">1.0×</option></select></label></div><div className="segment-buttons"><button className={segment === "all" ? "active" : ""} onClick={() => chooseSegment("all")}>▶ FULL AUDIO</button>{lesson.paragraphs.map((_, i) => <button className={segment === String(i) ? "active" : ""} onClick={() => chooseSegment(String(i))} key={i}>▶ PART {i + 1}</button>)}</div><div className="transport"><button className="pause" onClick={togglePause}>{!speaking ? "▶ START LISTENING" : paused ? "▶ RESUME" : "Ⅱ PAUSE"}</button><button onClick={() => startAudio()}>↺ REPLAY SELECTED PART</button><span>{speaking ? paused ? "PAUSED" : "NOW PLAYING" : "READY"}</span></div></section>}
+    </section> : <section className="listening-console" aria-label="Audio controls"><div className="console-heading"><div><span>CHOOSE WHAT TO HEAR</span><h3>{segment === "all" ? "Full report" : `Part ${Number(segment) + 1} of 4`}</h3></div><div className="video-speed">SPEED <b>1.0×</b></div></div><div className="segment-buttons"><button className={segment === "all" ? "active" : ""} onClick={() => chooseSegment("all")}>▶ FULL AUDIO</button>{lesson.paragraphs.map((_, i) => <button className={segment === String(i) ? "active" : ""} onClick={() => chooseSegment(String(i))} key={i}>▶ PART {i + 1}</button>)}</div><div className="transport"><button className="pause" onClick={togglePause}>{!speaking ? "▶ START LISTENING" : paused ? "▶ RESUME" : "Ⅱ PAUSE"}</button><button onClick={() => startAudio()}>↺ REPLAY SELECTED PART</button><span>{speaking ? paused ? "PAUSED" : "NOW PLAYING" : "READY"}</span></div></section>}
 
-    <div className="instructions"><b>DICTATION MISSION</b><p>{lesson.media ? "Xem video liền mạch và điền trực tiếp 25 cụm từ còn thiếu vào transcript bên dưới. Có thể tua và nghe lại không giới hạn." : "Nghe toàn bài trước. Sau đó chọn từng Part để chép chính xác 25 cụm từ. Có thể nghe lại không giới hạn."}</p><span>25 POINTS</span></div>
+    <div className="instructions"><b>DICTATION MISSION</b><p>{lesson.media ? "Nghe bản tin liền mạch và điền trực tiếp 25 cụm từ còn thiếu vào transcript bên dưới. Có thể tua và nghe lại không giới hạn." : "Nghe toàn bài trước. Sau đó chọn từng Part để chép chính xác 25 cụm từ. Có thể nghe lại không giới hạn."}</p><span>25 POINTS</span></div>
 
     <section className="worksheet"><div className="worksheet-head"><span>{lesson.media ? "VIDEO TRANSCRIPT" : "FULL DICTATION"}</span><h2>Write exactly what you hear.</h2><p>Spelling, word forms, apostrophes and numbers all matter.</p></div>{lesson.paragraphs.map((text, i) => <article key={i}><div className="part-label"><b>{lesson.media ? `TRANSCRIPT · ${String(i + 1).padStart(2, "0")}` : `PART ${i + 1}`}</b>{!lesson.media && <button onClick={() => chooseSegment(String(i))}>▶ PLAY PART {i + 1}</button>}</div><p>{renderText(text)}</p></article>)}</section>
 
