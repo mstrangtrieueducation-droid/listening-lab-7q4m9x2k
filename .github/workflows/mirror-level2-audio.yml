@@ -1,0 +1,87 @@
+name: Mirror Level 2 audio
+
+on:
+  push:
+    branches: [codex/real-source-trials]
+    paths:
+      - .github/workflows/mirror-level2-audio.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror-level2-audio
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check out lesson source
+        uses: actions/checkout@v4
+        with:
+          ref: codex/real-source-trials
+          path: source
+
+      - name: Check out published site
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: site
+
+      - name: Install audio converter
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Download and convert all Level 2 audio
+        shell: python
+        run: |
+          import pathlib
+          import re
+          import subprocess
+
+          source = pathlib.Path("source")
+          page = (source / "app/page.tsx").read_text(encoding="utf-8")
+          course = (source / "app/real-course.generated.ts").read_text(encoding="utf-8")
+          extra = (source / "app/bbc-level2-extra.generated.ts").read_text(encoding="utf-8")
+
+          real_section = page[page.index("const realSourceLessons"):page.index("const realSourceAcademicBridge")]
+          real_urls = re.findall(r'videoSrc:\s*"([^"]+)"', real_section)
+          generated_section = course[course.index("export const generatedLevel2Lessons"):course.index("export const generatedLevel2Academic")]
+          generated_urls = re.findall(r'"videoSrc":\s*"([^"]+)"', generated_section)
+          extra_urls = re.findall(r'"videoSrc":\s*"(https://downloads\.bbc\.co\.uk/[^"]+\.mp3)"', extra)
+          urls = [real_urls[1], *generated_urls, *extra_urls]
+          if len(real_urls) != 3 or len(generated_urls) != 9 or len(extra_urls) != 40 or len(urls) != 50:
+              raise SystemExit(f"Expected 3/9/40 source URLs, found {len(real_urls)}/{len(generated_urls)}/{len(extra_urls)}")
+
+          output_dir = pathlib.Path("site/media/level2")
+          output_dir.mkdir(parents=True, exist_ok=True)
+          temp_dir = pathlib.Path("audio-work")
+          temp_dir.mkdir(exist_ok=True)
+
+          for number, url in enumerate(urls, start=1):
+              raw = temp_dir / f"l2-{number:02d}.source"
+              output = output_dir / f"l2-{number:02d}.mp3"
+              print(f"[{number:02d}/50] downloading")
+              subprocess.run([
+                  "curl", "-fL", "--retry", "5", "--retry-all-errors", "--retry-delay", "3",
+                  "-A", "Mozilla/5.0", "-o", str(raw), url
+              ], check=True)
+              subprocess.run([
+                  "ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(raw),
+                  "-vn", "-ac", "1", "-ar", "44100", "-codec:a", "libmp3lame", "-b:a", "96k", str(output)
+              ], check=True)
+              if output.stat().st_size < 100_000:
+                  raise SystemExit(f"Audio output is unexpectedly small: {output}")
+              raw.unlink()
+
+      - name: Publish MP3 files to the site branch
+        working-directory: site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config http.postBuffer 524288000
+          git add media/level2/*.mp3
+          git commit -m "Host fifty Level 2 listening audio files"
+          git push origin HEAD:main

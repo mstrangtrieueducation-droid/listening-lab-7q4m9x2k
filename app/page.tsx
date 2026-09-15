@@ -505,14 +505,30 @@ const sanitizeAcademic = (source: AcademicNote): AcademicNote => ({
 });
 const sanitizeVocabulary = (items: VocabularyNote[]) => items.map(item => ({ ...item, note: hideSourceNames(item.note) }));
 
-const existingLevel2Lessons = ([realSourceLessons[1], ...generatedLevel2Lessons] as unknown as Lesson[]).map(lesson => expandToGapCount(sanitizeLesson(lesson), 40));
+const localLevel2Audio = (lesson: Lesson, index: number): Lesson => ({
+  ...lesson,
+  media: lesson.media ? {
+    ...lesson.media,
+    kind: "audio",
+    videoSrc: `media/level2/l2-${String(index + 1).padStart(2, "0")}.mp3`,
+    posterSrc: "",
+    aspectRatio: "16 / 7",
+  } : undefined,
+});
+
+const existingLevel2Lessons = ([realSourceLessons[1], ...generatedLevel2Lessons] as unknown as Lesson[])
+  .map(lesson => expandToGapCount(sanitizeLesson(lesson), 40))
+  .map((lesson, index) => localLevel2Audio(lesson, index));
+const extraLevel2Lessons = (bbcLevel2ExtraLessons as unknown as Lesson[])
+  .map(sanitizeLesson)
+  .map((lesson, index) => localLevel2Audio(lesson, index + existingLevel2Lessons.length));
 
 // Every student link opens one lesson only. Source brands and source URLs are
 // deliberately omitted from the student-facing catalogue.
 const lessons: Lesson[] = [
   ...(voaLevel1Lessons as unknown as Lesson[]).map(sanitizeLesson),
   ...existingLevel2Lessons,
-  ...(bbcLevel2ExtraLessons as unknown as Lesson[]).map(sanitizeLesson),
+  ...extraLevel2Lessons,
 ];
 const academicBridge: AcademicNote[] = [
   ...(voaLevel1Academic as unknown as AcademicNote[]).map(sanitizeAcademic),
