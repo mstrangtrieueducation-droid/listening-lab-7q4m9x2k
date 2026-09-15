@@ -16,7 +16,7 @@
         },
         {
           "role": "module",
-          "file": "index-d7c61f634e19.js"
+          "file": "index-474a7012aa2e.js"
         }
       ],
       "inline": []
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "file": "index-d7c61f634e19.js",
-      "sha256": "d7c61f634e196996a23a7de854ed1f995be6e8b22ed309328814140829eb512c",
+      "file": "index-474a7012aa2e.js",
+      "sha256": "474a7012aa2e05e65558f8e40777c2a38cea17e6cc6be6804b8268cd4be1cb3c",
       "requires": [
         "window.IELTSFighterDurable.prepare(",
         "window.IELTSFighterDurable.send(",
