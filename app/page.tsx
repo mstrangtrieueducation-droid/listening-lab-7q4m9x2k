@@ -698,6 +698,7 @@ export default function Home() {
       <div className="video-stage" style={{ aspectRatio: lesson.media.aspectRatio || "64 / 31" }}>
         <video
           ref={videoRef}
+          crossOrigin="anonymous"
           preload="none"
           poster={lesson.media.posterSrc}
           playsInline
