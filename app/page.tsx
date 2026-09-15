@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import brandLogo from "../../work/vocabulary-reading-web-publish/ms-trang-trieu-education-logo.png";
 import { voaLevel1Academic, voaLevel1Lessons, voaLevel1Vocabulary } from "./voa-level1.generated";
+import { bbcLevel2ExtraAcademic, bbcLevel2ExtraLessons, bbcLevel2ExtraVocabulary } from "./bbc-level2-extra.generated";
 import {
   generatedLevel1Academic,
   generatedLevel1Lessons,
@@ -271,13 +272,13 @@ const level1LessonVocabulary: VocabularyNote[][] = [
 const realSourceLessons: Lesson[] = [
   {
     day: "REAL VOICE 01", category: "SCIENCE & HEALTH", title: "What does a phone do to the brain?",
-    kicker: "A real VOA health report separates a measurable brain response from claims the study cannot yet prove.", level: "B1+ · 3:59 · REAL HUMAN SPEECH",
+    kicker: "A real-human report separates a measurable brain response from claims the study cannot yet prove.", level: "B1+ · 3:59 · REAL HUMAN SPEECH",
     answers: ["mobile phone", "all the time", "proven beyond question", "radio signals", "brain cancer", "government scientists", "at least 50 minutes", "brain cell activity", "meaning of their findings", "National Institute on Drug Abuse", "cell phone exposure", "long-lasting effects", "47 healthy volunteers", "placed against both ears", "activated but muted", "both phones turned off", "closest to the activated phone", "increase in metabolism", "radio frequencies", "activate the human brain", "used sugar to produce energy", "seven percent higher", "a wired headset", "settle questions", "epidemiological studies"],
     paragraphs: [
-      "I'm Carolyn Presutti with the VOA Special English Health Report. How important is your [1], better known to Americans as a cell phone? Many people say they use the device [2]. So far, no studies have [3] that the [4] from cell phones cause [5] or other health problems. But a new study by [6] in the United States has some people wondering what to think.",
+      "I'm Carolyn Presutti with the the original programme Health Report. How important is your [1], better known to Americans as a cell phone? Many people say they use the device [2]. So far, no studies have [3] that the [4] from cell phones cause [5] or other health problems. But a new study by [6] in the United States has some people wondering what to think.",
       "The scientists found that holding a cell phone to your ear for [7] increases [8]. Even the scientists themselves are not sure about the [9]. Dr. Nora Volkow led the study. She heads the [10], part of the National Institutes of Health. Dr. Volkow says she would not be concerned that 50 minutes of [11] would harm anyone. But she says the research does show the need to study whether there are [12] of repeated exposure over several years.",
       "Her team studied [13] in 2009. The volunteers had cell phones [14] while the scientists made images of their brain activity. As part of the test, one phone was [15] for 50 minutes. The other phone was off. After that, the people were tested with [16]. Dr. Volkow says the brain scans showed increased activity in brain cells [17]. She said the right area of the brain that was very close to the antenna showed the largest [18] compared to when the telephones were off.",
-      "Even though the [19] emitted from current cell phones are very weak, they are able to [20]. The scans showed how the brain cells [21], a normal activity. The activity was [22] in areas of the brain closest to the cell phone antenna. Experts say people who are concerned about mobile phones can take steps like using [23]. Dr. Giuseppe Esposito is a nuclear medicine expert at Georgetown University Medical Center in Washington. He says better kinds of research are still needed to [24] about cell phone safety. These studies would take years. He said there should be [25] of a population of high users or light users of cell phones and then see what happens over the years. For VOA Special English, I'm Carolyn Presutti."
+      "Even though the [19] emitted from current cell phones are very weak, they are able to [20]. The scans showed how the brain cells [21], a normal activity. The activity was [22] in areas of the brain closest to the cell phone antenna. Experts say people who are concerned about mobile phones can take steps like using [23]. Dr. Giuseppe Esposito is a nuclear medicine expert at Georgetown University Medical Center in Washington. He says better kinds of research are still needed to [24] about cell phone safety. These studies would take years. He said there should be [25] of a population of high users or light users of cell phones and then see what happens over the years. For the original programme, I'm Carolyn Presutti."
     ],
     essay: { question: "", plan: [], language: [] },
     media: {
@@ -286,13 +287,13 @@ const realSourceLessons: Lesson[] = [
       duration: 238.63,
       segments: [[0, 36.8], [36.8, 88.9], [88.9, 163.1], [163.1, 238.63]],
       sourceTitle: "After Brain Study, New Questions About Mobile Phones",
-      sourceUrl: "https://www.youtube.com/watch?v=g-yOcdTHrgg",
-      credit: "VOA Learning English · real human report"
+      sourceUrl: "",
+      credit: "real human report"
     }
   },
   {
     day: "REAL VOICE 01", category: "NEUROSCIENCE & SOCIETY", title: "How does reading change the brain?",
-    kicker: "A fast-paced BBC World Service feature connects neuroscience, writing systems, screen habits and the social value of deep reading.", level: "B2+/C1 · 5:54 · NATURAL-SPEED BBC",
+    kicker: "A fast-paced real-human feature connects neuroscience, writing systems, screen habits and the social value of deep reading.", level: "B2+/C1 · 5:54 · NATURAL-SPEED the programme",
     answers: ["thousands of years", "written language", "innately", "evolutionary time scale", "dedicated reading brain", "co-opt", "earliest writing systems", "sophisticated", "sounds and meanings", "all four lobes", "brain connectivity", "logographic system", "visual association", "corroborated", "remained intact", "requirements of Chinese", "anterior insula", "empathic processes", "adaptable", "passive scrolling", "susceptible to misinformation", "think critically", "attentional executive function", "hyper stimulated", "deep reading"],
     paragraphs: [
       "Clicking on this video activated circuits in your brain that took [1] to develop: the ones required for reading. We think of language as natural and reading is [2], so it must be natural. But it isn't. Scientific studies indicate that a neurotypical brain is born with the circuitry that allows our eyes to see and our vocal cords to produce sounds, but it doesn't [3] have the ability to read. From an [4], our brain hasn't had enough time to develop a [5]. And so, to build a reading brain network, we [6] parts of the brain involved in vision and auditory processing, language, attention and affect.",
@@ -309,20 +310,20 @@ const realSourceLessons: Lesson[] = [
       duration: 354.84,
       segments: [[0, 49], [49, 103], [103, 152], [152, 208], [208, 268], [268, 354.84]],
       sourceTitle: "How reading changes the way your brain works",
-      sourceUrl: "https://www.youtube.com/watch?v=X1L1Hd3xfrU",
-      credit: "BBC World Service · natural-speed narration and expert interviews",
+      sourceUrl: "",
+      credit: "natural-speed narration and expert interviews",
       aspectRatio: "16 / 9"
     }
   },
   {
     day: "REAL VOICE 02", category: "LANGUAGE & ATTENTION", title: "Does bilingualism make you smarter?",
-    kicker: "A real VOA report uses research evidence and the Stroop Test to explain how bilingual brains control attention.", level: "B1+/B2 · 4:00 · VOA REAL HUMAN SPEECH",
+    kicker: "A real-human report uses research evidence and the Stroop Test to explain how bilingual brains control attention.", level: "B1+/B2 · 4:00 · the programme REAL HUMAN SPEECH",
     answers: ["early 1950s", "scored lower on intelligence tests", "more than one language", "found the opposite", "American Association for the Advancement of Science", "does not necessarily make people smarter", "capture your attention", "monitor all of them", "controlling their attention", "Executive Control System", "most important cognitive system", "what to ignore", "measure the Executive Control System", "Stroop Test", "words in different colors", "ignore the word", "lighting up all these circuits", "a mechanism to override that", "continually practice this function", "active in their brain", "suppress one", "separate a word from its meaning", "different cultures", "four to five years later", "far behind the rest of the world"],
     paragraphs: [
-      "I'm Carolyn Presutti with the VOA Special English Health Report. In the [1], researchers found that people [2] if they spoke [3]. Research in the 1960s [4]. So which is it? Researchers presented their newest studies in February at a meeting of the [5]. The latest evidence shows that being bilingual [6]. But researcher Ellen Bialystok says it probably does make you better at certain skills.",
+      "I'm Carolyn Presutti with the the original programme Health Report. In the [1], researchers found that people [2] if they spoke [3]. Research in the 1960s [4]. So which is it? Researchers presented their newest studies in February at a meeting of the [5]. The latest evidence shows that being bilingual [6]. But researcher Ellen Bialystok says it probably does make you better at certain skills.",
       "She says, imagine driving down the highway. There are many things that could [7], and you really need to be able to [8]. Why would bilingualism make you any better at that? The answer, she says, is that bilingual people are often better at [9], a function called the [10]. She says it is possibly the [11] we have. It is where all of our decisions about what to attend to, [12], and what to process are made.",
       "Ms. Bialystok is a psychology professor at York University in Toronto, Canada. She says the best method to [13] is called the [14]. A person is shown [15]. The person has to [16], but say the color. The problem is that the words are all names of colors. She explains: you would have the word blue written in red, but you have to say red. But blue is [17] in your brain, and you really want to say blue. So you need [18], so that you can say red. That's the Executive Control System.",
-      "Her work shows that bilingual people [19]. They have to, because both languages are [20] at the same time. They need to [21] to be able to speak in the other. This mental exercise might help in other ways, too. Researchers say bilingual children are better able to [22] and more likely to have friends from [23]. Bilingual adults are often [24] than others in developing dementia or Alzheimer's disease. Foreign language study has increased in the United States, but linguist Alison Mackey at Georgetown University in Washington, D.C. points out that English-speaking countries are still [25]. For VOA Special English, I'm Carolyn Presutti."
+      "Her work shows that bilingual people [19]. They have to, because both languages are [20] at the same time. They need to [21] to be able to speak in the other. This mental exercise might help in other ways, too. Researchers say bilingual children are better able to [22] and more likely to have friends from [23]. Bilingual adults are often [24] than others in developing dementia or Alzheimer's disease. Foreign language study has increased in the United States, but linguist Alison Mackey at Georgetown University in Washington, D.C. points out that English-speaking countries are still [25]. For the original programme, I'm Carolyn Presutti."
     ],
     essay: { question: "", plan: [], language: [] },
     media: {
@@ -331,8 +332,8 @@ const realSourceLessons: Lesson[] = [
       duration: 239.93,
       segments: [[0, 52.4], [52.4, 107.2], [107.2, 166.8], [166.8, 239.93]],
       sourceTitle: "Are People Who Speak More Than One Language Smarter?",
-      sourceUrl: "https://www.youtube.com/watch?v=6Ye-BeVyJ5M",
-      credit: "VOA Learning English · real human report and expert quotations"
+      sourceUrl: "",
+      credit: "real human report and expert quotations"
     }
   }
 ];
@@ -355,7 +356,7 @@ const realSourceAcademicBridge: AcademicNote[] = [
     ]
   },
   {
-    code: "FL2-R01", style: "PARAPHRASE PRACTICE · BBC NEUROSCIENCE", focus: "Track explanations, evidence and consequences across fast narration and expert interviews.",
+    code: "FL2-R01", style: "PARAPHRASE PRACTICE · the programme NEUROSCIENCE", focus: "Track explanations, evidence and consequences across fast narration and expert interviews.",
     signals: ["Scientific studies indicate…", "Research indicates…", "Evidence suggests…", "Some academic research…"],
     paraphrases: [
       ["develop a dedicated reading brain", "develop a specialised neural system for reading", "Replace the everyday noun with a precise neuroscience phrase.", 31, 38],
@@ -371,7 +372,7 @@ const realSourceAcademicBridge: AcademicNote[] = [
     ]
   },
   {
-    code: "FL1-R02", style: "PARAPHRASE PRACTICE · VOA LANGUAGE REPORT", focus: "Follow an evidence-based explanation and connect an experiment to its wider implications.",
+    code: "FL1-R02", style: "PARAPHRASE PRACTICE · the programme LANGUAGE REPORT", focus: "Follow an evidence-based explanation and connect an experiment to its wider implications.",
     signals: ["The latest evidence shows…", "And the answer, she says…", "The problem is that…", "This mental exercise might…"],
     paraphrases: [
       ["scored lower on intelligence tests", "achieved poorer results in intelligence testing", "Change the verb phrase and nominalise tests.", 6.4, 16.5],
@@ -427,26 +428,108 @@ const realSourceVocabulary: VocabularyNote[][] = [
   ]
 ];
 
-// Fighter Listening now starts with verified real-human sources. The earlier
-// synthetic practice drafts stay outside the student-facing lesson catalogue.
+const hideSourceNames = (value: string) => value
+  .replace(/VOA Special English Health Report/gi, "the health report")
+  .replace(/VOA Special English/gi, "the programme")
+  .replace(/VOA Learning English/gi, "the programme")
+  .replace(/BBC World Service/gi, "the programme")
+  .replace(/BBC Ideas/gi, "the programme")
+  .replace(/BBC Radio 4/gi, "a radio programme")
+  .replace(/TED-Ed/gi, "the programme")
+  .replace(/\bVOA\b|\bBBC\b/gi, "the programme")
+  .replace(/\s+/g, " ")
+  .trim();
+
+const sanitizeLesson = (source: Lesson): Lesson => ({
+  ...source,
+  day: hideSourceNames(source.day),
+  category: hideSourceNames(source.category),
+  title: hideSourceNames(source.title),
+  kicker: "A focused topic presented through real human speech, evidence and clear examples.",
+  level: hideSourceNames(source.level).replace(/NATURAL-SPEED\s+THE PROGRAMME/gi, "NATURAL SPEECH"),
+  answers: source.answers.map(hideSourceNames),
+  paragraphs: source.paragraphs.map(hideSourceNames),
+  media: source.media ? {
+    ...source.media,
+    sourceTitle: hideSourceNames(source.title),
+    sourceUrl: "",
+    credit: hideSourceNames(source.title),
+  } : undefined,
+});
+
+const extraGapStopwords = new Set("a an the and or but if so to of in on at for from with by as is are was were be been being it its this that these those i you we they he she my your our their do does did have has had can could will would should may might not".split(" "));
+const expandToGapCount = (source: Lesson, target = 40): Lesson => {
+  if (source.answers.length >= target) return source;
+  const joined = source.paragraphs.join("\n");
+  const tokens = [...joined.matchAll(/(?:\d+(?:[.,]\d+)*(?:%|st|nd|rd|th)?|[A-Za-z]+(?:[’'-][A-Za-z]+)*)/g)]
+    .map(match => ({ start: match.index ?? 0, end: (match.index ?? 0) + match[0].length, word: match[0] }));
+  const candidates: { start: number; end: number; phrase: string; center: number; score: number }[] = [];
+  for (let start = 0; start < tokens.length - 5; start += 1) {
+    for (let length = 5; length <= 7 && start + length <= tokens.length; length += 1) {
+      const first = tokens[start];
+      const last = tokens[start + length - 1];
+      const phrase = joined.slice(first.start, last.end);
+      if (/[\[\]]|[.!?;:\n]/.test(phrase) || extraGapStopwords.has(first.word.toLowerCase())) continue;
+      const words = tokens.slice(start, start + length);
+      const content = words.filter(token => !extraGapStopwords.has(token.word.toLowerCase())).length;
+      candidates.push({ start: first.start, end: last.end, phrase, center: (first.start + last.end) / 2, score: content * 7 + length + (/\d/.test(phrase) ? 20 : 0) });
+    }
+  }
+  const needed = target - source.answers.length;
+  const chosen: typeof candidates = [];
+  const overlaps = (candidate: typeof candidates[number]) => chosen.some(item => candidate.start < item.end + 15 && candidate.end + 15 > item.start);
+  for (let slot = 0; slot < needed; slot += 1) {
+    const aim = joined.length * ((slot + .5) / needed);
+    const option = candidates.filter(candidate => !overlaps(candidate)).sort((a, b) => {
+      const aRank = a.score - Math.abs(a.center - aim) / joined.length * 80;
+      const bRank = b.score - Math.abs(b.center - aim) / joined.length * 80;
+      return bRank - aRank;
+    })[0];
+    if (option) chosen.push(option);
+  }
+  let updated = joined;
+  chosen.slice().sort((a, b) => b.start - a.start).forEach((gap, reverseIndex) => {
+    const number = source.answers.length + chosen.length - reverseIndex;
+    updated = `${updated.slice(0, gap.start)}[${number}]${updated.slice(gap.end)}`;
+  });
+  return { ...source, answers: [...source.answers, ...chosen.sort((a, b) => a.start - b.start).map(gap => gap.phrase)], paragraphs: updated.split("\n") };
+};
+
+const sanitizeAcademic = (source: AcademicNote): AcademicNote => ({
+  ...source,
+  code: hideSourceNames(source.code),
+  style: "PARAPHRASE PRACTICE · ACADEMIC DISCUSSION",
+  focus: hideSourceNames(source.focus),
+  signals: source.signals.map(hideSourceNames),
+  paraphrases: source.paraphrases.map(([a, b, c, start, end]) => [hideSourceNames(a), hideSourceNames(b), hideSourceNames(c), start, end]),
+});
+const sanitizeVocabulary = (items: VocabularyNote[]) => items.map(item => ({ ...item, note: hideSourceNames(item.note) }));
+
+const existingLevel2Lessons = ([realSourceLessons[1], ...generatedLevel2Lessons] as unknown as Lesson[]).map(lesson => expandToGapCount(sanitizeLesson(lesson), 40));
+
+// Every student link opens one lesson only. Source brands and source URLs are
+// deliberately omitted from the student-facing catalogue.
 const lessons: Lesson[] = [
-  ...(voaLevel1Lessons as unknown as Lesson[]),
-  realSourceLessons[1], ...(generatedLevel2Lessons as Lesson[]),
+  ...(voaLevel1Lessons as unknown as Lesson[]).map(sanitizeLesson),
+  ...existingLevel2Lessons,
+  ...(bbcLevel2ExtraLessons as unknown as Lesson[]).map(sanitizeLesson),
 ];
 const academicBridge: AcademicNote[] = [
-  ...(voaLevel1Academic as unknown as AcademicNote[]),
-  realSourceAcademicBridge[1], ...(generatedLevel2Academic as AcademicNote[]),
+  ...(voaLevel1Academic as unknown as AcademicNote[]).map(sanitizeAcademic),
+  ...[realSourceAcademicBridge[1], ...(generatedLevel2Academic as AcademicNote[])].map(sanitizeAcademic),
+  ...(bbcLevel2ExtraAcademic as unknown as AcademicNote[]).map(sanitizeAcademic),
 ];
 const lessonVocabulary: VocabularyNote[][] = [
-  ...(voaLevel1Vocabulary as unknown as VocabularyNote[][]),
-  realSourceVocabulary[1], ...generatedLevel2Vocabulary,
+  ...(voaLevel1Vocabulary as unknown as VocabularyNote[][]).map(sanitizeVocabulary),
+  ...[realSourceVocabulary[1], ...generatedLevel2Vocabulary].map(sanitizeVocabulary),
+  ...(bbcLevel2ExtraVocabulary as unknown as VocabularyNote[][]).map(sanitizeVocabulary),
 ];
 
 const paraphraseOrder = [6, 1, 8, 0, 7, 3, 9, 4, 2, 5];
 const fighterClasses = ["FIGHTER 5", "FIGHTER 6", "FIGHTER 7", "FIGHTER 8", "FIGHTER 9"];
 const formLessonCodes = [
-  ...Array.from({ length: 50 }, (_, index) => `FL1-R${String(index + 1).padStart(2, "0")} · VOA REAL HUMAN LISTENING`),
-  ...Array.from({ length: 10 }, (_, index) => `FL2-R${String(index + 1).padStart(2, "0")} · REAL HUMAN LISTENING`),
+  ...Array.from({ length: 50 }, (_, index) => `FL1-R${String(index + 1).padStart(2, "0")} · REAL HUMAN LISTENING`),
+  ...Array.from({ length: 50 }, (_, index) => `FL2-R${String(index + 1).padStart(2, "0")} · REAL HUMAN LISTENING`),
 ];
 const formQuestionEntries = ["493387", "166904167", "1986170864", "707260550", "1338229682", "562418472", "556434685", "1080689249", "1457708675", "1877689499"];
 type AccessConfig = { level: number; week: number; lessonIndex: number };
@@ -511,6 +594,46 @@ const weeklyAccess: Record<string, AccessConfig> = {
   "g9x0gshmu2l9": { level: 2, week: 8, lessonIndex: 57 },
   "lwoc5x4tv416": { level: 2, week: 9, lessonIndex: 58 },
   "cztd3lpqg5co": { level: 2, week: 10, lessonIndex: 59 },
+  "99ab79d3ad99": { level: 2, week: 11, lessonIndex: 60 },
+  "2605200be941": { level: 2, week: 12, lessonIndex: 61 },
+  "f0c675e7922b": { level: 2, week: 13, lessonIndex: 62 },
+  "fc2a6a21fccc": { level: 2, week: 14, lessonIndex: 63 },
+  "6a0380b8aa9f": { level: 2, week: 15, lessonIndex: 64 },
+  "56755c2c3ba6": { level: 2, week: 16, lessonIndex: 65 },
+  "30cb812ebf3a": { level: 2, week: 17, lessonIndex: 66 },
+  "0d1305017d48": { level: 2, week: 18, lessonIndex: 67 },
+  "e5f73c7d61cf": { level: 2, week: 19, lessonIndex: 68 },
+  "4bf01e0dced4": { level: 2, week: 20, lessonIndex: 69 },
+  "8754b15d7fc5": { level: 2, week: 21, lessonIndex: 70 },
+  "599514f3c57d": { level: 2, week: 22, lessonIndex: 71 },
+  "1dded69e0634": { level: 2, week: 23, lessonIndex: 72 },
+  "2fd94a16a6ff": { level: 2, week: 24, lessonIndex: 73 },
+  "9452416de488": { level: 2, week: 25, lessonIndex: 74 },
+  "3a4f6a53ade6": { level: 2, week: 26, lessonIndex: 75 },
+  "ab76ee7fa7d3": { level: 2, week: 27, lessonIndex: 76 },
+  "100052933997": { level: 2, week: 28, lessonIndex: 77 },
+  "79495b1b24d4": { level: 2, week: 29, lessonIndex: 78 },
+  "b6cfe3853020": { level: 2, week: 30, lessonIndex: 79 },
+  "678f083dc3bb": { level: 2, week: 31, lessonIndex: 80 },
+  "a459a1bc1263": { level: 2, week: 32, lessonIndex: 81 },
+  "29590803923d": { level: 2, week: 33, lessonIndex: 82 },
+  "864690423cf9": { level: 2, week: 34, lessonIndex: 83 },
+  "a9af28806b5d": { level: 2, week: 35, lessonIndex: 84 },
+  "516ec86e4997": { level: 2, week: 36, lessonIndex: 85 },
+  "9cef251ad075": { level: 2, week: 37, lessonIndex: 86 },
+  "a82d5a7a8d8e": { level: 2, week: 38, lessonIndex: 87 },
+  "8be9aafcc050": { level: 2, week: 39, lessonIndex: 88 },
+  "bea952b453cc": { level: 2, week: 40, lessonIndex: 89 },
+  "3c7ee3448fad": { level: 2, week: 41, lessonIndex: 90 },
+  "031a96cbd66f": { level: 2, week: 42, lessonIndex: 91 },
+  "5d77d95f3c72": { level: 2, week: 43, lessonIndex: 92 },
+  "071911115930": { level: 2, week: 44, lessonIndex: 93 },
+  "5c976c0275e9": { level: 2, week: 45, lessonIndex: 94 },
+  "d60e05da4f6b": { level: 2, week: 46, lessonIndex: 95 },
+  "95622cba0e89": { level: 2, week: 47, lessonIndex: 96 },
+  "4f716217404b": { level: 2, week: 48, lessonIndex: 97 },
+  "261467fe1a32": { level: 2, week: 49, lessonIndex: 98 },
+  "e16b3b5f3aa8": { level: 2, week: 50, lessonIndex: 99 },
   // Preserve every original Video 1–4 URL after replacing the synthetic lessons.
   "c5f2a9d7e1b4": { level: 1, week: 3, lessonIndex: 2 },
   "f8a1c6e3d9b2": { level: 1, week: 4, lessonIndex: 3 },
@@ -541,7 +664,7 @@ export default function Home() {
   const [recordStatus, setRecordStatus] = useState<"idle" | "saving" | "saved" | "error">("idle");
   const [speaking, setSpeaking] = useState(false);
   const [paused, setPaused] = useState(false);
-  const rate = 1;
+  const [rate, setRate] = useState(1);
   const [segment, setSegment] = useState("all");
   const [paraChoices, setParaChoices] = useState<number[]>(Array(10).fill(-1));
   const [studentName, setStudentName] = useState("");
@@ -575,6 +698,9 @@ export default function Home() {
     setSpeaking(false);
     setPaused(false);
   }, [lessonIndex]);
+  useEffect(() => {
+    if (videoRef.current) videoRef.current.playbackRate = rate;
+  }, [rate]);
   const submissionKey = () => `fighter-listening:${accessConfig?.level}:${accessConfig?.week}:${studentClass}:${norm(studentName)}`;
   const buildSubmissionParams = (listeningScore: number, paraphraseScore: number) => {
     const params = new URLSearchParams({
@@ -727,7 +853,7 @@ export default function Home() {
 
   return <main>
     <nav><a className="brand" href="#top"><img src={typeof brandLogo === "string" ? brandLogo : brandLogo.src} alt="Ms. Trang Trieu Education"/><b>FIGHTER LISTENING</b></a><div className="nav-meta"><span>ONE DAY · ONE STORY</span><b>GRADE 8–9</b></div></nav>
-    <header id="top"><div className="eyebrow">REAL-SOURCE ACADEMIC LISTENING · FULL REPORTS</div><h1>One lesson.<br/><em>One clear world.</em></h1><p className="intro">VOA · BBC · real presenters and expert interviews. Mỗi bài là một ngữ liệu độc lập với 25 cụm chính tả, ngôn ngữ học thuật, signposting và paraphrase practice.</p></header>
+    <header id="top"><div className="eyebrow">REAL-SOURCE ACADEMIC LISTENING · FULL REPORTS</div><h1>One lesson.<br/><em>One clear world.</em></h1><p className="intro">Real presenters and expert interviews. Mỗi bài là một ngữ liệu độc lập với các cụm chính tả, ngôn ngữ học thuật, signposting và paraphrase practice.</p></header>
 
     <section className={`student-panel ${studentReady ? "ready" : ""}`} aria-label="Student information"><div><span>STUDENT CHECK-IN{accessConfig ? ` · LEVEL ${accessConfig.level} · VIDEO ${accessConfig.week}` : ""}</span><h2>{!accessConfig ? "Liên kết bài học không hợp lệ." : studentReady ? `${studentName} · ${studentClass}` : "Điền đủ thông tin để mở bài nghe."}</h2></div><label>HỌ VÀ TÊN<input disabled={!accessConfig || submitted} value={studentName} onChange={e => { setStudentName(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }} placeholder="Nhập đầy đủ họ tên" /></label><label>LỚP<select disabled={!accessConfig || submitted} value={studentClass} onChange={e => { setStudentClass(e.target.value); setStudentReady(false); setSubmitted(false); setSubmittedScores(null); setRecordStatus("idle"); }}><option value="">— Chọn lớp FIGHTER —</option>{fighterClasses.map(name => <option value={name} key={name}>{name}</option>)}</select></label><button className="start-week" disabled={!accessConfig || !studentName.trim() || !studentClass || submitted} onClick={openLesson}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP" : studentReady ? "✓ BÀI ĐÃ MỞ" : `MỞ BÀI${accessConfig ? ` ${accessConfig.week}` : ""} →`}</button></section>
 
@@ -737,11 +863,10 @@ export default function Home() {
 
     {lesson.media ? <section className="real-video-player" aria-label="Real source media player">
       <div className={`video-stage ${lesson.media.kind === "audio" ? "audio-stage" : ""}`} style={{ aspectRatio: lesson.media.aspectRatio || "64 / 31" }}>
-        {lesson.media.kind === "audio" && <div className="audio-artwork" aria-hidden="true"><span>VOA</span><b>LEARNING ENGLISH</b><small>REAL HUMAN REPORT</small><i></i></div>}
+        {lesson.media.kind === "audio" && <div className="audio-artwork" aria-hidden="true"><span>FIGHTER</span><b>LISTENING REPORT</b><small>REAL HUMAN REPORT</small><i></i></div>}
         <video
           ref={videoRef}
           className={lesson.media.kind === "audio" ? "audio-element" : ""}
-          crossOrigin="anonymous"
           preload="metadata"
           poster={lesson.media.posterSrc}
           playsInline
@@ -757,22 +882,22 @@ export default function Home() {
       <div className="video-controls">
         <button onClick={() => { const video = videoRef.current; if (video) { video.currentTime = 0; setVideoTime(0); } startAudio("all"); }}>↺ REPLAY</button>
         <label className="video-progress"><span>{formatTime(videoTime)}</span><input aria-label="Media position" type="range" min="0" max={videoDuration || lesson.media.duration} step="0.1" value={Math.min(videoTime, videoDuration || lesson.media.duration)} onChange={event => { const video = videoRef.current; const next = Number(event.target.value); clipEndRef.current = null; if (video) video.currentTime = next; setVideoTime(next); }} /><span>{formatTime(videoDuration || lesson.media.duration)}</span></label>
-        <div className="video-speed">SPEED <b>1.0×</b></div>
+        <div className="video-speed">SPEED {accessConfig?.level === 2 ? <select aria-label="Playback speed" value={rate} onChange={event => setRate(Number(event.target.value))}><option value={0.9}>0.9×</option><option value={1}>1.0×</option></select> : <b>1.0×</b>}</div>
         <label className="video-volume">VOL<input aria-label="Volume" type="range" min="0" max="1" step="0.05" value={volume} onChange={event => { const next = Number(event.target.value); setVolume(next); if (videoRef.current) videoRef.current.volume = next; }} /></label>
       </div>
-      <div className="source-credit"><b>REAL HUMAN SOURCE</b><span>{lesson.media.credit}</span><small>Nghe bằng tai và điền trực tiếp vào transcript bên dưới.</small></div>
+      <div className="source-credit"><b>TODAY&apos;S TOPIC</b><span>{lesson.title}</span><small>Nghe bằng tai và điền trực tiếp vào transcript bên dưới.</small></div>
     </section> : <section className="listening-console" aria-label="Audio controls"><div className="console-heading"><div><span>CHOOSE WHAT TO HEAR</span><h3>{segment === "all" ? "Full report" : `Part ${Number(segment) + 1} of 4`}</h3></div><div className="video-speed">SPEED <b>1.0×</b></div></div><div className="segment-buttons"><button className={segment === "all" ? "active" : ""} onClick={() => chooseSegment("all")}>▶ FULL AUDIO</button>{lesson.paragraphs.map((_, i) => <button className={segment === String(i) ? "active" : ""} onClick={() => chooseSegment(String(i))} key={i}>▶ PART {i + 1}</button>)}</div><div className="transport"><button className="pause" onClick={togglePause}>{!speaking ? "▶ START LISTENING" : paused ? "▶ RESUME" : "Ⅱ PAUSE"}</button><button onClick={() => startAudio()}>↺ REPLAY SELECTED PART</button><span>{speaking ? paused ? "PAUSED" : "NOW PLAYING" : "READY"}</span></div></section>}
 
-    <div className="instructions"><b>DICTATION MISSION</b><p>{lesson.media ? "Nghe bản tin liền mạch và điền trực tiếp 25 cụm từ còn thiếu vào transcript bên dưới. Có thể tua và nghe lại không giới hạn." : "Nghe toàn bài trước. Sau đó chọn từng Part để chép chính xác 25 cụm từ. Có thể nghe lại không giới hạn."}</p><span>25 POINTS</span></div>
+    <div className="instructions"><b>DICTATION MISSION</b><p>{lesson.media ? `Nghe bài liền mạch và điền trực tiếp ${lesson.answers.length} cụm từ còn thiếu vào transcript bên dưới. Có thể tua và nghe lại không giới hạn.` : `Nghe toàn bài trước. Sau đó chép chính xác ${lesson.answers.length} cụm từ. Có thể nghe lại không giới hạn.`}</p><span>{lesson.answers.length} POINTS</span></div>
 
     <section className="worksheet"><div className="worksheet-head"><span>{lesson.media ? "VIDEO TRANSCRIPT" : "FULL DICTATION"}</span><h2>Write exactly what you hear.</h2><p>Spelling, word forms, apostrophes and numbers all matter.</p></div>{lesson.paragraphs.map((text, i) => <article key={i}><div className="part-label"><b>{lesson.media ? `TRANSCRIPT · ${String(i + 1).padStart(2, "0")}` : `PART ${i + 1}`}</b>{!lesson.media && <button onClick={() => chooseSegment(String(i))}>▶ PLAY PART {i + 1}</button>}</div><p>{renderText(text)}</p></article>)}</section>
 
-    <section className="finish"><div><span>{listeningFilled}/25 COMPLETED</span><h2>Complete all 25 listening answers.</h2><p>{listeningComplete ? "Phần nghe đã hoàn thành. Tiếp tục làm đủ 10 câu paraphrase rồi nộp bài một lần ở cuối trang." : "Điền đủ 25 ô để hoàn thành phần nghe."}</p></div></section>
-    {submitted && <section className="results" aria-live="polite"><div className="score">{score}<small>/25</small></div><div><span>LISTENING SCORE · FINAL</span><h2>{score === 25 ? "Flawless listening." : score >= 20 ? "Strong work, fighter." : "Review. Notice. Learn."}</h2><p>Điểm đã được khóa. Các câu sai hiện đáp án chính xác để học sinh nghe lại và tự chữa bài.</p></div></section>}
+    <section className="finish"><div><span>{listeningFilled}/{lesson.answers.length} COMPLETED</span><h2>Complete all {lesson.answers.length} listening answers.</h2><p>{listeningComplete ? "Phần nghe đã hoàn thành. Tiếp tục làm đủ 10 câu paraphrase rồi nộp bài một lần ở cuối trang." : `Điền đủ ${lesson.answers.length} ô để hoàn thành phần nghe.`}</p></div></section>
+    {submitted && <section className="results" aria-live="polite"><div className="score">{score}<small>/{lesson.answers.length}</small></div><div><span>LISTENING SCORE · FINAL</span><h2>{score === lesson.answers.length ? "Flawless listening." : score >= lesson.answers.length * .8 ? "Strong work, fighter." : "Review. Notice. Learn."}</h2><p>Điểm đã được khóa. Các câu sai hiện đáp án chính xác để học sinh nghe lại và tự chữa bài.</p></div></section>}
     {submitted && lesson.media && <section className="transcript-review"><div><span>FULL TRANSCRIPT · AFTER SUBMISSION</span><h2>Read, replay and notice.</h2><p>Transcript đầy đủ chỉ mở sau khi học sinh đã nộp bài.</p></div>{lesson.paragraphs.map((_, index) => <p key={index}><b>{String(index + 1).padStart(2, "0")}</b>{fillScript(lesson, index)}</p>)}</section>}
     {submitted && <section className="vocabulary-review"><div className="vocabulary-heading"><span>VOCABULARY REVIEW · LEVEL {accessConfig?.level} · VIDEO {accessConfig?.week}</span><h2>Understand the answer, not only the spelling.</h2><p>Các từ và cụm từ đáng học trong bài nghe này.</p></div><div className="vocabulary-grid">{lessonVocabulary[lessonIndex].map(item => <article key={item.term}><h3>{item.term}</h3><b>{item.meaning}</b><p>{item.note}</p></article>)}</div></section>}
 
-    <section className="academic"><div className="academic-number">02</div><div className="academic-main"><span>PARAPHRASE PRACTICE · {academicBridge[lessonIndex].code}</span><h2>Same idea, different words.</h2><div className="academic-banner"><b>{academicBridge[lessonIndex].style}</b><p>{academicBridge[lessonIndex].focus}</p></div><div className="practice-steps"><span><b>1</b> HEAR & LOCATE</span><span><b>2</b> MATCH A–J</span><span><b>3</b> ONE SCORE / ATTEMPT</span></div><div className="match-bank"><h3>MEANING BANK · A–J</h3><div>{paraphraseOrder.map((sourceIndex, bankIndex) => <p key={sourceIndex}><b>{String.fromCharCode(65 + bankIndex)}</b>{academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</p>)}</div></div><div className="matching-grid">{academicBridge[lessonIndex].paraphrases.map((pair, question) => { const correctChoice = paraphraseOrder.indexOf(question); const isCorrect = paraChoices[question] === correctChoice; return <article className={submitted ? isCorrect ? "match-correct" : "match-wrong" : ""} key={pair[0]}><span className="match-number">{String(question + 1).padStart(2, "0")}</span><div className="match-source"><small>PHRASE FROM THE LISTENING</small><h3>{pair[0]}</h3>{submitted && <div className="technique"><b>HOW IT CHANGED</b>{pair[2]}</div>}</div><button className="hear-small" onClick={() => speakPhrase(pair[0], pair[3], pair[4])}>▶ HEAR</button><label><span>MATCH</span><select disabled={submitted} aria-label={`Match phrase ${question + 1}`} value={paraChoices[question]} onChange={e => { const next = [...paraChoices]; next[question] = Number(e.target.value); setParaChoices(next); }}><option value={-1}>— Chọn đáp án —</option>{paraphraseOrder.map((sourceIndex, bankIndex) => <option value={bankIndex} key={bankIndex}>{String.fromCharCode(65 + bankIndex)} · {academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</option>)}</select></label></article>})}</div><div className="para-check"><button disabled={submitted || !listeningComplete || !paraphraseComplete || recordStatus === "saving"} onClick={submitAttempt}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP · ĐIỂM ĐÃ KHÓA" : recordStatus === "saving" ? "ĐANG GHI ĐIỂM…" : "NỘP BÀI & XEM ĐÁP ÁN →"}</button>{submitted && <strong>{paraScore}/10 CORRECT</strong>}<span className="record-note">{recordStatus === "saved" ? "✓ Điểm lượt này đã được ghi tự động." : recordStatus === "error" ? "Bài đã được giữ lại và hệ thống đang tự gửi lại điểm." : submitted ? "Đang ghi điểm tự động…" : !listeningComplete || !paraphraseComplete ? "Hoàn thành đủ 25 câu nghe và 10 câu paraphrase để nộp." : "Mỗi lượt làm chỉ được nộp một lần."}</span></div>{submitted && <div className="combined-score" aria-live="polite"><div><span>LISTENING · LƯỢT NÀY</span><b>{score}<small>/25</small></b></div><div><span>PARAPHRASE · LƯỢT NÀY</span><b>{paraScore}<small>/10</small></b></div><div className="total"><span>TOTAL · LƯỢT NÀY</span><b>{score + paraScore}<small>/35</small></b></div><p>Muốn làm lượt mới, hãy thoát hẳn trang rồi mở lại đường link bài tập.</p></div>}<div className="signal-strip"><h3>Structure signals from this talk</h3>{academicBridge[lessonIndex].signals.map((x, i) => <span key={x}><b>0{i + 1}</b>{x}</span>)}</div></div></section>
+    <section className="academic"><div className="academic-number">02</div><div className="academic-main"><span>PARAPHRASE PRACTICE · {academicBridge[lessonIndex].code}</span><h2>Same idea, different words.</h2><div className="academic-banner"><b>{academicBridge[lessonIndex].style}</b><p>{academicBridge[lessonIndex].focus}</p></div><div className="practice-steps"><span><b>1</b> HEAR & LOCATE</span><span><b>2</b> MATCH A–J</span><span><b>3</b> ONE SCORE / ATTEMPT</span></div><div className="match-bank"><h3>MEANING BANK · A–J</h3><div>{paraphraseOrder.map((sourceIndex, bankIndex) => <p key={sourceIndex}><b>{String.fromCharCode(65 + bankIndex)}</b>{academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</p>)}</div></div><div className="matching-grid">{academicBridge[lessonIndex].paraphrases.map((pair, question) => { const correctChoice = paraphraseOrder.indexOf(question); const isCorrect = paraChoices[question] === correctChoice; return <article className={submitted ? isCorrect ? "match-correct" : "match-wrong" : ""} key={pair[0]}><span className="match-number">{String(question + 1).padStart(2, "0")}</span><div className="match-source"><small>PHRASE FROM THE LISTENING</small><h3>{pair[0]}</h3>{submitted && <div className="technique"><b>HOW IT CHANGED</b>{pair[2]}</div>}</div><button className="hear-small" onClick={() => speakPhrase(pair[0], pair[3], pair[4])}>▶ HEAR</button><label><span>MATCH</span><select disabled={submitted} aria-label={`Match phrase ${question + 1}`} value={paraChoices[question]} onChange={e => { const next = [...paraChoices]; next[question] = Number(e.target.value); setParaChoices(next); }}><option value={-1}>— Chọn đáp án —</option>{paraphraseOrder.map((sourceIndex, bankIndex) => <option value={bankIndex} key={bankIndex}>{String.fromCharCode(65 + bankIndex)} · {academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</option>)}</select></label></article>})}</div><div className="para-check"><button disabled={submitted || !listeningComplete || !paraphraseComplete || recordStatus === "saving"} onClick={submitAttempt}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP · ĐIỂM ĐÃ KHÓA" : recordStatus === "saving" ? "ĐANG GHI ĐIỂM…" : "NỘP BÀI & XEM ĐÁP ÁN →"}</button>{submitted && <strong>{paraScore}/10 CORRECT</strong>}<span className="record-note">{recordStatus === "saved" ? "✓ Điểm lượt này đã được ghi tự động." : recordStatus === "error" ? "Bài đã được giữ lại và hệ thống đang tự gửi lại điểm." : submitted ? "Đang ghi điểm tự động…" : !listeningComplete || !paraphraseComplete ? `Hoàn thành đủ ${lesson.answers.length} câu nghe và 10 câu paraphrase để nộp.` : "Mỗi lượt làm chỉ được nộp một lần."}</span></div>{submitted && <div className="combined-score" aria-live="polite"><div><span>LISTENING · LƯỢT NÀY</span><b>{score}<small>/{lesson.answers.length}</small></b></div><div><span>PARAPHRASE · LƯỢT NÀY</span><b>{paraScore}<small>/10</small></b></div><div className="total"><span>TOTAL · LƯỢT NÀY</span><b>{score + paraScore}<small>/{lesson.answers.length + 10}</small></b></div><p>Muốn làm lượt mới, hãy thoát hẳn trang rồi mở lại đường link bài tập.</p></div>}<div className="signal-strip"><h3>Structure signals from this talk</h3>{academicBridge[lessonIndex].signals.map((x, i) => <span key={x}><b>0{i + 1}</b>{x}</span>)}</div></div></section>
 
     </>}
     <footer><b>FIGHTER LISTENING</b><span>ONE DAY · ONE TOPIC · LISTEN & PARAPHRASE</span><span>For Grade 8–9 English specialists</span></footer>

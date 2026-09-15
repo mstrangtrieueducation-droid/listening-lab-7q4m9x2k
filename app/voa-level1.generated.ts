@@ -1,11 +1,11 @@
-// Generated from 50 verified VOA Learning English reports.
+// Generated from 50 verified the original report reports.
 
 export const voaLevel1Lessons = [
   {
-    "day": "VOA REPORT 01",
+    "day": "LISTENING REPORT 01",
     "category": "SCIENCE",
     "title": "Methods for Protecting Earth against an Asteroid Strike",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:16 · REAL HUMAN SPEECH",
     "answers": [
       "small chance an object large enough",
@@ -74,16 +74,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Methods for Protecting Earth against an Asteroid Strike",
-      "sourceUrl": "https://learningenglish.voanews.com/a/methods-for-protecting-earth-against-an-asteroid-strike/7989189.html",
-      "credit": "VOA Learning English · March 12, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 12, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 02",
+    "day": "LISTENING REPORT 02",
     "category": "SCIENCE",
     "title": "Total Lunar Eclipse to Turn Moon Red",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:36 · REAL HUMAN SPEECH",
     "answers": [
       "reddish color across the Western Hemisphere",
@@ -152,16 +152,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Total Lunar Eclipse to Turn Moon Red",
-      "sourceUrl": "https://learningenglish.voanews.com/a/total-lunar-eclipse-to-turn-moon-red/8005741.html",
-      "credit": "VOA Learning English · March 11, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 11, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 03",
+    "day": "LISTENING REPORT 03",
     "category": "SCIENCE",
     "title": "Study Shows How Earth’s Orbit Affects Ice Ages",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:30 · REAL HUMAN SPEECH",
     "answers": [
       "years unless emissions change the effects",
@@ -193,7 +193,7 @@ export const voaLevel1Lessons = [
     "paragraphs": [
       "A recent study suggests the next ice age will likely begin in about 11,000 [1] of natural climate cycles. An ice age is a [2] to cover large areas of the northern and southern parts of the world. A group of [3] of the Earth’s orbit around the sun, the tilt of the Earth’s axis and the movement of the axis itself, called a wobble. These [4] in cycles. The Serbian scientist Milutin [5] years ago that these [6]. The team noted that small changes in Earth’s [7] cycles of warming and cooling over a period of about 100,000 years.",
       "These [8] how the three factors of tilt, wobble, and the shape of Earth's [9] climate over the last 900,000 years. The group published its findings in Science on February 27. The scientists [10] by looking at ice sheets across the northern half of the world and deep ocean temperatures. They then compared this [11] in Earth’s orbit over time. The lead [12] Barker, a professor at Cardiff University in Britain. He told the French News Agency (AFP) that for many years it has been difficult for [13] [14] to huge changes between warm and cold periods.",
-      "[15] through cycles of ice ages and warm periods. The last ice age is [16],700 years ago. Scientists, such as Milankovitch, have long seen a [17]. ![Image 1: FILE - A glacier in Half Moon Bay, Antarctica, February 18, 2018. (Reuters/Alexandre Meneghini)](https://gdb.voanews.com/01000000-0aff-0242-c54e-08db10f22a80w250r1s.jpg) FILE - A glacier in Half Moon Bay, Antarctica, February 18, 2018. (Reuters/Alexandre Meneghini) However, [18] when each of the climate changes happened.",
+      "[15] through cycles of ice ages and warm periods. The last ice age is [16],700 years ago. Scientists, such as Milankovitch, have long seen a [17].  FILE - A glacier in Half Moon Bay, Antarctica, February 18, 2018. (Reuters/Alexandre Meneghini) However, [18] when each of the climate changes happened.",
       "It has also been difficult for them to [19] the start and stop of cold or warm periods. Barker said his team of [20] over [21] of only [22] between cold and warm climates. Barker told AFP, \"We would expect a glaciation to [23],000 years, and it would end in 66,000 years' time.\" Lorraine Lisiecki is a [24], Santa Barbara, and a co-writer of the study. She said the [25] over tens of thousands of years are not random. The team aims to expand its findings to investigate the long-term effects of human activity on climate.",
       "They also want to find out how it might affect Earth’s natural climate cycles. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
     ],
@@ -230,16 +230,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Study Shows How Earth’s Orbit Affects Ice Ages",
-      "sourceUrl": "https://learningenglish.voanews.com/a/study-shows-how-earth-s-orbit-affects-ice-ages/7997495.html",
-      "credit": "VOA Learning English · March 10, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 10, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 04",
+    "day": "LISTENING REPORT 04",
     "category": "SCIENCE",
     "title": "A Short History of Spacecraft Landings on the Moon",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:32 · REAL HUMAN SPEECH",
     "answers": [
       "attempts with some succeeding and others",
@@ -269,11 +269,11 @@ export const voaLevel1Lessons = [
       "first lander crashed into the moon"
     ],
     "paragraphs": [
-      "Many years have passed since the first spacecraft landed on the moon in 1966. From then until now, there have been many additional [1] failing. Here is a short history of some of these attempts. The Soviet Union’s Luna 9 [2] on the moon. It touched down on the lunar surface in 1966. The landing [3] either did not reach the moon or crashed on the surface. The American space agency NASA [says](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-006A) Luna 9 was the first [4] landing on the moon. It was also the first to send “photographic data” from the moon’s surface to Earth. Luna 9’s landing proved “the [5] of a lander and that an object would not sink into a loose layer of dust as some models predicted,” NASA said.",
+      "Many years have passed since the first spacecraft landed on the moon in 1966. From then until now, there have been many additional [1] failing. Here is a short history of some of these attempts. The Soviet Union’s Luna 9 [2] on the moon. It touched down on the lunar surface in 1966. The landing [3] either did not reach the moon or crashed on the surface. The American space agency NASA says Luna 9 was the first [4] landing on the moon. It was also the first to send “photographic data” from the moon’s surface to Earth. Luna 9’s landing proved “the [5] of a lander and that an object would not sink into a loose layer of dust as some models predicted,” NASA said.",
       "In May 1966, the [6]](http://learningenglish.voanews.com/a/a-short-history-of-spacecraft-landings-on-the-moon/8001341.html) 1 mission. NASA describes this effort as “the first of a series of seven robotic spacecraft sent to the moon to [7] Apollo missions.” The [8] “was one of the great successes of NASA's early lunar and interplanetary program.” Both the U.S. and Soviet [9]. Next, the countries aimed to be the first to land humans on the moon. ![Image 1: In this image provided by NASA, astronaut Buzz [10] the U.S. flag deployed on the moon during the Apollo 11 mission on July 20, 1969. (Neil A. Armstrong/NASA via AP, File)](https://gdb.voanews.com/38cbb770-2076-49f9-01d2-08dd5c8b1668w250r1s.jpg) In this [11], astronaut Buzz [12] the U.S.",
       "flag deployed on the moon during the Apollo 11 mission on July 20, 1969. (Neil A. Armstrong/NASA via AP, File) In 1969, NASA [13] Armstrong and Buzz Aldrin on the moon. The U.S. Apollo program sent 12 astronauts to [14]. Apollo 17 was the last in 1972. The U.S. is still the only country to land humans on the moon. NASA [15] aims to return astronauts to the lunar surface possibly by the end of 2026. In 2013, China [16] land a spacecraft on the moon. China landed an exploring vehicle, or rover named Yutu that year. China followed with the Yutu-2 rover in 2019, this time touching down on the moon’s unexplored far side. In 2020, [17] and dirt collected by the rovers. The mission returned about 1.7 kilograms of [18] side of the moon.",
       "Then in 2024, another mission returned rock and soil [19] side of the moon. China has said it aims to land its astronauts on the moon by 2030. In 2023, Russia tried its first moon landing in nearly 50 years. The Luna 25 [20] the lunar south pole. But it is believed to have crash landed on the moon’s surface. The country’s last effort before that, Luna 24 in 1976, [21] to Earth. ![Image 2: This handout screen grab taken and [22] Organisation (ISRO) on August 25, 2023, shows the Chandrayaan-3 rover as it guides itself from the lunar lander to the surface of the Moon. (Photo by ISRO / AFP)](https://gdb.voanews.com/01000000-0aff-0242-f36b-08dbad5db46dcx0cy19cw100w250r1s.jpg) This handout screen grab taken and [23] Organisation (ISRO) on August 25, 2023, shows the [24] from the lunar lander to the surface of the Moon.",
-      "(Photo by ISRO / AFP) After its [25] in 2019, India made its second attempt in 2023. The country successfully landed its Chandrayaan-3 spacecraft on the lunar surface. The mission made India the fourth nation to complete a moon landing. In January 2024, Japan became the fifth country to successfully land a spacecraft on the moon. But the SLIM spacecraft landed upside down. This caused some power and communication problems, but the lander was able to operate for a short time. The Associated Press reported this story. Bryan Lynn adapted the report for VOA Learning English with additional information from NASA."
+      "(Photo by ISRO / AFP) After its [25] in 2019, India made its second attempt in 2023. The country successfully landed its Chandrayaan-3 spacecraft on the lunar surface. The mission made India the fourth nation to complete a moon landing. In January 2024, Japan became the fifth country to successfully land a spacecraft on the moon. But the SLIM spacecraft landed upside down. This caused some power and communication problems, but the lander was able to operate for a short time. The Associated Press reported this story. Bryan Lynn adapted the report for the original report with additional information from NASA."
     ],
     "essay": {
       "question": "",
@@ -308,16 +308,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "A Short History of Spacecraft Landings on the Moon",
-      "sourceUrl": "https://learningenglish.voanews.com/a/a-short-history-of-spacecraft-landings-on-the-moon/8001341.html",
-      "credit": "VOA Learning English · March 09, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 09, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 05",
+    "day": "LISTENING REPORT 05",
     "category": "SCIENCE",
     "title": "Scientists Link Gene to Human Speech",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:19 · REAL HUMAN SPEECH",
     "answers": [
       "human speech are linked to genetics",
@@ -347,7 +347,7 @@ export const voaLevel1Lessons = [
       "people produce speech and understand language"
     ],
     "paragraphs": [
-      "A new study suggests the beginnings of [1]. The research identifies a protein – found only in people – that may have [2]. Scientists involved in the study say this new speaking ability became important for humans’ survival. For example, [3], organize activities and pass down knowledge. These abilities are now seen as an advantage humans had over their relatives, such as the Neanderthals and Denisovans. The [4] [in a study](https://www.nature.com/articles/s41467-025-56579-2) in the journal Nature Communications.",
+      "A new study suggests the beginnings of [1]. The research identifies a protein – found only in people – that may have [2]. Scientists involved in the study say this new speaking ability became important for humans’ survival. For example, [3], organize activities and pass down knowledge. These abilities are now seen as an advantage humans had over their relatives, such as the Neanderthals and Denisovans. The [4] in a study in the journal Nature Communications.",
       "Liza [5] at the University of Minnesota. She told The Associated Press (AP) the new study is \"a good first step to [6]\" that may [7]. Finestack was not involved in the study. Dr. [8] the [9] at New York’s Rockefeller University. He helped lead the new research and was a writer of the study. Darnell told the AP the genetic version, or variant, [10] develop into the “dominantspecies” that remains today. The [11] gene editing [12] found in mice with the one found in humans.",
       "The aim was to test the [13]. The [14] that the variant changed the way the animals called out to each other. Baby mice with the [15] than normal mice do when their mother came around. Adult male mice with the variant also made [16] a female they wanted to mate with. [17] gave the mice a reason to speak. Those with the human variant \"spoke differently,\" [18], he added. This is not the first time a gene has been linked to speech. In 2001, [19] the first gene tied to a language and speech disorder.",
       "[20] FOXP2. But even though [21] to human language, the variant in modern humans was not found in our species alone. [22] with Neanderthals. The NOVA1 variant in modern humans, on the other hand, is found only in our species, Darnell said. The presence of a gene variant is not the only [23]. The ability also depends on [24] and areas of the brain that work together to help [25]. Darnell said he hopes the recent work can lead to new ways to treat speech-related problems.",
@@ -386,16 +386,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Scientists Link Gene to Human Speech",
-      "sourceUrl": "https://learningenglish.voanews.com/a/scientists-link-gene-to-human-speech/7985890.html",
-      "credit": "VOA Learning English · March 08, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 08, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 06",
+    "day": "LISTENING REPORT 06",
     "category": "SCIENCE",
     "title": "Private Lander Carrying NASA Experiments Lands on the Moon",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:56 · REAL HUMAN SPEECH",
     "answers": [
       "private spacecraft carrying several science experiments",
@@ -425,11 +425,10 @@ export const voaLevel1Lessons = [
       "shows Firefly Aerospace’s Blue Ghost lunar"
     ],
     "paragraphs": [
-      "A [1] has successfully landed on the moon. The lander, called Blue Ghost, was built by the American company Firefly Aerospace. The spacecraft touched down March 2 on the part of the moon’s near side called Mare Crisium. The near side of the moon is the side facing Earth. [2] near Austin, Texas, confirmed the successful landing. The chief [3], Will Coogan, announced to excited workers: “We’re on the moon.” The officials said the spacecraft landed in the right position and was operating normally. The successful [4] company to land a spacecraft on the moon without [5]. ![Image 1: Private lunar lander Blue Ghost after touching down on the moon with a special delivery for NASA Sunday, March 2, 2025.",
-      "(NASA/Firefly Aerospace via AP)](https://gdb.voanews.com/895ceeca-e9fa-4a2c-df99-08dd5b028e57w250r1s.jpg) Private [6] down on the moon with a special delivery for NASA Sunday, March 2, 2025. (NASA/Firefly Aerospace via AP) Only five [7]: Russia, the United States, China, India and Japan. Blue Ghost is named after a rare kind of firefly found in the U.S. The [8] and 3.5 meters wide. It launched in mid-January from Florida, [9] space agency NASA. In a statement, NASA [said](https://www.nasa.gov/news-release/touchdown-carrying-nasa-science-fireflys-blue-ghost-lands-on-moon/) the 10 experiments are [10] of the moon for one lunar day, which is about 14 Earth days. The Associated Press [11] for the spacecraft and $44 million for the equipment it carried.",
+      "A [1] has successfully landed on the moon. The lander, called Blue Ghost, was built by the American company Firefly Aerospace. The spacecraft touched down March 2 on the part of the moon’s near side called Mare Crisium. The near side of the moon is the side facing Earth. [2] near Austin, Texas, confirmed the successful landing. The chief [3], Will Coogan, announced to excited workers: “We’re on the moon.” The officials said the spacecraft landed in the right position and was operating normally. The successful [4] company to land a spacecraft on the moon without [5].  Private [6] down on the moon with a special delivery for NASA Sunday, March 2, 2025. (NASA/Firefly Aerospace via AP) Only five [7]: Russia, the United States, China, India and Japan. Blue Ghost is named after a rare kind of firefly found in the U.S. The [8] and 3.5 meters wide. It launched in mid-January from Florida, [9] space agency NASA. In a statement, NASA said the 10 experiments are [10] of the moon for one lunar day, which is about 14 Earth days. The Associated Press [11] for the spacecraft and $44 million for the equipment it carried.",
       "It was the third mission [12] (CLPS) program. The program aims to turn over the [13] companies to reduce costs. [14] of the program. ![Image 2: Staff at the Mission Control outside Austin, Texas [15] touches down on the moon with a special delivery for NASA, Sunday, March 2, 2025. (NASA/Firefly Aerospace via AP)](https://gdb.voanews.com/2f74fdc2-b8e6-4778-df98-08dd5b028e57cx0cy0cw98w250r1s.jpg) Staff at the Mission Control outside Austin, [16] Ghost touches down on the moon with a special delivery for NASA, Sunday, March 2, 2025. (NASA/Firefly Aerospace via AP) Another lander, called Athena, is set to attempt a moon landing on March 6. That [17] by Houston-based Intuitive Machines. It will land on another part of the moon, about 160 kilometers from the lunar south pole.",
       "A [18] ispace will attempt a [19]. The lander, called Resilience, shared its rocket ride with Blue Ghost. But it took a longer path to the moon. The [20] on the moon for the second time. Its first lander crashed in 2023. NASA has said it aims to have two [21] each year, realizing some missions will fail. The space [22] Fox. She told the AP the latest launches “open up a whole new way for us to get more science to space and to the moon.\" ![Image 3: This image [23]. 26, [24] lunar lander orbiting the moon. (Firefly Aerospace via AP)](https://gdb.voanews.com/8ff49938-d050-42bd-df97-08dd5b028e57cx0cy0cw99w250r1s.jpg) This image provided by Firefly Aerospace on Feb. 26, 2025 [25] lander orbiting the moon.",
-      "(Firefly Aerospace via AP) In the past, NASA’s successful moon landings involving astronauts cost billions of dollars. But Firefly chief Jason Kim said the private companies now building and launching spacecraft have a limited budget and the spacecraft operate robotically. Kim said everything went just as planned with Blue Ghost’s landing. “We got some moon dust on our boots,\" he added. The Associated Press, Agence France-Presse and NASA reported on this story. Bryan Lynn adapted the reports for VOA Learning English."
+      "(Firefly Aerospace via AP) In the past, NASA’s successful moon landings involving astronauts cost billions of dollars. But Firefly chief Jason Kim said the private companies now building and launching spacecraft have a limited budget and the spacecraft operate robotically. Kim said everything went just as planned with Blue Ghost’s landing. “We got some moon dust on our boots,\" he added. The Associated Press, Agence France-Presse and NASA reported on this story. Bryan Lynn adapted the reports for the original report."
     ],
     "essay": {
       "question": "",
@@ -464,16 +463,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Private Lander Carrying NASA Experiments Lands on the Moon",
-      "sourceUrl": "https://learningenglish.voanews.com/a/private-lander-carrying-nasa-experiments-lands-on-the-moon/7998600.html",
-      "credit": "VOA Learning English · March 05, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 05, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 07",
+    "day": "LISTENING REPORT 07",
     "category": "SCIENCE",
     "title": "New Discovery Could Explain What Gives Mars its Red Color",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:25 · REAL HUMAN SPEECH",
     "answers": [
       "several methods suggests the substance",
@@ -506,8 +505,8 @@ export const voaLevel1Lessons = [
       "Scientists say they might have identified the mineral on Mars that is responsible for making the planet appear red. New data collected on Mars through [1], called ferrihydrite, is [2] material across wide areas of the planet. The team [3] as an “iron oxide mineral.” The mineral appears reddish in color and can form in water-rich environments. The [4] of it on Mars adds to existing evidence that the planet might have [5] water in the past. The research was carried out by an international team led by America’s Brown University and the University of Bern in Switzerland.",
       "The [6]](https://www.nature.[7]) published in Nature Communications. The [8] wondered about the exact substance that gives Mars – which is also known as the Red Planet – its deep red color. Past [9] hematite might be the cause. The study is based on [10]. These include the Mars Reconnaissance Orbiter, [11] NASA. In addition, information was captured by [12] (ESA's) Mars Express and Trace Gas orbiters. Some data also came from exploring vehicles, called rovers, operating on Mars.",
       "In their examinations, the researchers also used manmade, or synthetic, material designed to look and feel similar to real Martian dust. Adomas [13] at [14], Environment & Planetary Sciences. He helped write the study. [15] Mars is red had been considered “for hundreds, if not thousands, of years.” Valantinas recognized his team was not the first to [16] for the coloring of Mars. But he noted, “it has never been proven as we have now, [17] methods…” Valantinas noted the [18] once held liquid water that would have made it [19] some form of life.",
-      "\"Our study reveals that ferrihydrite formation on Mars [20]…and water capable of reacting with iron,” he added. “These conditions were very different from the dry, cold environment of Mars today.\" [21] at Brown University and was a co-writer of the study. He [called](https://mediarelations.unibe.[22].html) it “a door-opening opportunity” for future research. But he [23] to [24]. \"As exciting as the new findings are, we realize that our results can only be verified by samples from Mars, which are [25] rover,” Mustard said.",
-      "He added, “When we get those back, we will be able to check whether our theory about ferrihydrite is correct.\" Bryan Lynn wrote this story for VOA Learning English, based on reports from"
+      "\"Our study reveals that ferrihydrite formation on Mars [20]…and water capable of reacting with iron,” he added. “These conditions were very different from the dry, cold environment of Mars today.\" [21] at Brown University and was a co-writer of the study. He called it “a door-opening opportunity” for future research. But he [23] to [24]. \"As exciting as the new findings are, we realize that our results can only be verified by samples from Mars, which are [25] rover,” Mustard said.",
+      "He added, “When we get those back, we will be able to check whether our theory about ferrihydrite is correct.\" Bryan Lynn wrote this story for the original report, based on reports from"
     ],
     "essay": {
       "question": "",
@@ -542,16 +541,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "New Discovery Could Explain What Gives Mars its Red Color",
-      "sourceUrl": "https://learningenglish.voanews.com/a/new-discovery-could-explain-what-gives-mars-its-red-color/7990107.html",
-      "credit": "VOA Learning English · March 02, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 02, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 08",
+    "day": "LISTENING REPORT 08",
     "category": "SCIENCE",
     "title": "Musk: Third Person Receives Computer-Brain Connection from Neuralink",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:45 · REAL HUMAN SPEECH",
     "answers": [
       "device directly connected to their brain",
@@ -583,8 +582,8 @@ export const voaLevel1Lessons = [
     "paragraphs": [
       "Businessman Elon Musk said a third person has had a special electronic [1]. The unidentified person received an implant from Musk’s company Neuralink, which makes [2] to computers. Neuralink is one of many groups working to connect the [3]. On the social media service X, which he owns, Musk said: \"We've got...three humans with Neuralinks and all are working well.\" [4] one year ago. Recently, Musk said the company has improved its devices. Musk also said Neuralink hopes to [5] to 30 more people this year. ![Image 1: FILE - Elon Musk speaks as part of a campaign town hall in [6] [7], Pa., Thursday, Oct.",
       "17, 2024.](https://gdb.voanews.com/a836856c-2d5e-439f-996b-2e04cba07d5aw250r0s.jpg) FILE - Elon Musk speaks as part of a campaign town hall in [8] President Donald Trump in Folsom, Pa., Thursday, Oct. 17, 2024. The [9] cord injury and got the implant last summer. The person was playing video games with the help of the device and [10]. The first patient, also paralyzed after a spinal cord injury, said it helped him play video games and chess. Many other [11] on similar projects. Two studies published last year in the New England Journal of Medicine describe how brain-computer interfaces, known as BCIs, [12] (ALS) communicate better.",
-      "ALS is a [13] in the brain and spinal cord. [Nature](https://www.nature.com/articles/s44222-024-00239-5) [14] that there were [15] of BCIs over the past 25 years. Rajesh Rao is co-director of the Center for [16]. Rao said that many research laboratories have already shown that [17] BCIs. Rao said Neuralink might be different from the others in two ways. First, the surgery to implant the device is the first to use a robot to implant [18] brain to record brain signals and to control devices. Second, those connectors might record from more parts of the brain than interfaces from other research efforts.",
-      "Rao said other companies such as Synchron, Blackrock [19] out BCI tests on [20] from Neuralink. Marco Baptista is chief scientific officer of the Christopher & Dana Reeve Foundation. He called BCI technology \"very exciting\" with [21]. Through clinical tests, \"we'll be able to see what's [22],\" he said. \"It's a little early to know.\" A clinical trial follows established rules on how to [23]. Neuralink announced in [24] from U.S. [25] in people. The Food and Drug Administration (FDA) is [responsible for approving](https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation) the sale of medical devices.",
+      "ALS is a [13] in the brain and spinal cord. Nature [14] that there were [15] of BCIs over the past 25 years. Rajesh Rao is co-director of the Center for [16]. Rao said that many research laboratories have already shown that [17] BCIs. Rao said Neuralink might be different from the others in two ways. First, the surgery to implant the device is the first to use a robot to implant [18] brain to record brain signals and to control devices. Second, those connectors might record from more parts of the brain than interfaces from other research efforts.",
+      "Rao said other companies such as Synchron, Blackrock [19] out BCI tests on [20] from Neuralink. Marco Baptista is chief scientific officer of the Christopher & Dana Reeve Foundation. He called BCI technology \"very exciting\" with [21]. Through clinical tests, \"we'll be able to see what's [22],\" he said. \"It's a little early to know.\" A clinical trial follows established rules on how to [23]. Neuralink announced in [24] from U.S. [25] in people. The Food and Drug Administration (FDA) is responsible for approving the sale of medical devices.",
       "Dr. Rita Redberg studies high-risk devices at the University of California, San Francisco. Redberg said that most medical devices go on the market without clinical trials. However, high-risk devices that are seeking approval from the FDA before they go on the market need what is called an \"investigational device exemption.\" Neuralink says it has this exemption."
     ],
     "essay": {
@@ -620,16 +619,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Musk: Third Person Receives Computer-Brain Connection from Neuralink",
-      "sourceUrl": "https://learningenglish.voanews.com/a/musk-third-person-receives-computer-brain-connection-from-neuralink/7938206.html",
-      "credit": "VOA Learning English · January 21, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 21, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 09",
+    "day": "LISTENING REPORT 09",
     "category": "SCIENCE",
     "title": "Japan’s Toyota Builds a City-like Center to Test Robotics, AI",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:35 · REAL HUMAN SPEECH",
     "answers": [
       "Toyota recently announced it had completed",
@@ -663,7 +662,7 @@ export const voaLevel1Lessons = [
       "22, 2025. (AP Photo/Yuri Kageyama)](https://gdb.voanews.com/738fa168-43b1-495b-018a-08dd4a817621cx0cy6cw100w250r1s.jpg) [7] City, from left to right, Woven by Toyota CFO Kenta Kon, CEO Hajime Kumabe and Head of Woven City Management Daisuke Toyoda speak to reporters in Susono, Japan Feb. 22, 2025. (AP Photo/Yuri Kageyama) Toyoda said the center is meant to be a [8] [9] ideas. It will also seek to establish a community with a shared desire “to co-create, develop and refine” new technology products and services. Woven City was built on the [10] factory. The automaker said the [11],000 square meters. When completed, it will spread out over 294,000 square meters. Building operations on [12]. All the [13]. Among planned testing activities will [14] and completing deliveriesaround the area.",
       "Testing operations will center on how people living in [15] technologies. Currently, no one lives in Woven City. When it opens, [16] people living there. They will be called “weavers.” These are workers employed by Toyota and its partner companies making other products. ![Image 2: This photo [17] the square at the center of the apartment complexes of Woven City in Susono city, Shizuoka Prefecture on Feb. 2025. (Woven by Toyota via AP)](https://gdb.voanews.com/6152074d-a8eb-4744-8e11-08dd4a843460cx6cy17cw81w250r1s.jpg) This photo [18] the square at the center of the apartment [19] city, Shizuoka Prefecture on Feb. 2025. (Woven by Toyota via AP) When AP reporters visited the area, Japanese coffee maker UCC was [20] bus. The bus was parked in an area surrounded by still-empty housing.",
       "Toyota has supported electric vehicle (EV) technology in the past. However, the company is currently involved in a push for hydrogen, the energy of choice in Woven City. Keisuke Konishi is an automobile expert at [21]. He told the AP Toyota has [22] services to compete with Google’s Waymo and other large companies. ![Image 3: This photo [23] the sign of Toyota Woven City in Susono city, Shizuoka Prefecture on Feb. 2025. (Woven by Toyota via AP)](https://gdb.voanews.com/bd09125e-a69d-4b5a-8e10-08dd4a843460cx0cy10cw100w250r1s.jpg) This photo [24] the sign of Toyota Woven City in Susono city, Shizuoka Prefecture on Feb. 2025. (Woven by Toyota via AP) Konishi noted the company has the money for such [25] up a completely new business. “Toyota has the money to do all that,” he said.",
-      "Toyota officials have said they do not expect Woven City to make money, at least not for the first few years. Several other futuristic developments have been planned in other areas of the world over the years. They have included efforts in Toronto, Canada; Saudi Arabia; Abu Dhabi; and San Francisco, California. But those projects are either still being developed or have been canceled. The Associated Press reported this story. Bryan Lynn adapted the report for VOA Learning English."
+      "Toyota officials have said they do not expect Woven City to make money, at least not for the first few years. Several other futuristic developments have been planned in other areas of the world over the years. They have included efforts in Toronto, Canada; Saudi Arabia; Abu Dhabi; and San Francisco, California. But those projects are either still being developed or have been canceled. The Associated Press reported this story. Bryan Lynn adapted the report for the original report."
     ],
     "essay": {
       "question": "",
@@ -698,16 +697,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Japan’s Toyota Builds a City-like Center to Test Robotics, AI",
-      "sourceUrl": "https://learningenglish.voanews.com/a/japan-s-toyota-builds-a-city-like-center-to-test-robotics-ai/7987758.html",
-      "credit": "VOA Learning English · February 26, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 26, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 10",
+    "day": "LISTENING REPORT 10",
     "category": "SCIENCE",
     "title": "What Is the Polar Vortex Weather System?",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:24 · REAL HUMAN SPEECH",
     "answers": [
       "States this winter has been driven",
@@ -737,11 +736,11 @@ export const voaLevel1Lessons = [
       "agency said some storms could bring"
     ],
     "paragraphs": [
-      "Weather experts say extreme cold in many parts of the United [1] by a polar vortex. But what is this weather system and how does it work? The [2] (NOAA) [describes](https://www.climate.gov/news-features/understanding-climate/understanding-arctic-polar-vortex#:~:text=The%20Arctic%20polar%20vortex%20is,pool%20of%20extremely%20cold%20air.) a [3] that [4] above the North Pole. These cold winds move about 16 to [5] in the Arctic area in the [6] the stratosphere.",
+      "Weather experts say extreme cold in many parts of the United [1] by a polar vortex. But what is this weather system and how does it work? The [2] (NOAA) describes a [3] that [4] above the North Pole. These cold winds move about 16 to [5] in the Arctic area in the [6] the stratosphere.",
       "At times, the polar vortex can weaken, causing masses of cold air to break off and move south. A polar vortex can also [7]. The Associated Press (AP) reports that [8] of the U.S. this winter. Experts say weather [9] to push colder air to the U.S. and Europe. [10] the effects of wind, called windchill readings, fell to minus 51 degrees Celsius in parts of the U.S. Midwest. [11] than air temperature readings. The U.S. National Weather Service (NWS) warned people in [12] can cause frostbite and hypothermia if skin is not protected from the cold.",
-      "[13] [14] in or around homes to freeze and burst. The NWS noted that almost every U.S. state – except for Hawaii, [California](http://learningenglish.voanews.[15].html) and [16] windchilltemperatures. The coldest [17] states of Kansas, [Nebraska](http://learningenglish.voanews.com/a/what-is-the-polar-vortex-weather-system-/7981167.html) and Missouri. In an explanation on its website, NOAA [states](https://www.climate.gov/media/11999) that the polar [18] poles.",
-      "The systems [19] in the summer. Every year or so, the polar vortex becomes weaker. This can cause the system to be “[20] into two.” This can lead to cold air at the [21] air being pushed to the north. NOAA says its [22] for states including Oklahoma, Colorado, Nebraska, Missouri, [Illinois](http://learningenglish.voanews.[23].html) and Iowa. Other states [24] are Wyoming, Montana, North Dakota, South Dakota, Minnesota, [Wisconsin](http://learningenglish.voanews.com/a/what-is-the-polar-vortex-weather-system-/7981167.html) and Michigan.",
-      "The [25] heavy snow or flooding during that time. Bryan Lynn wrote this story for VOA Learning English, based on reports from The Associated Press, Reuters, Agence France-Presse, [NOAA](http://learningenglish.voanews.com/a/what-is-the-polar-vortex-weather-system-/7981167.html) and NASA."
+      "[13] [14] in or around homes to freeze and burst. The NWS noted that almost every U.S. state – except for Hawaii, California and [16] windchilltemperatures. The coldest [17] states of Kansas, Nebraska and Missouri. In an explanation on its website, NOAA states that the polar [18] poles.",
+      "The systems [19] in the summer. Every year or so, the polar vortex becomes weaker. This can cause the system to be “[20] into two.” This can lead to cold air at the [21] air being pushed to the north. NOAA says its [22] for states including Oklahoma, Colorado, Nebraska, Missouri, Illinois and Iowa. Other states [24] are Wyoming, Montana, North Dakota, South Dakota, Minnesota, Wisconsin and Michigan.",
+      "The [25] heavy snow or flooding during that time. Bryan Lynn wrote this story for the original report, based on reports from The Associated Press, Reuters, Agence France-Presse, NOAA and NASA."
     ],
     "essay": {
       "question": "",
@@ -776,16 +775,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "What Is the Polar Vortex Weather System?",
-      "sourceUrl": "https://learningenglish.voanews.com/a/what-is-the-polar-vortex-weather-system-/7981167.html",
-      "credit": "VOA Learning English · February 23, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 23, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 11",
+    "day": "LISTENING REPORT 11",
     "category": "SCIENCE",
     "title": "Space Agencies Report Increased Risk of Space Rock Striking Earth in 2032",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:03 · REAL HUMAN SPEECH",
     "answers": [
       "large space rock striking the Earth",
@@ -854,16 +853,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Space Agencies Report Increased Risk of Space Rock Striking Earth in 2032",
-      "sourceUrl": "https://learningenglish.voanews.com/a/space-agencies-report-increased-risk-of-space-rock-striking-earth-in-2032/7981777.html",
-      "credit": "VOA Learning English · February 22, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 22, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 12",
+    "day": "LISTENING REPORT 12",
     "category": "SCIENCE",
     "title": "Researchers Use Chemical Examinations and Human Smell to Study Ancient Remains",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:41 · REAL HUMAN SPEECH",
     "answers": [
       "research at University College London's Institute",
@@ -932,16 +931,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Researchers Use Chemical Examinations and Human Smell to Study Ancient Remains",
-      "sourceUrl": "https://learningenglish.voanews.com/a/researchers-use-chemical-examinations-and-human-smell-to-study-ancient-remains/7980863.html",
-      "credit": "VOA Learning English · February 21, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 21, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 13",
+    "day": "LISTENING REPORT 13",
     "category": "SCIENCE",
     "title": "Tech Tip: How to Block Location Tracking on your Phone",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:55 · REAL HUMAN SPEECH",
     "answers": [
       "capture personal data and location information",
@@ -975,7 +974,7 @@ export const voaLevel1Lessons = [
       "Guccione’s advice to users is to “turn on location tracking only when necessary, such as during navigation, [9] contacts…” He adds that after this kind of necessary tracking is complete, users should immediately turn off location tracking. One step to limit smartphone [10] app permission settings. To do this, iPhone users can first go to the device’s Privacy & Security settings. Then go to Location [11] apps. Internet security experts say it is not a good idea to let apps always [12]. Instead, get the app to either ask first before using your location, or use it only when the app is open. A user can also choose the setting that never lets an app track location.",
       "The process works a little differently for Android [13]. In general, [14]. Then go to Location to turn the setting on or off for all apps. To avoid being tracked by advertising systems, privacy [15] identifiers on Android or Apple devices. This can stop third [16] users. To do this, iPhone users can go to the Privacy setting, then find Apple Advertising. Then turn off Personalized Ads. On newer Android phones, [17] setting, then to Ads, and choose Delete Advertising ID. Along with app permissions for your device, security experts say it is a good idea to look closely at your Google account to make sure it is not tracking you. To find this out, go to myaccount.google.com and find Data & Privacy.",
       "[18] there. Under recent changes, the history will be removed after [19] that setting as well. Popular web browsers for smartphones – like Safari or Chrome – could also give away location information. Try [20] your data. Such browsers include DuckDuckGo, Firefox Focus or Ecosia. If a privacy-protected [21] through an IP address, it will ask first before doing so. These kinds of browsers will also let users easily remove internet cookies and other web browsing data. Phones or tablets can also be tracked with Apple's Find My or [22] to recover lost devices. Users can turn this tool off if they think someone was able to take control of their Apple or Google account and is using it for tracking.",
-      "Some [23] [24]. But some experts say this does not always turn off all tracking signals. Users should not depend on this [25]. A better tool in many situations would be a signal-blocking Faraday bag. These block all wireless signals to the smartphone. Experts suggest testing the bag to make sure data is actually being blocked. While such bags can be helpful, devices kept inside the containers cannot be used. The Associated Press reported this story. Bryan Lynn adapted the report for VOA Learning English."
+      "Some [23] [24]. But some experts say this does not always turn off all tracking signals. Users should not depend on this [25]. A better tool in many situations would be a signal-blocking Faraday bag. These block all wireless signals to the smartphone. Experts suggest testing the bag to make sure data is actually being blocked. While such bags can be helpful, devices kept inside the containers cannot be used. The Associated Press reported this story. Bryan Lynn adapted the report for the original report."
     ],
     "essay": {
       "question": "",
@@ -1010,16 +1009,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Tech Tip: How to Block Location Tracking on your Phone",
-      "sourceUrl": "https://learningenglish.voanews.com/a/tech-tip-how-to-block-location-tracking-on-your-phone/7980470.html",
-      "credit": "VOA Learning English · February 19, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 19, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 14",
+    "day": "LISTENING REPORT 14",
     "category": "SCIENCE",
     "title": "Airbus Delays Development of Hydrogen-Powered Aircraft",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:12 · REAL HUMAN SPEECH",
     "answers": [
       "development efforts of a hydrogen-powered aircraft",
@@ -1053,7 +1052,7 @@ export const voaLevel1Lessons = [
       "In September 2020, [7], called ZEROe, as part of its efforts to decarbonize. ![Image 1: A [8] is pictured at the ILA Berlin Air Show 2022 in Berlin, Germany June 22, 2022.](https://gdb.voanews.com/1b7a96e2-e545-4240-f5eb-08dd4a817620w250r1s.jpg) A [9] is pictured at the ILA [10], Germany June 22, 2022. Other airplane manufacturers, however, have centered more on renewable fuels or [11]. Airbus noted it has no plans to [12]. The company said it sees hydrogen as “a revolutionary energy source for aviation.\" However, Airbus said in a statement to [13] to produce, transport, and store hydrogen represent “a huge [14].\" Hydrogen motors do not release gases that can warm the earth’s atmosphere.",
       "Instead, they release water. However, much of the hydrogen used for fuel is produced using natural gas or coal. Both of these [15] gas, which can warm the atmosphere. ![Image 2: FILE -- P V R Murthy, center, [16], pump station 3, [17] plant in Jorhat, India, Thursday, Aug. 17, 2023.](https://gdb.voanews.com/01000000-0aff-0242-944b-08dbafe782f4w250r1s.jpg) FILE -- P V R Murthy, center, general manager at Oil India Limited, pump station 3, [18] plant in Jorhat, India, Thursday, Aug. 17, 2023. Running renewable [19] without adding to carbon emissions.",
       "However, this process is generally more costly. Transporting and storing hydrogen also present problems. As a gas at room temperature, hydrogen [20]. This makes it impossible to use as fuel. It first needs to be turned into a [21]. And it [22]° Celsius to be liquefied. This cooling process [23]. Liquified hydrogen still takes up four times the space of jet fuel. The airline [24] will reach most of its reduction in [25] (SAF). It believes other technologies, like hydrogen, will take longer to develop. SAF uses food and plant waste from cities, agricultural and forest wastes, and other non-petroleum sources.",
-      "This fuel is then added to jet fuel in mixtures of 10 to 50 percent to become SAF. Airbus says it agrees that SAF can also play an important part in reducing emissions, particularly for medium and long-distance flights. Andrew Smith adapted this story for VOA Learning English based on reporting from Agence France-Presse and Reuters."
+      "This fuel is then added to jet fuel in mixtures of 10 to 50 percent to become SAF. Airbus says it agrees that SAF can also play an important part in reducing emissions, particularly for medium and long-distance flights. Andrew Smith adapted this story for the original report based on reporting from Agence France-Presse and Reuters."
     ],
     "essay": {
       "question": "",
@@ -1088,16 +1087,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Airbus Delays Development of Hydrogen-Powered Aircraft",
-      "sourceUrl": "https://learningenglish.voanews.com/a/airbus-delays-development-of-hydrogen-powered-aircraft/7972798.html",
-      "credit": "VOA Learning English · February 18, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 18, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 15",
+    "day": "LISTENING REPORT 15",
     "category": "SCIENCE",
     "title": "European Telescope Discovers ‘Einstein Ring’ in Nearby Galaxy",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:23 · REAL HUMAN SPEECH",
     "answers": [
       "Europe’s Euclid space telescope has discovered",
@@ -1128,10 +1127,10 @@ export const voaLevel1Lessons = [
     ],
     "paragraphs": [
       "Scientists say [1] a bright ring of light circling a nearby galaxy. The observed light is known as an Einstein ring. [2] a galaxy 590 million light years away from Earth. A light year is the distance light travels in a year – about 9.5 trillion kilometers. Astronomers have long known about the galaxy where the ring was discovered. So, they were surprised that the bright ring had not been identified before. It was [3] NGC 6505. It is in the constellation – a group of stars – named Draco. Einstein rings are rare. They form when light from a more distant galaxy bends around a closer galaxy. The nearer galaxy appears to have a circle of light, or a halo, around it. ![Image 1: This [4] Agency's Euclid spacecraft, which is [5] the \"Dark Side\" of the universe. (Image Credit: ESA)](https://gdb.voanews.com/01000000-c0a8-0242-a036-08db73f32f5bw250r1s.jpg) This artist's [6] Euclid spacecraft, which is carrying out a mission to explore the \"Dark Side\" of the universe.",
-      "(Image Credit: ESA) The Einstein ring gets its name from physicist Albert Einstein. Einstein predicted that light would bend around [7]. This is called “gravitational lensing.” The American space agency NASA [explains](https://science.nasa.[8]/#:~:[9],in%20eyeglasses%20or%20contact%20lenses.) that as light passes through a gravitational lens, “it may take different paths, producing multiple images of the same object.” In this way, gravity itself acts as a lens, [10] in a way that is similar to an optical lens like those in eyeglasses or contact lenses. Gravitational lenses permit telescopes like Euclid to observe more distant and less-bright objects. In the latest project, [11] for Astrophysics used data from Euclid to create a computer model to discover the Einstein ring. The Euclid space telescope is [12] (ESA). In 2023, it [launched](https://learningenglish.voanews.com/a/europe-prepares-to-launch-spacecraft-to-observe-dark-side-of-universe/7148712.html) on a six-year mission that ESA officials have said aims to study the mysteries of dark matter and dark energy across the universe.",
+      "(Image Credit: ESA) The Einstein ring gets its name from physicist Albert Einstein. Einstein predicted that light would bend around [7]. This is called “gravitational lensing.” The American space agency NASA explains that as light passes through a gravitational lens, “it may take different paths, producing multiple images of the same object.” In this way, gravity itself acts as a lens, [10] in a way that is similar to an optical lens like those in eyeglasses or contact lenses. Gravitational lenses permit telescopes like Euclid to observe more distant and less-bright objects. In the latest project, [11] for Astrophysics used data from Euclid to create a computer model to discover the Einstein ring. The Euclid space telescope is [12] (ESA). In 2023, it launched on a six-year mission that ESA officials have said aims to study the mysteries of dark matter and dark energy across the universe.",
       "![Image 2: This photo provided by the [13] view of the [14], with the bright Einstein ring aligned with it, captured by [15]. (European Space Agency via AP)](https://gdb.voanews.com/1149ee6e-02d0-43e7-f5ec-08dd4a817620cx0cy20cw100w250r1s.jpg) This photo provided by the [16] view of the center of the NGC 6505 galaxy, with the bright Einstein ring aligned with it, captured by [17]. (European Space Agency via AP) Astronomers at the Max Planck Institute are leading the research. In a statement, the organization said the first sign that the Einstein ring existed came during [18]. A team member, Bruno Altieri, was looking over early data collected by Euclid. “Even from that first observation, I could see it,” Altieri said in a statement. “But after Euclid made more observations of the area, we could see a perfect Einstein ring. For me, with a lifelong interest in gravitational lensing, that was amazing.” The scientists said the more [19] is about 4.4 [20].",
-      "They noted that the more distant galaxy had never been observed before and does not have a name. [21] [in a study](https://www.aanda.org/articles/aa/fullhtml/2025/02/aa53014-24/aa53014-24.html) in the publication Astronomy and Astrophysics. Conor O’Riordan is another team member from the Max Planck [22] of the study. He said, “All strong lenses are [special, because](http://learningenglish.voanews.[23].html) they're so rare, and they're incredibly useful scientifically. This one is particularly special, because it’s so close to Earth and the alignment makes it very beautiful.” O’Riordan added that the [24] [25]. This permitted them to model the light of the ring. “We even had to look at some of the rawdata to better understand how the detector works.” O’Riordan said the team’s modeling operations were just the first step in studying the newly discovered Einstein ring. He said the group plans to use the ring to also study “dark matter substructures” within the lensing galaxy.",
-      "O’Riordan predicted, “Euclid is going to revolutionize the field, with all this data we've never had before.” Bryan Lynn wrote this story for VOA Learning English, based on reports from The Associated Press, the Max Planck Institute, the European Space [Agency](http://learningenglish.voanews.com/a/european-telescope-discovers-einstein-ring-in-nearby-galaxy/7972838.html) and NASA."
+      "They noted that the more distant galaxy had never been observed before and does not have a name. [21] in a study in the publication Astronomy and Astrophysics. Conor O’Riordan is another team member from the Max Planck [22] of the study. He said, “All strong lenses are special, because they're so rare, and they're incredibly useful scientifically. This one is particularly special, because it’s so close to Earth and the alignment makes it very beautiful.” O’Riordan added that the [24] [25]. This permitted them to model the light of the ring. “We even had to look at some of the rawdata to better understand how the detector works.” O’Riordan said the team’s modeling operations were just the first step in studying the newly discovered Einstein ring. He said the group plans to use the ring to also study “dark matter substructures” within the lensing galaxy.",
+      "O’Riordan predicted, “Euclid is going to revolutionize the field, with all this data we've never had before.” Bryan Lynn wrote this story for the original report, based on reports from The Associated Press, the Max Planck Institute, the European Space Agency and NASA."
     ],
     "essay": {
       "question": "",
@@ -1166,16 +1165,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "European Telescope Discovers ‘Einstein Ring’ in Nearby Galaxy",
-      "sourceUrl": "https://learningenglish.voanews.com/a/european-telescope-discovers-einstein-ring-in-nearby-galaxy/7972838.html",
-      "credit": "VOA Learning English · February 16, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 16, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 16",
+    "day": "LISTENING REPORT 16",
     "category": "SCIENCE",
     "title": "Important Terms and Ideas for Describing Artificial Intelligence",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 7:40 · REAL HUMAN SPEECH",
     "answers": [
       "experts use to describe computer systems",
@@ -1205,7 +1204,7 @@ export const voaLevel1Lessons = [
       "important term is artificial general intelligence"
     ],
     "paragraphs": [
-      "There are several terms [1] in the field of artificial intelligence. Recently, the French News Agency (AFP) defined some of the common terms and ideas used in that field. Here is a version for English learners: The first term is “artificial intelligence.” When asked what artificial intelligence is, the AI-powered ChatGPT system says that the term means “[2] that are programmed to think, learn and make decisions\". AI's main quality or characteristic is taking in large amounts of data and then processing it using methods from statistics. AI involves [3] computing, mathematics, languages, psychology, and others. Currently, the technology is being used heavily for investigating health issues, translating human languages, and predicting [4] cars. But AI is affecting many fields of business and industry. ![Image 1: FILE - OpenAI CEO Sam Altman attends an event to pitch AI for businesses in Tokyo, Japan February 3, 2025. REUTERS/Kim Kyung-Hoon](https://gdb.voanews.com/c9785b95-9cb5-4a11-a959-0d840907dbafw250r0s.jpg) FILE - OpenAI CEO Sam [5] AI for businesses in Tokyo, [6], 2025.",
+      "There are several terms [1] in the field of artificial intelligence. Recently, the French News Agency (AFP) defined some of the common terms and ideas used in that field. Here is a version for English learners: The first term is “artificial intelligence.” When asked what artificial intelligence is, the AI-powered ChatGPT system says that the term means “[2] that are programmed to think, learn and make decisions\". AI's main quality or characteristic is taking in large amounts of data and then processing it using methods from statistics. AI involves [3] computing, mathematics, languages, psychology, and others. Currently, the technology is being used heavily for investigating health issues, translating human languages, and predicting [4] cars. But AI is affecting many fields of business and industry.  FILE - OpenAI CEO Sam [5] AI for businesses in Tokyo, [6], 2025.",
       "REUTERS/Kim Kyung-Hoon A second important term is “algorithm.” An algorithm is important to all computer operations. It is a [7] by a computer program to get a result. Algorithms can give rules for an AI's behavior, helping it to realize the objectives of computer program developers. Unlike a simple computer program, [8] to “learn” for itself. A third important term is “machine learning.” Machine learning is one method that researchers have used in their efforts to produce artificial intelligence. Machine learning lets computers learn from data without being directly programmed on what results to produce. In recent years, the field of [9]. In a neural network, connections between some nodesare strengthened and [10] and makes changes. Learning can be \"supervised.\" This means the system learns to put new data into specific groups based on a model. For example, the system could learn to identify spam in an email or other messaging programs. ![Image 2: FILE - Visitors watch a projection at the Kunstpalast art museum in Duesseldorf, Germany, Tuesday, May 2, 2023.",
       "Turkish artist Refik Anadol used a machine learning framework to let [11]. (AP Photo/Martin Meissner)](https://gdb.voanews.com/f8be2352-7f4a-499a-b280-f1826fc7bcf8w250r0s.jpg) FILE - Visitors watch a projection at the Kunstpalast art museum in Duesseldorf, Germany, Tuesday, May 2, 2023. Turkish artist Refik Anadol used a machine learning framework to let [12]. (AP Photo/Martin Meissner) \"Unsupervised\" [13] discover new areas or ways of doing things. These discoveries in the available data might not have been immediately clear. An example would be letting an [14]. \"Reinforcement\" learning adds a process of repeated trial-and-error. In this process, the system is rewarded based on its outcomes, causing it to learn and improve. One example might be a self-driving vehicle whose [15] as quickly as possible but also safely. That requirement would lead it to learn to stop at red [16]. Deep learning owes its name to its use of many layers of neural networks. Raw data is examined by each layer in turn at growing levels of abstraction. [17] Prize in Physics.",
       "Hinton is credited with developing deep learning. Hinton received the [18] John Hopfield. Francis Bach, [19] laboratory, said this about deep learning: \"The more layers you have, the more complex behavior can become, and the more complex the behavior can be, the easier it is to learn a desired behavior efficiently.\" The [20] discoveries. ![Image 3: FILE - Text from the ChatGPT page of the OpenAI website is shown in this photo, in New York, Feb. 2, 2023. Anthropic, ChatGPT-maker OpenAI and other developers of [21] at work to make them more truthful. (AP Photo/Richard Drew, File)](https://gdb.voanews.com/08d797dc-f07e-4d07-ad12-28429ff49f8aw250r0s.jpg) FILE - Text from the ChatGPT page of the OpenAI website is shown in this photo, in New York, Feb. 2, 2023. Anthropic, ChatGPT-maker OpenAI and other developers of [22] at work to make them more truthful. (AP Photo/Richard Drew, File) We [23] (LLMs). These might be the most popular example of generative AI. [24] OpenAI’s ChatGPT or Google’s Gemini. Such systems are able to write long papers, answer legal questions or even produce a cake recipe based on their statistical models.",
@@ -1244,16 +1243,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Important Terms and Ideas for Describing Artificial Intelligence",
-      "sourceUrl": "https://learningenglish.voanews.com/a/important-terms-and-ideas-involved-in-describing-artificial-intelligence-/7965170.html",
-      "credit": "VOA Learning English · February 12, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 12, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 17",
+    "day": "LISTENING REPORT 17",
     "category": "SCIENCE",
     "title": "Study: Asteroid Hit Created Two ‘Grand Canyons’ on Moon",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:17 · REAL HUMAN SPEECH",
     "answers": [
       "Researchers from the United States",
@@ -1283,11 +1282,11 @@ export const voaLevel1Lessons = [
       "help answer questions about the formation"
     ],
     "paragraphs": [
-      "A new study suggests an asteroidstrike on the moon billions of years ago left two huge valleys about the size of Earth’s Grand Canyon. [1] and Britain said their [2], or canyons, likely formed in less than 10 minutes. They noted the crash, or impact, happened near the south pole on the far side of the moon. That is the side of the moon which [3]. The area is known as the Schrödinger impact basin. The speed of the incoming object – which the team said might have been a comet – was estimated to be around 55,000 kilometers per hour. The [4].8 billion years ago. The researchers [5] [6] NASA. That vehicle, the [Lunar Reconnaissance Orbiter](https://science.nasa.gov/mission/lro/), has been [7] around the moon in June 2009.",
-      "One main goal of the orbiter’s mission was to create a highly detailed, three-dimensional, or 3D, map of the moon. The data has been used by NASA to learn more about lunar [8] missions. The agency [noted](https://science.nasa.gov/mission/lro/science-and-data/) that the Lunar Reconnaissance Orbiter had “already collected as much [9] combined.” The team studying the [10] to simulate the path of the incoming object, as well as material that was displaced by the crash. The [11]](https://www.nature.com/articles/s41467-024-55675-z) describing their results in Nature Communications. The group’s [12] over the south pole before hitting. It then created a huge basin and launched rocky materials at speeds up to 1 kilometer per second.",
-      "The [researchers](http://learningenglish.voanews.com/a/study-asteroid-hit-created-two-grand-canyons-on-moon/7964413.html) said material was sent flying and [13]. This resulted in the creation of the canyons. The team said the canyons appear comparable in size to the Grand Canyon, in the U.S. state of Arizona. The [14] of the Lunar and Planetary Institute in Houston. He told the Associated [15] strike was a “very violent” geologic process. Kring and his team [16] across. They estimated that the energy [17] would have been more than 130 times greater than the power of [18]. Kring said most of the rock and debris was thrown in a direction away from the south pole. That finding is good news for NASA which plans to land astronauts in that area in the future.",
+      "A new study suggests an asteroidstrike on the moon billions of years ago left two huge valleys about the size of Earth’s Grand Canyon. [1] and Britain said their [2], or canyons, likely formed in less than 10 minutes. They noted the crash, or impact, happened near the south pole on the far side of the moon. That is the side of the moon which [3]. The area is known as the Schrödinger impact basin. The speed of the incoming object – which the team said might have been a comet – was estimated to be around 55,000 kilometers per hour. The [4].8 billion years ago. The researchers [5] [6] NASA. That vehicle, the Lunar Reconnaissance Orbiter, has been [7] around the moon in June 2009.",
+      "One main goal of the orbiter’s mission was to create a highly detailed, three-dimensional, or 3D, map of the moon. The data has been used by NASA to learn more about lunar [8] missions. The agency noted that the Lunar Reconnaissance Orbiter had “already collected as much [9] combined.” The team studying the [10] to simulate the path of the incoming object, as well as material that was displaced by the crash. The [11]](https://www.nature.com/articles/s41467-024-55675-z) describing their results in Nature Communications. The group’s [12] over the south pole before hitting. It then created a huge basin and launched rocky materials at speeds up to 1 kilometer per second.",
+      "The researchers said material was sent flying and [13]. This resulted in the creation of the canyons. The team said the canyons appear comparable in size to the Grand Canyon, in the U.S. state of Arizona. The [14] of the Lunar and Planetary Institute in Houston. He told the Associated [15] strike was a “very violent” geologic process. Kring and his team [16] across. They estimated that the energy [17] would have been more than 130 times greater than the power of [18]. Kring said most of the rock and debris was thrown in a direction away from the south pole. That finding is good news for NASA which plans to land astronauts in that area in the future.",
       "Kring noted it should [19] astronauts. \"Because debris from the Schrödinger impact was jettisoned away from the lunar south pole, [20] will be at or close to the surface…,” Kring told Reuters news agency. This should make it easier for future American astronauts to collect them. NASA’s [21] as the agency’s Artemis program. The program aims to return astronauts to the moon for the first [22] in 1972. The [23] astronauts on a trip around the moon next year. That would be followed a year or so later by a landing attempt on the lunar surface. The researchers said older rocks in the area can [24] of the moon’s past history. They could also [25] of Earth. Kring noted it is currently not clear whether the two huge canyons are permanently shadowed like some of the craters at the moon’s south pole.",
-      "“That is something that we’re clearly going to be reexamining,” he said. Bryan Lynn wrote this story for VOA Learning English, based on reports from The Associated Press, Reuters, The Universities Space Research Association and Nature Communications. ![Image 1: Quiz - Study: Asteroid Hit Created Two ‘Grand Canyons’ on Moon](https://gdb.voanews.com/f8084c1d-8f6f-4e18-a5b8-4ba6a4b7fad1cx2cy0cw89w250r1.jpg)"
+      "“That is something that we’re clearly going to be reexamining,” he said. Bryan Lynn wrote this story for the original report, based on reports from The Associated Press, Reuters, The Universities Space Research Association and Nature Communications. "
     ],
     "essay": {
       "question": "",
@@ -1322,16 +1321,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Study: Asteroid Hit Created Two ‘Grand Canyons’ on Moon",
-      "sourceUrl": "https://learningenglish.voanews.com/a/study-asteroid-hit-created-two-grand-canyons-on-moon/7964413.html",
-      "credit": "VOA Learning English · February 09, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 09, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 18",
+    "day": "LISTENING REPORT 18",
     "category": "SCIENCE",
     "title": "Researchers: Oldest Evidence of Lead Pollution Found in Greece",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:30 · REAL HUMAN SPEECH",
     "answers": [
       "study that recently appeared in Communications",
@@ -1400,16 +1399,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Researchers: Oldest Evidence of Lead Pollution Found in Greece",
-      "sourceUrl": "https://learningenglish.voanews.com/a/researchers-oldest-evidence-of-lead-pollution-found-in-greece/7962381.html",
-      "credit": "VOA Learning English · February 09, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 09, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 19",
+    "day": "LISTENING REPORT 19",
     "category": "SCIENCE",
     "title": "Study: Millions of Europeans Could Die from Heat by end of Century",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:50 · REAL HUMAN SPEECH",
     "answers": [
       "study warns that millions of Europeans",
@@ -1443,7 +1442,7 @@ export const voaLevel1Lessons = [
       "However, heat-related deaths are predicted to rise sharply. Scientists at the London School of Hygiene and Tropical Medicine led the research. The [8]](https://www.nature.com/articles/d41586-025-00239-4#:~:text=An%20extra%202.3%20million%20people,the%20effects%20of%20rising%20temperatures.) in the publication Nature Medicine. The [9] greenhouse [10] and cooling centers in parts of Europe. Without such efforts, places in Italy, [11] to see large increases in [12], the study found.",
       "On the other hand, much of Scandinavia and Britain are predicted to see fewer temperature-related deaths, [13] to become more moderate. Pierre Masselot [14] health at the London School of Hygiene and Tropical Medicine. He helped lead the research. Masselot [15] in cold deaths in northern parts of Europe are happening in areas not as populated as places further south. “The [16],\" he said. \"It's a [17] than the rest of the world.",
       "And Malta is right in the middle of it.” The study predicts Malta’s temperature-related [18] for every 100,000 individuals by the end of the century. On the other hand, [19] slightly to 15 per 100,000 people. [20] have [21] years across the continent. The highest number was in 2003, when about 70,000 deaths were recorded. [22] the most deaths from [23], Spain. The study found almost 250,[24] causes in that city by 2100.",
-      "And the [25] could have up to 150,000 deaths. The study predicted that more than 5.8 million extra heat deaths would be linked to climate change. At the same time, the study found cold-related deaths would drop by 3.5 million. The Associated Press reported on this story. Bryan Lynn adapted the report for VOA Learning English."
+      "And the [25] could have up to 150,000 deaths. The study predicted that more than 5.8 million extra heat deaths would be linked to climate change. At the same time, the study found cold-related deaths would drop by 3.5 million. The Associated Press reported on this story. Bryan Lynn adapted the report for the original report."
     ],
     "essay": {
       "question": "",
@@ -1478,16 +1477,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Study: Millions of Europeans Could Die from Heat by end of Century",
-      "sourceUrl": "https://learningenglish.voanews.com/a/study-millions-of-europeans-could-die-from-heat-by-2100/7957412.html",
-      "credit": "VOA Learning English · February 06, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 06, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 20",
+    "day": "LISTENING REPORT 20",
     "category": "SCIENCE",
     "title": "New US Jet Breaks Sound Barrier in First Flight Test",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 7:47 · REAL HUMAN SPEECH",
     "answers": [
       "aircraft developed by a private American",
@@ -1517,11 +1516,11 @@ export const voaLevel1Lessons = [
       "involve flying the X-59 over several"
     ],
     "paragraphs": [
-      "An experimental [1] company broke the sound barrier during a recent flight test. California-based company Boom Supersonic built the plane, named XB-1. The company said the aircraft reached a speed of Mach 1.05 during a test on January 28. The test flight operated from the [2], California. Any speed greater than Mach 1.0 breaks the [3]. The American space agency NASA [explains](https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-5-8/#:~:text=Vehicles%20that%20fly%20at%20supersonic,to%20the%20speed%20of%20sound.) that at sea level, the [4] to be about 1,236 kilometers per hour. In a statement, Boom Supersonic said the XB-1 demonstrator aircraft climbed to more than 35,000 feet before reaching Mach 1.0. It recorded the speed within 11 minutes of taking off. The [5]](https://www.youtube.com/watch?v=-qisIViAHwI) of the supersonic test flight. ![Image 1: Boom Supersonic XB-1](https://gdb.voanews.com/b3bf72ef-282a-426f-88f8-bb9afce65b51w250r1s.jpg) [6] said in a press release, “Historically, [7] of nation states, developed by militaries and governments.” But the latest flight made the XB-1 “the [8]” to break the sound barrier, Boom Supersonic said.",
-      "The company’s founder and chief executive officer, Blake Scholl, said, “XB-1’s supersonic flight demonstrates that the technology for passenger supersonic flight has arrived.” [Boom Supersonic](https://boomsupersonic.com/) launched in 2014 “with the goal of [9] a new world of human connection.” With that in mind, the company has been working to develop a supersonic passenger airliner called Overture. The aircraft would carry up to 80 passengers. Boom Supersonic is one of [10] supersonic flight vehicles. NASA is also working on a supersonic aircraft in partnership with a U.S. contractor. The last time [11] was 2003. That is the year the Concorde – the world’s first supersonic passenger jet aircraft – stopped service. Britain and France jointly operated the Concorde. But the joint operation between British Airways and [12] that led to the decision to stop flying the supersonic planes. Some of the difficulties were [13] Concorde crash in 2000.",
+      "An experimental [1] company broke the sound barrier during a recent flight test. California-based company Boom Supersonic built the plane, named XB-1. The company said the aircraft reached a speed of Mach 1.05 during a test on January 28. The test flight operated from the [2], California. Any speed greater than Mach 1.0 breaks the [3]. The American space agency NASA explains that at sea level, the [4] to be about 1,236 kilometers per hour. In a statement, Boom Supersonic said the XB-1 demonstrator aircraft climbed to more than 35,000 feet before reaching Mach 1.0. It recorded the speed within 11 minutes of taking off. The [5]](https://www.youtube.com/watch?v=-qisIViAHwI) of the supersonic test flight.  [6] said in a press release, “Historically, [7] of nation states, developed by militaries and governments.” But the latest flight made the XB-1 “the [8]” to break the sound barrier, Boom Supersonic said.",
+      "The company’s founder and chief executive officer, Blake Scholl, said, “XB-1’s supersonic flight demonstrates that the technology for passenger supersonic flight has arrived.” Boom Supersonic launched in 2014 “with the goal of [9] a new world of human connection.” With that in mind, the company has been working to develop a supersonic passenger airliner called Overture. The aircraft would carry up to 80 passengers. Boom Supersonic is one of [10] supersonic flight vehicles. NASA is also working on a supersonic aircraft in partnership with a U.S. contractor. The last time [11] was 2003. That is the year the Concorde – the world’s first supersonic passenger jet aircraft – stopped service. Britain and France jointly operated the Concorde. But the joint operation between British Airways and [12] that led to the decision to stop flying the supersonic planes. Some of the difficulties were [13] Concorde crash in 2000.",
       "That incident involved an Air France airliner crashing shortly after taking off from Paris. The crash claimed a total of 113 lives. Boom Supersonic says its [14] to transport passengers from the U.S. East Coast across the Atlantic to Europe in about 3-and-a-half hours. The flight with normal passenger jets takes about eight hours. ![Image 2: [15] [16] in Palmdale, California. (Image Credit: NASA Lockheed Martin Skunk Works)](https://gdb.voanews.com/01000000-0aff-0242-3307-08dc191995d2w250r1s.jpg) NASA’s X-59 supersonic [17] Skunk Works facility in Palmdale, California. (Image Credit: NASA Lockheed Martin Skunk Works) Amy Marino Spowart is the president and chief executive [18]. She told The Associated Press the latest supersonic test flight suggests “the future of aviation is here and now.” Spowart added, “Not only is there hope for faster and better commercial flight, but Boom proves that it can be done sustainably.” Boom Supersonic has said its [19] to run on up to 100 percent sustainable aircraft fuel.",
-      "Such sustainable fuels are made from non-petroleum products, such as [20]. Both XB-1 and Overture are made mostly from a carbon-based composite material to provide “a strong, lightweight structure,” the company said. NASA’s [21] Martin – is called X-59. It is also an experimental plane that is seeking to test the level of noise produced by supersonic travel. Currently, [22] because of the loud noise they produce. NASA has [explained](https://www.nasa.gov/missions/quesst/quesst-mission/quesst-the-mission-description/) it plans to carry out testing this year of the X-59 aircraft, which has been designed and engineered to operate at lower [23]. The tests – to take place at supersonic test centers in California – are designed “to prove the quiet supersonic technology works as designed.” NASA said that after that testing is done, the [24] studies, beginning in 2026. These will [25] cities and then asking people on the ground to share their thoughts on the level of noise they heard.",
-      "NASA has said the X-59 – which measures 30 meters long and nine meters wide – is expected to fly at 1.4 times the speed of sound. That is about 1,500 kilometers per hour. ![Image 3: Quiz - New US Jet Breaks Sound Barrier in First Flight Test](https://gdb.voanews.com/782a04e3-e58e-41f4-9767-c30fabbadecbw250r1.jpg) The Associated Press, Reuters and Boom Supersonic reported on this story. Bryan Lynn adapted the reports for VOA Learning English."
+      "Such sustainable fuels are made from non-petroleum products, such as [20]. Both XB-1 and Overture are made mostly from a carbon-based composite material to provide “a strong, lightweight structure,” the company said. NASA’s [21] Martin – is called X-59. It is also an experimental plane that is seeking to test the level of noise produced by supersonic travel. Currently, [22] because of the loud noise they produce. NASA has explained it plans to carry out testing this year of the X-59 aircraft, which has been designed and engineered to operate at lower [23]. The tests – to take place at supersonic test centers in California – are designed “to prove the quiet supersonic technology works as designed.” NASA said that after that testing is done, the [24] studies, beginning in 2026. These will [25] cities and then asking people on the ground to share their thoughts on the level of noise they heard.",
+      "NASA has said the X-59 – which measures 30 meters long and nine meters wide – is expected to fly at 1.4 times the speed of sound. That is about 1,500 kilometers per hour.  The Associated Press, Reuters and Boom Supersonic reported on this story. Bryan Lynn adapted the reports for the original report."
     ],
     "essay": {
       "question": "",
@@ -1556,16 +1555,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "New US Jet Breaks Sound Barrier in First Flight Test",
-      "sourceUrl": "https://learningenglish.voanews.com/a/new-us-jet-breaks-sound-barrier-in-first-flight-test/7962942.html",
-      "credit": "VOA Learning English · February 05, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 05, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 21",
+    "day": "LISTENING REPORT 21",
     "category": "SCIENCE",
     "title": "Study Finds India’s Tiger Population Doubled in 12 Years",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:56 · REAL HUMAN SPEECH",
     "answers": [
       "recent study says India has doubled",
@@ -1598,8 +1597,8 @@ export const voaLevel1Lessons = [
       "A [1] its tiger population in 12 years. Researchers said the gain came from efforts to protect the big cats from hunters, and to protect against the loss of tiger habitat and prey, among other things. The National [2] of tigers grew from an estimated 1,706 in 2010 to around 3,682 in 2022. Those numbers mean India is home to about [3] population. The research [4] between humans and wildlife also played a part in the population growth. The [5] conditions for communities near tiger habitats. The researchers said the growth in the tiger population also led to [6] ecotourism. The study appears in the publication Science. It said India's success demonstrates that wildlife protection can help both biodiversity and nearby communities. “The common belief is that human densities [7],\" said Yadvendradev Jhala.",
       "Jhala is a scientist at Bengaluru-based Indian National Academy of Sciences and was the study’s lead writer. “What the research shows is that it's not the human density, but the attitude of people, which matters more.” Wildlife [8]. But they said making the source data available to a larger [9] and other wildlife in India. The study was based on data collected by Indian government-supported organizations. ![Image 1: FILE - A Royal Bengal tiger drags a wild boar after killing it at the [10], Rajasthan, India, June 10, 2015. (AP Photo/Deepak Sharma, File)](https://gdb.voanews.com/6cdb7871-d713-4d2c-9ce8-4fee8c910cd5w250r0s.jpg) FILE - A Royal Bengal tiger drags a wild boar after killing it at the [11], Rajasthan, India, June 10, 2015. (AP Photo/Deepak Sharma, File) Arjun [12] how to measure wildlife populations.",
       "He said that estimates from India’s official tiger observation program have been undependable. He said some of the numbers in the [13] estimates of tiger populations from the same datasets. But he added that the study's findings seem to have corrected a [14] [15] size and their range. The study said tigers disappeared in some areas. These included habitats that were not near national parks or other protected areas, and areas of increased development, [16] and areas with armed conflict. “Without [17], conservation is not possible in our country,” said Jhala. That [18] good results from their efforts to save tigers. Tigers are spread across about 138,200 square kilometers of India. But just 25 percent of the area is rich in tiger prey and is protected.",
-      "Another 45 percent of tiger habitat is shared with about 60 million people, the study said. [19] is the “backbone” of tiger conservation in India. “Habitat is not a constraint, [20] which is a constraint,” he said. Wildlife biologist Ravi Chellam, who did not take part in the study, praised the tiger conservation efforts as promising. But, he said, such efforts need to be extended to other wild animals to [21] in India. [22] wildlife are “on the edge,” and need more attention. I’m [Caty Weaver.](http://learningenglish.voanews.[23].html) habitat–n. the place or environment where a plant or [24]–n. an animal hunted or killed by another animal for food ecotourism–n. people who travel to and visit a place to see its natural beauty and wildlife biodiversity–n.",
-      "biological variety in an environment as [25] of plants and animals preclude–v. to make impossible by necessary consequence attitude–n. the visible behavior that shows how a person thinks or feels about something or someone conservationist–n. a person who works to preserve animals, [plants](http://learningenglish.voanews.com/a/study-finds-india-s-tiger-population-doubled-in-12-years/7958833.html) and natural resources for future generations range–n. the area where a plant or animal naturally lives and can be found constraint–n. the state of being restricted participation– n. the action or state of taking part in something"
+      "Another 45 percent of tiger habitat is shared with about 60 million people, the study said. [19] is the “backbone” of tiger conservation in India. “Habitat is not a constraint, [20] which is a constraint,” he said. Wildlife biologist Ravi Chellam, who did not take part in the study, praised the tiger conservation efforts as promising. But, he said, such efforts need to be extended to other wild animals to [21] in India. [22] wildlife are “on the edge,” and need more attention. I’m Caty Weaver. habitat–n. the place or environment where a plant or [24]–n. an animal hunted or killed by another animal for food ecotourism–n. people who travel to and visit a place to see its natural beauty and wildlife biodiversity–n.",
+      "biological variety in an environment as [25] of plants and animals preclude–v. to make impossible by necessary consequence attitude–n. the visible behavior that shows how a person thinks or feels about something or someone conservationist–n. a person who works to preserve animals, plants and natural resources for future generations range–n. the area where a plant or animal naturally lives and can be found constraint–n. the state of being restricted participation– n. the action or state of taking part in something"
     ],
     "essay": {
       "question": "",
@@ -1634,16 +1633,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Study Finds India’s Tiger Population Doubled in 12 Years",
-      "sourceUrl": "https://learningenglish.voanews.com/a/study-finds-india-s-tiger-population-doubled-in-12-years/7958833.html",
-      "credit": "VOA Learning English · February 05, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 05, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 22",
+    "day": "LISTENING REPORT 22",
     "category": "SCIENCE",
     "title": "Huge Iceberg Could Threaten Penguins in the South Atlantic Ocean",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:03 · REAL HUMAN SPEECH",
     "answers": [
       "South Atlantic Ocean could threaten wildlife",
@@ -1677,7 +1676,7 @@ export const voaLevel1Lessons = [
       "Meijers said observations had [7] into smaller pieces like some other so-called \"megabergs\" that passed through the Southern Ocean. He [8] path is difficult. But ocean conditions suggest it should reach South Georgia in two to four weeks. Meijers said he is worried the iceberg will get caught on the [9]. But he said it is also [10] could miss the shelf and [11] South Georgia. If the iceberg does get caught, or stuck, on the shelf, Meijers said it could remain there for months or it could break into pieces. Meijers is concerned that this could [12] on the island to feed and raise their young.",
       "Icebergs that have grounded there in the past led to the [13], he said. Raul Cordero is a mechanical engineer from Chile's University of Santiago. He is also a [14] Committee. Cordero told AFP he thinks the iceberg will miss South Georgia. \"The island acts as an obstacle for [15] the water long before it reaches the island,\" he said. \"The [16] flow, so the chances of it hitting are not that high.\" Cordero added, however, that some [17]. Soledad Tiranti is a glacier expert who is [18] in the Antarctic. She told AFP that icebergs such as A23a \"are so deep that before reaching an island or mainland they generally get stuck\" on the seabed.",
       "It is currently [19] and seals from the area have been looking for food in the [20] to their young. Meijers said the animals might have to go around the iceberg if it gets stuck. He added that if they had to move around it, this would take a lot of their energy, [21]. The seal and penguin [22] been having a \"bad season\" with cases of bird flu, Meijers said. [23] years before finally breaking free from the [24]. Scientists watching its movements say the [25] path as other large ice masses in the past. The icebergs generally pass the east side of the Antarctic Peninsula through the Weddell Sea along a path known as \"iceberg alley.\" They are pushed by the world’s most powerful ocean current system, the Antarctic Circumpolar Current.",
-      "Agence France-Presse reported on this story. Bryan Lynn adapted the report for VOA Learning English."
+      "Agence France-Presse reported on this story. Bryan Lynn adapted the report for the original report."
     ],
     "essay": {
       "question": "",
@@ -1712,16 +1711,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Huge Iceberg Could Threaten Penguins in the South Atlantic Ocean",
-      "sourceUrl": "https://learningenglish.voanews.com/a/huge-iceberg-could-threaten-penguins-in-the-south-atlantic-ocean/7953686.html",
-      "credit": "VOA Learning English · February 04, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 04, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 23",
+    "day": "LISTENING REPORT 23",
     "category": "HEALTH",
     "title": "Doctors Concerned about Return of Iodine Deficiency",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:29 · REAL HUMAN SPEECH",
     "answers": [
       "now seeing higher iodine deficiency rates",
@@ -1790,16 +1789,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Doctors Concerned about Return of Iodine Deficiency",
-      "sourceUrl": "https://learningenglish.voanews.com/a/doctors-concerned-about-return-of-iodine-deficiency/7932629.html",
-      "credit": "VOA Learning English · January 13, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 13, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 24",
+    "day": "LISTENING REPORT 24",
     "category": "SCIENCE",
     "title": "Researchers: NASA Asteroid Samples Contain ‘Building Blocks’ of Life",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 7:18 · REAL HUMAN SPEECH",
     "answers": [
       "American spacecraft OSIRIS-REx collected the samples",
@@ -1829,11 +1828,11 @@ export const voaLevel1Lessons = [
       "materials from OSIRIS-REx provide new details"
     ],
     "paragraphs": [
-      "Scientists examining material collected from an asteroid say it appears to contain some of the chemical building blocks of life. The [1] in 2020 from the asteroid Bennu. In 2023, the spacecraft sent the rock and dust material back to Earth in a special container that landed by parachute. [2] NASA recovered the samples in the western state of Utah. OSIRIS-REx is already on its [3]. It is expected to reach that asteroid in 2029. On Bennu, the spacecraft collected a total of 122 grams of material. This is believed to be the largest [4]. NASA has shared some of the material with international researchers. Two [5] describing results of their examinations of the asteroid material. One [study](https://www.nature.com/articles/s41550-024-02472-9), published in Nature Astronomy, [6] of organic compounds.",
-      "Organic compounds have one or more carbon atoms that attach to other elements, usually hydrogen, oxygen, [nitrogen](http://learningenglish.voanews.[7].html) and sulfur. All life on Earth is based on [8] compounds. The other study, [published](https://www.nature.com/articles/s41586-024-08495-6) in Nature, [9] object, which Bennu is believed to have broken off from, once held salty, liquid water. The researchers said this suggests that in the early solar system, asteroids such as Bennu might have transported water and life-supporting chemicals to other planets and moons. Researchers from [10] that the samples they worked with came directly from the asteroid itself. [11] turn into meteorites, and chemicals inside the samples can be changed or lost. In a statement, NASA said the findings do not [12].",
+      "Scientists examining material collected from an asteroid say it appears to contain some of the chemical building blocks of life. The [1] in 2020 from the asteroid Bennu. In 2023, the spacecraft sent the rock and dust material back to Earth in a special container that landed by parachute. [2] NASA recovered the samples in the western state of Utah. OSIRIS-REx is already on its [3]. It is expected to reach that asteroid in 2029. On Bennu, the spacecraft collected a total of 122 grams of material. This is believed to be the largest [4]. NASA has shared some of the material with international researchers. Two [5] describing results of their examinations of the asteroid material. One study, published in Nature Astronomy, [6] of organic compounds.",
+      "Organic compounds have one or more carbon atoms that attach to other elements, usually hydrogen, oxygen, nitrogen and sulfur. All life on Earth is based on [8] compounds. The other study, published in Nature, [9] object, which Bennu is believed to have broken off from, once held salty, liquid water. The researchers said this suggests that in the early solar system, asteroids such as Bennu might have transported water and life-supporting chemicals to other planets and moons. Researchers from [10] that the samples they worked with came directly from the asteroid itself. [11] turn into meteorites, and chemicals inside the samples can be changed or lost. In a statement, NASA said the findings do not [12].",
       "However, the space agency said, “They do suggest the conditions necessary for the emergence of life were [13].” This increases the chances that “life could have formed on other planets and moons,” the statement added. The parent of Bennu is believed to be an icy body measuring about 100 kilometers across. Scientists believe the body [14] and was later destroyed, [15] ago. The pieces that broke off [16] observed to be masses of loose material, rather than solid objects. Nicky Fox is the associate administrator for NASA’s Science Mission Directorate in Washington D.C. She praised the OSIRIS-REx mission, saying it was “already rewriting the textbook on what we understand about the beginnings of our solar system.” Fox added that she [17] understand “what [18] before life started on Earth.” Tim McCoy is a researcher at the U.S.",
       "Smithsonian Institution and was a [19]. He told the Associated Press (AP) that the samples may provide details about \"the kind of environment that could have been essential to the steps that lead from elements to life.” He noted that combining the [20] of sodium-rich water is “really the pathway to life.” He added the samples [21] compounds “probably occurred much earlier and were much more widespread than we had thought before.\" Yasuhito Sekine is with the Institute of Science in Tokyo. He did not take part in the new research. Sekine [22] possible by examining samples “collected directly from the asteroid, then carefully preserved back on Earth.\" Jason Dworkin is a project scientist for the [23] Flight Center in Maryland. He told Reuters news agency that all biology is made up of organic compounds.",
-      "And some of those may have survived 4.[24]. Dworkin said the [25] about a solar system that might have had the right elements to support life. But he added that one of the most interesting questions, still remains: “Why we, so far, only see life on Earth and not elsewhere.” Bryan Lynn wrote this story for VOA Learning English, based on reports from The Associated Press, Reuters, Agence France-[Presse](http://learningenglish.voanews.com/a/researchers-nasa-asteroid-samples-contain-building-blocks-of-life/7957452.html) and NASA. ![Image 1: Quiz - Researchers: NASA Asteroid Samples Contain ‘Building Blocks’ of Life](https://gdb.voanews.com/193621e0-33e1-407e-8e52-739a19ddc81ew250r1.jpg)"
+      "And some of those may have survived 4.[24]. Dworkin said the [25] about a solar system that might have had the right elements to support life. But he added that one of the most interesting questions, still remains: “Why we, so far, only see life on Earth and not elsewhere.” Bryan Lynn wrote this story for the original report, based on reports from The Associated Press, Reuters, Agence France-Presse and NASA. "
     ],
     "essay": {
       "question": "",
@@ -1868,16 +1867,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Researchers: NASA Asteroid Samples Contain ‘Building Blocks’ of Life",
-      "sourceUrl": "https://learningenglish.voanews.com/a/researchers-nasa-asteroid-samples-contain-building-blocks-of-life/7957452.html",
-      "credit": "VOA Learning English · February 02, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 02, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 25",
+    "day": "LISTENING REPORT 25",
     "category": "SCIENCE",
     "title": "Meta Ends Third-party Fact-Checking, Adds ‘Community Notes’ System",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:40 · REAL HUMAN SPEECH",
     "answers": [
       "identify misinformation and harmful material published",
@@ -1907,11 +1906,11 @@ export const voaLevel1Lessons = [
       "people taking part in that study"
     ],
     "paragraphs": [
-      "Facebook parent company Meta recently announced changes to the way it tries to [1] on its social media services. Meta chief Mark Zuckerberg [explained](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/) in a [2] to make the changes because the old system had produced “too many mistakes and too much censorship.” Zuckerberg said the [3] to be “complex” to examine huge amounts of content in search of material that violated company policies. However, he [4] is they can make a lot of errors. The Meta chief added about such systems, “Even if they accidentally censor just one percent of posts, that’s millions of people.” So, he said the company had decided to [5] on “reducing mistakes, simplifying our policies, and restoring free expression.” The new [6] to a “Community Notes” system.",
-      "The company said this system aims to “empower the community” to decide whether [7] examination. The changes will be effective for Meta’s Facebook, Instagram and Threads services. Meta said the new system would become available first to U.S. users in the coming months. Meta’s [8] of independent, third-party fact-checking organizations. Many of these were [9]. The efforts included digital tools as well as human workers to fact-check content and identify false, inappropriate or harmful material. Meta said the [10] too much information for fact-checking. After closer examination, a lot of content should have been considered “[11].” Another problem, the company said, was that the decisions made by content moderators could be affected by their personal beliefs, [opinions](http://learningenglish.voanews.[12].html) and biases.",
-      "One result was that “a [13] became a tool to censor.” Meta’s new Community Notes system is similar to the [14] service X. A statement by Meta [said](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/) changes to this system will have to be made by users, not anyone from the company. Meta said, “Just like they do on X, Community [15] with a range of [16].” The company also invited any users to register to be among the [17]. The International Fact-Checking Network (IFCN) criticized Meta’s latest decision. It said the move threatened to \"undo nearly a decade of progress.\" The group [18] program had become a \"tool to censor\" users. It noted, that \"the freedom to say why something is not true is also free speech.\" Milijana Rogač is [19] outlet Istinomer.",
+      "Facebook parent company Meta recently announced changes to the way it tries to [1] on its social media services. Meta chief Mark Zuckerberg explained in a [2] to make the changes because the old system had produced “too many mistakes and too much censorship.” Zuckerberg said the [3] to be “complex” to examine huge amounts of content in search of material that violated company policies. However, he [4] is they can make a lot of errors. The Meta chief added about such systems, “Even if they accidentally censor just one percent of posts, that’s millions of people.” So, he said the company had decided to [5] on “reducing mistakes, simplifying our policies, and restoring free expression.” The new [6] to a “Community Notes” system.",
+      "The company said this system aims to “empower the community” to decide whether [7] examination. The changes will be effective for Meta’s Facebook, Instagram and Threads services. Meta said the new system would become available first to U.S. users in the coming months. Meta’s [8] of independent, third-party fact-checking organizations. Many of these were [9]. The efforts included digital tools as well as human workers to fact-check content and identify false, inappropriate or harmful material. Meta said the [10] too much information for fact-checking. After closer examination, a lot of content should have been considered “[11].” Another problem, the company said, was that the decisions made by content moderators could be affected by their personal beliefs, opinions and biases.",
+      "One result was that “a [13] became a tool to censor.” Meta’s new Community Notes system is similar to the [14] service X. A statement by Meta said changes to this system will have to be made by users, not anyone from the company. Meta said, “Just like they do on X, Community [15] with a range of [16].” The company also invited any users to register to be among the [17]. The International Fact-Checking Network (IFCN) criticized Meta’s latest decision. It said the move threatened to \"undo nearly a decade of progress.\" The group [18] program had become a \"tool to censor\" users. It noted, that \"the freedom to say why something is not true is also free speech.\" Milijana Rogač is [19] outlet Istinomer.",
       "She told Reuters news agency that she thinks Meta's decision would end up hurting the media industry. Rogač noted that [20] Meta services as their main source for information. Removing independent fact-checkers “[21] and news,\" Rogač said. Not a lot of research has been done on how effective Community Notes systems are. But one effort carried out by the University of California and [22] that community notes entered on [23]. The [24] moderate and high-quality sources and were attached to widely read posts. However, the number of [25] was small. Also, the effects the system had on users' opinions and behavior is unknown. A 2023 study, from the Journal of Online Trust and Safety, said it was harder for users to agree when they examined content related to political issues.",
-      "Bryan Lynn wrote this story, based on reports from Meta, The Associated Press and Reuters. ![Image 1: Quiz - Meta Ends Third-party Fact-Checking, Adds ‘Community Notes’ System](https://gdb.voanews.com/3dfea7fb-8ced-4afb-9168-e0346e264efecx0cy2cw100w250r1.jpg)"
+      "Bryan Lynn wrote this story, based on reports from Meta, The Associated Press and Reuters. "
     ],
     "essay": {
       "question": "",
@@ -1946,16 +1945,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Meta Ends Third-party Fact-Checking, Adds ‘Community Notes’ System",
-      "sourceUrl": "https://learningenglish.voanews.com/a/meta-ends-third-party-fact-checking-adds-community-notes-system/7946074.html",
-      "credit": "VOA Learning English · January 22, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 22, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 26",
+    "day": "LISTENING REPORT 26",
     "category": "SCIENCE",
     "title": "Musk: Third Person Receives Computer-Brain Connection from Neuralink",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:45 · REAL HUMAN SPEECH",
     "answers": [
       "device directly connected to their brain",
@@ -1987,8 +1986,8 @@ export const voaLevel1Lessons = [
     "paragraphs": [
       "Businessman Elon Musk said a third person has had a special electronic [1]. The unidentified person received an implant from Musk’s company Neuralink, which makes [2] to computers. Neuralink is one of many groups working to connect the [3]. On the social media service X, which he owns, Musk said: \"We've got...three humans with Neuralinks and all are working well.\" [4] one year ago. Recently, Musk said the company has improved its devices. Musk also said Neuralink hopes to [5] to 30 more people this year. ![Image 1: FILE - Elon Musk speaks as part of a campaign town hall in [6] [7], Pa., Thursday, Oct.",
       "17, 2024.](https://gdb.voanews.com/a836856c-2d5e-439f-996b-2e04cba07d5aw250r0s.jpg) FILE - Elon Musk speaks as part of a campaign town hall in [8] President Donald Trump in Folsom, Pa., Thursday, Oct. 17, 2024. The [9] cord injury and got the implant last summer. The person was playing video games with the help of the device and [10]. The first patient, also paralyzed after a spinal cord injury, said it helped him play video games and chess. Many other [11] on similar projects. Two studies published last year in the New England Journal of Medicine describe how brain-computer interfaces, known as BCIs, [12] (ALS) communicate better.",
-      "ALS is a [13] in the brain and spinal cord. [Nature](https://www.nature.com/articles/s44222-024-00239-5) [14] that there were [15] of BCIs over the past 25 years. Rajesh Rao is co-director of the Center for [16]. Rao said that many research laboratories have already shown that [17] BCIs. Rao said Neuralink might be different from the others in two ways. First, the surgery to implant the device is the first to use a robot to implant [18] brain to record brain signals and to control devices. Second, those connectors might record from more parts of the brain than interfaces from other research efforts.",
-      "Rao said other companies such as Synchron, Blackrock [19] out BCI tests on [20] from Neuralink. Marco Baptista is chief scientific officer of the Christopher & Dana Reeve Foundation. He called BCI technology \"very exciting\" with [21]. Through clinical tests, \"we'll be able to see what's [22],\" he said. \"It's a little early to know.\" A clinical trial follows established rules on how to [23]. Neuralink announced in [24] from U.S. [25] in people. The Food and Drug Administration (FDA) is [responsible for approving](https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation) the sale of medical devices.",
+      "ALS is a [13] in the brain and spinal cord. Nature [14] that there were [15] of BCIs over the past 25 years. Rajesh Rao is co-director of the Center for [16]. Rao said that many research laboratories have already shown that [17] BCIs. Rao said Neuralink might be different from the others in two ways. First, the surgery to implant the device is the first to use a robot to implant [18] brain to record brain signals and to control devices. Second, those connectors might record from more parts of the brain than interfaces from other research efforts.",
+      "Rao said other companies such as Synchron, Blackrock [19] out BCI tests on [20] from Neuralink. Marco Baptista is chief scientific officer of the Christopher & Dana Reeve Foundation. He called BCI technology \"very exciting\" with [21]. Through clinical tests, \"we'll be able to see what's [22],\" he said. \"It's a little early to know.\" A clinical trial follows established rules on how to [23]. Neuralink announced in [24] from U.S. [25] in people. The Food and Drug Administration (FDA) is responsible for approving the sale of medical devices.",
       "Dr. Rita Redberg studies high-risk devices at the University of California, San Francisco. Redberg said that most medical devices go on the market without clinical trials. However, high-risk devices that are seeking approval from the FDA before they go on the market need what is called an \"investigational device exemption.\" Neuralink says it has this exemption."
     ],
     "essay": {
@@ -2024,16 +2023,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Musk: Third Person Receives Computer-Brain Connection from Neuralink",
-      "sourceUrl": "https://learningenglish.voanews.com/a/musk-third-person-receives-computer-brain-connection-from-neuralink/7938206.html",
-      "credit": "VOA Learning English · January 21, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 21, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 27",
+    "day": "LISTENING REPORT 27",
     "category": "SCIENCE",
     "title": "AI Tools Drive Many New Products at the CES 2025 Electronics Show",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 8:35 · REAL HUMAN SPEECH",
     "answers": [
       "latest products built with artificial intelligence",
@@ -2063,11 +2062,11 @@ export const voaLevel1Lessons = [
       "electric sports equipment maker SQ-Motors presented"
     ],
     "paragraphs": [
-      "At this year’s CES show in Las Vegas, Nevada, crowds from around the world came to see the [1] (AI). CES is produced by the Virginia-based Consumer Technology Association. It presents the latest electronic product offerings or features, targeting consumers. More than 138,000 people attended the event which ended last weekend. More than 4,000 companies presented products at CES 2025. Here is a look at some of the top products shown at this year’s 2025 show: ![Image 1: SW [2] AI for TVs and more at The First Look during CES, Sunday, Jan. 5, 2025 in Las Vegas. (Eric Jamison/AP Content Services for Samsung Home Entertainment)](https://gdb.voanews.com/09cc2fe0-0eb9-41d6-9082-a882237c256bw250r1s.jpg) SW Yong of Samsung debuts Samsung Vision AI for TVs and more at The First Look during CES, Sunday, Jan. 5, 2025 in Las Vegas. (Eric Jamison/AP Content Services for Samsung Home Entertainment) CES is historically an event at which [3] and greatest televisions. This year was no different. South Korean TV makers LG and Samsung both announced new smart models with built-in AI tools. Others – [4] and TCL – also released TV models with new AI tools. Korean manufacturer LG [said](https://www.lg.com/global/mobility/media-center/press-release/lg-presents-its-latest-innovations-powered-by-affectionate-intelligence-at-ces2025) its latest models are equipped with AI technologies designed to autonomouslyimprove picture brightness, [sharpness](http://learningenglish.voanews.com/a/ai-tools-drive-many-new-products-at-the-ces-2025-electronics-show/7936902.html) and sound quality. The AI improvements are powered by the [5]. ![Image 2: People look at a [6] at the CES tech show Tuesday, Jan.",
-      "7, 2025, in Las Vegas. (AP Photo/Abbie Parr)](https://gdb.voanews.com/9bfe457d-fcbb-4a54-9132-885f89a41b1dw250r1s.jpg) People look at a [7] at the CES tech show Tuesday, Jan. 7, 2025, in Las Vegas. (AP Photo/Abbie Parr) LG also announced new updates for its Magic Remote device controller, saying new AI tools were added to provide more detailed search and interactive possibilities with users. Samsung [8] AI for its line of OLED and QLED TV models. The company [said](https://news.samsung.com/global/samsung-electronics-unveils-samsung-vision-ai-and-new-innovations-at-first-look-2025-delivering-personalized-ai-powered-screens-to-enrich-everyday-life) the AI tools are meant to turn the TVs into more “intelligent” assistive devices and to help “simplify and enrich everyday living” for its users. ![Image 3: People walk through the TCL booth during the CES tech show Wednesday, Jan. 8, 2025, in Las Vegas. (AP Photo/John Locher)](https://gdb.voanews.com/aaf8b9c5-a812-47e5-8221-28c2315de7b4cx5cy4cw87w250r1s.jpg) [9] during the CES tech show Wednesday, Jan. 8, 2025, in Las Vegas. (AP Photo/John Locher) One example is a feature that permits users to click on different screen elements to receive immediate information about what they see. The company said another tool makes it [10] on-screen. Several companies at CES introduced robotic transport vehicles designed to travel over many kinds of surfaces or terrain. One model was built by Kubota, a Japanese maker of farm and building equipment. The company demonstrated how the KATR four-wheeled robot uses hydraulics to [11]. This design seeks to keep the robot secure and level even when working on hills or in rocky areas.",
-      "![Image 4: People view a demonstration of the KATR robot designed to work in agriculture and construction at the Kubota booth during the CES tech show Tuesday, Jan. 7, 2025, in Las Vegas. (AP Photo/John Locher)](https://gdb.voanews.com/e984ef77-08f2-4458-9af5-994ecb7394c1w250r1s.jpg) People view a [12] to work in agriculture and construction at the Kubota booth during the CES tech show Tuesday, Jan. 7, 2025, in Las Vegas. (AP Photo/John Locher) Kubota says the vehicle – which is able to carry loads up to 240 kilograms – is small enough to be transported in most pickup trucks. [13] a dog-like robot model called Go2. The robot was designed with a series of cameras, [sensors](http://learningenglish.voanews.com/a/ai-tools-drive-many-new-products-at-the-ces-2025-electronics-show/7936902.html) and AI tools. The company says this permits Go2 to make smooth [14]. It is able to carry small loads on its back and can also be used in security operations involving businesses or individuals. [15] tricks, like standing on two legs, dancing and giving high fives to visitors. The [16], as well as [humanoid robot](https://www.unitree.com/h1)s. The latest flying car designs are also a yearly favorite at CES. But this year, Chinese automaker XPENG took its presentation a step further by introducing a combination truck and flying vehicle. The company calls the system a Land Aircraft Carrier. It includes a [17] to transport a verticallanding flying vehicle inside. The idea is for users to be able launch the flying vehicle from anywhere the van can go. The flying car is fully autonomous and can carry two people at a time. Chinese media reported the company – which also offers several [18] to sell the combination for about $300,000.",
-      "XPENG said it will aim to increase production for all its vehicles in the coming year. ![Image 5: Xpeng Aero HT Land Aircraft Carrier is displayed at the Xpeng Aero booth during the CES tech show Wednesday, Jan. 8, 2025, in Las Vegas. (AP Photo/Abbie Parr)](https://gdb.voanews.com/417f8526-0034-4d3a-93ec-7b32c0352a84w250r1s.jpg) Xpeng Aero [19] at the Xpeng Aero booth during the CES tech show Wednesday, Jan. 8, 2025, in Las Vegas. (AP Photo/Abbie Parr) California-based Aptera Motors demonstrated a new electronic [20]. The company [explains](https://aptera.us/vehicle/#innovation) on its [website](http://learningenglish.voanews.com/a/ai-tools-drive-many-new-products-at-the-ces-2025-electronics-show/7936902.html) that the vehicle has solar panels on its surface to capture energy from the sun. When charged this way, Aptera claims the car can travel up to 64 kilometers in a single day without being plugged in to a power source. On a full charge, the company says the vehicle can travel up to 640 kilometers. [21] [a new product](https://www.kirinholdings.com/en/newsroom/release/2024/122502.html) that aims to strengthen, or enhance, the taste of salt in food products without increasing the amount of salt. The spoon-shaped [22]. The company [says](https://www.ces.[23]/) the tool – which can be taken anywhere – sends a weak electric current through the top of the device to food. ![Image 6: The device spoon designed to enhance the taste of salt in food is shown in this image provided by its developer, Japan's Kirin Holdings. (Kirin Holdings/Business Wire)](https://gdb.voanews.com/97e9521c-a435-4063-8b7d-e86a26004049cx0cy30cw100w250r1s.jpg) The device [24] of salt in food is shown in this image provided by its developer, Japan's Kirin Holdings.",
-      "(Kirin Holdings/Business Wire) French [25] an all-terrain electric board that can move on roads and snow. The company calls its invention the [Sternboard](https://www.sq-motors.com/store/p/sternboard). It is a three-wheeled board with an electric motor in the back. First designed to be an electric skateboard, a version was developed to move on snow. The powered boards have reached speeds of more than 60 kilometers per hour in tests. ![Image 7: This prototype all-terrain electric skateboard has been modified to permit power-assisted skiing. The ski version was recently demonstrated at the CES show in Las Vegas, Nevada. (Image Credit: SQ-Motors)](https://gdb.voanews.com/346b43a2-bb15-463e-9288-9ae277f98603cx12cy19cw87w250r1s.png) This prototype all-terrain electric skateboard has been modified to permit power-assisted skiing. The ski version was recently demonstrated at the CES show in Las Vegas, Nevada. (Image Credit: SQ-Motors) But the snow versions are not designed for speed. They seek to provide users with the ability to go up hills or move long distances over level land. Bryan Lynn wrote this story for VOA Learning English, based on reports from The Associated Press, AFP and online sources. ![Image 8: Quiz - AI Tools Drive Many New Products at the CES 2025 Electronics Show](https://gdb.voanews.com/aaf8b9c5-a812-47e5-8221-28c2315de7b4w250r1.jpg)"
+      "At this year’s CES show in Las Vegas, Nevada, crowds from around the world came to see the [1] (AI). CES is produced by the Virginia-based Consumer Technology Association. It presents the latest electronic product offerings or features, targeting consumers. More than 138,000 people attended the event which ended last weekend. More than 4,000 companies presented products at CES 2025. Here is a look at some of the top products shown at this year’s 2025 show: ![Image 1: SW [2] AI for TVs and more at The First Look during CES, Sunday, Jan. 5, 2025 in Las Vegas. (Eric Jamison/AP Content Services for Samsung Home Entertainment)](https://gdb.voanews.com/09cc2fe0-0eb9-41d6-9082-a882237c256bw250r1s.jpg) SW Yong of Samsung debuts Samsung Vision AI for TVs and more at The First Look during CES, Sunday, Jan. 5, 2025 in Las Vegas. (Eric Jamison/AP Content Services for Samsung Home Entertainment) CES is historically an event at which [3] and greatest televisions. This year was no different. South Korean TV makers LG and Samsung both announced new smart models with built-in AI tools. Others – [4] and TCL – also released TV models with new AI tools. Korean manufacturer LG said its latest models are equipped with AI technologies designed to autonomouslyimprove picture brightness, sharpness and sound quality. The AI improvements are powered by the [5]. ![Image 2: People look at a [6] at the CES tech show Tuesday, Jan.",
+      "7, 2025, in Las Vegas. (AP Photo/Abbie Parr)](https://gdb.voanews.com/9bfe457d-fcbb-4a54-9132-885f89a41b1dw250r1s.jpg) People look at a [7] at the CES tech show Tuesday, Jan. 7, 2025, in Las Vegas. (AP Photo/Abbie Parr) LG also announced new updates for its Magic Remote device controller, saying new AI tools were added to provide more detailed search and interactive possibilities with users. Samsung [8] AI for its line of OLED and QLED TV models. The company said the AI tools are meant to turn the TVs into more “intelligent” assistive devices and to help “simplify and enrich everyday living” for its users.  [9] during the CES tech show Wednesday, Jan. 8, 2025, in Las Vegas. (AP Photo/John Locher) One example is a feature that permits users to click on different screen elements to receive immediate information about what they see. The company said another tool makes it [10] on-screen. Several companies at CES introduced robotic transport vehicles designed to travel over many kinds of surfaces or terrain. One model was built by Kubota, a Japanese maker of farm and building equipment. The company demonstrated how the KATR four-wheeled robot uses hydraulics to [11]. This design seeks to keep the robot secure and level even when working on hills or in rocky areas.",
+      " People view a [12] to work in agriculture and construction at the Kubota booth during the CES tech show Tuesday, Jan. 7, 2025, in Las Vegas. (AP Photo/John Locher) Kubota says the vehicle – which is able to carry loads up to 240 kilograms – is small enough to be transported in most pickup trucks. [13] a dog-like robot model called Go2. The robot was designed with a series of cameras, sensors and AI tools. The company says this permits Go2 to make smooth [14]. It is able to carry small loads on its back and can also be used in security operations involving businesses or individuals. [15] tricks, like standing on two legs, dancing and giving high fives to visitors. The [16], as well as humanoid robots. The latest flying car designs are also a yearly favorite at CES. But this year, Chinese automaker XPENG took its presentation a step further by introducing a combination truck and flying vehicle. The company calls the system a Land Aircraft Carrier. It includes a [17] to transport a verticallanding flying vehicle inside. The idea is for users to be able launch the flying vehicle from anywhere the van can go. The flying car is fully autonomous and can carry two people at a time. Chinese media reported the company – which also offers several [18] to sell the combination for about $300,000.",
+      "XPENG said it will aim to increase production for all its vehicles in the coming year.  Xpeng Aero [19] at the Xpeng Aero booth during the CES tech show Wednesday, Jan. 8, 2025, in Las Vegas. (AP Photo/Abbie Parr) California-based Aptera Motors demonstrated a new electronic [20]. The company explains on its website that the vehicle has solar panels on its surface to capture energy from the sun. When charged this way, Aptera claims the car can travel up to 64 kilometers in a single day without being plugged in to a power source. On a full charge, the company says the vehicle can travel up to 640 kilometers. [21] a new product that aims to strengthen, or enhance, the taste of salt in food products without increasing the amount of salt. The spoon-shaped [22]. The company says the tool – which can be taken anywhere – sends a weak electric current through the top of the device to food.  The device [24] of salt in food is shown in this image provided by its developer, Japan's Kirin Holdings.",
+      "(Kirin Holdings/Business Wire) French [25] an all-terrain electric board that can move on roads and snow. The company calls its invention the Sternboard. It is a three-wheeled board with an electric motor in the back. First designed to be an electric skateboard, a version was developed to move on snow. The powered boards have reached speeds of more than 60 kilometers per hour in tests.  This prototype all-terrain electric skateboard has been modified to permit power-assisted skiing. The ski version was recently demonstrated at the CES show in Las Vegas, Nevada. (Image Credit: SQ-Motors) But the snow versions are not designed for speed. They seek to provide users with the ability to go up hills or move long distances over level land. Bryan Lynn wrote this story for the original report, based on reports from The Associated Press, AFP and online sources. "
     ],
     "essay": {
       "question": "",
@@ -2102,16 +2101,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "AI Tools Drive Many New Products at the CES 2025 Electronics Show",
-      "sourceUrl": "https://learningenglish.voanews.com/a/ai-tools-drive-many-new-products-at-the-ces-2025-electronics-show/7936902.html",
-      "credit": "VOA Learning English · January 15, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 15, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 28",
+    "day": "LISTENING REPORT 28",
     "category": "SCIENCE",
     "title": "Scientists Use Ancient Genes to Estimate Contact Between Humans, Neanderthals",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:29 · REAL HUMAN SPEECH",
     "answers": [
       "Results of two recent studies estimate",
@@ -2142,10 +2141,10 @@ export const voaLevel1Lessons = [
     ],
     "paragraphs": [
       "Scientists have used ancient genes to learn more details about contact between Neanderthals and humans tens of thousands of years ago. [1] the two groups likely met and began mating about 45,000 years ago. Modern humans – also known as Homo sapiens – [2] of years ago and later started spreading to Europe, Asia and other places. Scientists believe that at some point, they met and mated with Neanderthals. The mixing of these groups had a [3]. However, scientists do not know exactly when or how the two groups interacted. But the two new studies provide some additional details about the timing of this contact. One group of [4] female and three male Homo [5],000 years ago. Reuters news agency [6] genes from Homo sapiens ever examined, or sequenced. Some of the genes came from bones found in a cave in the central German village of Ranis. Other material came from a woman believed to have lived at around the same time in a cave in a mountainous area of what is now the Czech Republic.",
-      "![Image 1: This image provided by Max [7] an artist’s illustration of an [8]ý kůň, whose skull was found in the Czech Republic.(Tom Björklund/Max Planck Institute for Evolutionary Anthropology via AP)](https://gdb.voanews.com/d0e6e3f6-afcb-462d-8e87-985f565e52cbw250r0s.jpg) This image provided by Max Planck Institute for [9] of an ancient human that scientists call Zlatý kůň, whose skull was found in the Czech Republic.(Tom Björklund/Max Planck Institute for Evolutionary Anthropology via AP) [10] between Neanderthals and humans at about 49,000 to 45,000 years ago. The findings were [11]](https://www.nature.com/articles/s41586-024-08420-x) in Nature. A second group of [12] present-day and ancient Homo sapiens. This included 59 individuals who lived between 2,000 and 45,000 years ago. That [study](https://www.science.org/doi/10.1126/science.adq3010), published in the journal Science, estimated the [13],500 to 43,500 years ago.",
+      "![Image 1: This image provided by Max [7] an artist’s illustration of an [8]ý kůň, whose skull was found in the Czech Republic.(Tom Björklund/Max Planck Institute for Evolutionary Anthropology via AP)](https://gdb.voanews.com/d0e6e3f6-afcb-462d-8e87-985f565e52cbw250r0s.jpg) This image provided by Max Planck Institute for [9] of an ancient human that scientists call Zlatý kůň, whose skull was found in the Czech Republic.(Tom Björklund/Max Planck Institute for Evolutionary Anthropology via AP) [10] between Neanderthals and humans at about 49,000 to 45,000 years ago. The findings were [11]](https://www.nature.com/articles/s41586-024-08420-x) in Nature. A second group of [12] present-day and ancient Homo sapiens. This included 59 individuals who lived between 2,000 and 45,000 years ago. That study, published in the journal Science, estimated the [13],500 to 43,500 years ago.",
       "![Image 2: This [14], Prague shows the [15] Zlatý kůň, originally discovered in the Koněprusy caves of the Czech Republic. (Marek Jantač/National Museum, Prague via AP)](https://gdb.voanews.com/41189c67-f4e3-4b85-b016-b62c31fc26b7w250r0s.jpg) This [16], Prague shows the skull of an ancient human called Zlatý kůň, originally discovered in the Koněprusy caves of the Czech Republic. (Marek Jantač/National Museum, Prague via AP) The scientists said their new findings on the mixing and mating of the groups [17] more recently than thought in the past. They believe the contact continued over many generations. Priya [18] appearing in Science. She is an assistant professor of molecular and cell biology at the University of California, Berkeley. She told Reuters, “[19] us paint a picture in more and more detail.” The team noted that it is difficult to know the exact nature of the interactions between Homo sapiens and Neanderthals based on the examined data.",
-      "The [20] where the mixing and mating happened. However, they believe it was most likely somewhere in the Middle East. The researchers noted most modern humans still have genetic material from [21] one to two percent of their DNA. They said modern-day genetic traits linked to skin color, hair color and even nose shape can relate back to the Neanderthals. Our genetic makeup also includes links to another [22]. Moorjani noted that the history of Neanderthals living outside Africa for thousands of years likely gave them a greater ability to deal with [23]. “Some of their genes may have been beneficial to modern humans,” she added. Rick Potts is director of the Smithsonian Institution’s Human Origins program. He was not involved in the new research. Potts told The Associated Press he hopes [24] learn even more details about the [25]. He said, “Out of many reallycompellingareas of scientific investigation, one of them is: well, who are we?” Bryan Lynn wrote this story for VOA Learning English, based on reports from The Associated Press, Reuters and Nature.",
-      "![Image 3: Quiz - Scientists Use Ancient Genes to Estimate Contact Between Humans, Neanderthals](https://gdb.voanews.com/4146b084-23f5-4f15-a2b7-430df9e86fb5w250r1.jpg) genetic code– n. information from DNA or RNA that is used to create an organism's proteins cave– n. a large hole in the side of a mountain or underground sample– n. a small amount of something that gives you information about the thing it was taken from trait– n. a quality, good or bad, in someone’s character beneficial– adj. helpful or useful compelling– adj. demanding attention"
+      "The [20] where the mixing and mating happened. However, they believe it was most likely somewhere in the Middle East. The researchers noted most modern humans still have genetic material from [21] one to two percent of their DNA. They said modern-day genetic traits linked to skin color, hair color and even nose shape can relate back to the Neanderthals. Our genetic makeup also includes links to another [22]. Moorjani noted that the history of Neanderthals living outside Africa for thousands of years likely gave them a greater ability to deal with [23]. “Some of their genes may have been beneficial to modern humans,” she added. Rick Potts is director of the Smithsonian Institution’s Human Origins program. He was not involved in the new research. Potts told The Associated Press he hopes [24] learn even more details about the [25]. He said, “Out of many reallycompellingareas of scientific investigation, one of them is: well, who are we?” Bryan Lynn wrote this story for the original report, based on reports from The Associated Press, Reuters and Nature.",
+      " genetic code– n. information from DNA or RNA that is used to create an organism's proteins cave– n. a large hole in the side of a mountain or underground sample– n. a small amount of something that gives you information about the thing it was taken from trait– n. a quality, good or bad, in someone’s character beneficial– adj. helpful or useful compelling– adj. demanding attention"
     ],
     "essay": {
       "question": "",
@@ -2180,16 +2179,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Scientists Use Ancient Genes to Estimate Contact Between Humans, Neanderthals",
-      "sourceUrl": "https://learningenglish.voanews.com/a/scientists-use-ancient-genes-to-estimate-contact-between-humans-neanderthals/7911207.html",
-      "credit": "VOA Learning English · January 01, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 01, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 29",
+    "day": "LISTENING REPORT 29",
     "category": "HEALTH",
     "title": "How Physical Therapists Can Prevent Future Health Problems",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:48 · REAL HUMAN SPEECH",
     "answers": [
       "help prevent many health problems",
@@ -2258,16 +2257,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "How Physical Therapists Can Prevent Future Health Problems",
-      "sourceUrl": "https://learningenglish.voanews.com/a/how-physical-therapists-can-prevent-future-health-problems/7921334.html",
-      "credit": "VOA Learning English · March 10, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 10, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 30",
+    "day": "LISTENING REPORT 30",
     "category": "HEALTH",
     "title": "How Daylight Saving Time Affects Health",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 7:11 · REAL HUMAN SPEECH",
     "answers": [
       "starting and ending on different dates",
@@ -2336,16 +2335,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "How Daylight Saving Time Affects Health",
-      "sourceUrl": "https://learningenglish.voanews.com/a/how-daylight-savings-time-affects-health/8001173.html",
-      "credit": "VOA Learning English · March 06, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 06, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 31",
+    "day": "LISTENING REPORT 31",
     "category": "HEALTH",
     "title": "Rise in ADHD Cases Raises Questions",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 7:41 · REAL HUMAN SPEECH",
     "answers": [
       "suggested testing for attention-deficit/hyperactivity disorder",
@@ -2414,16 +2413,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Rise in ADHD Cases Raises Questions",
-      "sourceUrl": "https://learningenglish.voanews.com/a/rise-in-adhd-cases-raises-questions/7958876.html",
-      "credit": "VOA Learning English · March 03, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 03, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 32",
+    "day": "LISTENING REPORT 32",
     "category": "HEALTH",
     "title": "How to Reduce Risks of Bad Air Quality",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 7:01 · REAL HUMAN SPEECH",
     "answers": [
       "percent of the world’s population breathes",
@@ -2454,8 +2453,8 @@ export const voaLevel1Lessons = [
     ],
     "paragraphs": [
       "Air quality differs from place to place and day to day. But about 99 [1] air at some point that does not meet pollution guidelines set by the World Health Organization (WHO). [2] about 7 million people each year, the U.N. health agency estimates. But health experts say there are some actions [3], even in the world’s most polluted cities. The first step is to start with the understanding that air is not only polluted when it looks smoky or smoggy, said Tanushree Ganguly. She is an air quality expert with the [4] program. “Blue skies can’t guarantee you clean air,” Ganguly told The Associated Press. Air [5] things. Examples include fuels as well as clearing operations involving crops or trees. Pollutants can also be released from wildfires.",
-      "Among the most dangerous particles we can [6]. The smallest of these are known as PM 2.5. This is because they are less than 2.[7]. These particles can travel deep inside [8] by burning fuels. Larger particles, known as PM 10, are linked to agriculture, roadways, mining or wind-blown dust. Other [9] dioxide or sulfur dioxide, which are also produced from burning fuels. This information comes from Anumita Roychowdhury, an [10] for Science and Environment in New Delhi. ![Image 1: FILE -A man cover his face to protect from the dust in Ahmedabad, India, Wednesday, Feb. 5, 2025. (AP Photo/Ajit Solanki)](https://gdb.voanews.com/abea213f-f489-4e51-b505-c2d71aa9d511w250r1s.jpg) FILE -A [11] from the dust in Ahmedabad, India, Wednesday, Feb.",
-      "5, 2025. (AP Photo/Ajit Solanki) The [12] [says](https://www.healthdata.org/sites/default/files/2024-06/soga-2024-report.pdf) air pollution is the second-largest riskfactor for early death worldwide, behind high blood pressure. Short-term exposure can [13] of heart attacks and stroke, especially in older people and those with existing medical problems. Long-term exposure can [14] that can lead to death. A recent study by the U.N. children’s agency [15] million children in East Asia and Pacific countries breathe unhealthy air. The [16] of 100 children under age 5 every day. June Kunugi, UNICEF’s Regional Director for East Asia, said the polluted air limits growth, [17]. “Every breath matters, but for too many [18],” she said.",
+      "Among the most dangerous particles we can [6]. The smallest of these are known as PM 2.5. This is because they are less than 2.[7]. These particles can travel deep inside [8] by burning fuels. Larger particles, known as PM 10, are linked to agriculture, roadways, mining or wind-blown dust. Other [9] dioxide or sulfur dioxide, which are also produced from burning fuels. This information comes from Anumita Roychowdhury, an [10] for Science and Environment in New Delhi.  FILE -A [11] from the dust in Ahmedabad, India, Wednesday, Feb.",
+      "5, 2025. (AP Photo/Ajit Solanki) The [12] says air pollution is the second-largest riskfactor for early death worldwide, behind high blood pressure. Short-term exposure can [13] of heart attacks and stroke, especially in older people and those with existing medical problems. Long-term exposure can [14] that can lead to death. A recent study by the U.N. children’s agency [15] million children in East Asia and Pacific countries breathe unhealthy air. The [16] of 100 children under age 5 every day. June Kunugi, UNICEF’s Regional Director for East Asia, said the polluted air limits growth, [17]. “Every breath matters, but for too many [18],” she said.",
       "Over 6,000 cities in 117 countries now record and follow air quality levels. Many mobile apps include air quality information as well. But it can be difficult to know how bad the air is by looking at these numbers. To [19] levels, many countries have established an air quality index, or AQI. Larger numbers on this index mean worse air. [20] standards. For example, India’s daily PM 2.5 limit is more than 1.5 [21] and [22]. For individuals, experts say the goal should be to limit exposure when air quality is bad, by staying indoors or wearing a mask. This is not always possible, though. Danny [23] Institute](https://www.wri.org/). He told the AP there are many [24] and “can’t reallyafford” to stay indoors. People also need to watch indoor air pollution that can be caused by common household activities like cooking or burning incense.",
       "While [25] air pollution, experts say they do have limitations. The devices work by pulling air from a room and then pushing it through afilter that traps pollutants. The filtered air is then sent back into the room. Air purifiers work best when used in small spaces and when people are nearby. This is because they can only clean a certain amount of air, said Rajasekhar Balasubramanian of the National University of Singapore. He added, “If we have a tiny air purifier in a large room, it won’t be effective.” And I'm Caty Weaver."
     ],
@@ -2492,16 +2491,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "How to Reduce Risks of Bad Air Quality",
-      "sourceUrl": "https://learningenglish.voanews.com/a/how-to-reduce-risks-of-bad-air-quality/7980912.html",
-      "credit": "VOA Learning English · February 26, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 26, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 33",
+    "day": "LISTENING REPORT 33",
     "category": "HEALTH",
     "title": "Experts Provide Tips for Avoiding Computer-linked Vision Trouble",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 7:36 · REAL HUMAN SPEECH",
     "answers": [
       "estimated 104 million Americans of working",
@@ -2532,7 +2531,7 @@ export const voaLevel1Lessons = [
     ],
     "paragraphs": [
       "Computer, or digital, screens are common at work, homes, schools, and stores. An [1] [2] a day in front of screens, the American Optometric Association says. All that screen time can cause harm. Too much screen viewing can lead to dry or watery eyes, unclear vision and headaches. It can also [3], or nearsightedness, especially in children. Some technology workers even describe short times of dizziness or vertigo when they look at screens for too long. However, exposure to blue light from digital screens has not been [4], the American Academy of Ophthalmology says. ![Image 1: FILE - People look at a [5] at the CES tech show Tuesday, Jan. 7, 2025, in Las Vegas. (AP Photo/Abbie Parr)](https://gdb.voanews.com/467cd6eb-ffae-4aab-b969-76ae690d2d6aw250r0s.jpg) FILE - People look at a display of Samsung screens and products at the CES tech show Tuesday, Jan. 7, 2025, in Las Vegas. (AP Photo/Abbie Parr) One [6] lies in the eye muscles.",
-      "Staring closely at screens for long amounts of time can [7] focus to become too tense, or tight. “That muscle's not supposed to stay tight all day long. And if it does, it's like picking up a light weight and trying to hold it over your head for hours,” [8] told the Associated Press (AP). It is not hard to lift, he said, “But after a while, even though it’s not a heavy lift, your body just gets tired,” he added. The [9], family time and rest. As an optometrist in Mississippi, Reed sees people who are experiencing eye pain, headaches and [10]. He suggests that people with such problems get an eye examination and take regular breaks from screen viewing. Here are some more tips from eye health professionals to [11]. ![Image 2: FEil - This is a display of iPhone 16s in an Apple Store in Pittsburgh on Jan. 12, 2025. (AP Photo/Gene J. Puskar)](https://gdb.voanews.com/5bd01321-dccb-48f4-b5dc-52b5483966cbw250r0s.jpg) FEil - This is a display of iPhone 16s in an [12].",
+      "Staring closely at screens for long amounts of time can [7] focus to become too tense, or tight. “That muscle's not supposed to stay tight all day long. And if it does, it's like picking up a light weight and trying to hold it over your head for hours,” [8] told the Associated Press (AP). It is not hard to lift, he said, “But after a while, even though it’s not a heavy lift, your body just gets tired,” he added. The [9], family time and rest. As an optometrist in Mississippi, Reed sees people who are experiencing eye pain, headaches and [10]. He suggests that people with such problems get an eye examination and take regular breaks from screen viewing. Here are some more tips from eye health professionals to [11].  FEil - This is a display of iPhone 16s in an [12].",
       "12, 2025. (AP Photo/Gene J. Puskar) Take a break every 20 [13]. During the break, focus your eyes on something that is about 20 feet away (6 meters) for 20 seconds. This will help ease tired, tight eye muscles. “Luckily, eye strain is temporary,” said Raj Maturi, an eye doctor, or ophthalmologist, at Midwest [14] for the American Academy of Ophthalmology. “The best way to avoid these symptoms is by taking breaks from our screens or near work [15], if needed,” he said. People normally close their eyes very [16] per minute. This helps lubricate the eye naturally. But when looking at a screen, people might close their eyes only three to seven times per minute, the Cleveland Clinic says. That is when use of eye drops might be considered. Some [17] [18], or fatigue. You can also increase the image size on your laptop, monitor or smartphone screen. Sitting an arm’s length away from your screen and looking down at it also can help reduce eye strain, the American Academy of Ophthalmology says.",
       "Some products for computer users, such as blue light glasses, are marketed with claims that they will reduce eye strain, [19]. But [20] are not very effective, says the American Academy of Ophthalmology. The group says it is how people use digital devices that causes problems, not the blue light coming from screens. Even after stepping away from work on larger computers, many adults [21] for reading or watching shows. And many [22] such as laptops, tablets, and smartphones in school. Ayesha Malik of the Children’s Hospital of Philadelphia said that too much screen time or focusing on nearby objects can speed development of nearsightedness, especially in children. She added that [23] on a television, instead of a tablet, to help avoid eye strain. [24], she said. The added “2” stands for 2 hours of play outside every day, which helps with eye development, Malik said. “The reality is that most [25] the day at school and home.",
       "It becomes difficult to track the total number of hours,” she said. “Aim for not more than 20 minutes during any one session.” The blue light that digital screens release can increase a person’s alertness, experts say. As a result, their use might make it difficult to fall asleep or sleep well. To give your eyes and brain the rest they need, doctors suggest turning off screens one to two hours before going to sleep. You can also change the setting on digital devices to lower screen brightness. If you are used to watching videos at night, try listening to an audiobook or podcast instead."
@@ -2570,16 +2569,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Experts Provide Tips for Avoiding Computer-linked Vision Trouble",
-      "sourceUrl": "https://learningenglish.voanews.com/a/experts-provide-tips-for-avoiding-computer-linked-vision-trouble/7953508.html",
-      "credit": "VOA Learning English · February 24, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 24, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 34",
+    "day": "LISTENING REPORT 34",
     "category": "HEALTH",
     "title": "Study: Electrical Medical Device Helps Improve Muscle Strength",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:25 · REAL HUMAN SPEECH",
     "answers": [
       "Researchers recently reported new evidence",
@@ -2648,16 +2647,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Study: Electrical Medical Device Helps Improve Muscle Strength",
-      "sourceUrl": "https://learningenglish.voanews.com/a/study-electrical-medical-device-helps-improve-muscle-strength-/7972394.html",
-      "credit": "VOA Learning English · February 20, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 20, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 35",
+    "day": "LISTENING REPORT 35",
     "category": "HEALTH",
     "title": "WHO Launches New Cancer Drug Plan for Children",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:57 · REAL HUMAN SPEECH",
     "answers": [
       "cancer medicines to thousands of children",
@@ -2688,7 +2687,7 @@ export const voaLevel1Lessons = [
     ],
     "paragraphs": [
       "The World Health Organization (WHO) has launched a new service, or platform, to provide free [1] in less wealthy nations. The WHO defines these as low- and middle-income countries. The [2] to Mongolia and Uzbekistan. The next shipments would go to Ecuador, Jordan, Nepal and Zambia, as part of the project's testing, or pilot period, the WHO said. The [3] around 5,000 [4] at least 30 hospitals in the six countries. \"Countries in the pilot phase will receive [5] medicines at no cost,\" the U.N. health agency said in a statement.",
-      "The WHO said [6]- and [7] percent. That compares to survival rates of around 80 percent in wealthy nations. The agency’s Director-General, Tedros Adhanom Ghebreyesus, [said](https://www.who.int/news/item/11-02-2025-who-st.-jude-launch-groundbreaking-international-delivery-of--childhood-cancer-medicines) in a statement, \"For too long, [8] to life-saving medicines.\" He [9] to bring \"health and [10].\" ![Image 1: [11] (WHO) headquarters is seen in Geneva, Switzerland, January 28, 2025. REUTERS/Denis Balibouse](https://gdb.voanews.com/24978d53-79dc-4a92-a83e-36666166e9eew250r0s.jpg) [12] (WHO) headquarters is seen in Geneva, Switzerland, January 28, 2025.",
+      "The WHO said [6]- and [7] percent. That compares to survival rates of around 80 percent in wealthy nations. The agency’s Director-General, Tedros Adhanom Ghebreyesus, said in a statement, \"For too long, [8] to life-saving medicines.\" He [9] to bring \"health and [10].\" ![Image 1: [11] (WHO) headquarters is seen in Geneva, Switzerland, January 28, 2025. REUTERS/Denis Balibouse](https://gdb.voanews.com/24978d53-79dc-4a92-a83e-36666166e9eew250r0s.jpg) [12] (WHO) headquarters is seen in Geneva, Switzerland, January 28, 2025.",
       "REUTERS/Denis Balibouse El Salvador, Moldova, Senegal, Ghana, [13] to join the program very soon. The platform hopes to reach 50 countries in the [14], providing medicines for up to 120,000 children. The WHO estimates about 400,[15] year. Most of the [16] resources. The agency says about 70 [17] die for several reasons. These include the use of low-quality medicines, an inability to get correct treatments, or [18]. The plan to establish the platform was first announced in December 2021. It is a cooperative deal between the WHO and St.",
       "[19], Tennessee in the United States. The U.S. non-profit [20] million for its launch, the WHO said. The WHO [21] ever [22]. It added that the cost-free [23] phase. The platform is working on developing its sustainability – or ability to continue to provide the service - over the longer term. Andre [24] control program. He told reporters the program seeks to widen the platform and bring additional partners on board. \"This marks the beginning of a global [25] the medicines that they need, regardless of where they live, or their ability to pay,\" Ilbawi said.",
       "He added that the issue of children with cancer was getting more attention in wealthier countries. \"Childhood cancer is increasingly a leading cause of death for middle- and high-income countries…so governments are increasingly paying attention,\" Ilbawi said. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
@@ -2726,16 +2725,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "WHO Launches New Cancer Drug Plan for Children",
-      "sourceUrl": "https://learningenglish.voanews.com/a/who-launches-new-cancer-drug-plan-for-children-/7972396.html",
-      "credit": "VOA Learning English · February 17, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 17, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 36",
+    "day": "LISTENING REPORT 36",
     "category": "HEALTH",
     "title": "How to Lower Your Risk of Dementia Starting in Middle Age",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:03 · REAL HUMAN SPEECH",
     "answers": [
       "Americans will likely develop the disease",
@@ -2765,11 +2764,11 @@ export const voaLevel1Lessons = [
       "University of Miami’s Galvin advises people"
     ],
     "paragraphs": [
-      "New research suggests the risk of Americans developing dementia over a lifetime may be much higher than once thought. A new study predicts about one million [1] each year by 2060. That is about twice the [2] studies. The new finding is based on a large study involving a team from major U.S. [3]. It recently [appeared](https://www.nature.com/articles/s41591-024-03340-9) in the publication Nature Medicine. The study found that after age 55, people face up to a 42 percent chance of developing dementia, if they live long enough. The [4] of [5]. But the good news is that there are steps people can take to reduce the risks. One of them is controlling [6], such as diabetes or being severely overweight, meaning obese. Health experts advise everyone, even those in middle age, to take steps to avoid such problems.",
+      "New research suggests the risk of Americans developing dementia over a lifetime may be much higher than once thought. A new study predicts about one million [1] each year by 2060. That is about twice the [2] studies. The new finding is based on a large study involving a team from major U.S. [3]. It recently appeared in the publication Nature Medicine. The study found that after age 55, people face up to a 42 percent chance of developing dementia, if they live long enough. The [4] of [5]. But the good news is that there are steps people can take to reduce the risks. One of them is controlling [6], such as diabetes or being severely overweight, meaning obese. Health experts advise everyone, even those in middle age, to take steps to avoid such problems.",
       "Dr. [7]](https://nyulangone.org/news/united-states-dementia-cases-estimated-double-2060) was a lead writer of the study. He told The Associated Press, \"All of our research [8] really matters.” It can be quite common for older people to take longer to remember a name or where they placed certain objects. But research on dementia [9] part of aging. Rather, the disease is a progressive loss of memory, language and other cognitive abilities over time. Getting [10] and the U.S. population is aging at a fast rate. Dementia has many forms, the most common being Alzheimer's. Because the [11] in the brain, signs or symptoms of dementia might not start showing until many years later. Other kinds include vascular dementia, when heart disease or small strokes limit blood flow to the brain.",
       "Many people also have mixed causes, meaning [12]. Dr. James Galvin is an Alzheimer's specialist at the University of Miami. He noted that aging by itself is \"not a [13].\" Galvin was not involved in the new study. But he said the latest [14]. Earlier studies estimated about 14 percent of men and [15] some form of dementia during their lifetime. Since women live longer than men, they are more likely to get it. But the [16] from a U.S. [17] and cognitive abilities of about 15,000 older adults from 1987 until 2020. In that group, the risk for dementia averaged 35 percent for men and 48 percent for women. One reason for the different rates is that the group of people studied lived longer. The [18] with additional years of life. Only 4 percent of people developed dementia between the ages of 55 and 75.",
       "Coresh describes this difference as an important 20-year window for protecting brain health. For [19] 75, the dementia risk then jumped — to 20 percent by age 85 and 42 percent between the ages of 85 and 95. Black [20], 44 percent, than white individuals at 41 percent. ![Image 1: [21] pressure of A 94-year-old woman in Sant Sadurní d'Anoia, Catalonia region, Spain, Friday, July 31, 2020.](https://gdb.voanews.com/a917d359-10c1-4b3f-9e87-beca1a44b561w250r0s.jpg) FILE - A doctor checks the blood pressure of A [22], Catalonia region, Spain, Friday, July 31, 2020. There are some [23]. Besides age, people can inherit a gene version, or variant, called APOE4. This can raise the risk of getting Alzheimer's later in life. But [24] people can do to delay, or possibly even prevent developing dementia.",
-      "The [25] to exercise, avoid obesity and control blood pressure. He noted that, \"What's good for your heart is good for your brain.” Stay socially and cognitively active, too, Galvin said. He urges people to try hearing aids if age brings hearing loss, which can create social isolation. He added, \"There are things that we have control over, and those things I think would be really, really important to build a better brain as we age.\" ![Image 2: Quiz - How to Lower Your Risk of Dementia Starting in Middle Age](https://gdb.voanews.com/01000000-c0a8-0242-dda0-08db6b70f295w250r1.jpg)"
+      "The [25] to exercise, avoid obesity and control blood pressure. He noted that, \"What's good for your heart is good for your brain.” Stay socially and cognitively active, too, Galvin said. He urges people to try hearing aids if age brings hearing loss, which can create social isolation. He added, \"There are things that we have control over, and those things I think would be really, really important to build a better brain as we age.\" "
     ],
     "essay": {
       "question": "",
@@ -2804,16 +2803,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "How to Lower Your Risk of Dementia Starting in Middle Age",
-      "sourceUrl": "https://learningenglish.voanews.com/a/how-to-lower-your-risk-of-dementia-starting-in-middle-age/7937612.html",
-      "credit": "VOA Learning English · February 10, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 10, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 37",
+    "day": "LISTENING REPORT 37",
     "category": "HEALTH",
     "title": "Health Experts Seek New Ways to Identify and Treat Obesity",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:55 · REAL HUMAN SPEECH",
     "answers": [
       "identify obesity – a medical condition linked",
@@ -2843,7 +2842,7 @@ export const voaLevel1Lessons = [
       "system to be widely accepted"
     ],
     "paragraphs": [
-      "A group of international experts is proposing a new way to define and [1] to having too much body fat. The change aims to help doctors better identify and treat affected individuals. The new proposal shifts attention from a [2] mass index (BMI). BMI is a calculation of a person’s height and weight. The change would mean BMI would no longer be the only way to define obesity. The method would be expanded to include other measurements, such as waist size, and other [3] to being overweight. [4] more than 1 billion people worldwide. In the U.S., about 40 percent of adults are considered obese, the U.S. [5] says. ![Image 1: FILE - A closeup of a beam scale is seen in New York on April 3, 2018. (AP Photo/Patrick Sison, File)](https://gdb.voanews.com/9ed706c6-bab1-4343-97fa-a42461d99a38w250r0s.jpg) FILE - A closeup of a beam scale is seen in New York on April 3, 2018.",
+      "A group of international experts is proposing a new way to define and [1] to having too much body fat. The change aims to help doctors better identify and treat affected individuals. The new proposal shifts attention from a [2] mass index (BMI). BMI is a calculation of a person’s height and weight. The change would mean BMI would no longer be the only way to define obesity. The method would be expanded to include other measurements, such as waist size, and other [3] to being overweight. [4] more than 1 billion people worldwide. In the U.S., about 40 percent of adults are considered obese, the U.S. [5] says.  FILE - A closeup of a beam scale is seen in New York on April 3, 2018.",
       "(AP Photo/Patrick Sison, File) Dr. David [6] was one of [7] for a new obesity definition. The [8] The Lancet Diabetes & Endocrinology. “The whole goal of this is to get a more precisedefinition so that we are targeting the [9] most,” Cummings told The Associated Press. The report introduces two new groups, called categories, to help doctors identify, or diagnose, obese individuals. These are [10]. People with clinical obesity meet BMI and other markers of obesity. They also have evidence of organ, tissue or other [11]. Such evidence could include heart disease, high blood pressure, liver or kidney disease or ongoing knee or hip pain. [12] would be able to get treatments, including diet and exercise programs, as well as obesity medications. People with pre-clinical obesity are at risk for the same conditions, but they have no ongoing illness, the report states.",
       "BMI has long been [13]. In some cases, it can incorrectly diagnose obesity, which is [14] of 30 or more. But people with too much body fat do not [15], the report notes. And people with a high level of [16] players or other athletes — may have a high BMI even with normal fat mass. Under the new definitions, about 20 percent of people who used to be identified as obese would no longer meet that definition, early data suggests. And about 20 percent of people with [17] BMI – would now be considered clinically obese. Cummings said the new definition would not [18] defined as having obesity. But, he explained, the new categories “would [19] have clinically excess fat.” More than [20] have supported the new definitions. But it is not clear how widely or quickly the definitions could be approved.",
       "The [21] big costs and have major effects on the workforce. Dr. Katherine Saunders is an obesity expert at Weill Cornell Medicine in New York City. She also [22]. She told the AP there are somepractical issues to consider in order to make the proposed changes work effectively. [23] simple, but measurement methods differ. In addition, doctors are trained differently, and standard medical measuring devices are not big enough for many obese people. Also, a decision about the difference between [24] a full health examination and lab tests, Saunders said. She added that for a new [25], “it would also need to be extremely quick, inexpensive, and reliable.\" The new definitions could also be difficult for people to understand or carry out, said Kate Bauer of the University of Michigan School of Public Health.",
@@ -2882,16 +2881,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Health Experts Seek New Ways to Identify and Treat Obesity",
-      "sourceUrl": "https://learningenglish.voanews.com/a/health-experts-seek-new-ways-to-identify-and-treat-obesity/7940370.html",
-      "credit": "VOA Learning English · January 29, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 29, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 38",
+    "day": "LISTENING REPORT 38",
     "category": "HEALTH",
     "title": "Red Coloring Linked to Cancer Risk Banned in US Foods",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:23 · REAL HUMAN SPEECH",
     "answers": [
       "used to color some food products",
@@ -2923,7 +2922,7 @@ export const voaLevel1Lessons = [
     "paragraphs": [
       "The U.S. Food and Drug Administration (FDA) has banned a chemical widely [1] red. The ban of the coloring chemical, called dye, came nearly 35 years after it was removed from skin [2] risk. A group of [3] a petition in 2022 seeking to have the FDA ban Red No. 3 in food. The earlier ban was ordered in 1990, after two studies showed Red No. [4] [5]. At the time, however, the FDA only acted to [6] put on the skin or in drugs taken by mouth. [7] approval to expand the ban to food products.",
       "In November, [8] sent a [9] Red No. 3. Some of the most common products containing Red No. 3 include sweets, icing, strawberry milk, maraschino cherries, strawberry protein drinks, as well as some gummy vitamins and medications. ![Image 1: FILE - Pez candy, which contains red dye no. 3, is on [10], Calif., March 24, 2023.](https://gdb.voanews.com/a4ac4ee3-f0b5-473c-9a9a-7dc3ce451472w250r0s.jpg) FILE - Pez candy, which contains red dye no. 3, is on [11], Calif., March 24, 2023. The FDA said [12] 2027 to remove the dye from their products.",
-      "Other countries still permit certain uses of the dye. But any imported [13] the new U.S. requirement. Red No. [14] use in Europe, Australia and New Zealand, [15]. The dye will be banned in California starting in January 2027. And lawmakers in Tennessee, Arkansas and Indiana have also proposed limits on certain dyes, [16] schools. Jim Jones is the [17]. He [noted](https://www.fda.gov/food/hfp-constituent-updates/fda-revoke-authorization-use-red-no-3-food-and-ingested-drugs) that [18] the new ban, “the way that FD&C Red No.",
+      "Other countries still permit certain uses of the dye. But any imported [13] the new U.S. requirement. Red No. [14] use in Europe, Australia and New Zealand, [15]. The dye will be banned in California starting in January 2027. And lawmakers in Tennessee, Arkansas and Indiana have also proposed limits on certain dyes, [16] schools. Jim Jones is the [17]. He noted that [18] the new ban, “the way that FD&C Red No.",
       "3 causes cancer in male rats does not occur in humans.\" FDA officials said the ban was enacted because of a U.S. rule called the Delaney Clause. This [19] to ban any additive [20] or animals. Dr. Peter Lurie is [21] the Center for Science in the Public Interest. He helped [22] Red No. 3 from food products. Lurie told The Associated Press, \"This is a welcome, but long overdue, action from the FDA.” The International [23] said Red No. [24] taken in by humans. The group pointed to [25] from the United Nations and the World Health Organization.",
       "One study, released in 2018, confirmed the safety of Red 3 in food. Some food manufacturers have already changed their products to remove Red No. 3. One example is Sensient Food Colors, a St. Louis-based supplier of food colors and flavorings. In its place, the company uses beet juice, a dye made from insects and other coloring mixtures."
     ],
@@ -2960,16 +2959,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Red Coloring Linked to Cancer Risk Banned in US Foods",
-      "sourceUrl": "https://learningenglish.voanews.com/a/red-coloring-linked-to-cancer-risk-banned-in-us-foods/7944856.html",
-      "credit": "VOA Learning English · January 22, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 22, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 39",
+    "day": "LISTENING REPORT 39",
     "category": "WORLD & SOCIETY",
     "title": "Researchers: South Korea’s Birth Rate Increase Last Year Unclear",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:35 · REAL HUMAN SPEECH",
     "answers": [
       "South Korea increased for the first",
@@ -3038,16 +3037,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Researchers: South Korea’s Birth Rate Increase Last Year Unclear",
-      "sourceUrl": "https://learningenglish.voanews.com/a/researchers-south-korea-s-birth-rate-increase-last-year-unclear-/7997203.html",
-      "credit": "VOA Learning English · March 12, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · March 12, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 40",
+    "day": "LISTENING REPORT 40",
     "category": "WORLD & SOCIETY",
     "title": "Greenland Holds Important Position in a Warming World",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:14 · REAL HUMAN SPEECH",
     "answers": [
       "largest island and a self-governed territory",
@@ -3116,16 +3115,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Greenland Holds Important Position in a Warming World",
-      "sourceUrl": "https://learningenglish.voanews.com/a/greenland-holds-important-position-in-a-warming-world/7935035.html",
-      "credit": "VOA Learning English · January 15, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 15, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 41",
+    "day": "LISTENING REPORT 41",
     "category": "WORLD & SOCIETY",
     "title": "France Sets New Record in Hunt for Nuclear Fusion",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:01 · REAL HUMAN SPEECH",
     "answers": [
       "keeping hydrogen atoms in a state",
@@ -3158,7 +3157,7 @@ export const voaLevel1Lessons = [
       "French scientists have announced they set a new record of 22 minutes for [1] called plasma. The team said their work marks an important step in the search for [2] massive amounts of [3]. France’s Atomic Energy Commission (CEA) said the experiment – carried out February 12 – showed the process kept, or maintained, a state of plasma for 1,337 seconds. The CEA added that the new record was [4] one, set in China last month. The aim of [5] the same [6] in the center of the sun. In a fusion reaction, the centers of two atoms fuse, or join together, to form a new atom with a heavier nucleus, or center.",
       "This [7]. Some experts say this [8] source of clean, safe, and [9]. However, because fusion happens at very high temperatures, it is difficult to control. The [10] called a tokamak to do their research. The machine is a circular ring with [11]. Inside the ring, hydrogen atoms are heated to temperatures up to about 50 million degrees Celsius. The process [12] by powerful magnets. Anne-Isabelle Etienvre is the CEA's head of fundamentalresearch. She told the French news agency AFP the new [13] \"that we control its production, but also its maintenance.\" However, [14] many \"technological barriers\" to overcome before fusion can \"produce more energy than it consumes.\" [15] to succeed, hydrogen atoms will need to be heated up to more than [16].",
       "At this extreme temperature, plasma can become unstable and difficult to control. This can lead to energy loss and limit how [17] reactor could work. In the coming months, the [18] the time they can [19] state. They hope to bring the total time \"up to several hours combined.\" The [20], scientists will also aim to heat the plasma to [21] the hot plasma has on their testing machine. ![Image 1: Workers speak [22] in Saint-Paul-Lez-Durance, France, Thursday, Sept. 9, 2021.](https://gdb.voanews.com/cbc7c1ec-ac12-493c-8a59-08dd4a843460w250r1s.jpg) Workers speak together inside the ITER Tokamak machine in Saint-Paul-Lez-Durance, France, Thursday, Sept.",
-      "9, 2021. Teams from multiple countries are working together in southern France to build the [23] center, called ITER. The [24] States, China, the European Union, India, Japan, South Korea, and Russia. The teams hope the current research on maintaining plasma will be useful for future projects at ITER. However, AFP reports that repeated delays and increasing costs have postponed operations at [25]. Andrew Smith adapted this story for VOA Learning English based on reporting from Agence France-Presse.",
+      "9, 2021. Teams from multiple countries are working together in southern France to build the [23] center, called ITER. The [24] States, China, the European Union, India, Japan, South Korea, and Russia. The teams hope the current research on maintaining plasma will be useful for future projects at ITER. However, AFP reports that repeated delays and increasing costs have postponed operations at [25]. Andrew Smith adapted this story for the original report based on reporting from Agence France-Presse.",
       ""
     ],
     "essay": {
@@ -3194,16 +3193,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "France Sets New Record in Hunt for Nuclear Fusion",
-      "sourceUrl": "https://learningenglish.voanews.com/a/france-sets-new-plasma-record-in-hunt-for-nuclear-fusion/7983265.html",
-      "credit": "VOA Learning English · February 24, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 24, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 42",
+    "day": "LISTENING REPORT 42",
     "category": "WORLD & SOCIETY",
     "title": "Senegal Starts Introducing English in Preschools",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 7:37 · REAL HUMAN SPEECH",
     "answers": [
       "succeed in future educational and professional",
@@ -3236,7 +3235,7 @@ export const voaLevel1Lessons = [
       "[In Senegal, educators are starting to teach English to younger children in an effort to better prepare them to [1] activities.](http://learningenglish.voanews.com/a/senegal-starts-introducing-english-in-preschools/7972239.html) The preschool students also [2] – as well as Arabic and the nation’s national languages, the French news agency AFP reports. Senegalese [3] as nursery school, are generally under five. Since mid-January, the education ministry has been testing a program that teaches English in more than [4]. It is part of a [5] with the rest of the world. At one nursery school visited by AFP reporters near central Dakar, [6], \"Good morning, teacher!\" The teacher, Absa Ndiaye, said, \"They're interested in the lesson, and they start a conversationwith 'How are you?'\" Senegal recently became an oil and gas [7] growth.",
       "However, many young people have been leaving the country searching for opportunities elsewhere. In Senegal, French is used in [8]. Until recently, English was only taught in public high schools and universities, and sometimes in private nursery schools. Aissatou Sarr Cisse is in [9] program. She told AFP that even after some students had studied English for up to seven years, they “can barely communicate properly in English.\" \"[10] so that they can improve their language skills. The aim is to shape people who are open to the world,” Cisse said. She added that improving their English will give them [11] “with Senegal’s partners.” In March, President Bassirou Diomaye Faye was [12]. After many years of strong ties with the former colonial power, he is trying to reset Senegal's relationship with France, without breaking away completely.",
       "In the schools testing the program, English is [13]. On both days, two 25-minute lessons are taught in [14] in primary schools. The [15], colors, everyday greetings, the environment and the weather. In Dakar's working-class Medina neighborhood, teacher Mamadou Kama [16] between two 13-year-olds in his primary school class of around 60 students. \"I can [17]. Some of them are asking for English lessons to be (taught) every day,\" said Kama, who has a degree in English. The ministry has invested in teachers who have high English levels. However, most of them have not yet [18] aims to provide. \"We haven't had the time to create handbooks,” said the education ministry’s Cisse. “Computers have been ordered, and in the meantime, we have [19] with fun pictures.\" The project has been praised by Ousmane Sene, director of the Dakar-based West African Research Centre (WARC).",
-      "WARC handles educational exchanges between the United States and west African universities. \"English is the most [20]. And it's the most [21] cooperation, so it's an additional asset,\" Sene told AFP. Additionally, most scientific [22], said [Mathiam Thiam](http://learningenglish.voanews.[23].html). He helped create the English program. Thiam added that if people in [24] their English, they will run into many barriers. But Sene noted that something needs to happen first: The project needs “… to train and equip the teachers well.” Some critics of the program point to a lack of teachers. [25] member of parliament and retired teacher. In an opinion article, he wrote, \"On these grounds alone, introducing English at nursery and primary school levels is a pipe dream.",
+      "WARC handles educational exchanges between the United States and west African universities. \"English is the most [20]. And it's the most [21] cooperation, so it's an additional asset,\" Sene told AFP. Additionally, most scientific [22], said Mathiam Thiam. He helped create the English program. Thiam added that if people in [24] their English, they will run into many barriers. But Sene noted that something needs to happen first: The project needs “… to train and equip the teachers well.” Some critics of the program point to a lack of teachers. [25] member of parliament and retired teacher. In an opinion article, he wrote, \"On these grounds alone, introducing English at nursery and primary school levels is a pipe dream.",
       "It's impossible.\" He noted that intellectuals have been demanding the introduction of Senegal's national languages in education for many years. The program involving English could further delay that goal. But one 13-year-old student, Aissatou Barry, seems far removed from such debates. She told AFP that she \"can't wait to study English in sixth grade.\""
     ],
     "essay": {
@@ -3272,16 +3271,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Senegal Starts Introducing English in Preschools",
-      "sourceUrl": "https://learningenglish.voanews.com/a/senegal-starts-introducing-english-in-preschools/7972239.html",
-      "credit": "VOA Learning English · February 19, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 19, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 43",
+    "day": "LISTENING REPORT 43",
     "category": "WORLD & SOCIETY",
     "title": "Yellowstone: The World’s First National Park",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 3:59 · REAL HUMAN SPEECH",
     "answers": [
       "States was the world’s first national",
@@ -3315,7 +3314,7 @@ export const voaLevel1Lessons = [
       "[7] huge amounts of pressure. The pressure and heat [8] out of the ground and mud to boil at Yellowstone. The park is home to more than 300 geysers. There are more [9] than any other place on Earth. “Old Faithful” is the name of the park’s most famous [10] 90 minutes. [11] with an average height of 2,400 meters above sea level. This [12] in winter, with January temperatures averaging between -18 degrees and -7 degrees Celsius.",
       "However, some areas of the [13] the year. ![Image 1: View of the [14], Yellowstone National Park. (Photo: NPS/Diane Renkin)](https://gdb.voanews.com/31073926-d4eb-490c-df18-08dd4a81f35fcx0cy22cw100w250r1s.jpg) View of the [15], Yellowstone National Park. (Photo: NPS/Diane Renkin) [16] deep. The Yellowstone [17] 93 meters in the Lower Falls. Visitors can walk on a [18] to the top of the falls. There, they can see and hear the powerful falls.",
       "In summer of 1988, [19] of the park. Most of those areas are now [20]. ![Image 2: FILE - In this Aug. 3, 2016 file photo, a herd of bison grazes in the [21].](https://gdb.voanews.com/da828379-f174-439b-f722-08dd4a817620w250r1s.jpg) FILE - In this Aug. 3, 2016 file photo, a herd of bison grazes in the [22]. [23] group of wild [24] States. These include bison, grizzly bear, elk, deer, moose, fox, beaver, coyote and wolves.",
-      "In 2024, [25] to be about 4,500 animals. That makes it the largest group of wild bison in the world. There is still a wild west in America…and its name is Yellowstone. Andrew Smith wrote this story. ![Image 3: Quiz - Yellowstone: The First National Park](https://gdb.voanews.com/31073926-d4eb-490c-df18-08dd4a81f35fcx0cy21cw100w250r1.jpg)"
+      "In 2024, [25] to be about 4,500 animals. That makes it the largest group of wild bison in the world. There is still a wild west in America…and its name is Yellowstone. Andrew Smith wrote this story. "
     ],
     "essay": {
       "question": "",
@@ -3350,16 +3349,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Yellowstone: The World’s First National Park",
-      "sourceUrl": "https://learningenglish.voanews.com/a/yellowstone-the-world-s-first-national-park/7974034.html",
-      "credit": "VOA Learning English · February 16, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 16, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 44",
+    "day": "LISTENING REPORT 44",
     "category": "WORLD & SOCIETY",
     "title": "Monarch Butterfly Count Nears 30-Year Low",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:54 · REAL HUMAN SPEECH",
     "answers": [
       "number of monarch butterflies spending",
@@ -3390,10 +3389,10 @@ export const voaLevel1Lessons = [
     ],
     "paragraphs": [
       "An American nonprofit group says the [1] the winter in the western United States has dropped to its second-lowest mark in nearly 30 years. The Xerces Society for Invertebrate Conservation, based in Oregon, said the causes for this include the use of chemicals to kill insects, known as pesticides. The group also blames [2]. Monarch butterflies are [3]. They live across North America. Monarchs in the eastern United States spend the winter in Mexico. The World Wildlife Fund, a non-profit based in Switzerland, counts them there but has not yet released data for this year. Monarchs west of the [4] along the California coast. The Xerces Society for Invertebrate Conservation has been [5] and Arizona for the last 28 years.",
-      "The [6].2 million in 1997. The [7] just 9,119 monarchs in 2024, a decrease of 96 percent from 233,394 in 2023. The total was the [8] in 1997. The record-low count was 1,901 monarchs in 2020. The survey noted that a place in Santa Barbara that saw 33,200 monarchs last winter had only 198 butterflies this year. [9] threats. One is the supply of a plant, milkweed, which they feed on as caterpillars. [10] group based in [11]. The group said milkweed has been disappearing because of dry weather, wildfires, [agriculture](http://learningenglish.voanews.com/a/monarch-butterfly-count-nears-30-year-low/7966513.html) and urban development. The Xerces Society said pesticides might be on the remaining plants.",
+      "The [6].2 million in 1997. The [7] just 9,119 monarchs in 2024, a decrease of 96 percent from 233,394 in 2023. The total was the [8] in 1997. The record-low count was 1,901 monarchs in 2020. The survey noted that a place in Santa Barbara that saw 33,200 monarchs last winter had only 198 butterflies this year. [9] threats. One is the supply of a plant, milkweed, which they feed on as caterpillars. [10] group based in [11]. The group said milkweed has been disappearing because of dry weather, wildfires, agriculture and urban development. The Xerces Society said pesticides might be on the remaining plants.",
       "Emma Pelton is a biologist with the Xerces Society. She said it is unclear what caused such a [12] in just one year. The [13], she said, and heat above 37.7 degrees Celsius in the western states last year might have slowed breeding. [14] up to 37.[15] above 42.2 [16], Pelton said. The western states saw a heat wave in July with temperatures in some areas well past 37.7 degrees. Palm Springs, for example, reportedly reached a record 51.1 degrees Celsius on July 5. Another heat wave [17], with several cities breaking heat records. ![Image 1: FILE - A butterfly sits on a leaf at [18], Calif., on Nov. 10, 2021.](https://gdb.voanews.com/920bdf50-0e22-4904-8c87-fdd85e03c905w250r0s.jpg) FILE - A butterfly sits on a leaf at [19], Calif., on Nov.",
-      "10, 2021. Pelton said that it is too early to [20] drop might have on the [21]. Insects can reproduce very quickly, Pelton said. After a low point of 1,901 butterflies in 2020, the population recovered to 247,246 insects the following year, an increase of nearly 13,000 percent. The [22] 335,479 monarchs. \"This is bad news,\" [23] drop. \"But we have seen [incredible](http://learningenglish.voanews.com/a/monarch-butterfly-count-nears-30-year-low/7966513.html) recovery. This doesn't mean [24] monarchs.” The U.S. Fish and Wildlife Service announced in December 2024 that it [25]. Such a move would ban people from killing or transporting them. The proposed change would also ban property owners from making changes to their property that would make it unusable to the butterflies.",
-      "For example, removing all milkweed from a property would by banned by law. Earthjustice is an environmental nonprofit legal group based in San Francisco. It asked the Environmental Protection Agency in December 2024 to require testing of pesticides’ effects on insects such as bees, [moths](http://learningenglish.voanews.com/a/monarch-butterfly-count-nears-30-year-low/7966513.html) and butterflies."
+      "10, 2021. Pelton said that it is too early to [20] drop might have on the [21]. Insects can reproduce very quickly, Pelton said. After a low point of 1,901 butterflies in 2020, the population recovered to 247,246 insects the following year, an increase of nearly 13,000 percent. The [22] 335,479 monarchs. \"This is bad news,\" [23] drop. \"But we have seen incredible recovery. This doesn't mean [24] monarchs.” The U.S. Fish and Wildlife Service announced in December 2024 that it [25]. Such a move would ban people from killing or transporting them. The proposed change would also ban property owners from making changes to their property that would make it unusable to the butterflies.",
+      "For example, removing all milkweed from a property would by banned by law. Earthjustice is an environmental nonprofit legal group based in San Francisco. It asked the Environmental Protection Agency in December 2024 to require testing of pesticides’ effects on insects such as bees, moths and butterflies."
     ],
     "essay": {
       "question": "",
@@ -3428,16 +3427,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Monarch Butterfly Count Nears 30-Year Low",
-      "sourceUrl": "https://learningenglish.voanews.com/a/monarch-butterfly-count-nears-30-year-low/7966513.html",
-      "credit": "VOA Learning English · February 15, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 15, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 45",
+    "day": "LISTENING REPORT 45",
     "category": "WORLD & SOCIETY",
     "title": "Nepal Increases Cost of Permits to Climb Everest",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:04 · REAL HUMAN SPEECH",
     "answers": [
       "help reduce pollution and increase safety",
@@ -3471,7 +3470,7 @@ export const voaLevel1Lessons = [
       "[8] each year. The country is home to eight of 14 of the world’s tallest mountains over 8,000 meters. Everest is 8,849-meters tall and sits on the border between Nepal and China. [9] of [10] Everest. More than [11] for Everest last year. This brought in around $4 million to the government. Nepal [12] from the mountain and to finance search and rescue operations. ![Image 1: Used oxygen cylinders and beer cans [13] at a facility operated by Agni Ventures, an agency that manages recyclable waste, in Kathmandu, Nepal, Monday, June 24, 2024.](https://gdb.voanews.com/98a853b6-36fb-49e7-ac23-19ce8d0e80cew250r1s.jpg) [14] collected en route Mount Everest lie at a facility operated by Agni Ventures, an agency that manages recyclable waste, in Kathmandu, Nepal, Monday, June 24, 2024.",
       "Some mountain climbing companies worry the [15] of climbers wanting to [16]. The companies warn that some [17] through China. ![Image 2: FILE - In this April 30, 2020, aerial file photo [18], vehicles and tents are seen at the base camp at the foot of the Chinese side of the peak of Mount Qomolangma, also known as Mount Everest. ([19], File)](https://gdb.voanews.com/d79fe20c-4187-4026-b219-cb7955ab1897w250r1s.jpg) FILE - In this April 30, 2020, [20] Xinhua News Agency, vehicles and tents are seen at the base camp at the foot of the Chinese side of the peak of Mount Qomolangma, also known as Mount Everest.",
       "(Purbu Zhaxi/Xinhua via AP, File) \"Some climbers might [21] are much better,\" said Mingma G Sherpa. He runs the Imagine [22] must [23]. \"Our government just increases the royalty, but doesn't do much. It needs to also provide [24],\" he added. Some groups have criticized Nepal for permitting too many climbers on Everest while not doing enough to keep the mountain clean. Last year, Nepal’s government ordered all Everest climbers to carry trackers and bags to remove their human waste. The government approved the fee increase in January, but it was [25].",
-      "Andrew Smith adapted this story for VOA Learning English based on reporting from Agence France-Presse."
+      "Andrew Smith adapted this story for the original report based on reporting from Agence France-Presse."
     ],
     "essay": {
       "question": "",
@@ -3506,16 +3505,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Nepal Increases Cost of Permits to Climb Everest",
-      "sourceUrl": "https://learningenglish.voanews.com/a/nepal-increases-cost-of-permits-to-climb-everest-/7967044.html",
-      "credit": "VOA Learning English · February 13, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 13, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 46",
+    "day": "LISTENING REPORT 46",
     "category": "WORLD & SOCIETY",
     "title": "Cambodia Warns of ‘Aggressive’ Monkeys around Angkor Wat",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:13 · REAL HUMAN SPEECH",
     "answers": [
       "visitors to the nation’s famous Angkor",
@@ -3549,7 +3548,7 @@ export const voaLevel1Lessons = [
       "The monkeys have become more destructive of property around the popular tourist area. Officials watching the animals told the French News Agency, AFP, that too much [7] [8] the monkeys’ behavior. The agency that operates Angkor [9]. It said in a statement that a [10] the monkeys to create videos. This \"[11] from being wild animals to domestic ones that are aggressive, steal food, and [12].\" Agency spokesman Long Kosal told AFP that [13] causing damage to stonework that dates back centuries.",
       "\"On top of biting visitors, they have been climbing up and pushing stones down, damaging temples,\" he said. Some [14]. Local [15] the [16]. They [17] for \"an appropriate solution\" to solve the problem. Angkor Wat was the capital of the Khmer Empire. Building work [18] years ago. It remains [19] a lot of money for the developing nation.",
       "More than one [20] last year. Since becoming a [21], Angkor Wat and the [22] protection and security. [23] sightings around Angkor Wat will [24] education efforts. Last year, Cambodian [25] out a census of monkeys in public areas to identify and take away those presenting a danger to humans. Agence France-Presse reported this story.",
-      "Bryan Lynn adapted the report for VOA Learning English."
+      "Bryan Lynn adapted the report for the original report."
     ],
     "essay": {
       "question": "",
@@ -3584,16 +3583,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Cambodia Warns of ‘Aggressive’ Monkeys around Angkor Wat",
-      "sourceUrl": "https://learningenglish.voanews.com/a/cambodia-warns-of-aggressive-monkeys-around-angkor-wat/7969789.html",
-      "credit": "VOA Learning English · February 12, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 12, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 47",
+    "day": "LISTENING REPORT 47",
     "category": "WORLD & SOCIETY",
     "title": "Norway Nears Goal to Sell only Electric New Cars",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 5:02 · REAL HUMAN SPEECH",
     "answers": [
       "selling only fully electric new vehicles",
@@ -3662,16 +3661,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Norway Nears Goal to Sell only Electric New Cars",
-      "sourceUrl": "https://learningenglish.voanews.com/a/norway-nears-goal-to-sell-only-electric-new-cars-/7963018.html",
-      "credit": "VOA Learning English · February 08, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 08, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 48",
+    "day": "LISTENING REPORT 48",
     "category": "WORLD & SOCIETY",
     "title": "New Zealand Recognizes a Mountain as a Legal Person",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 6:34 · REAL HUMAN SPEECH",
     "answers": [
       "rights and responsibilities of a human",
@@ -3740,16 +3739,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "New Zealand Recognizes a Mountain as a Legal Person",
-      "sourceUrl": "https://learningenglish.voanews.com/a/new-zealand-recognizes-a-mountain-as-a-legal-person/7962441.html",
-      "credit": "VOA Learning English · February 04, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 04, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 49",
+    "day": "LISTENING REPORT 49",
     "category": "WORLD & SOCIETY",
     "title": "Conflict Complicates Environmental Problems at the Dead Sea",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:56 · REAL HUMAN SPEECH",
     "answers": [
       "Earth’s surface that is farthest below",
@@ -3818,16 +3817,16 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Conflict Complicates Environmental Problems at the Dead Sea",
-      "sourceUrl": "https://learningenglish.voanews.com/a/conflict-complicates-environmental-problems-at-the-dead-sea/7958149.html",
-      "credit": "VOA Learning English · February 02, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · February 02, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   },
   {
-    "day": "VOA REPORT 50",
+    "day": "LISTENING REPORT 50",
     "category": "WORLD & SOCIETY",
     "title": "UN Says 250 million Students Missed School in 2024 Because of Weather",
-    "kicker": "A recent VOA Learning English report with real human narration, evidence and precise academic language.",
+    "kicker": "A recent real-human report with evidence, data and precise academic language.",
     "level": "B1+/B2 · 4:39 · REAL HUMAN SPEECH",
     "answers": [
       "report has found that extreme weather",
@@ -3857,11 +3856,11 @@ export const voaLevel1Lessons = [
       "330 schools and three education departments"
     ],
     "paragraphs": [
-      "A United Nations [1] interrupted the schooling of at least 242 million children last year. The weather [2], cyclonesand extreme dryness and flooding, the U.N.’s Children’s Fund (UNICEF) [said](https://www.unicef.org/eap/press-releases/nearly-quarter-billion-childrens-schooling-was-disrupted-climate-crises-2024-unicef). [3]. UNICEF said weather-related interruptions amounted to one in [4] being kept out of class at some point during 2024.",
+      "A United Nations [1] interrupted the schooling of at least 242 million children last year. The weather [2], cyclonesand extreme dryness and flooding, the U.N.’s Children’s Fund (UNICEF) said. [3]. UNICEF said weather-related interruptions amounted to one in [4] being kept out of class at some point during 2024.",
       "The [5] said that [6] by weather. Nations in Asia and [7]. But the report said other [8] problems. The report noted that heavy rains and flooding near the end of 2024 disrupted school for more than 900,000 children in Italy. And in Spain, thousands of students had their [9]. [10] deadly floods and parts of Asia and Africa suffered flooding and cyclones. But heatwaves, the report noted, were “the [11] year.” More than 118 [12] in April alone, the report said.",
       "Those [13] in parts of the Middle East and Asia. School was [14] degrees Celsius. UNICEF executive director [15] the [16] today “are more vulnerable” to extreme weather-related events than in the past. She added, “[17] that offer no respite from sweltering heat, and they cannot get to school if the path is flooded, or if schools are washed away.\" Around 74 [18] in 2024 were in middle- and low-income countries, the report said.",
       "[19] extremes [20] on the world’s poorest countries. In Pakistan, flooding ruined more than 400 schools in April. And [21] flooding that destroyed more than 110 schools in May. Months of drought in southern Africa [22], the report added. More recently, the French [23] Ocean off Africa was left in [24]. Cyclone Chido also destroyed more than [25] in Mozambique. The U.N. children’s agency report stated that the world's schools and education systems “are largely ill-equipped” to deal with the effects of extreme weather.",
-      "The Associated Press reported this story. Bryan Lynn adapted the report for VOA Learning English."
+      "The Associated Press reported this story. Bryan Lynn adapted the report for the original report."
     ],
     "essay": {
       "question": "",
@@ -3896,8 +3895,8 @@ export const voaLevel1Lessons = [
         ]
       ],
       "sourceTitle": "UN Says 250 million Students Missed School in 2024 Because of Weather",
-      "sourceUrl": "https://learningenglish.voanews.com/a/un-says-250-million-students-missed-school-in-2024-because-of-weather/7951724.html",
-      "credit": "VOA Learning English · January 28, 2025 · real human report",
+      "sourceUrl": "",
+      "credit": "Real human report · January 28, 2025 · real human report",
       "aspectRatio": "64 / 20"
     }
   }
@@ -3906,7 +3905,7 @@ export const voaLevel1Lessons = [
 export const voaLevel1Academic = [
   {
     "code": "FL1-R01",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -3969,7 +3968,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R02",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4032,7 +4031,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R03",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4095,7 +4094,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R04",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4158,7 +4157,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R05",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4221,7 +4220,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R06",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4284,7 +4283,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R07",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4347,7 +4346,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R08",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4410,7 +4409,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R09",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4473,7 +4472,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R10",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4536,7 +4535,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R11",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4599,7 +4598,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R12",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4662,7 +4661,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R13",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4725,7 +4724,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R14",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4788,7 +4787,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R15",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4851,7 +4850,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R16",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4914,7 +4913,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R17",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -4977,7 +4976,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R18",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5040,7 +5039,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R19",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5103,7 +5102,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R20",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5166,7 +5165,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R21",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5229,7 +5228,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R22",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5292,7 +5291,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R23",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5355,7 +5354,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R24",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5418,7 +5417,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R25",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5481,7 +5480,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R26",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5544,7 +5543,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R27",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5607,7 +5606,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R28",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5670,7 +5669,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R29",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5733,7 +5732,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R30",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5796,7 +5795,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R31",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5859,7 +5858,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R32",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5922,7 +5921,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R33",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -5985,7 +5984,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R34",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6048,7 +6047,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R35",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6111,7 +6110,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R36",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6174,7 +6173,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R37",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6237,7 +6236,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R38",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6300,7 +6299,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R39",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6363,7 +6362,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R40",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6426,7 +6425,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R41",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6489,7 +6488,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R42",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6552,7 +6551,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R43",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6615,7 +6614,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R44",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6678,7 +6677,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R45",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6741,7 +6740,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R46",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6804,7 +6803,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R47",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6867,7 +6866,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R48",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6930,7 +6929,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R49",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -6993,7 +6992,7 @@ export const voaLevel1Academic = [
   },
   {
     "code": "FL1-R50",
-    "style": "PARAPHRASE PRACTICE · VOA ACADEMIC REPORT",
+    "style": "PARAPHRASE PRACTICE · ACADEMIC REPORT",
     "focus": "Recognise how evidence and academic ideas can be expressed in different words.",
     "signals": [
       "reporting evidence",
@@ -7061,2600 +7060,2600 @@ export const voaLevel1Vocabulary = [
     {
       "term": "American space agency NASA recently estimated",
       "meaning": "American outer space agency NASA not long ago calculated",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "methods currently being considered as defensive",
       "meaning": "approaches at present being viewed as defensive",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "effort successfully changed the asteroid’s orbit",
       "meaning": "effort with success altered the asteroid’s path around a body",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "method – but one considered less dangerous",
       "meaning": "approach – but one viewed less unsafe",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "small chance an object large enough",
       "meaning": "limited chance an object substantial enough",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "predicted for such a large space",
       "meaning": "predicted for such a substantial outer space",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "believe this could increase the light",
       "meaning": "think this could rise the light",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "head of the European Space Agency's",
       "meaning": "head of the European Outer space Agency's",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "recognizing the risk the asteroid",
       "meaning": "recognizing the danger the asteroid",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "asteroid hit are expected to keep",
       "meaning": "asteroid hit are predicted to keep",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "causes the Earth to create",
       "meaning": "causes the Planet to produce",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Earth positioned between the sun",
       "meaning": "Planet positioned between the sun",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "partial or full shadow on Earth",
       "meaning": "partial or full shadow on Planet",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "comes from small amounts of sunlight",
       "meaning": "comes from limited amounts of sunlight",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "American space agency NASA says lunar",
       "meaning": "American outer space agency NASA says lunar",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "time when the Earth’s shadow covers",
       "meaning": "the report's wording for time when the Earth’s shadow covers",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "different civilizations have observed lunar eclipses",
       "meaning": "varied civilizations have observed lunar eclipses",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "people learn things about the behaviors",
       "meaning": "individuals learn things about the behaviors",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "brighter vision than we do today",
       "meaning": "brighter eyesight than we do today",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "reddish color across the Western Hemisphere",
       "meaning": "the report's wording for reddish color across the Western Hemisphere",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "cycles affected Earth’s long-term climate",
       "meaning": "cycles influenced Earth’s long-term long-term weather",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "orbit might have affected the Earth’s",
       "meaning": "path around a body might have influenced the Earth’s",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "scientists to show exactly how small",
       "meaning": "researchers to show precisely how limited",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "connection between Earth's orbit and climate",
       "meaning": "connection between Earth's path around a body and long-term weather",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "know exactly which orbit positions affect",
       "meaning": "know precisely which path around a body positions influence",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study shows that changes in climate",
       "meaning": "research demonstrates that changes in long-term weather",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "years unless emissions change the effects",
       "meaning": "years unless emissions alter the impacts",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "orbit around the Sun caused predictable",
       "meaning": "path around a body around the Sun led to predictable",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "data with small but regular changes",
       "meaning": "information with limited but regular changes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "changes in Earth’s orbit have led",
       "meaning": "changes in Earth’s path around a body have led",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "released by the Indian Space Research",
       "meaning": "released by the Indian Outer space Study",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "released by the Indian Space Research",
       "meaning": "released by the Indian Outer space Study",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "came after several other Soviet spacecraft",
       "meaning": "came after a number of other Soviet spacecraft",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "lunar surface could support the weight",
       "meaning": "lunar surface could back the weight",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "gather data in preparation for NASA's",
       "meaning": "gather information in preparation for NASA's",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "image provided by NASA",
       "meaning": "image supplied by NASA",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "successfully landed Apollo 11 astronauts Neil",
       "meaning": "with success landed Apollo 11 astronauts Neil",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "officials say the agency’s Artemis program",
       "meaning": "authorities say the agency’s Artemis program",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "became the third country to successfully",
       "meaning": "became the third country to with success",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "China successfully returned samples of rock",
       "meaning": "China with success returned samples of rock",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "human speech are linked to genetics",
       "meaning": "people spoken language are connected to genetics",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "affect speech and language development",
       "meaning": "influence spoken language and communication system development",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "latest research involved scientists using CRISPR",
       "meaning": "latest study involved researchers employing CRISPR",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Researchers called this human language gene",
       "meaning": "Scientists called this people communication system gene",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "people produce speech and understand language",
       "meaning": "individuals produce spoken language and understand communication system",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "speech permitted individuals to share information",
       "meaning": "spoken language permitted individuals to share data",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers recently published their findings",
       "meaning": "scientists not long ago published their findings",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "human variant made a different sound",
       "meaning": "people variant made a varied sound",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "British scientists said they had discovered",
       "meaning": "British researchers said they had identified",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "FOXP2 was found to be linked",
       "meaning": "FOXP2 was discovered to be connected",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "private spacecraft carrying several science experiments",
       "meaning": "non-government spacecraft transporting a number of science experiments",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "country’s major space missions to private",
       "meaning": "country’s large outer space missions to non-government",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "crashing or having a major problem",
       "meaning": "crashing or having a large difficulty",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Officials at Firefly’s Mission Control center",
       "meaning": "Authorities at Firefly’s Mission Control center",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "touchdown makes Firefly the first private",
       "meaning": "touchdown makes Firefly the first non-government",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "carrying 10 experiments for the American",
       "meaning": "transporting 10 experiments for the American",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "reported that NASA paid $101 million",
       "meaning": "stated that NASA paid $101 million",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Several other companies are part",
       "meaning": "A number of other companies are part",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "third lander from private Japanese company",
       "meaning": "third lander from non-government Japanese company",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "private landers launch to the moon",
       "meaning": "non-government landers launch to the moon",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "several methods suggests the substance",
       "meaning": "a number of approaches indicates the substance",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "likely found in dust and rock",
       "meaning": "probable discovered in dust and rock",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "carrying out the research describes ferrihydrite",
       "meaning": "transporting out the study describes ferrihydrite",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "scientists said discovering large amounts",
       "meaning": "researchers said discovering substantial amounts",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "findings recently appeared [in a study",
       "meaning": "findings not long ago appeared [in a research",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers noted that scientists have long",
       "meaning": "scientists noted that researchers have long",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Martian data collected by several spacecraft",
       "meaning": "Martian information collected by a number of spacecraft",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "using observational data and novel laboratory",
       "meaning": "employing observational information and novel laboratory",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "possible for the planet to support",
       "meaning": "feasible for the planet to back",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "held a large supply of liquid",
       "meaning": "held a substantial supply of liquid",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "people using methods that are different",
       "meaning": "individuals employing approaches that are varied",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "devices that link the human brain",
       "meaning": "equipment that link the people brain",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "human nervous system to machines",
       "meaning": "people nervous structure to machines",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "nervous system disease that affects cells",
       "meaning": "nervous structure illness that affects cells",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Neurotech and Onward Medical are carrying",
       "meaning": "Neurotech and Onward Clinical are transporting",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "possible benefits to people with paralysis",
       "meaning": "feasible benefits to individuals with paralysis",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "officials to begin testing its device",
       "meaning": "authorities to start testing its device",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "implant the experimental devices in 20",
       "meaning": "implant the experimental equipment in 20",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "support of Republican presidential nominee former",
       "meaning": "back of Republican presidential nominee former",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "support of Republican presidential nominee former",
       "meaning": "back of Republican presidential nominee former",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "technology systems to support future changes",
       "meaning": "technical systems structures to back coming years changes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "officials recently showed off the latest",
       "meaning": "authorities not long ago demonstrated off the latest",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "carry out technology research and development",
       "meaning": "carry out technical systems study and development",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "place where researchers and technology company",
       "meaning": "place where scientists and technical systems company",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "officials plan on having about 100",
       "meaning": "authorities proposal on having about 100",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "provided by Woven by Toyota shows",
       "meaning": "supplied by Woven by Toyota demonstrates",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "provided by Woven by Toyota shows",
       "meaning": "supplied by Woven by Toyota demonstrates",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "provided by Woven by Toyota shows",
       "meaning": "supplied by Woven by Toyota demonstrates",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "provided by Woven by Toyota shows",
       "meaning": "supplied by Woven by Toyota demonstrates",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Toyota recently announced it had completed",
       "meaning": "Toyota not long ago announced it had completed",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "Florida – is expected to report low",
       "meaning": "Florida – is predicted to account limited",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "several vortex events have affected parts",
       "meaning": "a number of vortex events have influenced parts",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "affected areas that such low temperatures",
       "meaning": "influenced areas that such limited temperatures",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Weather officials also warned that long-term",
       "meaning": "Atmospheric conditions authorities also warned that long-term",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "com/a/what-is-the-polar-vortex-weather-system-/7981167",
       "meaning": "the report's wording for com/a/what-is-the-polar-vortex-weather-system-/7981167",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "weather models are predicting low temperatures",
       "meaning": "atmospheric conditions models are predicting limited temperatures",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "com/a/what-is-the-polar-vortex-weather-system-/7981167",
       "meaning": "the report's wording for com/a/what-is-the-polar-vortex-weather-system-/7981167",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "likely to have very low temperatures",
       "meaning": "probable to have very limited temperatures",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "National Oceanic and Atmospheric Administration",
       "meaning": "Countrywide Oceanic and Atmospheric Administration",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "polar vortex as strong westerly winds",
       "meaning": "polar vortex as powerful westerly winds",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "large space rock striking the Earth",
       "meaning": "substantial outer space rock striking the Planet",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "European Space Agency’s Webb Space Telescope",
       "meaning": "European Outer space Agency’s Webb Outer space Observatory instrument",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "oddsof a strike will likely continue",
       "meaning": "oddsof a collision will probable continue",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Scientists believe they are the leftovers",
       "meaning": "Researchers think they are the leftovers",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "observations by the Webb space telescope",
       "meaning": "observations by the Webb outer space observatory instrument",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "hit and what the possible effects",
       "meaning": "hit and what the feasible impacts",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "observe this near-Earth asteroid in March",
       "meaning": "the report's wording for observe this near-Earth asteroid in March",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Chile discovered the asteroid 2024 YR4",
       "meaning": "Chile identified the asteroid 2024 YR4",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "NASA and the European Space Agency",
       "meaning": "NASA and the European Outer space Agency",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "calculations suggested the odds had risen",
       "meaning": "calculations indicated the odds had risen",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "findings provide important data on compounds",
       "meaning": "findings supply significant information on compounds",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Researchers of the current study hope",
       "meaning": "Scientists of the present research hope",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers reported the leading descriptions",
       "meaning": "scientists stated the leading descriptions",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study appeared recently in the Journal",
       "meaning": "research appeared not long ago in the Journal",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "chemical examinations and several human smellers",
       "meaning": "chemical examinations and a number of people smellers",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers wanted to study the smell",
       "meaning": "scientists wanted to research the smell",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "interest for the public and researchers",
       "meaning": "interest for the government-supported and scientists",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "therefore reveals a lot of information",
       "meaning": "as a result reveals a lot of data",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "protect the ancient bodies for future",
       "meaning": "defend the ancient bodies for coming years",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "change the experience for future museumgoers",
       "meaning": "alter the experience for coming years museumgoers",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "capture personal data and location information",
       "meaning": "capture personal information and location data",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "collection of private data on personal",
       "meaning": "collection of non-government information on personal",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "business to activate data tracking",
       "meaning": "business to activate information monitoring",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "tracking is to identify and change",
       "meaning": "monitoring is to identify and alter",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "phones because manufacturers have different versions",
       "meaning": "phones since manufacturers have varied versions",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "three months although users can change",
       "meaning": "three months even though users can alter",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "com/a/tech-tip-how-to-block-location-tracking-on-your-phone/7980470",
       "meaning": "the report's wording for com/a/tech-tip-how-to-block-location-tracking-on-your-phone/7980470",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "com/a/tech-tip-how-to-block-location-tracking-on-your-phone/7980470",
       "meaning": "the report's wording for com/a/tech-tip-how-to-block-location-tracking-on-your-phone/7980470",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "data signals that show a user’s",
       "meaning": "information signals that show a user’s",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "use your location in the background",
       "meaning": "employ your location in the background",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "workers were recently told the technology",
       "meaning": "workers were not long ago told the technical systems",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "completely stop developing hydrogen-powered aircraft technology",
       "meaning": "completely stop developing hydrogen-powered planes technical systems",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "takes up a very large space",
       "meaning": "takes up a very substantial outer space",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "development efforts of a hydrogen-powered aircraft",
       "meaning": "development efforts of a hydrogen-powered planes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "slower and more complex than expected",
       "meaning": "slower and more complex than predicted",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "French news agency AFP reported Airbus",
       "meaning": "French news agency AFP stated Airbus",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "reduced the program’s budget by 25",
       "meaning": "lowered the program’s budget by 25",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "still examining ways to reduce emissions",
       "meaning": "still examining ways to lower emissions",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "model of the Airbus Zero-e aircraft",
       "meaning": "model of the Airbus Zero-e planes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "model of the Airbus Zero-e aircraft",
       "meaning": "model of the Airbus Zero-e planes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "Europe’s Euclid space telescope has discovered",
       "meaning": "Europe’s Euclid outer space observatory instrument has identified",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "European Space Agency's Euclid space telescope",
       "meaning": "European Outer space Agency's Euclid outer space observatory instrument",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "European Space Agency's Euclid space telescope",
       "meaning": "European Outer space Agency's Euclid outer space observatory instrument",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Researchers have estimated the ring encircles",
       "meaning": "Scientists have calculated the ring encircles",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "European Space Agency shows a close-up",
       "meaning": "European Outer space Agency demonstrates a close-up",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "European Space Agency shows a close-up",
       "meaning": "European Outer space Agency demonstrates a close-up",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Altieri’s team recently reported the findings",
       "meaning": "Altieri’s team not long ago stated the findings",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers used the latest gravitational lensing",
       "meaning": "scientists employed the latest gravitational lensing",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "methods developed at the institute",
       "meaning": "approaches built at the institute",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "discovered in a well-studied galaxy called",
       "meaning": "identified in a well-studied galaxy called",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "experts use to describe computer systems",
       "meaning": "specialists employ to describe computer structures",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Artificial Intelligence create new generative landscapes",
       "meaning": "Human-made Thinking ability produce new generative landscapes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Artificial Intelligence create new generative landscapes",
       "meaning": "Human-made Thinking ability produce new generative landscapes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "important term is artificial general intelligence",
       "meaning": "significant term is human-made general thinking ability",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "thesimulation of human intelligence in machines",
       "meaning": "thesimulation of people thinking ability in machines",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "using ideas from many fields including",
       "meaning": "employing ideas from many fields among them",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "learning permits the system to independently",
       "meaning": "learning official permissions the structure to independently",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "method might help lead to scientific",
       "meaning": "approach might assist lead to scientific",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "large language models say they're hard",
       "meaning": "substantial communication system models say they're hard",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "large language models say they're hard",
       "meaning": "substantial communication system models say they're hard",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "scientists recently published [a study",
       "meaning": "researchers not long ago published [a research",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "research shows the two steep valleys",
       "meaning": "study demonstrates the two steep valleys",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "strike likely happened about 3",
       "meaning": "collision probable happened about 3",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "used data collected by a spacecraft",
       "meaning": "employed information collected by a spacecraft",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "capturing lunar data since entering orbit",
       "meaning": "capturing lunar information since entering path around a body",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "resources and to plan for future",
       "meaning": "resources and to proposal for coming years",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "canyons used the orbiter’s map data",
       "meaning": "canyons employed the orbiter’s map information",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "simulations suggested the space rock passed",
       "meaning": "simulations indicated the outer space rock passed",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "all the world’s current nuclear weapons",
       "meaning": "all the world’s present nuclear weapons",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "improve the exploration possibilities of future",
       "meaning": "strengthen the exploration possibilities of coming years",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "research – including a study of ice",
       "meaning": "study – among them a research of ice",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study that recently appeared in Communications",
       "meaning": "research that not long ago appeared in Communications",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "oldest known evidence of lead pollution",
       "meaning": "oldest known proof of lead contamination",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "oldest evidence of lead pollution",
       "meaning": "oldest proof of lead contamination",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers found that levels of lead",
       "meaning": "scientists discovered that levels of lead",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study shows that around 2",
       "meaning": "research demonstrates that around 2",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "lead releases caused by human activities",
       "meaning": "lead releases led to by people activities",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "special objects — but it wasn't found",
       "meaning": "special objects — but it wasn't discovered",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "area’s most important places for silver",
       "meaning": "area’s most significant places for silver",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "released fromsmelting is the world’s first",
       "meaning": "the report's wording for released fromsmelting is the world’s first",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "climate activity in 854 different European",
       "meaning": "long-term weather action in 854 varied European",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers urged increased efforts to reduce",
       "meaning": "scientists urged grew efforts to lower",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "largely because low temperatures are expected",
       "meaning": "largely since limited temperatures are predicted",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "studies the environmental effects of human",
       "meaning": "studies the ecological impacts of people",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "European officials reported several heat waves",
       "meaning": "European authorities stated a number of heat waves",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers said the number of predicted",
       "meaning": "scientists said the figure of predicted",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study found that as temperatures continue",
       "meaning": "research discovered that as temperatures continue",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "results appeared recently [in a study",
       "meaning": "results appeared not long ago [in a research",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "heat deaths related to climate change",
       "meaning": "heat deaths related to long-term weather alter",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "deaths will increase by 269 people",
       "meaning": "deaths will rise by 269 individuals",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "aircraft developed by a private American",
       "meaning": "planes built by a non-government American",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "world’s first independently developed supersonic jet",
       "meaning": "world’s first independently built supersonic jet",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "several American companies seeking to develop",
       "meaning": "a number of American companies seeking to build",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "NASA’s X-59 supersonic research aircraft sits",
       "meaning": "NASA’s X-59 supersonic study planes sits",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "research aircraft sits outside Lockheed Martin’s",
       "meaning": "study planes sits outside Lockheed Martin’s",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "agency plans to begin community reaction",
       "meaning": "agency proposals to start community reaction",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Mojave Air & Space Port in Mojave",
       "meaning": "Mojave Air & Outer space Port in Mojave",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "sound barrier and is considered supersonic",
       "meaning": "sound barrier and is viewed supersonic",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "speed of sound is estimated",
       "meaning": "speed of sound is calculated",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "supersonic aircraft have been the work",
       "meaning": "supersonic planes have been the work",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "data problem noted repeatedly by scientists",
       "meaning": "information difficulty noted repeatedly by researchers",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "increased human use of forest resources",
       "meaning": "grew people employ of forest resources",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "recent study says India has doubled",
       "meaning": "new research says India has doubled",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "shows that a reduction in conflict",
       "meaning": "demonstrates that a reduction in dispute",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study credited efforts to improve economic",
       "meaning": "research credited efforts to strengthen economic",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "improvements in local economies through increased",
       "meaning": "improvements in nearby economies through grew",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study are much higher than past",
       "meaning": "research are much greater than past",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "means local people need to see",
       "meaning": "means nearby individuals need to see",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "com/a/study-finds-india-s-tiger-population-doubled-in-12-years/7958833",
       "meaning": "the report's wording for com/a/study-finds-india-s-tiger-population-doubled-in-12-years/7958833",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "indicated by numbers of different species",
       "meaning": "indicated by figures of varied species",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "scientists have been using satellite imagery",
       "meaning": "researchers have been employing satellite imagery",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "possible the large ice mass",
       "meaning": "feasible the substantial ice mass",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "member of the National Antarctic Research",
       "meaning": "member of the Countrywide Antarctic Study",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "ocean currents and therefore usually diverts",
       "meaning": "ocean currents and as a result usually diverts",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "iceberg pieces could affect the island",
       "meaning": "iceberg pieces could influence the island",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "currently on an Argentinian exploration trip",
       "meaning": "at present on an Argentinian exploration trip",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "iceberg has followed nearly the same",
       "meaning": "iceberg has followed almost the same",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "South Atlantic Ocean could threaten wildlife",
       "meaning": "the report's wording for South Atlantic Ocean could threaten wildlife",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Atlantic toward the island of South",
       "meaning": "the report's wording for Atlantic toward the island of South",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "kilometers east of the Falkland Islands",
       "meaning": "the report's wording for kilometers east of the Falkland Islands",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "scientists began to understand that people",
       "meaning": "researchers started to understand that individuals",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "now seeing higher iodine deficiency rates",
       "meaning": "now seeing greater iodine deficiency levels",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "children showed other symptoms in addition",
       "meaning": "young people demonstrated other symptoms in addition",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "children – the two groups most likely",
       "meaning": "young people – the two groups most probable",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers have increasingly reported seeing mild",
       "meaning": "scientists have increasingly stated seeing mild",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "lower score on an intelligence test",
       "meaning": "smaller score on an thinking ability test",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "enough research to establish exactly how",
       "meaning": "enough study to establish precisely how",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "changes and new food manufacturing methods",
       "meaning": "changes and new food manufacturing approaches",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "accidentally discovered the substance in 1811",
       "meaning": "accidentally identified the substance in 1811",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "important for a child’s brain development",
       "meaning": "significant for a child’s brain development",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "Scientists from the American space agency",
       "meaning": "Researchers from the American outer space agency",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "provide direct evidence of life itself",
       "meaning": "supply direct proof of life itself",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "hopes the samples can help scientists",
       "meaning": "hopes the samples can assist researchers",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "research groups released studies last week",
       "meaning": "study groups released studies last week",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "suggested the samples contained a mixture",
       "meaning": "indicated the samples contained a mixture",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "com/a/researchers-nasa-asteroid-samples-contain-building-blocks-of-life/7957452",
       "meaning": "the report's wording for com/a/researchers-nasa-asteroid-samples-contain-building-blocks-of-life/7957452",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "provides evidence that a much larger",
       "meaning": "provides proof that a much larger",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "both groups noted it was important",
       "meaning": "both groups noted it was significant",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Asteroid pieces that fall to Earth",
       "meaning": "Asteroid pieces that fall to Planet",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "widespread across the early solar system",
       "meaning": "widespread across the early solar structure",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "research suggests that many citizens use",
       "meaning": "study indicates that many citizens employ",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "research showed the notes used both",
       "meaning": "study demonstrated the notes employed both",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "noted the problem with such systems",
       "meaning": "noted the difficulty with such structures",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "former moderation system involved the use",
       "meaning": "former moderation structure involved the employ",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "method used by the social media",
       "meaning": "approach employed by the social media",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Notes will require agreement between people",
       "meaning": "Notes will need agreement between individuals",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "perspectives to help prevent biased ratings",
       "meaning": "perspectives to assist stop biased ratings",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "people taking part in that study",
       "meaning": "individuals taking part in that research",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "moderation system Meta had built needed",
       "meaning": "moderation structure Meta had built needed",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "move to a new system centered",
       "meaning": "move to a new structure centered",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "people using methods that are different",
       "meaning": "individuals employing approaches that are varied",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "devices that link the human brain",
       "meaning": "equipment that link the people brain",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "human nervous system to machines",
       "meaning": "people nervous structure to machines",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "nervous system disease that affects cells",
       "meaning": "nervous structure illness that affects cells",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Neurotech and Onward Medical are carrying",
       "meaning": "Neurotech and Onward Clinical are transporting",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "possible benefits to people with paralysis",
       "meaning": "feasible benefits to individuals with paralysis",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "officials to begin testing its device",
       "meaning": "authorities to start testing its device",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "implant the experimental devices in 20",
       "meaning": "implant the experimental equipment in 20",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "support of Republican presidential nominee former",
       "meaning": "back of Republican presidential nominee former",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "support of Republican presidential nominee former",
       "meaning": "back of Republican presidential nominee former",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "latest products built with artificial intelligence",
       "meaning": "latest products built with human-made thinking ability",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "introduced a system called Samsung Vision",
       "meaning": "introduced a structure called Samsung Eyesight",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "possible to activate live language translations",
       "meaning": "feasible to activate live communication system translations",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "large transport van with enough space",
       "meaning": "substantial transport van with enough outer space",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "traditional vehicles on its website – plans",
       "meaning": "conventional vehicles on its website – proposals",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Yong of Samsung debuts Samsung Vision",
       "meaning": "Yong of Samsung debuts Samsung Eyesight",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "large electronics manufacturers introduce their latest",
       "meaning": "substantial electronics manufacturers introduce their latest",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "including Japan’s Panasonic and China’s Hisense",
       "meaning": "among them Japan’s Panasonic and China’s Hisense",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "company’s own a11 processer technology",
       "meaning": "company’s own a11 processer technical systems",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "People walk through the TCL booth",
       "meaning": "Individuals walk through the TCL booth",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "future genetic studies can help scientists",
       "meaning": "coming years genetic studies can assist researchers",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "reported that research involved the oldest",
       "meaning": "stated that study involved the oldest",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "ancient human that scientists call Zlat",
       "meaning": "ancient people that researchers call Zlat",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Researchers estimated the period of mixing",
       "meaning": "Scientists calculated the period of mixing",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "recently published in a [study",
       "meaning": "not long ago published in a [research",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "image provided by National Museum",
       "meaning": "image supplied by Countrywide Museum",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "image provided by National Museum",
       "meaning": "image supplied by Countrywide Museum",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Genetic data from these samplesreally helps",
       "meaning": "Genetic information from these samplesreally assists",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "researchers also could not confirm exactly",
       "meaning": "scientists also could not confirm precisely",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Results of two recent studies estimate",
       "meaning": "Results of two new studies estimate",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "help prevent many health problems",
       "meaning": "assist stop many wellbeing difficulties",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "current health – things like physical activity",
       "meaning": "present wellbeing – things like bodily action",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "physical therapists could help identify future",
       "meaning": "bodily therapists could assist identify coming years",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "practitioners who can help identify possible",
       "meaning": "practitioners who can assist identify feasible",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "people to think about physical therapists",
       "meaning": "individuals to think about bodily therapists",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "especially for the aging population",
       "meaning": "particularly for the aging number of inhabitants",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "help reduce the fear of falling",
       "meaning": "assist lower the fear of falling",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "weight somebody is carrying the higher",
       "meaning": "weight somebody is transporting the greater",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "extremely overweight patients successfully lose large",
       "meaning": "extremely overweight patients with success lose substantial",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "president of the American Physical Therapy",
       "meaning": "president of the American Bodily Therapy",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "found an increase in heart attacks",
       "meaning": "discovered an rise in heart attacks",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "hormonecalled melatonin begin to increase",
       "meaning": "hormonecalled melatonin start to rise",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "car crash numbers increase the first",
       "meaning": "car crash figures rise the first",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "possible the sudden circadian change influences",
       "meaning": "feasible the sudden circadian alter influences",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "high blood pressure in people already",
       "meaning": "elevated blood pressure in individuals already",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "starting and ending on different dates",
       "meaning": "starting and ending on varied dates",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "light helps reset your circadian rhythm",
       "meaning": "light assists reset your circadian rhythm",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "change will reverse on November 2",
       "meaning": "alter will reverse on November 2",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "prepare for the change to daylight",
       "meaning": "prepare for the alter to daylight",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "suggested seven hours of nightly sleep",
       "meaning": "indicated seven hours of nightly sleep",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "mental health disorder in American children",
       "meaning": "psychological wellbeing disorder in American young people",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "recent government report also found adult",
       "meaning": "new government account also discovered adult",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study suggested that more than 15",
       "meaning": "research indicated that more than 15",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "number of people seeking ADHD testing",
       "meaning": "figure of individuals seeking ADHD testing",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study showed the rise in prescriptions",
       "meaning": "research demonstrated the rise in prescriptions",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "reduced the number of signs",
       "meaning": "lowered the figure of signs",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "diagnosed when symptoms cause ongoing problems",
       "meaning": "diagnosed when symptoms lead to ongoing difficulties",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "appointment with a mental health professional",
       "meaning": "appointment with a psychological wellbeing professional",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "linked to health companies that prescribe",
       "meaning": "connected to wellbeing companies that prescribe",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "suggested testing for attention-deficit/hyperactivity disorder",
       "meaning": "indicated testing for attention-deficit/hyperactivity disorder",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "cause serious heart and lung problems",
       "meaning": "lead to severe heart and lung difficulties",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "percent of the world’s population breathes",
       "meaning": "percent of the world’s number of inhabitants breathes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Different forms of air pollution kill",
       "meaning": "Varied forms of air contamination kill",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "human lungs and are mostly created",
       "meaning": "people lungs and are mostly produced",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "American-based Health Effects Institute",
       "meaning": "American-based Wellbeing Impacts Institute",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "causeasthma attacks and increase the risk",
       "meaning": "causeasthma attacks and rise the danger",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "pollution is linked to the deaths",
       "meaning": "contamination is connected to the deaths",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "help people better understand air quality",
       "meaning": "assist individuals better understand air quality",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Different countries have different air quality",
       "meaning": "Varied countries have varied air quality",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "air purifiers can help reduce indoor",
       "meaning": "air purifiers can assist lower indoor",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "children use small digital devices",
       "meaning": "young people employ limited digital equipment",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "reason for the screen-linked vision problems",
       "meaning": "reason for the screen-linked eyesight difficulties",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "cause the muscle used for eye",
       "meaning": "lead to the body tissue employed for eye",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "vision problems can affect work",
       "meaning": "eyesight difficulties can influence work",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "unclear vision linked with computer use",
       "meaning": "unclear eyesight connected with computer employ",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "reduce eye strain caused by devices",
       "meaning": "lower eye strain led to by equipment",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "people find that using a larger",
       "meaning": "individuals discover that employing a larger",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "improve sleep and prevent eye disease",
       "meaning": "strengthen sleep and stop eye illness",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "find themselves using smaller digital devices",
       "meaning": "discover themselves employing smaller digital equipment",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "lead to vision conditions including myopia",
       "meaning": "lead to eyesight conditions among them myopia",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "Researchers recently reported new evidence",
       "meaning": "Scientists not long ago stated new proof",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Three people with a muscle-destroying disease",
       "meaning": "Three individuals with a muscle-destroying illness",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "evidence suggests it might also aid",
       "meaning": "proof indicates it might also aid",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "nervous system like spinal muscle atrophy",
       "meaning": "nervous structure like spinal body tissue atrophy",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "tested it to help people paralyzed",
       "meaning": "tested it to assist individuals paralyzed",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "technology might help patients with SMA",
       "meaning": "technical systems might assist patients with SMA",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "years into the disease can improve",
       "meaning": "years into the illness can strengthen",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "people were definitely not expecting",
       "meaning": "individuals were definitely not expecting",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "able to return some muscle function",
       "meaning": "able to return some body tissue function",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "disease that slowly destroys motor neurons",
       "meaning": "illness that slowly destroys motor neurons",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "childhood cancer survival rates in low",
       "meaning": "childhood malignant disease survival levels in limited",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "000 children worldwide develop cancer every",
       "meaning": "000 young people worldwide build malignant disease every",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "treatment and research organization provided $200",
       "meaning": "therapy and study organization supplied $200",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "movement to provide children with cancer",
       "meaning": "movement to supply young people with malignant disease",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "cancer medicines to thousands of children",
       "meaning": "malignant disease medicines to thousands of young people",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "children with cancer this year across",
       "meaning": "young people with malignant disease this year across",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "children with cancer have lacked access",
       "meaning": "young people with malignant disease have lacked access",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "hope to children around the world",
       "meaning": "hope to young people around the globe",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "FILE - The World Health Organization",
       "meaning": "FILE - The Globe Wellbeing Organization",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "FILE - The World Health Organization",
       "meaning": "FILE - The Globe Wellbeing Organization",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "Americans will likely develop the disease",
       "meaning": "Americans will probable build the illness",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "number of people estimated in earlier",
       "meaning": "figure of individuals calculated in earlier",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "research showed the risk",
       "meaning": "study demonstrated the danger",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "latest research examined more recent data",
       "meaning": "latest study examined more new information",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "study shows how the risk changes",
       "meaning": "research demonstrates how the danger changes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "health risks people cannot control",
       "meaning": "wellbeing dangers individuals cannot control",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "medical centers and other research organizations",
       "meaning": "clinical centers and other study organizations",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "older is currently the biggest risk",
       "meaning": "older is at present the biggest danger",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "disease is linked to silent changes",
       "meaning": "illness is connected to silent changes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "findings on that support previous research",
       "meaning": "findings on that back previous study",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "evidence of health problems linked",
       "meaning": "proof of wellbeing difficulties connected",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "serious health effects – but a lower",
       "meaning": "severe wellbeing impacts – but a smaller",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "identify obesity – a medical condition linked",
       "meaning": "identify severe excess weight – a clinical condition connected",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Obesity is estimated to affect",
       "meaning": "Severe excess weight is calculated to influence",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "report recently appeared in the publication",
       "meaning": "account not long ago appeared in the publication",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "people who actually need the help",
       "meaning": "individuals who actually need the assist",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "clinical obesity and pre-clinical obesity",
       "meaning": "clinical severe excess weight and pre-clinical severe excess weight",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "problems caused by too much weight",
       "meaning": "difficulties led to by too much weight",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "People identified as having clinical obesity",
       "meaning": "Individuals identified as having clinical severe excess weight",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "considered a weak measure for obesity",
       "meaning": "viewed a weak measure for severe excess weight",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "found to cause cancer in people",
       "meaning": "discovered to lead to malignant disease in individuals",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "products because of a possible cancer",
       "meaning": "products since of a feasible malignant disease",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "3 caused cancer in male rats",
       "meaning": "3 led to malignant disease in male rats",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "especially from foods offered in public",
       "meaning": "particularly from foods offered in government-supported",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "research carried out by scientific experts",
       "meaning": "study carried out by scientific specialists",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "used to color some food products",
       "meaning": "employed to color some food products",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "food safety and health supporters issued",
       "meaning": "food safety and wellbeing supporters issued",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "eating high levels of the chemical",
       "meaning": "eating elevated levels of the chemical",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Health activists had long sought FDA",
       "meaning": "Wellbeing activists had long sought FDA",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "nearly two dozen members of Congress",
       "meaning": "almost two dozen members of Congress",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "study that shows a small increase",
       "meaning": "research that demonstrates a limited rise",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "developed world in recent years",
       "meaning": "built globe in new years",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "country’s fertility rate — the average number",
       "meaning": "country’s fertility level — the average figure",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "increase is that a growing number",
       "meaning": "rise is that a growing figure",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "young people hoping to have children",
       "meaning": "young individuals hoping to have young people",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "low fertility rate could threaten South",
       "meaning": "limited fertility level could threaten South",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "country’s population structure will also change",
       "meaning": "country’s number of inhabitants structure will also alter",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "South Korea increased for the first",
       "meaning": "South Korea grew for the first",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "South Korea’s statistics agency said recently",
       "meaning": "South Korea’s statistics agency said not long ago",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "first time that the yearly number",
       "meaning": "first time that the yearly figure",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "important ocean current that influences Earth's",
       "meaning": "significant ocean present that influences Earth's",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "weather experienced by billions of people",
       "meaning": "atmospheric conditions experienced by billions of individuals",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "temperatures in recent years have increased",
       "meaning": "temperatures in new years have grew",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "half of the world’s rare Earth",
       "meaning": "half of the world’s rare Planet",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "amount of melting will likely increase",
       "meaning": "amount of melting will probable rise",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "current system were to slow substantially",
       "meaning": "present structure were to slow substantially",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Francis of the Woodwell Climate Research",
       "meaning": "Francis of the Woodwell Long-term weather Study",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "United States has a large military",
       "meaning": "United States has a substantial military",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "valuable elements known as rare earth",
       "meaning": "valuable elements known as rare planet",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "becoming interested in Greenland because China",
       "meaning": "becoming interested in Greenland since China",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "fusion research is to create",
       "meaning": "combination study is to produce",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "well a possible future nuclear fusion",
       "meaning": "well a feasible coming years nuclear combination",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "world’s largest tokamak and fusion research",
       "meaning": "world’s largest tokamak and combination study",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "nuclear fusion methods that could produce",
       "meaning": "nuclear combination approaches that could produce",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "clean energy in the future",
       "meaning": "clean power in the coming years",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "process releases large amounts of energy",
       "meaning": "process releases substantial amounts of power",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "means fusion could be a major",
       "meaning": "means combination could be a large",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "almost limitless energy in the future",
       "meaning": "almost limitless power in the coming years",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "scientists in France used a machine",
       "meaning": "researchers in France employed a machine",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Scientists say that for nuclear fusion",
       "meaning": "Researchers say that for nuclear combination",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "used language in diplomacy and international",
       "meaning": "employed communication system in diplomacy and global",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "children who attend preschool – also known",
       "meaning": "young people who attend early education – also known",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "producer and has seen large population",
       "meaning": "producer and has seen substantial number of inhabitants",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "provided students with printed documents",
       "meaning": "supplied learners with printed documents",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "common language at an international level",
       "meaning": "common communication system at an global level",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "succeed in future educational and professional",
       "meaning": "succeed in coming years educational and professional",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "learn French – the country’s official language",
       "meaning": "learn French – the country’s official communication system",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "plan to better connect Senegal",
       "meaning": "proposal to better connect Senegal",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "five-year-old students were heard singing",
       "meaning": "five-year-old learners were heard singing",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "public schools and in government administration",
       "meaning": "government-supported schools and in government administration",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "park officials estimated the bison population",
       "meaning": "park authorities calculated the bison number of inhabitants",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "States was the world’s first national",
       "meaning": "States was the world’s first countrywide",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "still one of the largest national",
       "meaning": "still one of the largest countrywide",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "unusual because of what lies underneath",
       "meaning": "unusual since of what lies underneath",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Experts say this lake is under",
       "meaning": "Specialists say this lake is under",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "cause geysers to shoot hot water",
       "meaning": "lead to geysers to shoot hot water",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "geyser because it erupts about every",
       "meaning": "geyser since it erupts about every",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Yellowstone is on a high plateau",
       "meaning": "Yellowstone is on a elevated plateau",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "makes the weather very cold",
       "meaning": "makes the atmospheric conditions very cold",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Lower Falls of the Yellowstone River",
       "meaning": "Smaller Falls of the Yellowstone River",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "monarch population is already small",
       "meaning": "monarch butterfly number of inhabitants is already limited",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "number of monarch butterflies spending",
       "meaning": "figure of monarch butterfly butterflies spending",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "reductions in habitat and climate change",
       "meaning": "reductions in habitat and long-term weather alter",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "sharp decrease in the western population",
       "meaning": "sharp fall in the western number of inhabitants",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "overall western monarch population",
       "meaning": "overall western monarch butterfly number of inhabitants",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "highest number recorded was 1",
       "meaning": "highest figure recorded was 1",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "second lowest since the survey began",
       "meaning": "second lowest since the survey started",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Monarchs across North America face increasing",
       "meaning": "Monarchs across North America face growing",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Monarch Joint Venture is a nonprofit",
       "meaning": "Monarch butterfly Joint Venture is a nonprofit",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Minnesota that aims to protect monarchs",
       "meaning": "Minnesota that aims to defend monarchs",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "help reduce pollution and increase safety",
       "meaning": "assist lower contamination and rise safety",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "higher price could lower the number",
       "meaning": "greater price could smaller the figure",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "400 people bought climbing permits",
       "meaning": "400 individuals bought climbing official permissions",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "use the money to improve conditions",
       "meaning": "employ the money to strengthen conditions",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "popular spring climbing season will increase",
       "meaning": "popular spring climbing season will rise",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "summer monsoon rains -- have also increased",
       "meaning": "summer monsoon rains -- have also grew",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "includes an increase from $5",
       "meaning": "includes an rise from $5",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Used oxygen cylinders and beer cans",
       "meaning": "Employed oxygen cylinders and beer cans",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "support to the climbers and guides",
       "meaning": "back to the climbers and guides",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Nepal’s tourism department is Narayan Prasad",
       "meaning": "the report's wording for Nepal’s tourism department is Narayan Prasad",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "human interaction – especially by people filming",
       "meaning": "people interaction – particularly by individuals filming",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "small number of YouTubers repeatedly feed",
       "meaning": "limited figure of YouTubers repeatedly feed",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "cause injuries among people",
       "meaning": "lead to injuries among individuals",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "surrounding forest have received increased legal",
       "meaning": "surrounding forest have received grew recognized by law",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "increase visitor interest and support conservation",
       "meaning": "rise visitor interest and back conservation",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "officials announced a plan to carry",
       "meaning": "authorities announced a proposal to carry",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "YouTube – use video of the monkeys",
       "meaning": "YouTube – employ video of the monkeys",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "World Heritage Site in northwestern Cambodia",
       "meaning": "Globe Heritage Site in northwestern Cambodia",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "material to publish online – had changed",
       "meaning": "material to publish online – had altered",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Wat is the APSARA National Authority",
       "meaning": "Wat is the APSARA Countrywide Authority",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "reported the share of electric cars",
       "meaning": "stated the share of battery-powered cars",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "buying EVs because of his concern",
       "meaning": "buying EVs since of his worry",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "large national network of superfast charging",
       "meaning": "substantial countrywide network of superfast charging",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "selling only fully electric new vehicles",
       "meaning": "selling only fully battery-powered new vehicles",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "first recorded decrease since 2020",
       "meaning": "first recorded fall since 2020",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "profitable to choose an electric car",
       "meaning": "profitable to choose an battery-powered car",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Even though it is a major",
       "meaning": "Even though it is a large",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Norway offers a number of tax",
       "meaning": "Norway offers a figure of tax",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "normally saved for public transportation vehicles",
       "meaning": "normally saved for government-supported transportation vehicles",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "breaks and incentives have been reduced",
       "meaning": "breaks and incentives have been lowered",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "support traditional uses of the land",
       "meaning": "back conventional uses of the land",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "world to recognize landforms as people",
       "meaning": "globe to recognize landforms as individuals",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "vote was a change from recent",
       "meaning": "vote was a alter from new",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "rights and responsibilities of a human",
       "meaning": "rights and responsibilities of a people",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "ori people of New Zealand represent",
       "meaning": "ori individuals of New Zealand represent",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "15 percent of the country’s population",
       "meaning": "15 percent of the country’s number of inhabitants",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "indigenous population suffered in the past",
       "meaning": "indigenous number of inhabitants suffered in the past",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "members from local Māori tribes",
       "meaning": "members from nearby Māori tribes",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "lawmaker responsible for the legal settlements",
       "meaning": "lawmaker responsible for the recognized by law settlements",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "began breaking parts of the treaty",
       "meaning": "started breaking parts of the treaty",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "current conflict in the Middle East",
       "meaning": "present dispute in the Middle East",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "environmental problem have disappeared too",
       "meaning": "ecological difficulty have disappeared too",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "affected by years of increasing water",
       "meaning": "influenced by years of growing water",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Local factories also use the water",
       "meaning": "Nearby factories also employ the water",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Earth’s surface that is farthest below",
       "meaning": "the report's wording for Earth’s surface that is farthest below",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "closed to the public for five",
       "meaning": "closed to the government-supported for five",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "living in a conflict area",
       "meaning": "living in a dispute area",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "waters takes place partly because temperatures",
       "meaning": "waters takes place partly since temperatures",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "cross-border environmental issues are no longer",
       "meaning": "cross-border ecological issues are no longer",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "government was looking into several solutions",
       "meaning": "government was looking into a number of solutions",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ],
   [
     {
       "term": "report shows that the world’s children",
       "meaning": "account demonstrates that the world’s young people",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "report has found that extreme weather",
       "meaning": "account has discovered that extreme atmospheric conditions",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "Students in 85 nations were affected",
       "meaning": "Learners in 85 nations were influenced",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "seven school-aged children across the world",
       "meaning": "seven school-aged young people across the globe",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "percent of the children affected",
       "meaning": "percent of the young people influenced",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "report also noted that some countries",
       "meaning": "account also noted that some countries",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "sub-Saharan Africa were hit especially hard",
       "meaning": "sub-Saharan Africa were hit particularly hard",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "parts of the world also experienced",
       "meaning": "parts of the globe also experienced",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "classes canceled because of severe flooding",
       "meaning": "classes canceled since of severe flooding",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     },
     {
       "term": "UNICEF reported that southern Europe experienced",
       "meaning": "UNICEF stated that southern Europe experienced",
-      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bản tin VOA này."
+      "note": "Cụm từ học thuật được dùng trong ngữ cảnh của bài nghe này."
     }
   ]
 ] as const;

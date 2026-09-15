@@ -5,7 +5,7 @@ export const generatedLevel1Lessons = [
     "day": "REAL VOICE 03",
     "category": "HUMAN BIOLOGY",
     "title": "What would happen if you didn't drink water?",
-    "kicker": "A real TED-Ed feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B1+/B2 · 4:52 · REAL HUMAN SPEECH",
     "answers": [
       "soil moisture",
@@ -73,8 +73,8 @@ export const generatedLevel1Lessons = [
         ]
       ],
       "sourceTitle": "What would happen if you didn't drink water?",
-      "sourceUrl": "https://www.youtube.com/watch?v=9iMGFqMmUFs",
-      "credit": "TED-Ed · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -82,7 +82,7 @@ export const generatedLevel1Lessons = [
     "day": "REAL VOICE 04",
     "category": "BRAIN & HEALTH",
     "title": "The benefits of a good night's sleep",
-    "kicker": "A real TED-Ed feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B1+/B2 · 5:45 · REAL HUMAN SPEECH",
     "answers": [
       "eight hours",
@@ -150,8 +150,8 @@ export const generatedLevel1Lessons = [
         ]
       ],
       "sourceTitle": "The benefits of a good night's sleep",
-      "sourceUrl": "https://www.youtube.com/watch?v=gedoSfZvBgE",
-      "credit": "TED-Ed · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -159,7 +159,7 @@ export const generatedLevel1Lessons = [
     "day": "REAL VOICE 05",
     "category": "NEUROSCIENCE",
     "title": "How stress affects your brain",
-    "kicker": "A real TED-Ed feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B1+/B2 · 4:16 · REAL HUMAN SPEECH",
     "answers": [
       "feeling irritable",
@@ -227,8 +227,8 @@ export const generatedLevel1Lessons = [
         ]
       ],
       "sourceTitle": "How stress affects your brain",
-      "sourceUrl": "https://www.youtube.com/watch?v=WuyPuH9ojCE",
-      "credit": "TED-Ed · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -236,7 +236,7 @@ export const generatedLevel1Lessons = [
     "day": "REAL VOICE 06",
     "category": "NUTRITION",
     "title": "How do vitamins work?",
-    "kicker": "A real TED-Ed feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B1+/B2 · 4:44 · REAL HUMAN SPEECH",
     "answers": [
       "C, E",
@@ -304,8 +304,8 @@ export const generatedLevel1Lessons = [
         ]
       ],
       "sourceTitle": "How do vitamins work?",
-      "sourceUrl": "https://www.youtube.com/watch?v=ISZLTJH5lYg",
-      "credit": "TED-Ed · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -313,7 +313,7 @@ export const generatedLevel1Lessons = [
     "day": "REAL VOICE 07",
     "category": "HUMAN BIOLOGY",
     "title": "How does your immune system work?",
-    "kicker": "A real TED-Ed feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B1+/B2 · 5:23 · REAL HUMAN SPEECH",
     "answers": [
       "mosquito lands",
@@ -381,8 +381,8 @@ export const generatedLevel1Lessons = [
         ]
       ],
       "sourceTitle": "How does your immune system work?",
-      "sourceUrl": "https://www.youtube.com/watch?v=PSRJfaAYkW4",
-      "credit": "TED-Ed · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -390,7 +390,7 @@ export const generatedLevel1Lessons = [
     "day": "REAL VOICE 08",
     "category": "ENVIRONMENT",
     "title": "Why is biodiversity so important?",
-    "kicker": "A real TED-Ed feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B1+/B2 · 4:19 · REAL HUMAN SPEECH",
     "answers": [
       "planet's diverse thriving ecosystems",
@@ -458,8 +458,8 @@ export const generatedLevel1Lessons = [
         ]
       ],
       "sourceTitle": "Why is biodiversity so important?",
-      "sourceUrl": "https://www.youtube.com/watch?v=GK_vRtHJZu4",
-      "credit": "TED-Ed · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -467,7 +467,7 @@ export const generatedLevel1Lessons = [
     "day": "REAL VOICE 09",
     "category": "COMMUNICATION",
     "title": "How miscommunication happens",
-    "kicker": "A real TED-Ed feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B1+/B2 · 4:33 · REAL HUMAN SPEECH",
     "answers": [
       "problem only to realize",
@@ -535,8 +535,8 @@ export const generatedLevel1Lessons = [
         ]
       ],
       "sourceTitle": "How miscommunication happens",
-      "sourceUrl": "https://www.youtube.com/watch?v=gCfzeONu3Mo",
-      "credit": "TED-Ed · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -544,7 +544,7 @@ export const generatedLevel1Lessons = [
     "day": "REAL VOICE 10",
     "category": "THINKING SKILLS",
     "title": "5 tips to improve your critical thinking",
-    "kicker": "A real TED-Ed feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B1+/B2 · 4:30 · REAL HUMAN SPEECH",
     "answers": [
       "decisions stretches",
@@ -612,8 +612,8 @@ export const generatedLevel1Lessons = [
         ]
       ],
       "sourceTitle": "5 tips to improve your critical thinking",
-      "sourceUrl": "https://www.youtube.com/watch?v=dItUGF8GdTw",
-      "credit": "TED-Ed · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   }
@@ -1710,7 +1710,7 @@ export const generatedLevel2Lessons = [
     "day": "REAL VOICE 02",
     "category": "MATHEMATICS & SYSTEMS",
     "title": "A simple guide to chaos theory",
-    "kicker": "A real BBC World Service feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B2+/C1 · 5:10 · REAL HUMAN SPEECH",
     "answers": [
       "minutes late, to be more precise",
@@ -1778,8 +1778,8 @@ export const generatedLevel2Lessons = [
         ]
       ],
       "sourceTitle": "A simple guide to chaos theory",
-      "sourceUrl": "https://www.youtube.com/watch?v=r_ahZOgPTsk",
-      "credit": "BBC World Service · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -1787,7 +1787,7 @@ export const generatedLevel2Lessons = [
     "day": "REAL VOICE 03",
     "category": "GENETICS",
     "title": "Epigenetics: Can we change our genes?",
-    "kicker": "A real BBC World Service feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B2+/C1 · 5:43 · REAL HUMAN SPEECH",
     "answers": [
       "contain all the information",
@@ -1855,8 +1855,8 @@ export const generatedLevel2Lessons = [
         ]
       ],
       "sourceTitle": "Epigenetics: Can we change our genes?",
-      "sourceUrl": "https://www.youtube.com/watch?v=n1Ew9jUCZLU",
-      "credit": "BBC World Service · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -1864,7 +1864,7 @@ export const generatedLevel2Lessons = [
     "day": "REAL VOICE 04",
     "category": "EVOLUTIONARY SCIENCE",
     "title": "What is Charles Darwin's theory of evolution?",
-    "kicker": "A real BBC World Service feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B2+/C1 · 5:23 · REAL HUMAN SPEECH",
     "answers": [
       "thought all the creatures",
@@ -1932,8 +1932,8 @@ export const generatedLevel2Lessons = [
         ]
       ],
       "sourceTitle": "What is Charles Darwin's theory of evolution?",
-      "sourceUrl": "https://www.youtube.com/watch?v=TPpfz5X82SY",
-      "credit": "BBC World Service · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -1941,7 +1941,7 @@ export const generatedLevel2Lessons = [
     "day": "REAL VOICE 05",
     "category": "REASONING & PROBABILITY",
     "title": "The power of Bayesian reasoning",
-    "kicker": "A real BBC Ideas feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B2+/C1 · 4:55 · REAL HUMAN SPEECH",
     "answers": [
       "decision after hearing a friend's",
@@ -2009,8 +2009,8 @@ export const generatedLevel2Lessons = [
         ]
       ],
       "sourceTitle": "The power of Bayesian reasoning",
-      "sourceUrl": "https://www.youtube.com/watch?v=1LzdESG6-2E",
-      "credit": "BBC Ideas · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -2018,7 +2018,7 @@ export const generatedLevel2Lessons = [
     "day": "REAL VOICE 06",
     "category": "SCIENTIFIC METHOD",
     "title": "Why getting things wrong is good for science",
-    "kicker": "A real BBC Ideas feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B2+/C1 · 4:53 · REAL HUMAN SPEECH",
     "answers": [
       "immutable fact learned by primary",
@@ -2086,8 +2086,8 @@ export const generatedLevel2Lessons = [
         ]
       ],
       "sourceTitle": "Why getting things wrong is good for science",
-      "sourceUrl": "https://www.youtube.com/watch?v=eff7OOjOR3w",
-      "credit": "BBC Ideas · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -2095,7 +2095,7 @@ export const generatedLevel2Lessons = [
     "day": "REAL VOICE 07",
     "category": "BRAIN & MOVEMENT",
     "title": "Why dancing could be the ultimate brain workout",
-    "kicker": "A real BBC World Service feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B2+/C1 · 7:33 · REAL HUMAN SPEECH",
     "answers": [
       "dancing is one",
@@ -2163,8 +2163,8 @@ export const generatedLevel2Lessons = [
         ]
       ],
       "sourceTitle": "Why dancing could be the ultimate brain workout",
-      "sourceUrl": "https://www.youtube.com/watch?v=3c1-txnKCMA",
-      "credit": "BBC World Service · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -2172,7 +2172,7 @@ export const generatedLevel2Lessons = [
     "day": "REAL VOICE 08",
     "category": "PERCEPTION",
     "title": "Why we all experience the world differently",
-    "kicker": "A real BBC Ideas feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B2+/C1 · 6:01 · REAL HUMAN SPEECH",
     "answers": [
       "experience isn't just",
@@ -2240,8 +2240,8 @@ export const generatedLevel2Lessons = [
         ]
       ],
       "sourceTitle": "Why we all experience the world differently",
-      "sourceUrl": "https://www.youtube.com/watch?v=B3z82UzoSjg",
-      "credit": "BBC Ideas · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -2249,7 +2249,7 @@ export const generatedLevel2Lessons = [
     "day": "REAL VOICE 09",
     "category": "DATA & SOCIETY",
     "title": "Five charts that changed the world",
-    "kicker": "A real BBC Ideas feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B2+/C1 · 6:02 · REAL HUMAN SPEECH",
     "answers": [
       "line and bar charts",
@@ -2317,8 +2317,8 @@ export const generatedLevel2Lessons = [
         ]
       ],
       "sourceTitle": "Five charts that changed the world",
-      "sourceUrl": "https://www.youtube.com/watch?v=CqkCUDesG5o",
-      "credit": "BBC Ideas · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   },
@@ -2326,7 +2326,7 @@ export const generatedLevel2Lessons = [
     "day": "REAL VOICE 10",
     "category": "GENETICS & BEHAVIOUR",
     "title": "Can your genes make you violent?",
-    "kicker": "A real BBC Ideas feature develops one clear question through evidence, examples and precise academic language.",
+    "kicker": "A real-human feature develops one clear question through evidence, examples and precise academic language.",
     "level": "B2+/C1 · 6:02 · REAL HUMAN SPEECH",
     "answers": [
       "researchers have tried to understand",
@@ -2394,8 +2394,8 @@ export const generatedLevel2Lessons = [
         ]
       ],
       "sourceTitle": "Can your genes make you violent?",
-      "sourceUrl": "https://www.youtube.com/watch?v=jwhoCiJzK9o",
-      "credit": "BBC Ideas · real human narration",
+      "sourceUrl": "",
+      "credit": "real human narration",
       "aspectRatio": "16 / 9"
     }
   }
