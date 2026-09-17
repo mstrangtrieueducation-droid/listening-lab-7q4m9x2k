@@ -1,0 +1,43 @@
+{
+ "code":"L1-04","status":"reviewed","reviewDate":"2026-09-17",
+ "audioEvidence":"public/media/level1/l1-04.mp3",
+ "evidenceNote":"Compared the full recording against the original article transcript. The Surveyor hyperlink, both duplicated image captions and the written editorial credit are absent from the spoken recording. Names retained from source; ASR name errors not copied.",
+ "transcript":"Many years have passed since the first spacecraft landed on the moon in 1966. From then until now, there have been many additional attempts with some succeeding and others failing. Here is a short history of some of these attempts. The Soviet Union’s Luna 9 spacecraft was the first to land on the moon. It touched down on the lunar surface in 1966. The landing came after several other Soviet spacecraft either did not reach the moon or crashed on the surface. The American space agency NASA says Luna 9 was the first spacecraft to carry out a soft landing on the moon. It was also the first to send \"photographic data\" from the moon’s surface to Earth. Luna 9’s landing proved \"the lunar surface could support the weight of a lander and that an object would not sink into a loose layer of dust as some models predicted,\" NASA said.\n\nIn May 1966, the United States followed with its Surveyor 1 mission. NASA describes this effort as \"the first of a series of seven robotic spacecraft sent to the moon to gather data in preparation for NASA's Apollo missions.\" The successful soft landing of Surveyor 1 \"was one of the great successes of NASA's early lunar and interplanetary program.\" Both the U.S. and Soviet Union had other successful robotic landings. Next, the countries aimed to be the first to land humans on the moon.\n\nIn 1969, NASA successfully landed Apollo 11 astronauts Neil Armstrong and Buzz Aldrin on the moon. The U.S. Apollo program sent 12 astronauts to explore the moon over six missions. Apollo 17 was the last in 1972. The U.S. is still the only country to land humans on the moon. NASA officials say the agency’s Artemis program aims to return astronauts to the lunar surface possibly by the end of 2026. In 2013, China became the third country to successfully land a spacecraft on the moon. China landed an exploring vehicle, or rover named Yutu that year. China followed with the Yutu-2 rover in 2019, this time touching down on the moon’s unexplored far side. In 2020, China successfully returned samples of rock and dirt collected by the rovers. The mission returned about 1.7 kilograms of lunar material collected from the near side of the moon.\n\nThen in 2024, another mission returned rock and soil samples from the less explored far side of the moon. China has said it aims to land its astronauts on the moon by 2030. In 2023, Russia tried its first moon landing in nearly 50 years. The Luna 25 spacecraft was attempting to land near the lunar south pole. But it is believed to have crash landed on the moon’s surface. The country’s last effort before that, Luna 24 in 1976, landed successfully and returned moon rocks to Earth.\n\nAfter its first lander crashed into the moon in 2019, India made its second attempt in 2023. The country successfully landed its Chandrayaan-3 spacecraft on the lunar surface. The mission made India the fourth nation to complete a moon landing. In January 2024, Japan became the fifth country to successfully land a spacecraft on the moon. But the SLIM spacecraft landed upside down. This caused some power and communication problems, but the lander was able to operate for a short time. I’m Bryan Lynn.",
+ "gaps":["many additional attempts","some succeeding and others failing","touched down on the lunar surface","carry out a soft landing","photographic data","support the weight of a lander","a loose layer of dust","a series of seven robotic spacecraft","gather data in preparation","early lunar and interplanetary program","be the first to land humans","12 astronauts","over six missions","by the end of 2026","an exploring vehicle","the moon’s unexplored far side","1.7 kilograms of lunar material","rock and soil samples","by 2030","in nearly 50 years","near the lunar south pole","returned moon rocks to Earth","its second attempt","landed upside down","power and communication problems"],
+ "acceptedVariants":{
+  "a series of seven robotic spacecraft":["a series of 7 robotic spacecraft"],
+  "early lunar and interplanetary program":["early lunar and interplanetary programme"],
+  "12 astronauts":["twelve astronauts"],
+  "over six missions":["over 6 missions"],
+  "by the end of 2026":["by the end of twenty twenty-six","by the end of two thousand and twenty-six"],
+  "1.7 kilograms of lunar material":["one point seven kilograms of lunar material","1.7 kilogrammes of lunar material","1.7 kg of lunar material"],
+  "by 2030":["by twenty thirty","by two thousand and thirty"],
+  "in nearly 50 years":["in nearly fifty years"]
+ },
+ "paraphrases":[
+  ["many additional attempts","numerous further efforts","Additional và further đều chỉ những lần thử tiếp theo.",9.8,19.3],
+  ["touched down on the lunar surface","landed on the surface of the moon","Touch down là hạ cánh; lunar nghĩa là thuộc Mặt Trăng.",33,37.3],
+  ["carry out a soft landing","make a controlled landing without crashing","Soft landing chỉ hạ cánh có kiểm soát thay vì đâm xuống bề mặt.",48.1,60.1],
+  ["support the weight of a lander","hold a landing craft without it sinking","Support the weight được giải thích theo ngữ cảnh sức chịu tải của bề mặt.",69.5,87],
+  ["gather data in preparation for","collect information to get ready for","Gather là thu thập; in preparation for diễn đạt mục đích chuẩn bị.",96.1,110.1],
+  ["aimed to be the first","sought to achieve something before anyone else","Aim to và seek to cùng diễn đạt mục tiêu, chưa khẳng định đã đạt được.",130.5,136.8],
+  ["possibly by the end of 2026","perhaps no later than the close of 2026","Giữ nguyên sự chưa chắc chắn của possibly và hạn thời gian by.",169.6,182],
+  ["the moon’s unexplored far side","the previously unexamined side facing away from Earth","Far side là phía quay xa Trái Đất; unexplored chỉ chưa được khảo sát trong ngữ cảnh câu.",199.1,209.5],
+  ["landed upside down","came to rest with its top facing downwards","Upside down nghĩa là lộn ngược, không chỉ nghiêng sang bên.",314.6,319],
+  ["was able to operate for a short time","managed to function briefly","Operate và function đều chỉ hoạt động của thiết bị.",319.7,328.9]
+ ],
+ "vocabulary":[
+  ["spacecraft","tàu vũ trụ","A vehicle designed to travel in space."],
+  ["touch down","hạ cánh; tiếp đất","To reach the ground after flying."],
+  ["lunar","thuộc Mặt Trăng","Relating to the moon."],
+  ["lander","thiết bị đổ bộ","A spacecraft designed to land on a surface."],
+  ["robotic","thuộc robot; tự động","Controlled by machines rather than people on board."],
+  ["in preparation for","để chuẩn bị cho","As part of getting ready for an event or task."],
+  ["interplanetary","liên hành tinh","Between planets."],
+  ["rover","xe tự hành thăm dò","A vehicle that moves across a planet or moon to explore it."],
+  ["sample","mẫu vật","A small amount collected for examination."],
+  ["upside down","lộn ngược","With the top part at the bottom."]
+ ],
+ "signals":["From then until now…","It was also the first…","Next, the countries…","But it is believed…"],
+ "issuesFixed":["Removed Surveyor Markdown URL while preserving the spoken word","Removed both image blocks and duplicated photo captions","Removed unspoken editorial credits and restored the presenter sign-off","Rebuilt all 25 gaps from actual spoken material","Rewrote all paraphrases with audio replay timestamps","Added meaningful Vietnamese vocabulary definitions"]
+}

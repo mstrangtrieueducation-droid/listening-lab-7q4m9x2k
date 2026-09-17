@@ -1,0 +1,47 @@
+{
+  "code": "L1-01",
+  "status": "reviewed",
+  "reviewDate": "2026-09-17",
+  "sourceUrl": "https://learningenglish.voanews.com/a/methods-for-protecting-earth-against-an-asteroid-strike/7989189.html",
+  "audioEvidence": "public/media/level1/l1-01.mp3",
+  "evidenceNote": "Full audio independently transcribed with timestamps; compared against the existing source transcript. ASR is supporting evidence, not an authoritative answer key. Proper names retained from source; no proper-name spelling gaps.",
+  "textReplacements": [["Agency's (ESA)", "Agency's, or ESA,"], ["Test (DART)", "Test, or DART,"], ["only partly destroys", "only partially destroys"]],
+  "appendText": "I’m Jill Robbins.",
+  "gaps": [
+    "destroy a whole city", "much better-equipped", "3.1 percent", "December 22, 2032", "planetary defense office", "panic over such predictions", "keep rising over time", "drop down to zero", "in the unlikely event", "defensive measures", "planetary defense method", "successfully changed the asteroid’s orbit", "observing how each one changed the path", "40-90 meters wide", "take care not to overdo it", "only partially destroys an asteroid", "alongside a threatening asteroid", "gravitational force", "a continuous flow of atoms", "slowly change course", "a nuclear blast", "shooting laser beams", "if all else fails", "Seven-and-a-half years", "a 97 percent chance"
+  ],
+  "acceptedVariants": {
+    "much better-equipped": ["much better equipped"],
+    "3.1 percent": ["3.1 per cent", "3.1%", "three point one percent", "three point one per cent"],
+    "December 22, 2032": ["December 22nd 2032", "December twenty-second twenty thirty-two", "December twenty second twenty thirty two"],
+    "40-90 meters wide": ["40 to 90 meters wide", "forty to ninety meters wide", "40-90 metres wide", "40 to 90 metres wide", "forty to ninety metres wide"],
+    "Seven-and-a-half years": ["seven and a half years", "7.5 years", "7 and a half years"],
+    "a 97 percent chance": ["a 97 per cent chance", "a 97% chance", "a ninety-seven percent chance", "a ninety seven per cent chance"]
+  },
+  "paraphrases": [
+    ["defend itself against such a threat", "protect itself from this kind of danger", "Defend against và protect from diễn đạt cùng ý bảo vệ trước nguy cơ.",25,32],
+    ["panic over such predictions", "become extremely frightened by these forecasts", "Panic là hoảng sợ; predictions là những dự báo.",66,77.7],
+    ["the odds will likely drop down to zero", "the probability will probably fall to nothing", "Giữ nguyên mức độ chưa chắc chắn của likely và ý xác suất về 0.",87.6,95.5],
+    ["in the unlikely event", "if something improbable happens", "Diễn giải cụm điều kiện nói về tình huống ít có khả năng xảy ra.",95.5,108.4],
+    ["to keep humanity safe", "to protect the human population", "Humanity chỉ toàn thể con người; giữ nguyên mục đích bảo vệ.",108.4,118.4],
+    ["take care not to overdo it", "be careful not to go too far", "Overdo it là làm quá mức cần thiết.",170.5,175.3],
+    ["its gravitational force", "the pull created by its gravity", "Diễn giải lực hút hấp dẫn, không đổi thành va chạm trực tiếp.",194,202.7],
+    ["push the asteroid off course", "force the space rock away from its path", "Off course nghĩa là lệch khỏi đường đi ban đầu.",202.8,215.8],
+    ["if all else fails", "if none of the other methods works", "Giữ đúng điều kiện: các phương án còn lại đều thất bại.",274,282.7],
+    ["get people out of an area before a strike", "evacuate residents before an impact", "Evacuate diễn đạt việc đưa người ra khỏi vùng nguy hiểm trước va chạm.",282.7,294.8]
+  ],
+  "vocabulary": [
+    ["asteroid", "tiểu hành tinh", "A small rocky object orbiting the sun."],
+    ["probability", "xác suất; khả năng xảy ra", "How likely an event is to happen."],
+    ["planetary defense", "phòng vệ hành tinh", "Measures to protect a planet from threats such as asteroid impacts."],
+    ["defensive measures", "các biện pháp phòng vệ", "Actions taken to protect against danger."],
+    ["orbit", "quỹ đạo", "The path one object follows around another in space."],
+    ["nonprofit", "phi lợi nhuận", "Not established to make money for owners."],
+    ["gravitational force", "lực hấp dẫn", "The force of attraction caused by gravity."],
+    ["eject", "phóng; đẩy ra", "To force something out."],
+    ["reflect", "phản xạ", "To send light back from a surface."],
+    ["off course", "lệch hướng; lệch quỹ đạo", "Away from the intended path."]
+  ],
+  "signals": ["However, scientists say…", "A separate idea would involve…", "A similar method…", "if all else fails…"],
+  "issuesFixed": ["25 arbitrarily cut spans replaced with complete meaningful phrases and intact numerical expressions", "10 ungrammatical synonym-substitution paraphrases rewritten individually", "Vietnamese vocabulary meanings restored", "Phrase replay timestamps aligned to actual audio", "Transcript differences identified by audio comparison corrected"]
+}

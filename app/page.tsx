@@ -1,6 +1,8 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import { isCorrectAnswer } from "./answer-matching";
+import { reviewedContent } from "./reviewed-content.generated";
 import brandLogo from "../../work/vocabulary-reading-web-publish/ms-trang-trieu-education-logo.png";
 import { voaLevel1Academic, voaLevel1Lessons, voaLevel1Vocabulary } from "./voa-level1.generated";
 import { bbcLevel2ExtraAcademic, bbcLevel2ExtraLessons, bbcLevel2ExtraVocabulary } from "./bbc-level2-extra.generated";
@@ -22,6 +24,8 @@ type Lesson = {
   day: string; category: string; title: string; kicker: string; level: string;
   paragraphs: string[]; answers: string[]; essay: { question: string; plan: string[]; language: string[] };
   media?: LessonMedia;
+  acceptedVariants?: string[][];
+  contentRevision?: string;
 };
 
 type AcademicNote = {
@@ -447,8 +451,9 @@ const sanitizeLesson = (source: Lesson): Lesson => ({
   title: hideSourceNames(source.title),
   kicker: "A focused topic presented through real human speech, evidence and clear examples.",
   level: hideSourceNames(source.level).replace(/NATURAL-SPEED\s+THE PROGRAMME/gi, "NATURAL SPEECH"),
-  answers: source.answers.map(hideSourceNames),
-  paragraphs: source.paragraphs.map(hideSourceNames),
+  // Spoken words must stay faithful to the audio; only metadata is anonymised.
+  answers: source.answers,
+  paragraphs: source.paragraphs,
   media: source.media ? {
     ...source.media,
     sourceTitle: hideSourceNames(source.title),
@@ -540,6 +545,15 @@ const lessonVocabulary: VocabularyNote[][] = [
   ...[realSourceVocabulary[1], ...generatedLevel2Vocabulary].map(sanitizeVocabulary),
   ...(bbcLevel2ExtraVocabulary as unknown as VocabularyNote[][]).map(sanitizeVocabulary),
 ];
+
+// Apply only records that have completed an individual content review.
+for (const [key, content] of Object.entries(reviewedContent)) {
+  const index = Number(key);
+  const { paraphrases, vocabulary, signals, ...lessonContent } = content;
+  lessons[index] = { ...lessons[index], ...lessonContent };
+  academicBridge[index] = { ...academicBridge[index], paraphrases: paraphrases as AcademicNote["paraphrases"], signals };
+  lessonVocabulary[index] = vocabulary;
+}
 
 const paraphraseOrder = [6, 1, 8, 0, 7, 3, 9, 4, 2, 5];
 const fighterClasses = ["FIGHTER 5", "FIGHTER 6", "FIGHTER 7", "FIGHTER 8", "FIGHTER 9"];
@@ -691,7 +705,7 @@ export default function Home() {
   const [volume, setVolume] = useState(.9);
   const lesson = lessons[lessonIndex];
   const currentValues = values[lessonIndex];
-  const liveScore = useMemo(() => currentValues.filter((v, i) => norm(v) === norm(lesson.answers[i])).length, [currentValues, lesson]);
+  const liveScore = useMemo(() => currentValues.filter((v, i) => isCorrectAnswer(v, lesson.answers[i], lesson.acceptedVariants?.[i])).length, [currentValues, lesson]);
   const liveParaScore = paraChoices.filter((choice, i) => choice === paraphraseOrder.indexOf(i)).length;
   const score = submittedScores?.listening ?? liveScore;
   const paraScore = submittedScores?.paraphrase ?? liveParaScore;
@@ -717,7 +731,7 @@ export default function Home() {
   useEffect(() => {
     if (videoRef.current) videoRef.current.playbackRate = rate;
   }, [rate]);
-  const submissionKey = () => `fighter-listening:${accessConfig?.level}:${accessConfig?.week}:${studentClass}:${norm(studentName)}`;
+  const submissionKey = () => `fighter-listening:${accessConfig?.level}:${accessConfig?.week}:${studentClass}:${norm(studentName)}${lesson.contentRevision ? `:content-${lesson.contentRevision}` : ""}`;
   const buildSubmissionParams = (listeningScore: number, paraphraseScore: number) => {
     const params = new URLSearchParams({
       "entry.137349731": studentName.trim(),
@@ -859,12 +873,12 @@ export default function Home() {
       void video.play().then(() => { setSpeaking(true); setPaused(false); });
       return;
     }
-    const utterance = new SpeechSynthesisUtterance(text); utterance.lang = "en-GB"; utterance.rate = .82; window.speechSynthesis.speak(utterance);
+    // Never substitute an artificial voice for a missing original-audio clip.
   };
   const renderText = (text: string) => text.split(/(\[\d+\])/g).map((part, index) => {
     const match = part.match(/\[(\d+)\]/); if (!match) return <span key={index}>{part}</span>;
-    const answerIndex = Number(match[1]) - 1; const correct = norm(currentValues[answerIndex]) === norm(lesson.answers[answerIndex]);
-    return <span className="blank-wrap" key={index}><span className="blank-number">{match[1]}</span><input disabled={submitted} aria-label={`Answer ${match[1]}`} className={submitted ? (correct ? "correct" : "wrong") : ""} value={currentValues[answerIndex]} onChange={e => { const all = values.map(row => [...row]); all[lessonIndex][answerIndex] = e.target.value; setValues(all); }} />{submitted && !correct && <small>{lesson.answers[answerIndex]}</small>}</span>;
+    const answerIndex = Number(match[1]) - 1; const correct = isCorrectAnswer(currentValues[answerIndex], lesson.answers[answerIndex], lesson.acceptedVariants?.[answerIndex]);
+    return <span className="blank-wrap" key={index} style={{width: `${Math.min(48, Math.max(20, (currentValues[answerIndex] || lesson.answers[answerIndex]).length + 3))}ch`}}><span className="blank-number">{match[1]}</span><input disabled={submitted} aria-label={`Answer ${match[1]}`} className={submitted ? (correct ? "correct" : "wrong") : ""} value={currentValues[answerIndex]} onChange={e => { const all = values.map(row => [...row]); all[lessonIndex][answerIndex] = e.target.value; setValues(all); }} />{submitted && !correct && <small>{lesson.answers[answerIndex]}</small>}</span>;
   });
 
   return <main>
@@ -913,7 +927,7 @@ export default function Home() {
     {submitted && lesson.media && <section className="transcript-review"><div><span>FULL TRANSCRIPT · AFTER SUBMISSION</span><h2>Read, replay and notice.</h2><p>Transcript đầy đủ chỉ mở sau khi học sinh đã nộp bài.</p></div>{lesson.paragraphs.map((_, index) => <p key={index}><b>{String(index + 1).padStart(2, "0")}</b>{fillScript(lesson, index)}</p>)}</section>}
     {submitted && <section className="vocabulary-review"><div className="vocabulary-heading"><span>VOCABULARY REVIEW · LEVEL {accessConfig?.level} · VIDEO {accessConfig?.week}</span><h2>Understand the answer, not only the spelling.</h2><p>Các từ và cụm từ đáng học trong bài nghe này.</p></div><div className="vocabulary-grid">{lessonVocabulary[lessonIndex].map(item => <article key={item.term}><h3>{item.term}</h3><b>{item.meaning}</b><p>{item.note}</p></article>)}</div></section>}
 
-    <section className="academic"><div className="academic-number">02</div><div className="academic-main"><span>PARAPHRASE PRACTICE · {academicBridge[lessonIndex].code}</span><h2>Same idea, different words.</h2><div className="academic-banner"><b>{academicBridge[lessonIndex].style}</b><p>{academicBridge[lessonIndex].focus}</p></div><div className="practice-steps"><span><b>1</b> HEAR & LOCATE</span><span><b>2</b> MATCH A–J</span><span><b>3</b> ONE SCORE / ATTEMPT</span></div><div className="match-bank"><h3>MEANING BANK · A–J</h3><div>{paraphraseOrder.map((sourceIndex, bankIndex) => <p key={sourceIndex}><b>{String.fromCharCode(65 + bankIndex)}</b>{academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</p>)}</div></div><div className="matching-grid">{academicBridge[lessonIndex].paraphrases.map((pair, question) => { const correctChoice = paraphraseOrder.indexOf(question); const isCorrect = paraChoices[question] === correctChoice; return <article className={submitted ? isCorrect ? "match-correct" : "match-wrong" : ""} key={pair[0]}><span className="match-number">{String(question + 1).padStart(2, "0")}</span><div className="match-source"><small>PHRASE FROM THE LISTENING</small><h3>{pair[0]}</h3>{submitted && <div className="technique"><b>HOW IT CHANGED</b>{pair[2]}</div>}</div><button className="hear-small" onClick={() => speakPhrase(pair[0], pair[3], pair[4])}>▶ HEAR</button><label><span>MATCH</span><select disabled={submitted} aria-label={`Match phrase ${question + 1}`} value={paraChoices[question]} onChange={e => { const next = [...paraChoices]; next[question] = Number(e.target.value); setParaChoices(next); }}><option value={-1}>— Chọn đáp án —</option>{paraphraseOrder.map((sourceIndex, bankIndex) => <option value={bankIndex} key={bankIndex}>{String.fromCharCode(65 + bankIndex)} · {academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</option>)}</select></label></article>})}</div><div className="para-check"><button disabled={submitted || !listeningComplete || !paraphraseComplete || recordStatus === "saving"} onClick={submitAttempt}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP · ĐIỂM ĐÃ KHÓA" : recordStatus === "saving" ? "ĐANG GHI ĐIỂM…" : "NỘP BÀI & XEM ĐÁP ÁN →"}</button>{submitted && <strong>{paraScore}/10 CORRECT</strong>}<span className="record-note">{recordStatus === "saved" ? "✓ Điểm lượt này đã được ghi tự động." : recordStatus === "error" ? "Bài đã được giữ lại và hệ thống đang tự gửi lại điểm." : submitted ? "Đang ghi điểm tự động…" : !listeningComplete || !paraphraseComplete ? `Hoàn thành đủ ${lesson.answers.length} câu nghe và 10 câu paraphrase để nộp.` : "Mỗi lượt làm chỉ được nộp một lần."}</span></div>{submitted && <div className="combined-score" aria-live="polite"><div><span>LISTENING · LƯỢT NÀY</span><b>{score}<small>/{lesson.answers.length}</small></b></div><div><span>PARAPHRASE · LƯỢT NÀY</span><b>{paraScore}<small>/10</small></b></div><div className="total"><span>TOTAL · LƯỢT NÀY</span><b>{score + paraScore}<small>/{lesson.answers.length + 10}</small></b></div><p>Muốn làm lượt mới, hãy thoát hẳn trang rồi mở lại đường link bài tập.</p></div>}<div className="signal-strip"><h3>Structure signals from this talk</h3>{academicBridge[lessonIndex].signals.map((x, i) => <span key={x}><b>0{i + 1}</b>{x}</span>)}</div></div></section>
+    <section className="academic"><div className="academic-number">02</div><div className="academic-main"><span>PARAPHRASE PRACTICE · {academicBridge[lessonIndex].code}</span><h2>Same idea, different words.</h2><div className="academic-banner"><b>{academicBridge[lessonIndex].style}</b><p>{academicBridge[lessonIndex].focus}</p></div><div className="practice-steps"><span><b>1</b> HEAR & LOCATE</span><span><b>2</b> MATCH A–J</span><span><b>3</b> ONE SCORE / ATTEMPT</span></div><div className="match-bank"><h3>MEANING BANK · A–J</h3><div>{paraphraseOrder.map((sourceIndex, bankIndex) => <p key={sourceIndex}><b>{String.fromCharCode(65 + bankIndex)}</b>{academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</p>)}</div></div><div className="matching-grid">{academicBridge[lessonIndex].paraphrases.map((pair, question) => { const correctChoice = paraphraseOrder.indexOf(question); const isCorrect = paraChoices[question] === correctChoice; return <article className={submitted ? isCorrect ? "match-correct" : "match-wrong" : ""} key={pair[0]}><span className="match-number">{String(question + 1).padStart(2, "0")}</span><div className="match-source"><small>PHRASE FROM THE LISTENING</small><h3>{pair[0]}</h3>{submitted && <div className="technique"><b>HOW IT CHANGED</b>{pair[2]}</div>}</div>{pair[3] !== undefined && <button className="hear-small" onClick={() => speakPhrase(pair[0], pair[3], pair[4])}>▶ HEAR</button>}<label><span>MATCH</span><select disabled={submitted} aria-label={`Match phrase ${question + 1}`} value={paraChoices[question]} onChange={e => { const next = [...paraChoices]; next[question] = Number(e.target.value); setParaChoices(next); }}><option value={-1}>— Chọn đáp án —</option>{paraphraseOrder.map((sourceIndex, bankIndex) => <option value={bankIndex} key={bankIndex}>{String.fromCharCode(65 + bankIndex)} · {academicBridge[lessonIndex].paraphrases[sourceIndex][1]}</option>)}</select></label></article>})}</div><div className="para-check"><button disabled={submitted || !listeningComplete || !paraphraseComplete || recordStatus === "saving"} onClick={submitAttempt}>{submitted ? "✓ LƯỢT NÀY ĐÃ NỘP · ĐIỂM ĐÃ KHÓA" : recordStatus === "saving" ? "ĐANG GHI ĐIỂM…" : "NỘP BÀI & XEM ĐÁP ÁN →"}</button>{submitted && <strong>{paraScore}/10 CORRECT</strong>}<span className="record-note">{recordStatus === "saved" ? "✓ Điểm lượt này đã được ghi tự động." : recordStatus === "error" ? "Bài đã được giữ lại và hệ thống đang tự gửi lại điểm." : submitted ? "Đang ghi điểm tự động…" : !listeningComplete || !paraphraseComplete ? `Hoàn thành đủ ${lesson.answers.length} câu nghe và 10 câu paraphrase để nộp.` : "Mỗi lượt làm chỉ được nộp một lần."}</span></div>{submitted && <div className="combined-score" aria-live="polite"><div><span>LISTENING · LƯỢT NÀY</span><b>{score}<small>/{lesson.answers.length}</small></b></div><div><span>PARAPHRASE · LƯỢT NÀY</span><b>{paraScore}<small>/10</small></b></div><div className="total"><span>TOTAL · LƯỢT NÀY</span><b>{score + paraScore}<small>/{lesson.answers.length + 10}</small></b></div><p>Muốn làm lượt mới, hãy thoát hẳn trang rồi mở lại đường link bài tập.</p></div>}<div className="signal-strip"><h3>Structure signals from this talk</h3>{academicBridge[lessonIndex].signals.map((x, i) => <span key={x}><b>0{i + 1}</b>{x}</span>)}</div></div></section>
 
     </>}
     <footer><b>FIGHTER LISTENING</b><span>ONE DAY · ONE TOPIC · LISTEN & PARAPHRASE</span><span>For Grade 8–9 English specialists</span></footer>

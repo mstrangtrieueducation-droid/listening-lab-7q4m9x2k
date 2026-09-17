@@ -1,0 +1,39 @@
+{
+ "code":"L1-08","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-08.mp3",
+ "evidenceNote":"Complete recording independently transcribed and compared. Removed the unrelated campaign-photo caption. This remains a historical news report, not current medical advice. Duplicate lesson L1-26 remains a separate unresolved inventory issue.",
+ "removeSpans":[{"start":"![Image 1:","end":"The second patient reportedly"}],
+ "textReplacements":[["We've got...three","We've got three"],["sclerosis (ALS)","sclerosis, or ALS,"],["Christopher & Dana","Christopher and Dana"],["Administration (FDA)","Administration, or FDA,"]],
+ "appendText":"I’m Jill Robbins.",
+ "gaps":["a special electronic device","The unidentified person","the human nervous system","its first brain implant","20 to 30 more people","a spinal cord injury","with the help of the device","design software","similar projects","brain-computer interfaces","communicate better","28 trials worldwide","the past 25 years","research laboratories","control computer cursors","flexible electrical connectors","record brain signals","more parts of the brain","possible benefits","the winning approach","established rules","human subjects","received permission","approving the sale of medical devices","investigational device exemption"],
+ "acceptedVariants":{
+  "20 to 30 more people":["twenty to thirty more people","20-30 more people"],
+  "28 trials worldwide":["twenty-eight trials worldwide"],
+  "the past 25 years":["the past twenty-five years"]
+ },
+ "paraphrases":[
+  ["The unidentified person","The individual whose identity was not disclosed","Unidentified nói rằng bài báo không nêu danh tính người đó.",12.4,23.3],
+  ["has improved its devices","has made its equipment better","Giữ nguyên ý cải tiến thiết bị, không tự thêm kết luận về hiệu quả điều trị.",48.4,52.5],
+  ["hopes to implant the experimental devices","aims to insert devices that are still being tested","Hopes to diễn đạt kế hoạch; experimental chưa phải đã được xác nhận an toàn hoặc hiệu quả.",53.9,62.4],
+  ["with the help of the device","with assistance from the equipment","Diễn đạt cùng quan hệ được thiết bị hỗ trợ.",72,79.2],
+  ["are working on similar projects","are developing comparable research initiatives","Similar là tương tự, không có nghĩa hoàn toàn giống nhau.",90.3,95.3],
+  ["published results from 28 trials worldwide","released findings from twenty-eight tests around the world","Giữ nguyên số lượng 28 và phạm vi toàn cầu.",123.4,134.3],
+  ["might be different from the others in two ways","may differ from the other systems in two respects","Giữ tính dự đoán của might và số điểm khác biệt.",154,157.7],
+  ["possible benefits to people with paralysis","potential advantages for people unable to move affected body parts","Possible không đồng nghĩa chắc chắn có lợi; paralysis là liệt.",206.5,212.8],
+  ["follows established rules","complies with procedures already set out","Established rules là quy trình đã được đặt ra.",222.8,231.4],
+  ["are seeking approval","are trying to obtain official permission","Seeking approval chưa có nghĩa đã được phê duyệt.",265.8,277.2]
+ ],
+ "vocabulary":[
+  ["implant","thiết bị cấy ghép; cấy ghép","A device placed inside the body, or the act of placing it there."],
+  ["nervous system","hệ thần kinh","The brain, spinal cord and nerves that carry signals through the body."],
+  ["spinal cord","tủy sống","The bundle of nerve tissue running through the spine."],
+  ["paralysis","tình trạng liệt","Loss of the ability to move part or all of the body."],
+  ["interface","giao diện; bộ phận kết nối","A connection through which two systems communicate."],
+  ["cursor","con trỏ","The movable marker showing a position on a computer screen."],
+  ["flexible","linh hoạt; có thể uốn cong","Able to bend without breaking."],
+  ["clinical trial","thử nghiệm lâm sàng","A planned research study involving human participants."],
+  ["approval","sự phê duyệt","Official permission for an action or product."],
+  ["exemption","sự miễn trừ","Permission not to follow a requirement that would otherwise apply."]
+ ],
+ "signals":["First, the surgery…","Second, those connectors…","Through clinical tests…","However, high-risk devices…"],
+ "issuesFixed":["Removed image and duplicate campaign-photo caption unrelated to the recording","Restored spoken acronym expansions and presenter sign-off","Replaced 25 arbitrary fragments with meaningful complete phrases and quantities","Rewrote paraphrases preserving uncertainty in the report","Aligned replay ranges and added Vietnamese vocabulary meanings"]
+}

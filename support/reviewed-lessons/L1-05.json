@@ -1,0 +1,35 @@
+{
+ "code":"L1-05","status":"reviewed","reviewDate":"2026-09-17",
+ "audioEvidence":"public/media/level1/l1-05.mp3",
+ "evidenceNote":"Full recording independently transcribed and compared with source wording. Proper names retained from article, not erroneous ASR spelling.",
+ "textReplacements":[["The Associated Press (AP)","The Associated Press, or AP,"],["dominantspecies","dominant species"]],
+ "appendText":"I’m Jill Robbins.",
+ "gaps":["the beginnings of human speech","linked to genetics","develop spoken communication","important for humans’ survival","pass down knowledge","an advantage","published their findings","the specific genes","speech and language development","not involved in the study","dominant species","gene editing methods","the real-life effects of the genetic variant","called out to each other","made a different sound","a reason to speak","the gene’s influence in speech","In 2001","a language and speech disorder","our species alone","on the other hand","not the only thing","physical elements in the human throat","speech-related problems","early in life"],
+ "acceptedVariants":{"In 2001":["in two thousand and one","in two thousand one","in twenty oh one"]},
+ "paraphrases":[
+  ["are linked to genetics","are connected with inherited biological characteristics","Giữ nguyên quan hệ liên quan, không khẳng định một gen giải thích toàn bộ ngôn ngữ.",1.5,6.9],
+  ["pass down knowledge","transmit what is known to later generations","Pass down chỉ truyền lại qua thế hệ.",27.1,35.6],
+  ["may affect speech and language development","could influence how speaking and language skills develop","May và could đều giữ ý chưa chắc chắn.",62.2,74.5],
+  ["was not involved in the study","did not take part in this research","Giữ nguyên phủ định và quan hệ tham gia nghiên cứu.",75.6,78.3],
+  ["test the real-life effects","examine the consequences in living subjects","Ngữ cảnh là thử ảnh hưởng ở chuột sống, không chỉ trên lý thuyết.",120.4,124.8],
+  ["called out to each other","made sounds to communicate with one another","Diễn giải hành vi phát tiếng của chuột, không coi đó là lời nói của người.",126,132.7],
+  ["demonstrating the gene’s influence in speech","showing that the gene affects vocal communication","Demonstrating diễn đạt việc cho thấy ảnh hưởng của gen.",157.1,164.8],
+  ["was not found in our species alone","was present in species other than humans too","Not alone có nghĩa không chỉ riêng con người.",179.8,198.9],
+  ["on the other hand","by contrast","Cụm nối báo hiệu sự đối chiếu hai biến thể gen.",200.2,208.6],
+  ["can lead to new ways to treat speech-related problems","may result in new treatments for speaking difficulties","Giữ nguyên ý khả năng đóng góp cho phương pháp điều trị mới.",229.5,235.2]
+ ],
+ "vocabulary":[
+  ["genetics","di truyền học","The study of genes and inherited characteristics."],
+  ["protein","protein; chất đạm","A complex molecule with important functions in living cells."],
+  ["survival","sự sống sót; sinh tồn","The state of continuing to live."],
+  ["pass down","truyền lại","To give knowledge or traditions to a later generation."],
+  ["dominant","chiếm ưu thế; có ảnh hưởng lớn nhất","Having the greatest influence or control."],
+  ["variant","biến thể","A form that differs from other forms of the same thing."],
+  ["gene editing","chỉnh sửa gen","Making targeted changes to genetic material."],
+  ["mate","giao phối","To breed in order to produce young."],
+  ["disorder","rối loạn","A condition that disrupts normal physical or mental functioning."],
+  ["identify","xác định; nhận diện","To recognise or establish who or what something is."]
+ ],
+ "signals":["For example…","The aim was…","But even though…","on the other hand…"],
+ "issuesFixed":["Corrected merged dominant species","Restored spoken or AP and presenter sign-off","Replaced all 25 arbitrary fragments with meaningful phrases","Rewrote paraphrases without exaggerated biological claims","Verified replay ranges and supplied Vietnamese vocabulary meanings"]
+}

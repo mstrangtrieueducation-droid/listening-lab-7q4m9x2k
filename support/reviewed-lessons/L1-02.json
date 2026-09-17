@@ -1,0 +1,41 @@
+{
+ "code":"L1-02","status":"reviewed","reviewDate":"2026-09-17",
+ "audioEvidence":"public/media/level1/l1-02.mp3",
+ "evidenceNote":"Complete audio independently transcribed with timestamps and compared to the source transcript. Names are not tested as spelling gaps. Preserve the historical report's dates rather than rewriting them as current news.",
+ "textReplacements":[["Eastern Daylight Time (EDT)","Eastern Daylight Time, or EDT"],["Earths’ shadow","Earth’s shadow"],["2:26 a.m.\n\nEastern","2:26 a.m. Eastern"]],
+ "appendText":"I’m Caty Weaver.",
+ "gaps":["a reddish color","Thursday night into Friday morning","get brief views","line up just right","positioned between the sun and moon","create a shadow","blocks light from the sun","a partial or full shadow","the element copper","passing through the Earth’s atmosphere","between four and seven times a year","in 2022","for about one hour","2:26 a.m.","As long as the sky is clear","No special equipment","close to setting","an astronomy expert","different civilizations","for thousands of years","ancient people","a much brighter vision","was always curved","supported proof that the Earth is round","in March 2026"],
+ "acceptedVariants":{
+  "between four and seven times a year":["between 4 and 7 times a year"],
+  "in 2022":["in twenty twenty-two","in two thousand and twenty-two"],
+  "for about one hour":["for about 1 hour"],
+  "2:26 a.m.":["2.26 am","two twenty-six am","two twenty six a.m."],
+  "in March 2026":["in March twenty twenty-six","in March two thousand and twenty-six"]
+ },
+ "paraphrases":[
+  ["get brief views","see it for a short time","Brief nói về thời gian quan sát ngắn, không phải hình ảnh mờ.",25.8,33.2],
+  ["line up just right","be in exactly the right alignment","Các thiên thể nằm đúng vị trí thẳng hàng cần thiết.",34.4,47.4],
+  ["blocks light from the sun","prevents sunlight from passing through","Block được diễn giải bằng prevent; giữ đúng đối tượng là ánh sáng.",67.2,79.7],
+  ["passing through the Earth’s atmosphere","travelling through the layer of gases around Earth","Atmosphere là lớp khí bao quanh Trái Đất.",94.8,101.8],
+  ["will be visible","will be possible to see","Visible nói về khả năng nhìn thấy.",122,135.3],
+  ["As long as the sky is clear","Provided that there are no clouds in the sky","As long as ở đây diễn đạt điều kiện, không phải độ dài thời gian.",145.5,154.7],
+  ["No special equipment will be needed","You will not need any specialised devices","Đổi câu bị động sang chủ động và giữ nguyên ý phủ định.",163.7,169.1],
+  ["the moon will be close to setting","the moon will soon disappear below the horizon","Setting nói về thiên thể lặn xuống dưới đường chân trời.",171,180.8],
+  ["for thousands of years","over a period of several millennia","Một millennium bằng một nghìn năm.",204.4,213.2],
+  ["supported proof that the Earth is round","provided evidence of Earth's round shape","Bằng chứng hình dạng bóng Trái Đất hỗ trợ nhận định Trái Đất tròn.",234.1,252.1]
+ ],
+ "vocabulary":[
+  ["lunar eclipse","nguyệt thực","An event in which Earth's shadow falls on the moon."],
+  ["hemisphere","bán cầu","One half of the Earth."],
+  ["line up","nằm thẳng hàng","To form a straight line."],
+  ["solar eclipse","nhật thực","An event in which the moon blocks the sun from view."],
+  ["partial","một phần; không hoàn toàn","Covering only part of something."],
+  ["copper","đồng","A reddish-brown metal."],
+  ["atmosphere","khí quyển","The gases surrounding a planet."],
+  ["visible","có thể nhìn thấy","Able to be seen."],
+  ["civilization","nền văn minh","An organised human society with its own culture."],
+  ["curved","cong","Bent rather than straight."]
+ ],
+ "signals":["Another kind of eclipse…","As long as…","This fact supported…"],
+ "issuesFixed":["Replaced 25 arbitrary fragments with coherent phrases and whole numbers","Rejoined 2:26 a.m. with its time-zone sentence","Corrected Earths’ to Earth’s","Restored spoken or EDT and presenter sign-off","Rewrote paraphrases individually and aligned replay ranges","Added Vietnamese vocabulary definitions"]
+}

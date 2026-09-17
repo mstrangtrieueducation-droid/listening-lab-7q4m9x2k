@@ -1,0 +1,48 @@
+{
+ "code":"L1-06","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-06.mp3",
+ "evidenceNote":"Compared complete independent timestamped transcription with the source. Three photo captions and the editorial credit are not spoken. Do not replace names with ASR misspellings.",
+ "removeSpans":[
+  {"start":"Private lunar lander Blue Ghost after touching down","end":"Only five countries"},
+  {"start":"![Image 2:","end":"Another lander, called Athena"},
+  {"start":"![Image 3:","end":"In the past, NASA’s successful moon landings"},
+  {"start":"The Associated Press, Agence France-Presse and NASA reported","end":null}
+ ],
+ "appendText":"I’m Bryan Lynn.",
+ "gaps":["carrying several science experiments","the side facing Earth","confirmed the successful landing","in the right position","operating normally","the first private company","without crashing or having a major problem","named after a rare kind of firefly","two meters tall","3.5 meters wide","10 experiments","one lunar day","about 14 Earth days","$101 million","$44 million","turn over","reduce costs","about 160 kilometers","in about three months","took a longer path","for the second time","two private landers","some missions will fail","a limited budget","went just as planned"],
+ "acceptedVariants":{
+  "two meters tall":["2 meters tall","two metres tall","2 metres tall"],
+  "3.5 meters wide":["three point five meters wide","3.5 metres wide","three point five metres wide"],
+  "10 experiments":["ten experiments"],"one lunar day":["1 lunar day"],
+  "about 14 Earth days":["about fourteen Earth days"],
+  "$101 million":["101 million dollars","a hundred and one million dollars","one hundred and one million dollars","one hundred one million dollars"],
+  "$44 million":["44 million dollars","forty-four million dollars"],
+  "about 160 kilometers":["about a hundred and sixty kilometers","about one hundred and sixty kilometers","about one hundred sixty kilometers","about 160 kilometres"],
+  "in about three months":["in about 3 months"],"two private landers":["2 private landers"]
+ },
+ "paraphrases":[
+  ["the side facing Earth","the half directed towards our planet","Facing diễn tả hướng của một phía Mặt Trăng.",28.5,33.4],
+  ["was operating normally","was functioning as expected","Operate và function đều chỉ hoạt động của thiết bị.",52.7,63.6],
+  ["without crashing or having a major problem","without an impact accident or serious difficulty","Giữ nguyên cả hai điều kiện, không chỉ nói hạ cánh thành công.",63.6,78.2],
+  ["is named after a rare kind of firefly","takes its name from an uncommon type of insect","Named after chỉ nguồn gốc tên gọi; rare là hiếm.",85.1,98.2],
+  ["designed to operate on the surface of the moon","intended to function on the lunar ground","Designed to nói về mục đích thiết kế.",116.9,130.3],
+  ["to reduce costs","to lower expenses","Reduce costs và lower expenses cùng chỉ giảm chi phí.",153.8,169.6],
+  ["took a longer path to the moon","travelled to the moon by a less direct route","Longer path đối chiếu với chuyến đi của Blue Ghost.",204.7,222.9],
+  ["realizing some missions will fail","recognising that not every mission will succeed","Đổi fail thành phủ định của succeed và giữ some.",230.5,246.2],
+  ["have a limited budget","have only a restricted amount of money available","Budget là ngân sách, không phải số tiền đã chi hết.",267.9,284.6],
+  ["everything went just as planned","the entire operation happened as intended","Giữ ý mọi việc diễn ra đúng kế hoạch.",281,293]
+ ],
+ "vocabulary":[
+  ["experiment","thí nghiệm","A scientific test carried out to learn something."],
+  ["mission control","trung tâm điều khiển nhiệm vụ","The team and facilities directing a space mission."],
+  ["touchdown","sự hạ cánh","The moment a vehicle reaches the ground."],
+  ["rare","hiếm","Not common or frequently found."],
+  ["launch","phóng; khởi động","To send a spacecraft on its journey."],
+  ["payload","tải trọng hữu ích","The equipment or cargo a vehicle carries for its mission."],
+  ["turn over","chuyển giao","To give control or responsibility to someone else."],
+  ["resilience","khả năng phục hồi; sức bền bỉ","The ability to recover after difficulty."],
+  ["budget","ngân sách","The amount of money available for a purpose."],
+  ["robotically","bằng robot; theo cơ chế tự động","Using machines rather than people on board."]
+ ],
+ "signals":["In a statement…","The program aims…","But it took…","In the past…"],
+ "issuesFixed":["Removed three unspoken image captions, including duplicate Markdown blocks","Removed unspoken editorial credit and restored spoken sign-off","Selected 25 meaningful gaps with complete measurements and costs","Added equivalent number and unit spellings","Rewrote paraphrases with original-audio ranges and Vietnamese vocabulary"]
+}

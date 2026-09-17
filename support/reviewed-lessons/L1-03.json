@@ -1,0 +1,42 @@
+{
+ "code":"L1-03","status":"reviewed","reviewDate":"2026-09-17",
+ "audioEvidence":"public/media/level1/l1-03.mp3",
+ "evidenceNote":"Full audio independently transcribed and compared. Removed a glacier photo caption absent from the recording; retained proper names from the source rather than copying ASR errors.",
+ "transcript":"A recent study suggests the next ice age will likely begin in about 11,000 years unless emissions change the effects of natural climate cycles. An ice age is a period of reduced temperatures causing ice to cover large areas of the northern and southern parts of the world. A group of scientists studied changes in the shape of the Earth’s orbit around the sun, the tilt of the Earth’s axis and the movement of the axis itself, called a wobble. These three motions are believed to happen in cycles. The Serbian scientist Milutin Milankovitch developed a theory about 100 years ago that these cycles affected Earth’s long-term climate. The team noted that small changes in Earth’s orbit around the Sun caused predictable cycles of warming and cooling over a period of about 100,000 years.\n\nThese findings permitted the team to determine how the three factors of tilt, wobble, and the shape of Earth's orbit might have affected the Earth’s climate over the last 900,000 years. The group published its findings in Science on February 27. The scientists examined a million-year record of climate by looking at ice sheets across the northern half of the world and deep ocean temperatures. They then compared this data with small but regular changes in Earth’s orbit over time. The lead writer of this study is Stephen Barker, a professor at Cardiff University in Britain. He told the French News Agency AFP that for many years it has been difficult for scientists to show exactly how small changes in Earth’s orbit have led to huge changes between warm and cold periods.\n\nEarth is believed to go through cycles of ice ages and warm periods. The last ice age is thought to have ended around 11,700 years ago. Scientists, such as Milankovitch, have long seen a connection between Earth's orbit and climate. However, researchers have struggled to precisely date when each of the climate changes happened. It has also been difficult for them to know exactly which orbit positions affect the start and stop of cold or warm periods.\n\nBarker said his team of researchers studied slow changes in temperature over long periods of time instead of only looking at shorter periods of change between cold and warm climates. Barker told AFP, \"We would expect a glaciation to occur within the next 11,000 years, and it would end in 66,000 years' time.\" Lorraine Lisiecki is a professor at the University of California, Santa Barbara, and a co-writer of the study. She said the study shows that changes in climate over tens of thousands of years are not random. The team aims to expand its findings to investigate the long-term effects of human activity on climate. They also want to find out how it might affect Earth’s natural climate cycles. I’m Andrew Smith.",
+ "gaps":["in about 11,000 years","natural climate cycles","a period of reduced temperatures","the tilt of the Earth’s axis","happen in cycles","developed a theory","Earth’s long-term climate","predictable cycles of warming and cooling","about 100,000 years","over the last 900,000 years","a million-year record of climate","deep ocean temperatures","small but regular changes","have led to huge changes","go through cycles","around 11,700 years ago","a connection between Earth's orbit and climate","precisely date","the start and stop","slow changes in temperature","over long periods of time","within the next 11,000 years","66,000 years' time","are not random","the long-term effects of human activity"],
+ "acceptedVariants":{
+  "in about 11,000 years":["in about eleven thousand years"],
+  "about 100,000 years":["about a hundred thousand years","about one hundred thousand years"],
+  "over the last 900,000 years":["over the last nine hundred thousand years"],
+  "a million-year record of climate":["a million year record of climate"],
+  "around 11,700 years ago":["around eleven thousand seven hundred years ago"],
+  "within the next 11,000 years":["within the next eleven thousand years"],
+  "66,000 years' time":["sixty-six thousand years' time","sixty six thousand years time"]
+ },
+ "paraphrases":[
+  ["will likely begin","will probably start","Giữ nguyên mức độ dự đoán của likely.",0.7,13.1],
+  ["a period of reduced temperatures","a time when temperatures are lower","Reduced temperatures chỉ nhiệt độ thấp hơn.",14.6,24.8],
+  ["happen in cycles","recur in a repeating pattern","Cycle diễn tả một chuỗi có tính lặp lại.",41.6,46.2],
+  ["permitted the team to determine","enabled the researchers to establish","Permit ở đây là tạo điều kiện để tìm ra, không phải cấp giấy phép.",76.6,94.3],
+  ["a million-year record of climate","climate evidence covering one million years","Giữ nguyên độ dài hồ sơ khí hậu là một triệu năm.",102.5,115.1],
+  ["have led to huge changes","have brought about major shifts","Lead to và bring about cùng chỉ quan hệ nguyên nhân–kết quả.",134.2,152.9],
+  ["precisely date","identify exactly when something occurred","Date là động từ xác định niên đại, không phải hẹn hò.",178.2,185.7],
+  ["instead of only looking at shorter periods","rather than examining just briefer intervals","Giữ nguyên sự đối chiếu giữa khoảng dài và khoảng ngắn.",198.6,214.5],
+  ["are not random","do not happen purely by chance","Not random nói rằng có quy luật, không hoàn toàn ngẫu nhiên.",240.1,248.5],
+  ["investigate the long-term effects of human activity","study how human actions influence climate over extended periods","Investigate là nghiên cứu; giữ nguyên đối tượng và thời gian dài hạn.",250,266.4]
+ ],
+ "vocabulary":[
+  ["ice age","kỷ băng hà","A long period when large areas of Earth are covered by ice."],
+  ["emission","sự phát thải; chất phát thải","The release of gases or other substances."],
+  ["orbit","quỹ đạo","The path of one object around another in space."],
+  ["tilt","độ nghiêng; sự nghiêng","A sloping position away from the vertical."],
+  ["axis","trục","An imaginary line around which an object rotates."],
+  ["wobble","sự lắc; dao động","An unsteady movement from side to side."],
+  ["predictable","có thể dự đoán","Possible to anticipate because a pattern is known."],
+  ["glaciation","quá trình băng hà hóa","The formation and spread of large ice sheets."],
+  ["random","ngẫu nhiên","Without a clear pattern or predictable order."],
+  ["investigate","nghiên cứu; điều tra","To examine something carefully to find out more."]
+ ],
+ "signals":["These findings permitted…","They then compared…","However, researchers…","instead of…"],
+ "issuesFixed":["Removed photo caption and stray backslashes absent from the audio","Restored spoken sign-off and this study","Replaced fragmented gap choices including broken numerical values","Wrote 10 individual paraphrases and verified audio replay ranges","Supplied Vietnamese vocabulary meanings"]
+}

@@ -1,0 +1,113 @@
+{
+  "reviewed": [
+    {
+      "code": "L1-01",
+      "status": "content-reviewed-build-validated",
+      "revision": "65cb0d57dc8a",
+      "gapCount": 25,
+      "issuesFixed": [
+        "25 arbitrarily cut spans replaced with complete meaningful phrases and intact numerical expressions",
+        "10 ungrammatical synonym-substitution paraphrases rewritten individually",
+        "Vietnamese vocabulary meanings restored",
+        "Phrase replay timestamps aligned to actual audio",
+        "Transcript differences identified by audio comparison corrected"
+      ]
+    },
+    {
+      "code": "L1-02",
+      "status": "content-reviewed-build-validated",
+      "revision": "5a878733f944",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Replaced 25 arbitrary fragments with coherent phrases and whole numbers",
+        "Rejoined 2:26 a.m. with its time-zone sentence",
+        "Corrected Earths’ to Earth’s",
+        "Restored spoken or EDT and presenter sign-off",
+        "Rewrote paraphrases individually and aligned replay ranges",
+        "Added Vietnamese vocabulary definitions"
+      ]
+    },
+    {
+      "code": "L1-03",
+      "status": "content-reviewed-build-validated",
+      "revision": "a00162e0328d",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed photo caption and stray backslashes absent from the audio",
+        "Restored spoken sign-off and this study",
+        "Replaced fragmented gap choices including broken numerical values",
+        "Wrote 10 individual paraphrases and verified audio replay ranges",
+        "Supplied Vietnamese vocabulary meanings"
+      ]
+    },
+    {
+      "code": "L1-04",
+      "status": "content-reviewed-build-validated",
+      "revision": "507c5ee8e48e",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed Surveyor Markdown URL while preserving the spoken word",
+        "Removed both image blocks and duplicated photo captions",
+        "Removed unspoken editorial credits and restored the presenter sign-off",
+        "Rebuilt all 25 gaps from actual spoken material",
+        "Rewrote all paraphrases with audio replay timestamps",
+        "Added meaningful Vietnamese vocabulary definitions"
+      ]
+    },
+    {
+      "code": "L1-05",
+      "status": "content-reviewed-build-validated",
+      "revision": "c2752c1679be",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Corrected merged dominant species",
+        "Restored spoken or AP and presenter sign-off",
+        "Replaced all 25 arbitrary fragments with meaningful phrases",
+        "Rewrote paraphrases without exaggerated biological claims",
+        "Verified replay ranges and supplied Vietnamese vocabulary meanings"
+      ]
+    },
+    {
+      "code": "L1-06",
+      "status": "content-reviewed-build-validated",
+      "revision": "5592517ed9a4",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed three unspoken image captions, including duplicate Markdown blocks",
+        "Removed unspoken editorial credit and restored spoken sign-off",
+        "Selected 25 meaningful gaps with complete measurements and costs",
+        "Added equivalent number and unit spellings",
+        "Rewrote paraphrases with original-audio ranges and Vietnamese vocabulary"
+      ]
+    },
+    {
+      "code": "L1-07",
+      "status": "content-reviewed-build-validated",
+      "revision": "522473a04798",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed Markdown study URL and URL-based answers",
+        "Removed incomplete unspoken editorial credit",
+        "Restored complete spoken sign-off",
+        "Rebuilt all 25 gaps in textual order",
+        "Rewrote scientifically cautious paraphrases with audio timestamps",
+        "Added Vietnamese vocabulary meanings"
+      ]
+    },
+    {
+      "code": "L1-08",
+      "status": "content-reviewed-build-validated",
+      "revision": "6aa16a83aa27",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed image and duplicate campaign-photo caption unrelated to the recording",
+        "Restored spoken acronym expansions and presenter sign-off",
+        "Replaced 25 arbitrary fragments with meaningful complete phrases and quantities",
+        "Rewrote paraphrases preserving uncertainty in the report",
+        "Aligned replay ranges and added Vietnamese vocabulary meanings"
+      ]
+    }
+  ],
+  "pending": 92,
+  "note": "Build validation is not proof of deployment. Unlisted lessons have not completed individual review."
+}

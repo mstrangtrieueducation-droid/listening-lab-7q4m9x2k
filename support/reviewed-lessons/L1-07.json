@@ -1,0 +1,35 @@
+{
+ "code":"L1-07","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-07.mp3",
+ "evidenceNote":"Full recording transcribed independently and compared with article. Kept qualified scientific claims and original mineral/person names; did not copy ASR name errors.",
+ "textReplacements":[["[in a study](https://www.nature.com/articles/s41467-025-56970-z)","in a study"],["Environment & Planetary Sciences","Environment and Planetary Sciences"],["oxygen…and water","oxygen and water"]],
+ "removeSpans":[{"start":"Bryan Lynn wrote this story for the original report","end":null}],
+ "appendText":"I’m Bryan Lynn.",
+ "gaps":["responsible for making the planet appear red","dust and rock material","iron oxide mineral","water-rich environments","adds to existing evidence","a large supply of liquid water","an international team","the exact substance","its deep red color","might be the cause","Martian data collected by several spacecraft","instruments aboard","exploring vehicles","manmade, or synthetic, material","look and feel similar","for hundreds, if not thousands, of years","as a possible reason","observational data","novel laboratory methods","support some form of life","the presence of both oxygen","capable of reacting with iron","the dry, cold environment","additional study is needed","can only be verified by samples from Mars"],
+ "acceptedVariants":{"its deep red color":["its deep red colour"],"manmade, or synthetic, material":["man-made or synthetic material"]},
+ "paraphrases":[
+  ["might have identified","may have discovered the identity of","Giữ nguyên sự chưa chắc chắn của might; không đổi thành đã chứng minh.",0,13.3],
+  ["is likely found","is probably present","Likely và probably cùng thể hiện khả năng cao.",14.3,32],
+  ["water-rich environments","surroundings containing plenty of water","Diễn giải tính từ ghép water-rich.",42.8,50.8],
+  ["adds to existing evidence","provides further support for what was already indicated","Adds to bổ sung bằng chứng, không khẳng định chứng minh tuyệt đối.",51.4,67.8],
+  ["the research was carried out","the investigation was conducted","Carry out và conduct là hai cách nói thực hiện nghiên cứu.",69,81.3],
+  ["manmade, or synthetic, material","a substance created artificially","Synthetic và manmade chỉ vật liệu được con người tạo ra.",157.1,171],
+  ["novel laboratory methods","new techniques used in laboratory experiments","Novel ở đây nghĩa là mới, không phải tiểu thuyết.",212.8,224.5],
+  ["support some form of life","sustain living organisms of some kind","Support life là duy trì điều kiện cho sự sống.",225.8,242.1],
+  ["additional study is needed","further investigation is required","Giữ ý cần nghiên cứu thêm trước khi xác nhận.",283.7,291.7],
+  ["check whether our theory about ferrihydrite is correct","test if our explanation involving this mineral is accurate","Whether giữ nguyên câu hỏi về tính đúng sai của giả thuyết.",310.3,322.1]
+ ],
+ "vocabulary":[
+  ["mineral","khoáng vật","A naturally occurring substance found in rocks."],
+  ["iron oxide","oxit sắt","A compound containing iron and oxygen."],
+  ["evidence","bằng chứng","Information that supports or challenges an explanation."],
+  ["liquid","ở thể lỏng; chất lỏng","A state of matter that flows and takes the shape of its container."],
+  ["orbiter","tàu quỹ đạo","A spacecraft travelling around a planet or moon."],
+  ["synthetic","nhân tạo; tổng hợp","Made artificially rather than occurring naturally."],
+  ["observational","thuộc quan sát","Based on watching or measuring what happens."],
+  ["novel","mới; mới lạ","New and different from earlier approaches."],
+  ["widespread","phân bố rộng; phổ biến","Present over a large area."],
+  ["verify","kiểm chứng; xác minh","To check whether something is true or accurate."]
+ ],
+ "signals":["In addition…","In their examinations…","But he added…","When we get those back…"],
+ "issuesFixed":["Removed Markdown study URL and URL-based answers","Removed incomplete unspoken editorial credit","Restored complete spoken sign-off","Rebuilt all 25 gaps in textual order","Rewrote scientifically cautious paraphrases with audio timestamps","Added Vietnamese vocabulary meanings"]
+}
