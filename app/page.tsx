@@ -26,6 +26,7 @@ type Lesson = {
   media?: LessonMedia;
   acceptedVariants?: string[][];
   contentRevision?: string;
+  contentNote?: string;
 };
 
 type AcademicNote = {
@@ -878,7 +879,7 @@ export default function Home() {
   const renderText = (text: string) => text.split(/(\[\d+\])/g).map((part, index) => {
     const match = part.match(/\[(\d+)\]/); if (!match) return <span key={index}>{part}</span>;
     const answerIndex = Number(match[1]) - 1; const correct = isCorrectAnswer(currentValues[answerIndex], lesson.answers[answerIndex], lesson.acceptedVariants?.[answerIndex]);
-    return <span className="blank-wrap" key={index} style={{width: `${Math.min(48, Math.max(20, (currentValues[answerIndex] || lesson.answers[answerIndex]).length + 3))}ch`}}><span className="blank-number">{match[1]}</span><input disabled={submitted} aria-label={`Answer ${match[1]}`} className={submitted ? (correct ? "correct" : "wrong") : ""} value={currentValues[answerIndex]} onChange={e => { const all = values.map(row => [...row]); all[lessonIndex][answerIndex] = e.target.value; setValues(all); }} />{submitted && !correct && <small>{lesson.answers[answerIndex]}</small>}</span>;
+    return <span className="blank-wrap" key={index} style={{width: `${Math.min(48, Math.max(20, lesson.answers[answerIndex].length + 3))}ch`}}><span className="blank-number">{match[1]}</span><input disabled={submitted} aria-label={`Answer ${match[1]}`} className={submitted ? (correct ? "correct" : "wrong") : ""} value={currentValues[answerIndex]} onChange={e => { const all = values.map(row => [...row]); all[lessonIndex][answerIndex] = e.target.value; setValues(all); }} />{submitted && !correct && <small>{lesson.answers[answerIndex]}</small>}</span>;
   });
 
   return <main>
@@ -920,7 +921,7 @@ export default function Home() {
 
     <div className="instructions"><b>DICTATION MISSION</b><p>{lesson.media ? `Nghe bài liền mạch và điền trực tiếp ${lesson.answers.length} cụm từ còn thiếu vào transcript bên dưới. Có thể tua và nghe lại không giới hạn.` : `Nghe toàn bài trước. Sau đó chép chính xác ${lesson.answers.length} cụm từ. Có thể nghe lại không giới hạn.`}</p><span>{lesson.answers.length} POINTS</span></div>
 
-    <section className="worksheet"><div className="worksheet-head"><span>{lesson.media ? "VIDEO TRANSCRIPT" : "FULL DICTATION"}</span><h2>Write exactly what you hear.</h2><p>Spelling, word forms, apostrophes and numbers all matter.</p></div>{lesson.paragraphs.map((text, i) => <article key={i}><div className="part-label"><b>{lesson.media ? `TRANSCRIPT · ${String(i + 1).padStart(2, "0")}` : `PART ${i + 1}`}</b>{!lesson.media && <button onClick={() => chooseSegment(String(i))}>▶ PLAY PART {i + 1}</button>}</div><p>{renderText(text)}</p></article>)}</section>
+    <section className="worksheet"><div className="worksheet-head"><span>{lesson.media ? "VIDEO TRANSCRIPT" : "FULL DICTATION"}</span><h2>Write exactly what you hear.</h2><p>Spelling, word forms, apostrophes and numbers all matter.</p>{lesson.contentNote && <p className="content-note">{lesson.contentNote}</p>}</div>{lesson.paragraphs.map((text, i) => <article key={i}><div className="part-label"><b>{lesson.media ? `TRANSCRIPT · ${String(i + 1).padStart(2, "0")}` : `PART ${i + 1}`}</b>{!lesson.media && <button onClick={() => chooseSegment(String(i))}>▶ PLAY PART {i + 1}</button>}</div><p>{renderText(text)}</p></article>)}</section>
 
     <section className="finish"><div><span>{listeningFilled}/{lesson.answers.length} COMPLETED</span><h2>Complete all {lesson.answers.length} listening answers.</h2><p>{listeningComplete ? "Phần nghe đã hoàn thành. Tiếp tục làm đủ 10 câu paraphrase rồi nộp bài một lần ở cuối trang." : `Điền đủ ${lesson.answers.length} ô để hoàn thành phần nghe.`}</p></div></section>
     {submitted && <section className="results" aria-live="polite"><div className="score">{score}<small>/{lesson.answers.length}</small></div><div><span>LISTENING SCORE · FINAL</span><h2>{score === lesson.answers.length ? "Flawless listening." : score >= lesson.answers.length * .8 ? "Strong work, fighter." : "Review. Notice. Learn."}</h2><p>Điểm đã được khóa. Các câu sai hiện đáp án chính xác để học sinh nghe lại và tự chữa bài.</p></div></section>}

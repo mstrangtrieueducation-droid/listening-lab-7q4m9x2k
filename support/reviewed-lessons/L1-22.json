@@ -1,0 +1,34 @@
+{
+ "code":"L1-22","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-22.mp3",
+ "evidenceNote":"Compared every paragraph with the complete 363-second recording. Retained cautious predictions and the historical seasonal context; removed the unspoken agency/adaptation byline and restored the spoken sign-off.",
+ "removeSpans":[{"start":"Agence France-Presse reported on this story.","end":null}],
+ "appendText":"I’m Bryan Lynn.",
+ "gaps":["could threaten wildlife","a British overseas territory","a main mating ground","3,500 square kilometers","broke off from","using satellite imagery","broken into smaller pieces","predicting the iceberg’s exact path","two to four weeks","the underground continental shelf","continue moving into open waters","remain there for months","feed and raise their young","an obstacle for ocean currents","diverts the water","the chances of it hitting","generally get stuck","bring back to their young","take a lot of their energy","cases of bird flu","remained stuck for 30 years","breaking free","nearly the same path","the east side","the world’s most powerful ocean current system"],
+ "acceptedVariants":{"3,500 square kilometers":["three thousand five hundred square kilometers","three thousand five hundred square kilometres","3500 square kilometres","thirty-five hundred square kilometers","thirty-five hundred square kilometres"],"two to four weeks":["2 to 4 weeks"],"remained stuck for 30 years":["remained stuck for thirty years"]},
+ "paraphrases":[
+  ["could threaten wildlife","might put wild animals at risk","Could nêu nguy cơ có thể xảy ra, không khẳng định tất cả động vật sẽ chết.",0,12.5],
+  ["a main mating ground","an important area where animals reproduce","Mating ground là nơi động vật tìm bạn tình và sinh sản.",38.4,49.5],
+  ["broke off from the Antarctic shelf","separated from the Antarctic ice shelf","Break off là tách rời khỏi khối lớn hơn.",62.6,71],
+  ["satellite imagery","pictures obtained from satellites","Imagery chỉ các hình ảnh dùng để theo dõi chuyển động.",79.1,91.1],
+  ["predicting the iceberg’s exact path is difficult","it is hard to forecast precisely where the iceberg will travel","Giữ ý khó dự báo đường đi chính xác.",108.3,123.2],
+  ["remain there for months","stay in that place for several months","Remain nghĩa là tiếp tục ở nguyên vị trí.",149.2,161.5],
+  ["diverts the water","changes the direction of the water flow","Divert là làm chuyển hướng, không phải làm nước biến mất.",208.3,221.1],
+  ["the chances of it hitting are not that high","a collision is considered relatively unlikely","Giữ mức độ khả năng thấp chứ không khẳng định không thể va chạm.",221.3,229.3],
+  ["take a lot of their energy","require considerable physical effort from them","Đi vòng quanh băng khiến động vật tiêu hao nhiều năng lượng.",288.7,298.1],
+  ["breaking free from the Antarctic shelf","becoming released from the Antarctic shelf","Breaking free diễn tả thoát khỏi trạng thái mắc kẹt.",312.3,324.5]
+ ],
+ "vocabulary":[
+  ["iceberg","tảng băng trôi","A large floating mass of ice."],
+  ["territory","lãnh thổ","An area under the authority of a particular country."],
+  ["mating ground","nơi sinh sản; giao phối","An area where animals gather to reproduce."],
+  ["oceanographer","nhà hải dương học","A scientist who studies the oceans."],
+  ["imagery","hình ảnh","Pictures used to represent or observe something."],
+  ["continental shelf","thềm lục địa","The shallow underwater extension of a continent."],
+  ["obstacle","vật cản","Something that blocks movement or progress."],
+  ["divert","chuyển hướng","To cause something to follow a different route."],
+  ["seabed","đáy biển","The ground at the bottom of the sea."],
+  ["current","dòng hải lưu","Water moving steadily in a particular direction."]
+ ],
+ "signals":["But ocean conditions suggest…","If the iceberg does get caught…","however…","possibly leading to…"],
+ "issuesFixed":["Removed unspoken editorial credits and restored presenter sign-off","Replaced arbitrary six-word cuts with 25 complete phrases","Kept uncertain predictions distinct from facts","Wrote 10 accurate paraphrases and audio replay ranges"]
+}

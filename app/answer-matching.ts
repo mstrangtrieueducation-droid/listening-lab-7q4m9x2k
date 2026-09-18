@@ -2,6 +2,7 @@
 export function normalizeAnswer(value: string): string {
   return value.toLowerCase().normalize('NFKC')
     .replace(/[’‘']/g, '')
+    .replace(/(^|\s)[−–-](?=\d)/g, '$1minus ')
     .replace(/[‐‑–—-]/g, ' ')
     .replace(/,/g, '')
     .replace(/\.(?!\d)/g, '')

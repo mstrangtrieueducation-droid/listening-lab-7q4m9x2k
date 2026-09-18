@@ -1,0 +1,35 @@
+{
+ "code":"L1-19","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-19.mp3",
+ "evidenceNote":"Compared the complete 290-second audio transcription against every paragraph, including all projected death counts. Preserved projections as reported rather than recasting them as established outcomes. Removed the unspoken editorial byline and restored the presenter sign-off.",
+ "unwrapLinks":true,
+ "removeSpans":[{"start":"The Associated Press reported on this story.","end":null}],
+ "appendText":"I’m Bryan Lynn.",
+ "gaps":["heat-related causes","computer simulations","854 different European cities","2.3 million people","cutting carbon pollution levels","will lessen over time","are predicted to rise sharply","reduce greenhouse gases","indoor air-cooling systems","are likely to see large increases","become more moderate","not as populated","a so-called climate hotspot","much quicker than the rest of the world","269 people","every 100,000 individuals","drop slightly","15 per 100,000 people","several heat waves","about 70,000 deaths","future temperature rises","almost 250,000 people","up to 150,000 deaths","more than 5.8 million","drop by 3.5 million"],
+ "acceptedVariants":{"854 different European cities":["eight hundred fifty-four different European cities","eight hundred and fifty-four different European cities"],"2.3 million people":["two point three million people"],"indoor air-cooling systems":["indoor air cooling systems"],"269 people":["two hundred sixty-nine people","two hundred and sixty-nine people"],"every 100,000 individuals":["every one hundred thousand individuals","every hundred thousand individuals"],"15 per 100,000 people":["fifteen per one hundred thousand people","fifteen per hundred thousand people","15 per one hundred thousand people"],"about 70,000 deaths":["about seventy thousand deaths"],"almost 250,000 people":["almost two hundred fifty thousand people","almost two hundred and fifty thousand people"],"up to 150,000 deaths":["up to one hundred fifty thousand deaths","up to one hundred and fifty thousand deaths"],"more than 5.8 million":["more than five point eight million"],"drop by 3.5 million":["drop by three point five million"]},
+ "paraphrases":[
+  ["could die from heat-related causes","might lose their lives because of heat","Could thể hiện khả năng theo dự báo, không phải kết quả chắc chắn.",0,10.9],
+  ["as many as 2.3 million people","up to 2.3 million individuals","As many as nhấn mạnh mức dự báo có thể lên tới con số này.",23.2,36.5],
+  ["cutting carbon pollution levels","reducing the amount of carbon pollution","Cutting trong ngữ cảnh này là giảm mức ô nhiễm.",37.8,55.1],
+  ["will lessen over time","will gradually decrease","Lessen nghĩa là giảm đi theo thời gian.",62.2,72.5],
+  ["are predicted to rise sharply","are forecast to increase steeply","Giữ cả ý dự báo và mức tăng mạnh.",73.1,78.6],
+  ["become more moderate","grow less extreme","Moderate ở đây nói về nhiệt độ bớt khắc nghiệt.",128.3,144.4],
+  ["not as populated as places further south","home to fewer people than more southerly areas","So sánh dân số giữa các vùng, không nói rằng phía bắc không có người ở.",159.7,174.9],
+  ["a so-called climate hotspot","an area described as especially affected by climate warming","Hotspot trong đoạn này nói về vùng nóng lên nhanh hơn những nơi khác.",175.6,190.7],
+  ["drop slightly","decrease by a small amount","Slightly chỉ mức giảm nhỏ, không phải giảm mạnh.",206.6,216.7],
+  ["would be linked to climate change","would be associated with changes in climate","Giữ ý mối liên hệ trong dự báo của nghiên cứu.",268.5,277.8]
+ ],
+ "vocabulary":[
+  ["simulation","sự mô phỏng","A model used to explore how a system may behave."],
+  ["predict","dự đoán","To say what is expected to happen in the future."],
+  ["extreme","cực đoan; khắc nghiệt","Far beyond normal or moderate conditions."],
+  ["lessen","giảm bớt","To become or make something smaller in amount or degree."],
+  ["urge","thúc giục; kêu gọi","To strongly encourage someone to act."],
+  ["greenhouse gas","khí nhà kính","A gas that traps heat in the atmosphere."],
+  ["moderate","ôn hòa; vừa phải","Not extreme in amount or intensity."],
+  ["populated","có dân cư","Inhabited by people."],
+  ["heat wave","đợt nắng nóng","A period of unusually hot weather."],
+  ["continent","châu lục","One of the Earth's large continuous areas of land."]
+ ],
+ "signals":["However…","Without such efforts…","On the other hand…","At the same time…"],
+ "issuesFixed":["Removed hyperlink syntax and unspoken byline","Replaced incomplete numerical fragments with full quantities","Preserved forecast language and meaningful phrase boundaries","Authored 25 gaps, 10 contextual paraphrases and vocabulary"]
+}

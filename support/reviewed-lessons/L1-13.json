@@ -1,0 +1,35 @@
+{
+ "code":"L1-13","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-13.mp3",
+ "evidenceNote":"Compared complete audio plus a second focused transcription of 51–124 seconds, which recovered the expert quotation omitted in the first ASR pass. Removed an unspoken article subheading; retained the website name actually read aloud. Instructions are quoted lesson content, not directions to modify any account.",
+ "unwrapLinks":true,
+ "removeSpans":[{"start":"The Associated Press reported this story.","end":null}],
+ "textReplacements":[["How does a smartphone track your location?",""],["navigation,”can","navigation,” can"],["Privacy & Security","Privacy and Security"],["Data & Privacy","Data and Privacy"]],"appendText":"I’m Bryan Lynn.",
+ "gaps":["valuable tools","capture personal data and location information","limit the collection of private data","activate data tracking","unknowingly permit","both physical and digital","only when necessary","trusted contacts","immediately turn off location tracking","app permission settings","use your location in the background","only when the app is open","manufacturers have different versions","block advertising identifiers","third parties","Personalized Ads","Delete Advertising ID","after three months","give away location information","does not store your data","through an IP address","recover lost devices","depend on this setting alone","a signal-blocking Faraday bag","all wireless signals"],
+ "acceptedVariants":{"Personalized Ads":["personalised ads"],"after three months":["after 3 months"]},
+ "paraphrases":[
+  ["users might want to keep private","people may prefer not to disclose","Might want giữ ý mong muốn có thể có, không khẳng định mọi người đều như nhau.",8.9,21.3],
+  ["unknowingly permit","allow without being aware of it","Unknowingly nghĩa là không biết rằng mình đang cho phép.",51.7,67.4],
+  ["only when necessary","solely when there is a real need","Only giữ giới hạn trường hợp cần thiết.",98.2,114],
+  ["immediately turn off location tracking","disable location monitoring straight away","Immediately và straight away đều chỉ làm ngay.",111.7,123.2],
+  ["in the background","while the app is not actively being used","Background mô tả hoạt động của ứng dụng ngoài lúc sử dụng trực tiếp.",149.6,159.3],
+  ["third parties","people or organisations other than the user and service provider","Third party chỉ bên ngoài mối quan hệ trực tiếp giữa người dùng và dịch vụ.",199.4,219.9],
+  ["give away location information","disclose data about where someone is","Give away ở đây là tiết lộ thông tin.",284.9,294.7],
+  ["recover lost devices","find and regain missing phones or tablets","Recover lost devices là tìm lại thiết bị thất lạc.",331.9,345.2],
+  ["should not depend on this setting alone","should avoid relying solely on this option","Giữ nguyên lời khuyên không phụ thuộc vào duy nhất một cài đặt.",369.8,382.6],
+  ["devices kept inside the containers cannot be used","phones enclosed in these bags are unusable while inside","Giữ điều kiện khi thiết bị nằm trong túi chắn tín hiệu.",403.9,411.4]
+ ],
+ "vocabulary":[
+  ["capture data","thu thập dữ liệu","To collect and record information."],
+  ["unknowingly","mà không hay biết","Without being aware of something."],
+  ["navigation","việc dẫn đường; định hướng","Finding and following a route."],
+  ["permission","quyền cho phép","Authorisation to do something."],
+  ["identifier","mã định danh","A code or value used to distinguish a device or user."],
+  ["third party","bên thứ ba","An outside person or organisation."],
+  ["personalized","được cá nhân hóa","Adapted to an individual's interests or information."],
+  ["browser","trình duyệt","Software used to view websites."],
+  ["recover","tìm lại; khôi phục","To get something back after losing it."],
+  ["wireless","không dây","Communicating without a physical cable."]
+ ],
+ "signals":["However, the devices…","Similarly…","Instead, get the app…","While such bags…"],
+ "issuesFixed":["Removed article-link destinations and unspoken subheading","Recovered and verified the expert quotation with a second audio pass","Corrected spacing at navigation and spoken and in settings names","Removed unspoken editorial credit and restored sign-off","Rebuilt 25 gaps and 10 paraphrases with original-audio ranges and Vietnamese meanings"]
+}

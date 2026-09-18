@@ -10,6 +10,7 @@ const result = {};
 const report = [];
 for (const filename of fs.readdirSync(path.join(root, 'support/reviewed-lessons')).filter(f => f.endsWith('.json')).sort()) {
   const reviewed = JSON.parse(fs.readFileSync(path.join(root, 'support/reviewed-lessons', filename), 'utf8'));
+  if (reviewed.status !== 'reviewed') continue;
   const [, level, number] = reviewed.code.match(/^L([12])-(\d{2})$/);
   const index = (Number(level) - 1) * 50 + Number(number) - 1;
   const lesson = baseline.lessons[index];
@@ -21,6 +22,7 @@ for (const filename of fs.readdirSync(path.join(root, 'support/reviewed-lessons'
     assert(to > from, `${reviewed.code}: removal end missing`);
     full = full.slice(0, from) + full.slice(to);
   }
+  if (reviewed.unwrapLinks) full = full.replace(/\[([^\]]*)\]\(https?:\/\/[^)]+\)/g, '$1');
   for (const [before, after] of reviewed.textReplacements ?? []) {
     assert.equal(full.split(before).length - 1, 1, `${reviewed.code}: replacement must occur exactly once: ${before}`);
     full = full.replace(before, after);
@@ -51,7 +53,7 @@ for (const filename of fs.readdirSync(path.join(root, 'support/reviewed-lessons'
   assert.equal(reviewed.vocabulary.length, 10);
   const revision = crypto.createHash('sha256').update(JSON.stringify(reviewed)).digest('hex').slice(0, 12);
   const acceptedVariants = reviewed.gaps.map(phrase => reviewed.acceptedVariants?.[phrase] ?? []);
-  result[index] = { paragraphs, answers: reviewed.gaps, acceptedVariants, contentRevision: revision, paraphrases: reviewed.paraphrases,
+  result[index] = { paragraphs, answers: reviewed.gaps, acceptedVariants, contentRevision: revision, ...(reviewed.contentNote ? {contentNote: reviewed.contentNote} : {}), paraphrases: reviewed.paraphrases,
     vocabulary: reviewed.vocabulary.map(([term, meaning, note]) => ({term, meaning, note})), signals: reviewed.signals ?? [] };
   report.push({code: reviewed.code, status: 'content-reviewed-build-validated', revision, gapCount: reviewed.gaps.length, issuesFixed: reviewed.issuesFixed});
 }

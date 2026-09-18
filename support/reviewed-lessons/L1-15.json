@@ -1,0 +1,40 @@
+{
+ "code":"L1-15","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-15.mp3",
+ "evidenceNote":"Compared complete independent audio transcription with source text. Previous invisible answers 8, 9 and 23 contained website fragments; all gaps were selected again from the clean spoken text.",
+ "removeSpans":[{"start":"![Image 1:","end":"The Einstein ring gets its name"},{"start":"![Image 2:","end":"Astronomers at the Max Planck Institute"},{"start":"Bryan Lynn wrote this story for the original report","end":null}],
+ "textReplacements":[["rawdata","raw data"]],"appendText":"I’m Bryan Lynn.",
+ "gaps":["a bright ring of light","590 million light years","the distance light travels in a year","about 9.5 trillion kilometers","a well-studied galaxy","a group of stars","a more distant galaxy","extremely massive objects","gravitational lensing","multiple images of the same object","magnifying and distorting space and time","an optical lens","more distant and less-bright objects","create a computer model","a six-year mission","dark matter and dark energy","was deployed","looking over early data","a lifelong interest","about 4.4 billion light years","had never been observed before","incredibly useful scientifically","the alignment","raw data","revolutionize the field"],
+ "acceptedVariants":{
+  "590 million light years":["five hundred and ninety million light years","five hundred ninety million light years"],
+  "about 9.5 trillion kilometers":["about nine point five trillion kilometers","about 9.5 trillion kilometres","about nine point five trillion kilometres"],
+  "a six-year mission":["a 6-year mission"],
+  "about 4.4 billion light years":["about four point four billion light years"],
+  "revolutionize the field":["revolutionise the field"]
+ },
+ "paraphrases":[
+  ["have estimated","have calculated approximately","Estimate diễn đạt giá trị ước tính, không nhất thiết tuyệt đối chính xác.",19.1,29.7],
+  ["had not been identified before","had never previously been recognised","Giữ nguyên ý chưa được nhận diện trước lần phát hiện này.",40.7,54.4],
+  ["a circle of light, or a halo","a ring-shaped glow","Halo là quầng sáng có dạng vòng quanh vật thể.",83.9,91],
+  ["extremely massive objects","bodies with exceptionally large masses","Massive trong vật lý nhấn mạnh khối lượng, không đơn thuần độ sáng.",98.2,112.5],
+  ["multiple images of the same object","several views of one and the same body","Giữ nguyên nhiều ảnh nhưng chỉ một vật thể nguồn.",113.3,130.2],
+  ["more distant and less-bright objects","bodies that are farther away and dimmer","Giữ nguyên cả hai phép so sánh khoảng cách và độ sáng.",149.6,160.6],
+  ["was looking over early data","was examining information collected at the beginning","Look over nghĩa là xem xét, không phải nhìn qua phía trên.",223.4,232.2],
+  ["with a lifelong interest","with an interest maintained throughout life","Lifelong nói về sự quan tâm lâu dài suốt đời.",250.2,257.1],
+  ["raw data","information in its original, unprocessed form","Raw trong ngữ cảnh dữ liệu nghĩa là chưa xử lý.",337.7,345],
+  ["revolutionize the field","bring about a fundamental change in this area of research","Revolutionize là thay đổi căn bản, mạnh hơn cải tiến nhỏ.",369.7,379.9]
+ ],
+ "vocabulary":[
+  ["galaxy","thiên hà","A large system of stars, gas, dust and other matter."],
+  ["light year","năm ánh sáng","The distance light travels in one year."],
+  ["constellation","chòm sao","A named pattern or group of stars seen in the sky."],
+  ["halo","quầng sáng","A ring of light around an object."],
+  ["gravitational lensing","hiện tượng thấu kính hấp dẫn","The bending of light by the gravity of a massive object."],
+  ["magnify","phóng đại","To make something appear larger."],
+  ["distort","làm biến dạng","To change the shape or appearance of something."],
+  ["deploy","triển khai; đưa vào hoạt động","To position something so that it can be used."],
+  ["alignment","sự thẳng hàng; cách sắp xếp tương đối","The arrangement of objects along a line or relative to each other."],
+  ["detector","thiết bị dò; bộ cảm biến","An instrument that identifies or measures a signal."]
+ ],
+ "signals":["So, they were surprised…","In this way…","In the latest project…","This permitted them…"],
+ "issuesFixed":["Removed two duplicated photo blocks and unspoken editorial credit","Replaced unrendered URL answers 8, 9 and 23 with actual spoken phrases","Corrected raw data and kept entire astronomical measurements","Rebuilt 25 sequential gaps and restored sign-off","Rewrote paraphrases and vocabulary with original-audio replay intervals"]
+}

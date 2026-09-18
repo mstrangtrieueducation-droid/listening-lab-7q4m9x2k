@@ -1,0 +1,228 @@
+{
+  "code": "L1-16",
+  "status": "reviewed",
+  "reviewDate": "2026-09-17",
+  "audioEvidence": "public/media/level1/l1-16.mp3",
+  "evidenceNote": "Compared the complete audio transcription with the article. The disputed prize sentence was independently decoded using both base.en and small.en in a focused 274–288 second clip; both contain Peace. Preserved the spoken slip, excluded it from gaps, and added a separate factual correction checked against NobelPrize.org physics/2024/summary. Removed three unspoken captions.",
+  "removeSpans": [
+    {
+      "start": "FILE - OpenAI CEO Sam Altman",
+      "end": "A second important term"
+    },
+    {
+      "start": "![Image 2:",
+      "end": "\"Unsupervised\" learning"
+    },
+    {
+      "start": "![Image 3:",
+      "end": "We now turn to large language models"
+    }
+  ],
+  "textReplacements": [
+    [
+      "thesimulation",
+      "the simulation"
+    ],
+    [
+      "nodesare",
+      "nodes are"
+    ],
+    [
+      "buyingtrendsin",
+      "buying trends in"
+    ],
+    [
+      "one the big goals",
+      "one of the big goals"
+    ],
+    [
+      "LLM’s can suffer",
+      "LLMs can suffer"
+    ],
+    [
+      "flesh-and-blood -intelligent",
+      "flesh-and-blood intelligent"
+    ],
+    [
+      "2024 Nobel Prize in Physics",
+      "2024 Nobel Peace Prize in Physics"
+    ]
+  ],
+  "appendText": "I’m Anna Matteo, and I’m John Russell.",
+  "gaps": [
+    "the simulation of human intelligence",
+    "programmed to think, learn and make decisions",
+    "taking in large amounts of data",
+    "methods from statistics",
+    "a series of steps or instructions",
+    "realize the objectives",
+    "without being directly programmed",
+    "connections between some nodes",
+    "put new data into specific groups",
+    "identify spam",
+    "independently discover new areas",
+    "buying trends in sales data",
+    "repeated trial-and-error",
+    "rewarded based on its outcomes",
+    "reach its destination as quickly as possible",
+    "many layers of neural networks",
+    "at growing levels of abstraction",
+    "learn a desired behavior efficiently",
+    "scientific discoveries",
+    "based on their statistical models",
+    "false or incorrect",
+    "the unrealized dream",
+    "within reach",
+    "data and processing power",
+    "its ability to reason"
+  ],
+  "acceptedVariants": {
+    "realize the objectives": [
+      "realise the objectives"
+    ],
+    "learn a desired behavior efficiently": [
+      "learn a desired behaviour efficiently"
+    ],
+    "the unrealized dream": [
+      "the unrealised dream"
+    ]
+  },
+  "paraphrases": [
+    [
+      "the simulation of human intelligence",
+      "the imitation of people's mental abilities",
+      "Simulation nói về mô phỏng khả năng trí tuệ, không khẳng định máy có đầy đủ trải nghiệm của con người.",
+      39.6,
+      48.8
+    ],
+    [
+      "realize the objectives",
+      "achieve the intended goals",
+      "Realize ở đây nghĩa là thực hiện được mục tiêu, không phải nhận ra.",
+      115.7,
+      125.5
+    ],
+    [
+      "without being directly programmed on what results to produce",
+      "without explicit instructions specifying every output",
+      "Giữ ý học từ dữ liệu thay vì lập trình trực tiếp từng kết quả.",
+      150.6,
+      159.4
+    ],
+    [
+      "identify spam",
+      "recognise unwanted messages",
+      "Spam chỉ thư hoặc tin nhắn rác.",
+      189.4,
+      197.4
+    ],
+    [
+      "might not have been immediately clear",
+      "may not have been obvious at first",
+      "Giữ nguyên mức độ chưa chắc chắn và ý chưa rõ ngay từ đầu.",
+      208.5,
+      215.1
+    ],
+    [
+      "repeated trial-and-error",
+      "successive attempts with learning from mistakes",
+      "Trial-and-error là thử nhiều cách và rút kinh nghiệm từ lỗi.",
+      224,
+      229.1
+    ],
+    [
+      "rewarded based on its outcomes",
+      "given positive feedback according to its results",
+      "Outcome là kết quả; việc thưởng phụ thuộc vào kết quả đó.",
+      229.9,
+      238.1
+    ],
+    [
+      "learn a desired behavior efficiently",
+      "acquire the intended behaviour with little wasted effort",
+      "Efficiently nhấn mạnh hiệu quả sử dụng công sức, không chỉ tốc độ.",
+      305.7,
+      318.7
+    ],
+    [
+      "content that is false or incorrect",
+      "information that is untrue or inaccurate",
+      "Giải thích hallucinations theo ngữ cảnh nội dung do mô hình tạo ra.",
+      361.3,
+      369
+    ],
+    [
+      "within reach",
+      "achievable",
+      "Within reach trong câu nói về điều được cho là có thể đạt tới.",
+      393.2,
+      406.9
+    ]
+  ],
+  "vocabulary": [
+    [
+      "simulation",
+      "sự mô phỏng",
+      "An imitation of a process or ability."
+    ],
+    [
+      "algorithm",
+      "thuật toán",
+      "A sequence of steps used to solve a problem or produce a result."
+    ],
+    [
+      "objective",
+      "mục tiêu",
+      "A result that someone intends to achieve."
+    ],
+    [
+      "neural network",
+      "mạng nơ-ron",
+      "A computing system made of connected units that adjust through training."
+    ],
+    [
+      "node",
+      "nút; đơn vị kết nối",
+      "An individual connected unit in a network."
+    ],
+    [
+      "supervised",
+      "có giám sát",
+      "Guided by examples with known or labelled outcomes in this context."
+    ],
+    [
+      "reinforcement",
+      "sự củng cố; tăng cường",
+      "Feedback that strengthens a pattern of behaviour."
+    ],
+    [
+      "abstraction",
+      "sự trừu tượng hóa",
+      "Representing information at a more general or conceptual level."
+    ],
+    [
+      "generative",
+      "có khả năng tạo sinh",
+      "Able to produce new content from learned patterns."
+    ],
+    [
+      "hallucination",
+      "nội dung bịa hoặc sai do mô hình tạo ra",
+      "In AI, generated information that is false or unsupported."
+    ]
+  ],
+  "signals": [
+    "A second important term…",
+    "Unlike a simple computer program…",
+    "For example…",
+    "But critics say…"
+  ],
+  "issuesFixed": [
+    "Removed three unspoken photo captions and image links",
+    "Corrected merged words and restored spoken one of the big goals",
+    "Restored both spoken presenter sign-offs",
+    "Rebuilt 25 meaningful gaps spread across the full recording",
+    "Wrote 10 accurate paraphrases with replay times and Vietnamese vocabulary"
+  ],
+  "contentNote": "Lưu ý ở đoạn nói về giải Nobel: Người đọc nói nhầm “Nobel Peace Prize in Physics”. Tên đúng là “Nobel Prize in Physics” (giải Nobel Vật lý). Câu này không có chỗ trống."
+}

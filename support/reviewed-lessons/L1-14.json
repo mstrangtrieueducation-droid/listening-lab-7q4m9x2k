@@ -1,0 +1,42 @@
+{
+ "code":"L1-14","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-14.mp3",
+ "evidenceNote":"Full independent transcription compared with the spoken report. Removed two photo captions and the unspoken adaptation credit. Preserved the qualification that fuel production may still emit carbon dioxide.",
+ "removeSpans":[{"start":"![Image 1:","end":"Other airplane manufacturers"},{"start":"![Image 2:","end":"Running renewable electricity"},{"start":"Andrew Smith adapted this story","end":null}],
+ "textReplacements":[["decarbonizing. . .remain","decarbonizing remain"],["-253° Celsius","minus 253 degrees Celsius"],["aviation fuel (SAF)","aviation fuel, or SAF"]],"appendText":"I’m Andrew Smith.",
+ "gaps":["a delay in its development efforts","slower and more complex than expected","a zero-emission airplane","by 2035","a new target date","five to 10 years behind","reduced the program’s budget by 25 percent","remain unchanged","three hydrogen-fueled airplane designs","renewable fuels","short-distance flights","a revolutionary energy source","produce, transport, and store hydrogen","global collaboration and investment","natural gas or coal","release carbon dioxide gas","without adding to carbon emissions","generally more costly","at room temperature","turned into a liquid","minus 253 degrees Celsius","four times the space of jet fuel","sustainable aviation fuel","mixtures of 10 to 50 percent","medium and long-distance flights"],
+ "acceptedVariants":{
+  "by 2035":["by twenty thirty-five","by two thousand and thirty-five"],
+  "five to 10 years behind":["five to ten years behind","5 to 10 years behind"],
+  "reduced the program’s budget by 25 percent":["reduced the programme's budget by 25 percent","reduced the program's budget by twenty-five percent","reduced the programme's budget by twenty-five per cent","reduced the program's budget by 25%"],
+  "three hydrogen-fueled airplane designs":["3 hydrogen-fueled airplane designs","three hydrogen-fuelled airplane designs","three hydrogen-fuelled aeroplane designs"],
+  "minus 253 degrees Celsius":["-253 degrees Celsius","−253 degrees Celsius","-253°C","minus two hundred and fifty-three degrees Celsius","minus two hundred fifty-three degrees Celsius"],
+  "four times the space of jet fuel":["4 times the space of jet fuel"],
+  "mixtures of 10 to 50 percent":["mixtures of ten to fifty percent","mixtures of 10 to 50 per cent","mixtures of 10 to 50%"]
+ },
+ "paraphrases":[
+  ["slower and more complex than expected","less rapid and more complicated than anticipated","Giữ nguyên cả hai phép so sánh về tiến độ và độ phức tạp.",12.2,21.7],
+  ["a new target date","a revised planned deadline","Target date là mốc dự kiến, không phải ngày chắc chắn.",31.6,37.5],
+  ["five to 10 years behind","delayed by between five and ten years","Giữ nguyên khoảng chậm tiến độ.",38.5,55.7],
+  ["remain unchanged","stay the same","Remain unchanged diễn đạt không thay đổi.",73.8,85.1],
+  ["no plans to completely stop developing","no intention of abandoning development entirely","Giữ nguyên phủ định và mức độ hoàn toàn của completely.",114.6,123.2],
+  ["global collaboration and investment","international cooperation and financial support","Collaboration là cùng hợp tác; investment bổ sung yếu tố nguồn vốn.",133.5,153.2],
+  ["without adding to carbon emissions","without increasing the release of carbon gases","Giữ nguyên ý không làm tăng phát thải ở phương pháp được nói đến.",184.9,193.1],
+  ["generally more costly","usually more expensive","Generally và usually đều chỉ xu hướng thường gặp, không tuyệt đối.",194.6,198.3],
+  ["turned into a liquid","converted from gas to a liquid state","Ngữ cảnh là làm hiđrô chuyển từ thể khí sang thể lỏng.",218.1,233],
+  ["will take longer to develop","will need more time to become ready for use","Giữ nguyên phép so sánh thời gian phát triển.",264.4,270.4]
+ ],
+ "vocabulary":[
+  ["manufacturer","nhà sản xuất","A company that makes goods."],
+  ["zero-emission","không phát thải khi vận hành","Producing no emissions during operation."],
+  ["decarbonize","khử cacbon; giảm phát thải cacbon","To reduce carbon emissions from an activity or system."],
+  ["renewable","có thể tái tạo","Naturally replenished rather than permanently used up."],
+  ["aviation","ngành hàng không","The operation and development of aircraft."],
+  ["collaboration","sự hợp tác","Working together towards a shared aim."],
+  ["investment","sự đầu tư; vốn đầu tư","Money or resources provided for future development."],
+  ["liquefy","hóa lỏng","To turn a substance into a liquid."],
+  ["sustainable","bền vững","Able to continue while limiting long-term environmental damage."],
+  ["petroleum","dầu mỏ","Naturally occurring oil used to make fuels and chemicals."]
+ ],
+ "signals":["But the French union…","Other airplane manufacturers, however…","Instead, they release…","However, this process…"],
+ "issuesFixed":["Removed both duplicated image captions and editorial credit","Kept complete 25 percent budget reduction, year range and minus 253 temperature","Restored spoken SAF expansion and presenter sign-off","Rebuilt 25 gaps and 10 accurate paraphrases with audio ranges","Added Vietnamese vocabulary and explicit numerical spelling alternatives"]
+}

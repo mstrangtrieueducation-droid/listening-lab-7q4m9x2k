@@ -1,0 +1,41 @@
+{
+ "code":"L1-11","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-11.mp3",
+ "evidenceNote":"Compared the complete timestamped independent transcription with the historical source report. Preserved reported probabilities and uncertainties rather than updating the recorded news to present-day claims.",
+ "textReplacements":[["oddsof","odds of"],["companionasteroid","companion asteroid"]],"appendText":"I’m John Russell.",
+ "gaps":["the threat of a large space rock","around 1 to 3 percent","a 97 to 99 percent chance","go up and down","drop to zero","impossible to see","wait until 2028","the leftovers","4.6 billion years ago","the main asteroid belt","get pushed out of the belt","between 40 and 90 meters across","a more exact measurement","just over one percent","extremely low","a better understanding","might endanger Earth","Let the process play out","did not present a risk","ruled out any chance","the impact probability is rising","the asteroid’s size and orbit are uncertain","thousands of square kilometers of forest","would be significantly worse","deflect this asteroid"],
+ "acceptedVariants":{
+  "around 1 to 3 percent":["around one to three percent","around 1 to 3 per cent","around 1 to 3%"],
+  "a 97 to 99 percent chance":["a ninety-seven to ninety-nine percent chance","a 97 to 99 per cent chance","a 97 to 99% chance"],
+  "wait until 2028":["wait until twenty twenty-eight","wait until two thousand and twenty-eight"],
+  "4.6 billion years ago":["four point six billion years ago"],
+  "between 40 and 90 meters across":["between forty and ninety meters across","between 40 and 90 metres across","between forty and ninety metres across"],
+  "just over one percent":["just over 1 percent","just over one per cent","just over 1%"],
+  "thousands of square kilometers of forest":["thousands of square kilometres of forest"]
+ },
+ "paraphrases":[
+  ["go up and down","fluctuate","Fluctuate diễn tả tăng rồi giảm, không phải chỉ tăng.",38.9,50],
+  ["the risk will drop to zero","the probability of danger will fall to nothing","Zero là bằng không; câu nói về dự đoán trong bản tin.",50.8,57.6],
+  ["the leftovers from the solar system’s formation","material remaining from when the solar system formed","Leftovers là những phần còn lại.",92.5,101.8],
+  ["can end up elsewhere","may eventually be found in another place","End up nói về vị trí cuối cùng sau sự dịch chuyển.",114.4,121.3],
+  ["a more exact measurement","a more precise estimate of its dimensions","Measurement ở đây là đo kích thước tiểu hành tinh.",131.7,146],
+  ["extremely low","very small in probability","Ngữ cảnh nói xác suất, không phải chiều cao vật thể.",165.4,170.5],
+  ["might endanger Earth","could put our planet at risk","Giữ tính khả năng của might.",194.2,206.1],
+  ["Let the process play out","Allow the investigation to run its course","Play out nghĩa là để quá trình diễn ra đến kết quả.",210.5,218.6],
+  ["ruled out any chance","excluded the possibility","Rule out là loại trừ một khả năng.",230.7,241.7],
+  ["deflect this asteroid","change the direction of this space rock","Deflect là làm lệch hướng, không nhất thiết phá hủy.",319.2,336.2]
+ ],
+ "vocabulary":[
+  ["calculation","phép tính; sự tính toán","A process of using numbers to find a result."],
+  ["odds","khả năng; xác suất","The likelihood of something happening."],
+  ["leftovers","phần còn lại","Things remaining after a process or event."],
+  ["asteroid belt","vành đai tiểu hành tinh","A region containing many asteroids."],
+  ["measurement","sự đo lường; số đo","A value obtained by measuring something."],
+  ["likelihood","khả năng xảy ra","How probable an event is."],
+  ["endanger","gây nguy hiểm cho","To put someone or something at risk."],
+  ["rule out","loại trừ","To decide that a possibility cannot occur or is not valid."],
+  ["impact","sự va chạm; tác động","A collision or its effect."],
+  ["deflect","làm chệch hướng","To cause an object to change direction."]
+ ],
+ "signals":["This also means…","At first…","But later calculations…","To be clear…"],
+ "issuesFixed":["Corrected odds of and companion asteroid","Restored presenter sign-off","Replaced arbitrary fragments with complete probability ranges and meaningful phrases","Kept numerical alternatives without conflating decimals","Rewrote paraphrases and vocabulary with verified original-audio intervals"]
+}

@@ -1,0 +1,39 @@
+{
+ "code":"L1-09","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-09.mp3",
+ "evidenceNote":"Compared all audio against source wording with independent timestamps. Removed three photo blocks and editorial credit; retained spoken historical figures and plans.",
+ "removeSpans":[{"start":"![Image 1:","end":"Toyoda said the center is meant"},{"start":"![Image 2:","end":"When AP reporters visited"},{"start":"![Image 3:","end":"Konishi noted the company"},{"start":"The Associated Press reported this story.","end":null}],
+ "textReplacements":[["deliveriesaround","deliveries around"]],"appendText":"I’m Bryan Lynn.",
+ "gaps":["in a city-like setting","autonomous vehicle technologies","the latest progress","research and development","a test course for mobility","Living Laboratory","the movement of people, goods, information and energy","come together and share ideas","establish a community","co-create, develop and refine","on the grounds of a closed Toyota automobile factory","about 47,000 square meters","over 294,000 square meters","in 2021","underground passageways","making waste pickups","completing deliveries around the area","interact with changing technologies","about 100 people","its partner companies","an area surrounded by still-empty housing","the energy of choice","expand into self-driving vehicle services","a completely new business","at least not for the first few years"],
+ "acceptedVariants":{
+  "Living Laboratory":["living laboratory"],
+  "about 47,000 square meters":["about forty-seven thousand square meters","about 47000 square metres","about forty-seven thousand square metres"],
+  "over 294,000 square meters":["over two hundred and ninety-four thousand square meters","over two hundred ninety-four thousand square meters","over 294000 square metres"],
+  "in 2021":["in twenty twenty-one","in two thousand and twenty-one"],"about 100 people":["about a hundred people","about one hundred people"]
+ },
+ "paraphrases":[
+  ["in a city-like setting","in surroundings resembling an urban area","City-like nghĩa là có hình thức giống một thành phố.",0,19],
+  ["showed off the latest progress","presented the most recent advances","Latest là mới nhất tại thời điểm bài báo, không phải hiện tại.",37.5,46.2],
+  ["carry out technology research and development","conduct studies and create or improve technological products","Giải thích hai phần nghiên cứu và phát triển.",54.8,74.5],
+  ["come together and share ideas","meet to exchange suggestions and knowledge","Giữ ý hợp tác và trao đổi ý tưởng.",97,110.3],
+  ["co-create, develop and refine","jointly produce, build up and improve","Co-create nhấn mạnh cùng làm; refine là cải tiến cho hoàn thiện hơn.",110.3,126.2],
+  ["on the grounds of a closed Toyota automobile factory","on land belonging to a former Toyota car plant","Grounds ở đây là khu đất; closed cho biết nhà máy đã ngừng hoạt động.",127.5,137.3],
+  ["connected by underground passageways","linked by routes beneath the surface","Underground chỉ vị trí dưới mặt đất.",158,171.1],
+  ["the energy of choice","the preferred source of power","Of choice là được ưu tiên lựa chọn.",240.6,251.2],
+  ["expand into self-driving vehicle services","enter and develop services using autonomous vehicles","Expand into là mở rộng sang lĩnh vực mới.",259.5,275.3],
+  ["do not expect Woven City to make money","do not anticipate the project generating a profit","Không kỳ vọng lợi nhuận trong thời gian được nêu, không khẳng định dự án chắc chắn thất bại.",293,305.8]
+ ],
+ "vocabulary":[
+  ["automaker","nhà sản xuất ô tô","A company that manufactures cars."],
+  ["autonomous","tự hành; tự chủ","Operating without direct human control."],
+  ["phase","giai đoạn","One stage in a process or project."],
+  ["mobility","khả năng di chuyển; sự lưu chuyển","The movement of people or things from place to place."],
+  ["refine","cải tiến; hoàn thiện","To improve something through small changes."],
+  ["passageway","lối đi; hành lang","A route through or between buildings or places."],
+  ["interact","tương tác","To act on or communicate with one another."],
+  ["hydrogen","hiđrô","A light chemical element that can be used as a fuel."],
+  ["expand into","mở rộng sang","To begin working in a new area of business."],
+  ["futuristic","mang tính tương lai","Very modern and suggesting what the future might be like."]
+ ],
+ "signals":["However, it aims…","When completed…","When it opens…","But those projects…"],
+ "issuesFixed":["Removed three duplicated image captions and URLs","Corrected deliveriesaround","Preserved complete area measurements instead of splitting thousands","Rebuilt all 25 gaps and 10 paraphrases with original-audio ranges","Added Vietnamese vocabulary and restored the spoken sign-off"]
+}

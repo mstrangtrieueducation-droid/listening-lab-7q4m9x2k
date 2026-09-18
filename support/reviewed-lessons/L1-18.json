@@ -1,0 +1,35 @@
+{
+ "code":"L1-18","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-18.mp3",
+ "evidenceNote":"Compared every paragraph to the complete audio. Independently rechecked 169–194 seconds with small.en to recover the quotation skipped by the first ASR pass. Removed the photograph caption and unspoken dictionary footer.",
+ "removeSpans":[{"start":"![Image 1:","end":"The researchers found that levels"},{"start":"Chellman, an environmental scientist","end":null}],
+ "textReplacements":[["fromsmelting","from smelting"],["andabrupt","and abrupt"],["Maran said The place","Maran said. The place"]],
+ "appendText":"Chellman, an environmental scientist at the University of Nevada, Reno, was not involved in the research. I’m John Russell.",
+ "gaps":["the earliest records of democracy","sediment cores","5,200 years","1,200 years older","released into the atmosphere","copper and silver production","settled onto the soil","wasn't found in a pure state","mined in ore","silver mining and metalwork","toxic or industrial pollution","remained fairly low","throughout the Bronze Age","reach its height","2,150 years ago","a very strong and abrupt increase","caused by human activities","won control of","society and economy","demand for silver coins","more smelting was required","including pipes","ice cores from Greenland","the Northern Hemisphere","a more exact"],
+ "acceptedVariants":{"5,200 years":["five thousand two hundred years","five thousand and two hundred years","fifty-two hundred years"],"1,200 years older":["one thousand two hundred years older","one thousand and two hundred years older","twelve hundred years older"],"2,150 years ago":["two thousand one hundred fifty years ago","two thousand one hundred and fifty years ago","twenty-one hundred fifty years ago"]},
+ "paraphrases":[
+  ["dating back around 5,200 years","originating approximately 5,200 years ago","Dating back xác định niên đại; around cho biết con số gần đúng.",29.1,42.3],
+  ["released into the atmosphere","emitted into the air","Release trong câu này là thải kim loại vào không khí.",56.4,65.9],
+  ["settled onto the soil","came to rest on the ground","Settle ở đây chỉ bụi rơi xuống và lắng đọng trên đất.",66.8,75.2],
+  ["wasn't found in a pure state","did not occur without other substances mixed in","A pure state nghĩa là không lẫn các chất khác.",83.4,97.2],
+  ["was not involved in the study","did not take part in this research","Giữ rõ đây là chuyên gia không tham gia nghiên cứu được đề cập.",118.9,133.8],
+  ["remained fairly low","continued at relatively small levels","Remained chỉ sự tiếp diễn; fairly low không có nghĩa là hoàn toàn bằng không.",134.4,142.3],
+  ["reach its height","attain its greatest extent","Height ở đây là mức ảnh hưởng cao nhất, không phải độ cao vật lý.",161.8,169.6],
+  ["a very strong and abrupt increase","a large and sudden rise","Strong mô tả mức tăng lớn; abrupt nói về việc diễn ra đột ngột.",170.5,187.5],
+  ["won control of the Greek peninsula","gained power over the Greek peninsula","Won control nói về giành quyền kiểm soát một vùng đất.",193.9,204.8],
+  ["a more exact","a more precise","Exact ở đây mô tả độ chính xác cao hơn của bức tranh về ô nhiễm chì.",248.1,257.4]
+ ],
+ "vocabulary":[
+  ["sediment","trầm tích","Material that settles at the bottom of water or accumulates in layers."],
+  ["core","mẫu lõi","A cylindrical sample showing layers beneath a surface."],
+  ["lead","chì","A heavy metal that can be poisonous."],
+  ["toxic","độc hại","Poisonous or harmful to living things."],
+  ["ore","quặng","Rock containing a metal that can be extracted."],
+  ["smelt","luyện kim","To use heat to extract metal from ore."],
+  ["contamination","sự nhiễm bẩn; ô nhiễm","The presence of harmful or unwanted substances."],
+  ["abrupt","đột ngột","Sudden rather than gradual."],
+  ["peninsula","bán đảo","Land surrounded by water on most sides."],
+  ["hemisphere","bán cầu","One half of the Earth."]
+ ],
+ "signals":["In ancient times…","But the new study shows…","Around that time…","As a result…"],
+ "issuesFixed":["Removed image markdown, repeated caption and unspoken word definitions","Restored missing spaces and sentence punctuation","Replaced answers taken from captions and broken numerical fragments","Rebuilt 25 gaps, 10 paraphrases and vocabulary against the audio"]
+}

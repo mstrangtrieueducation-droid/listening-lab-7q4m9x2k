@@ -1667,5 +1667,3574 @@ export const reviewedContent = {
       "Through clinical tests…",
       "However, high-risk devices…"
     ]
+  },
+  "8": {
+    "paragraphs": [
+      "Japanese automaker Toyota says it is building a research center [1] to test robotics, artificial intelligence (AI) and [2]. Toyota recently announced it had completed the first part, or phase, of the center, called Woven City. It sits near the southern Japanese city of Susono. Company officials recently showed off [3] to reporters from the Associated Press. Daisuke Toyoda is an executive for Toyota who is helping lead the project. He told the AP that the center was not designed to be a “smart city.” However, it aims to carry out technology [4] and be “[5].” The company said Woven City would serve as a “[6].” It aims to test technology systems to support future changes in “[7].” Toyoda said the center is meant to be a place where researchers and technology company officials can [8]. It will also seek to [9] with a shared desire “to [10]” new technology products and services. Woven City was built [11]. The automaker said the project’s first phase covers [12]. When completed, it will spread out [13]. Building operations on Woven City began [14]. All the buildings are connected by [15]. Among planned testing activities will include self-driving vehicles [16] and [17].",
+      "Testing operations will center on how people living in cities can best [18]. Currently, no one lives in Woven City. When it opens, officials plan on having [19] living there. They will be called “weavers.” These are workers employed by Toyota and [20] making other products. When AP reporters visited the area, Japanese coffee maker UCC was serving hot drinks from a self-driving bus. The bus was parked in [21].",
+      "Toyota has supported electric vehicle (EV) technology in the past. However, the company is currently involved in a push for hydrogen, [22] in Woven City. Keisuke Konishi is an automobile expert at Japan’s Quick Corporate Valuation Research Center. He told the AP Toyota has plans to [23] to compete with Google’s Waymo and other large companies. Konishi noted the company has the money for such development even if it means building up [24]. “Toyota has the money to do all that,” he said.",
+      "Toyota officials have said they do not expect Woven City to make money, [25]. Several other futuristic developments have been planned in other areas of the world over the years. They have included efforts in Toronto, Canada; Saudi Arabia; Abu Dhabi; and San Francisco, California. But those projects are either still being developed or have been canceled. I’m Bryan Lynn."
+    ],
+    "answers": [
+      "in a city-like setting",
+      "autonomous vehicle technologies",
+      "the latest progress",
+      "research and development",
+      "a test course for mobility",
+      "Living Laboratory",
+      "the movement of people, goods, information and energy",
+      "come together and share ideas",
+      "establish a community",
+      "co-create, develop and refine",
+      "on the grounds of a closed Toyota automobile factory",
+      "about 47,000 square meters",
+      "over 294,000 square meters",
+      "in 2021",
+      "underground passageways",
+      "making waste pickups",
+      "completing deliveries around the area",
+      "interact with changing technologies",
+      "about 100 people",
+      "its partner companies",
+      "an area surrounded by still-empty housing",
+      "the energy of choice",
+      "expand into self-driving vehicle services",
+      "a completely new business",
+      "at least not for the first few years"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "living laboratory"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "about forty-seven thousand square meters",
+        "about 47000 square metres",
+        "about forty-seven thousand square metres"
+      ],
+      [
+        "over two hundred and ninety-four thousand square meters",
+        "over two hundred ninety-four thousand square meters",
+        "over 294000 square metres"
+      ],
+      [
+        "in twenty twenty-one",
+        "in two thousand and twenty-one"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "about a hundred people",
+        "about one hundred people"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "6cf750f72736",
+    "paraphrases": [
+      [
+        "in a city-like setting",
+        "in surroundings resembling an urban area",
+        "City-like nghĩa là có hình thức giống một thành phố.",
+        0,
+        19
+      ],
+      [
+        "showed off the latest progress",
+        "presented the most recent advances",
+        "Latest là mới nhất tại thời điểm bài báo, không phải hiện tại.",
+        37.5,
+        46.2
+      ],
+      [
+        "carry out technology research and development",
+        "conduct studies and create or improve technological products",
+        "Giải thích hai phần nghiên cứu và phát triển.",
+        54.8,
+        74.5
+      ],
+      [
+        "come together and share ideas",
+        "meet to exchange suggestions and knowledge",
+        "Giữ ý hợp tác và trao đổi ý tưởng.",
+        97,
+        110.3
+      ],
+      [
+        "co-create, develop and refine",
+        "jointly produce, build up and improve",
+        "Co-create nhấn mạnh cùng làm; refine là cải tiến cho hoàn thiện hơn.",
+        110.3,
+        126.2
+      ],
+      [
+        "on the grounds of a closed Toyota automobile factory",
+        "on land belonging to a former Toyota car plant",
+        "Grounds ở đây là khu đất; closed cho biết nhà máy đã ngừng hoạt động.",
+        127.5,
+        137.3
+      ],
+      [
+        "connected by underground passageways",
+        "linked by routes beneath the surface",
+        "Underground chỉ vị trí dưới mặt đất.",
+        158,
+        171.1
+      ],
+      [
+        "the energy of choice",
+        "the preferred source of power",
+        "Of choice là được ưu tiên lựa chọn.",
+        240.6,
+        251.2
+      ],
+      [
+        "expand into self-driving vehicle services",
+        "enter and develop services using autonomous vehicles",
+        "Expand into là mở rộng sang lĩnh vực mới.",
+        259.5,
+        275.3
+      ],
+      [
+        "do not expect Woven City to make money",
+        "do not anticipate the project generating a profit",
+        "Không kỳ vọng lợi nhuận trong thời gian được nêu, không khẳng định dự án chắc chắn thất bại.",
+        293,
+        305.8
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "automaker",
+        "meaning": "nhà sản xuất ô tô",
+        "note": "A company that manufactures cars."
+      },
+      {
+        "term": "autonomous",
+        "meaning": "tự hành; tự chủ",
+        "note": "Operating without direct human control."
+      },
+      {
+        "term": "phase",
+        "meaning": "giai đoạn",
+        "note": "One stage in a process or project."
+      },
+      {
+        "term": "mobility",
+        "meaning": "khả năng di chuyển; sự lưu chuyển",
+        "note": "The movement of people or things from place to place."
+      },
+      {
+        "term": "refine",
+        "meaning": "cải tiến; hoàn thiện",
+        "note": "To improve something through small changes."
+      },
+      {
+        "term": "passageway",
+        "meaning": "lối đi; hành lang",
+        "note": "A route through or between buildings or places."
+      },
+      {
+        "term": "interact",
+        "meaning": "tương tác",
+        "note": "To act on or communicate with one another."
+      },
+      {
+        "term": "hydrogen",
+        "meaning": "hiđrô",
+        "note": "A light chemical element that can be used as a fuel."
+      },
+      {
+        "term": "expand into",
+        "meaning": "mở rộng sang",
+        "note": "To begin working in a new area of business."
+      },
+      {
+        "term": "futuristic",
+        "meaning": "mang tính tương lai",
+        "note": "Very modern and suggesting what the future might be like."
+      }
+    ],
+    "signals": [
+      "However, it aims…",
+      "When completed…",
+      "When it opens…",
+      "But those projects…"
+    ]
+  },
+  "9": {
+    "paragraphs": [
+      "Weather experts say [1] in many parts of the United States this winter has been [2]. But what is this weather system and how does it work? The National Oceanic and Atmospheric Administration (NOAA) describes a polar vortex as [3] that form each winter in the atmosphere above the North Pole. These cold winds move [4] [5] in the Arctic area in the part of the atmosphere called [6].",
+      "At times, the polar vortex can weaken, causing [7] to [8]. A polar vortex can also push warmer air [9]. The Associated Press (AP) reports that several vortex events have affected parts of the U.S. this winter. Experts say [10] have combined to push colder air to the U.S. and Europe. Temperature readings that [11], called windchill readings, fell to [12] in parts of the U.S. Midwest. Meteorologists say windchill readings are [13]. The U.S. National Weather Service (NWS) warned people in affected areas that such low temperatures can cause [14] if skin is not [15].",
+      "Weather officials also warned that long-term cold temperatures can cause water pipes in or around homes to [16]. The NWS noted that almost every U.S. state – except for Hawaii, California and Florida – is [17] low windchill temperatures. The coldest temperatures were expected in the midwestern states of Kansas, Nebraska and Missouri. In an explanation on its website, NOAA states that the polar vortex always surrounds [18].",
+      "The systems [19] and [20]. [21], the polar vortex becomes weaker. This can cause the system to be “pushed off the pole or [22].” This can lead to cold air at the surface [23] and warm air being pushed to the north. NOAA says its weather models are [24] for states including Oklahoma, Colorado, Nebraska, Missouri, Illinois and Iowa. Other states likely to have very low temperatures are Wyoming, Montana, North Dakota, South Dakota, Minnesota, Wisconsin and Michigan.",
+      "The agency said some storms could bring [25] during that time. I’m Bryan Lynn."
+    ],
+    "answers": [
+      "extreme cold",
+      "driven by a polar vortex",
+      "strong westerly winds",
+      "about 16 to 48 kilometers",
+      "above the surface",
+      "the stratosphere",
+      "masses of cold air",
+      "break off and move south",
+      "in northerly directions",
+      "weather forces in the Arctic",
+      "take into account the effects of wind",
+      "minus 51 degrees Celsius",
+      "colder than air temperature readings",
+      "frostbite and hypothermia",
+      "protected from the cold",
+      "freeze and burst",
+      "expected to report",
+      "both of Earth’s poles",
+      "strengthen in the winter",
+      "weaken in the summer",
+      "Every year or so",
+      "split into two",
+      "being pushed southward",
+      "predicting low temperatures",
+      "heavy snow or flooding"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [
+        "about sixteen to forty-eight kilometers",
+        "about 16-48 kilometers",
+        "about 16 to 48 kilometres",
+        "about sixteen to forty-eight kilometres"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "minus fifty-one degrees Celsius",
+        "-51 degrees Celsius",
+        "−51 degrees Celsius",
+        "-51°C",
+        "minus 51°C"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "split into 2"
+      ],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "37a4dc8d11ad",
+    "paraphrases": [
+      [
+        "has been driven by a polar vortex",
+        "has been caused by a polar vortex",
+        "Driven by trong câu chỉ nguyên nhân đợt rét.",
+        0,
+        12.5
+      ],
+      [
+        "strong westerly winds",
+        "powerful winds blowing from the west",
+        "Westerly chỉ gió từ phía tây, không phải thổi về phía tây.",
+        19,
+        38
+      ],
+      [
+        "masses of cold air",
+        "large bodies of chilly air",
+        "Masses ở đây là các khối khí lớn.",
+        54.6,
+        65.1
+      ],
+      [
+        "in northerly directions",
+        "towards the north",
+        "Giữ đúng hướng chuyển động.",
+        65.9,
+        72.7
+      ],
+      [
+        "take into account the effects of wind",
+        "include the influence of wind in the calculation",
+        "Take into account nghĩa là tính đến một yếu tố.",
+        96.4,
+        111.7
+      ],
+      [
+        "colder than air temperature readings",
+        "lower than the measured air temperatures",
+        "Giữ nguyên phép so sánh giữa nhiệt độ cảm nhận do gió và nhiệt độ không khí.",
+        113.3,
+        120.8
+      ],
+      [
+        "freeze and burst",
+        "turn to ice and cause the pipes to split open",
+        "Nước đóng băng có thể làm đường ống vỡ, không phải ống tự biến thành băng.",
+        141.1,
+        153.8
+      ],
+      [
+        "Every year or so",
+        "approximately once a year",
+        "Or so thể hiện con số xấp xỉ, không phải đúng từng năm.",
+        199.4,
+        204.2
+      ],
+      [
+        "split into two",
+        "divide into two separate parts",
+        "Giữ nguyên số lượng hai phần.",
+        205.3,
+        211.7
+      ],
+      [
+        "could bring heavy snow or flooding",
+        "might cause substantial snowfall or floods",
+        "Could và might đều diễn đạt khả năng, không khẳng định chắc chắn.",
+        253.5,
+        260.6
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "polar vortex",
+        "meaning": "xoáy cực",
+        "note": "A large circulation of winds around a polar region."
+      },
+      {
+        "term": "westerly",
+        "meaning": "từ phía tây",
+        "note": "Describing a wind that comes from the west."
+      },
+      {
+        "term": "stratosphere",
+        "meaning": "tầng bình lưu",
+        "note": "The layer of the atmosphere above the troposphere."
+      },
+      {
+        "term": "weaken",
+        "meaning": "yếu đi; làm yếu",
+        "note": "To become or make less strong."
+      },
+      {
+        "term": "windchill",
+        "meaning": "hiệu ứng lạnh do gió",
+        "note": "The cooling effect of wind on how cold conditions feel."
+      },
+      {
+        "term": "meteorologist",
+        "meaning": "nhà khí tượng học",
+        "note": "A scientist who studies weather."
+      },
+      {
+        "term": "frostbite",
+        "meaning": "bỏng lạnh; tổn thương do giá lạnh",
+        "note": "Damage to body tissue caused by freezing conditions."
+      },
+      {
+        "term": "hypothermia",
+        "meaning": "tình trạng hạ thân nhiệt",
+        "note": "A dangerously low body temperature."
+      },
+      {
+        "term": "burst",
+        "meaning": "vỡ; nổ tung",
+        "note": "To break open suddenly."
+      },
+      {
+        "term": "southward",
+        "meaning": "về phía nam",
+        "note": "Moving or directed towards the south."
+      }
+    ],
+    "signals": [
+      "But what is…",
+      "At times…",
+      "This can lead to…",
+      "Other states likely to…"
+    ]
+  },
+  "10": {
+    "paragraphs": [
+      "Scientists say [1] striking the Earth in 2032 has increased. Recent calculations suggest there is a small chance - perhaps [2] - the space rock 2024 YR4 will hit Earth in 2032. This also means there is around [3] it will safely pass our planet in that year. The odds of a strike will likely continue to [4] as the asteroid’s path around the sun is better understood. And scientists say there is a good chance the risk will [5]. NASA and the European Space Agency’s Webb Space Telescope will observe this near-Earth asteroid in March before the object becomes [6]. Once that happens, scientists will have to [7] when it passes our way again.",
+      "Asteroids are space rocks orbiting the sun. Asteroids are much smaller than planets. Scientists believe they are [8] from the solar system’s formation [9]. There are millions of asteroids orbiting the sun between Mars and Jupiter. That area is known as [10]. The asteroids sometimes [11] and can end up elsewhere. A telescope in Chile discovered the asteroid 2024 YR4 in late December. It is estimated to measure [12]. NASA said observations by the Webb space telescope should provide [13]. At first, NASA and the European Space Agency put the odds of a strike at [14]. But later calculations suggested the odds had risen to 2 or even 3 percent.",
+      "NASA described the likelihood of a strike as “[15].” Until scientists have [16] of the asteroid’s path around the sun, they warned that the odds will continue to change — and quite possibly fall to zero. “You don’t have to be worried about anything. It’s a curiosity,” said Larry Denneau. He is a software engineer at the University of Hawaii working with ATLAS, a program to identify asteroids that [17]. That effort first spotted the asteroid. Denneau said, “Don’t panic. [18], and we’ll have a for-sure answer.” In 2021, NASA said another possibly worrisome asteroid, Apophis, [19] to Earth. NASA made the announcement after additional telescope observations [20] of it hitting Earth in 2068.",
+      "Experts say it is too soon to worry about 2024 YR4. Paul Chodas is director of NASA’s Center for Near-Earth Object Studies. Chodas said in an email to the Associated Press, “No one should be concerned that [21]. This is the behavior our team expected.” Chodas added, “To be clear, we expect the impact probability to drop to zero at some point.” Since [22], it is unclear where it might hit and what the possible effects would be should it strike Earth. ESA said, if the asteroid is smaller, the effect might be similar to the Tunguska event that flattened [23] in Siberia in 1908. But if the asteroid is larger, close to 100 meters, the effects “[24].” Chodas said once the Webb telescope measures the asteroid’s size, NASA can predict “how serious an impact this asteroid could produce and how difficult a task it might be to [25].” NASA already has some experience moving an asteroid.",
+      "The space agency’s Dart spacecraft hit a harmless asteroid in 2022. This was the first planetary defense test of its kind, changing the asteroid’s orbit around its larger companion asteroid. I’m John Russell."
+    ],
+    "answers": [
+      "the threat of a large space rock",
+      "around 1 to 3 percent",
+      "a 97 to 99 percent chance",
+      "go up and down",
+      "drop to zero",
+      "impossible to see",
+      "wait until 2028",
+      "the leftovers",
+      "4.6 billion years ago",
+      "the main asteroid belt",
+      "get pushed out of the belt",
+      "between 40 and 90 meters across",
+      "a more exact measurement",
+      "just over one percent",
+      "extremely low",
+      "a better understanding",
+      "might endanger Earth",
+      "Let the process play out",
+      "did not present a risk",
+      "ruled out any chance",
+      "the impact probability is rising",
+      "the asteroid’s size and orbit are uncertain",
+      "thousands of square kilometers of forest",
+      "would be significantly worse",
+      "deflect this asteroid"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "around one to three percent",
+        "around 1 to 3 per cent",
+        "around 1 to 3%"
+      ],
+      [
+        "a ninety-seven to ninety-nine percent chance",
+        "a 97 to 99 per cent chance",
+        "a 97 to 99% chance"
+      ],
+      [],
+      [],
+      [],
+      [
+        "wait until twenty twenty-eight",
+        "wait until two thousand and twenty-eight"
+      ],
+      [],
+      [
+        "four point six billion years ago"
+      ],
+      [],
+      [],
+      [
+        "between forty and ninety meters across",
+        "between 40 and 90 metres across",
+        "between forty and ninety metres across"
+      ],
+      [],
+      [
+        "just over 1 percent",
+        "just over one per cent",
+        "just over 1%"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "thousands of square kilometres of forest"
+      ],
+      [],
+      []
+    ],
+    "contentRevision": "2a634fe2c605",
+    "paraphrases": [
+      [
+        "go up and down",
+        "fluctuate",
+        "Fluctuate diễn tả tăng rồi giảm, không phải chỉ tăng.",
+        38.9,
+        50
+      ],
+      [
+        "the risk will drop to zero",
+        "the probability of danger will fall to nothing",
+        "Zero là bằng không; câu nói về dự đoán trong bản tin.",
+        50.8,
+        57.6
+      ],
+      [
+        "the leftovers from the solar system’s formation",
+        "material remaining from when the solar system formed",
+        "Leftovers là những phần còn lại.",
+        92.5,
+        101.8
+      ],
+      [
+        "can end up elsewhere",
+        "may eventually be found in another place",
+        "End up nói về vị trí cuối cùng sau sự dịch chuyển.",
+        114.4,
+        121.3
+      ],
+      [
+        "a more exact measurement",
+        "a more precise estimate of its dimensions",
+        "Measurement ở đây là đo kích thước tiểu hành tinh.",
+        131.7,
+        146
+      ],
+      [
+        "extremely low",
+        "very small in probability",
+        "Ngữ cảnh nói xác suất, không phải chiều cao vật thể.",
+        165.4,
+        170.5
+      ],
+      [
+        "might endanger Earth",
+        "could put our planet at risk",
+        "Giữ tính khả năng của might.",
+        194.2,
+        206.1
+      ],
+      [
+        "Let the process play out",
+        "Allow the investigation to run its course",
+        "Play out nghĩa là để quá trình diễn ra đến kết quả.",
+        210.5,
+        218.6
+      ],
+      [
+        "ruled out any chance",
+        "excluded the possibility",
+        "Rule out là loại trừ một khả năng.",
+        230.7,
+        241.7
+      ],
+      [
+        "deflect this asteroid",
+        "change the direction of this space rock",
+        "Deflect là làm lệch hướng, không nhất thiết phá hủy.",
+        319.2,
+        336.2
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "calculation",
+        "meaning": "phép tính; sự tính toán",
+        "note": "A process of using numbers to find a result."
+      },
+      {
+        "term": "odds",
+        "meaning": "khả năng; xác suất",
+        "note": "The likelihood of something happening."
+      },
+      {
+        "term": "leftovers",
+        "meaning": "phần còn lại",
+        "note": "Things remaining after a process or event."
+      },
+      {
+        "term": "asteroid belt",
+        "meaning": "vành đai tiểu hành tinh",
+        "note": "A region containing many asteroids."
+      },
+      {
+        "term": "measurement",
+        "meaning": "sự đo lường; số đo",
+        "note": "A value obtained by measuring something."
+      },
+      {
+        "term": "likelihood",
+        "meaning": "khả năng xảy ra",
+        "note": "How probable an event is."
+      },
+      {
+        "term": "endanger",
+        "meaning": "gây nguy hiểm cho",
+        "note": "To put someone or something at risk."
+      },
+      {
+        "term": "rule out",
+        "meaning": "loại trừ",
+        "note": "To decide that a possibility cannot occur or is not valid."
+      },
+      {
+        "term": "impact",
+        "meaning": "sự va chạm; tác động",
+        "note": "A collision or its effect."
+      },
+      {
+        "term": "deflect",
+        "meaning": "làm chệch hướng",
+        "note": "To cause an object to change direction."
+      }
+    ],
+    "signals": [
+      "This also means…",
+      "At first…",
+      "But later calculations…",
+      "To be clear…"
+    ]
+  },
+  "11": {
+    "paragraphs": [
+      "A recent study about the smell of [1] reached [2]. The ancient bodies did not smell bad, the researchers found. Instead, they say, the remains mostly smelled good. Cecilia Bembibre is director of research at University College London's Institute for Sustainable Heritage. “In films and books, terrible things happen to those who smell mummified bodies,” she said. “We were surprised at [3].\" The researchers reported the leading descriptions of the smells as “woody,” “spicy” and “sweet.” They also reported [4]. That smell could be from pine and juniper resins used in mummification; a process designed to [5]. The study appeared recently in the Journal of the American Chemical Society. It used both [6] and several human smellers to study [7]. The mummies, some [8], had been housed at the Egyptian Museum in Cairo. Bembibre, one of the report’s writers, said the researchers wanted to study the smell of mummies because it has long been [9] for the public and researchers alike. She added that even fiction writers have written pages of work on the subject — for good reason. Scent, or smell, was [10] in the mummification process.",
+      "This process used [11] to protect the body and its spirit [12]. Mummification was largely used for powerful people such as pharaohs and other leaders. Pleasant smells were linked with [13]. Bad smells were signs of [14]. Researchers did not want to directly measure the mummies, because doing so [15]. Instead, researchers were able to take measurements that [16]. Researchers from UCL and the University of Ljubljana in Slovenia were able to measure smells, pesticides, and other effects due to mold, bacteria or microorganisms. Using [17] to measure [18] released from sarcophagi was very important, said Matija Strlič, a chemistry professor at the University of Ljubljana.",
+      "\"It tells us potentially [19] and therefore reveals a lot of information about the mummified body....\" he said. “We believe that this approach is potentially of huge interest to [20].” Barbara Huber of the Max Planck Institute of Geoanthropology in Germany was not involved in the study. Huber said the findings provide important data on compounds that could [21]. The information could be used to better protect the ancient bodies [22]. Huber said that over thousands of years, differing conditions have changed the scents of the mummies in a major way. Huber wrote a study two years ago that examined a jar that had contained mummified organs of a woman. The goal was to identify the material used to preserve the organs and what that would show about [23].",
+      "Researchers of the current study hope to do something similar. They want to use their findings to develop “smellscapes” to [24]. They also want to change the experience for future museumgoers. Bembibre said museums generally ask visitors to experience everything with their eyes. She added that seeing mummies through “a glass case reduces the experience because we don’t get to smell them.” Smelling the scents of mummification would [25], she suggested, as smell is one of the ways that people understand the world. I’m John Russell."
+    ],
+    "answers": [
+      "Egyptian mummies",
+      "some surprising findings",
+      "the pleasantness of them",
+      "a floral or flowery smell",
+      "protect the body from decay",
+      "chemical examinations",
+      "nine mummies",
+      "around 5,000 years old",
+      "a subject of interest",
+      "an important consideration",
+      "oils and plant-based materials",
+      "for the afterlife",
+      "purity and gods",
+      "corruption and decay",
+      "might be damaging",
+      "did not involve touching the mummies",
+      "technical instruments",
+      "air molecules",
+      "what social class a mummy was from",
+      "other types of museum collections",
+      "preserve or damage mummified remains",
+      "for future generations",
+      "ancient trade paths",
+      "recreate the scents they discovered",
+      "improve the museum visitors’ experiences"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "9 mummies"
+      ],
+      [
+        "around five thousand years old"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "30704f94f8d3",
+    "paraphrases": [
+      [
+        "the remains mostly smelled good",
+        "the preserved bodies generally had a pleasant odour",
+        "Mostly là nhìn chung, không phải tất cả đều giống nhau.",
+        14.9,
+        19.7
+      ],
+      [
+        "a floral or flowery smell",
+        "a scent resembling flowers",
+        "Floral và flowery cùng mô tả mùi giống hoa.",
+        52.4,
+        56.9
+      ],
+      [
+        "protect the body from decay",
+        "prevent the remains from decomposing",
+        "Decay nói về sự phân hủy.",
+        57.9,
+        68.9
+      ],
+      [
+        "for the public and researchers alike",
+        "for both ordinary people and scientists",
+        "Alike nhấn mạnh cả hai nhóm đều quan tâm.",
+        95.5,
+        110.7
+      ],
+      [
+        "might be damaging",
+        "could cause harm",
+        "Giữ nguyên khả năng gây hại, không khẳng định đã gây hại.",
+        155.8,
+        162.8
+      ],
+      [
+        "did not involve touching the mummies",
+        "required no physical contact with the preserved bodies",
+        "Diễn giải phương pháp đo không tiếp xúc.",
+        163.8,
+        171.5
+      ],
+      [
+        "reveals a lot of information",
+        "discloses many details",
+        "Reveal là làm lộ ra hoặc cung cấp thông tin trước đó chưa rõ.",
+        206,
+        217.8
+      ],
+      [
+        "for future generations",
+        "for people who will live after us",
+        "Future generations chỉ các thế hệ về sau.",
+        246.7,
+        254
+      ],
+      [
+        "recreate the scents they discovered",
+        "reproduce the smells they identified",
+        "Recreate ở đây là tái tạo mùi, không phải giải trí.",
+        292.1,
+        299.3
+      ],
+      [
+        "experience everything with their eyes",
+        "rely entirely on sight to engage with the exhibits",
+        "Câu mô tả cách tham quan chủ yếu bằng thị giác.",
+        306.4,
+        313.3
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "mummy",
+        "meaning": "xác ướp",
+        "note": "A dead body preserved to prevent decay."
+      },
+      {
+        "term": "remains",
+        "meaning": "di hài; phần còn lại",
+        "note": "What is left of a body or object."
+      },
+      {
+        "term": "floral",
+        "meaning": "có mùi hoa; thuộc hoa",
+        "note": "Relating to or resembling flowers."
+      },
+      {
+        "term": "resin",
+        "meaning": "nhựa cây",
+        "note": "A sticky substance produced by some trees."
+      },
+      {
+        "term": "mummification",
+        "meaning": "quá trình ướp xác",
+        "note": "The process of preserving a body as a mummy."
+      },
+      {
+        "term": "decay",
+        "meaning": "sự phân hủy; phân rã",
+        "note": "The process by which organic matter breaks down."
+      },
+      {
+        "term": "afterlife",
+        "meaning": "thế giới bên kia; cuộc sống sau khi chết",
+        "note": "A life after death believed in by some traditions."
+      },
+      {
+        "term": "purity",
+        "meaning": "sự tinh khiết; thanh sạch",
+        "note": "The state of being free from contamination."
+      },
+      {
+        "term": "sarcophagus",
+        "meaning": "quan tài bằng đá",
+        "note": "A stone coffin, often decorated with carvings."
+      },
+      {
+        "term": "preserve",
+        "meaning": "bảo quản; gìn giữ",
+        "note": "To protect something from damage or decay."
+      }
+    ],
+    "signals": [
+      "Instead, they say…",
+      "This process used…",
+      "Instead, researchers…",
+      "The goal was…"
+    ]
+  },
+  "12": {
+    "paragraphs": [
+      "Smartphones have become [1] for helping to organize our lives. However, the devices can also [2] that users might want to keep private. Here are some tips, suggested by the Associated Press (AP), to help smartphone users [3] on personal devices. All a user has to do is open a phone’s map tool to search for a restaurant or other business to [4]. Similarly, someone choosing to look up the price of a product online can [5] the smartphone to track the user’s location and share data with others. Darren Guccione is the chief executive of U.S.-based internet security company Keeper Security. He told the AP that many apps, “from fitness tracking to navigation,” can record data signals that show a user’s movements, [6].",
+      "Guccione’s advice to users is to “turn on location tracking [7], such as during navigation, emergencies or sharing updates with [8]…” He adds that after this kind of necessary tracking is complete, users should [9]. One step to limit smartphone tracking is to identify and change [10]. To do this, iPhone users can first go to the device’s Privacy and Security settings. Then go to Location Services to check settings for individual apps. Internet security experts say it is not a good idea to let apps always [11]. Instead, get the app to either ask first before using your location, or use it [12]. A user can also choose the setting that never lets an app track location.",
+      "The process works a little differently for Android phones because [13]. In general, Android users should go to settings. Then go to Location to turn the setting on or off for all apps. To avoid being tracked by advertising systems, privacy experts suggest that users [14] on Android or Apple devices. This can stop [15] from tracking ads to target users. To do this, iPhone users can go to the Privacy setting, then find Apple Advertising. Then turn off [16]. On newer Android phones, users should go to the Privacy setting, then to Ads, and choose [17]. Along with app permissions for your device, security experts say it is a good idea to look closely at your Google account to make sure it is not tracking you. To find this out, go to myaccount.google.com and find Data and Privacy.",
+      "Users can find Location History controls there. Under recent changes, the history will be removed [18] although users can change that setting as well. Popular web browsers for smartphones – like Safari or Chrome – could also [19]. Try using one that [20]. Such browsers include DuckDuckGo, Firefox Focus or Ecosia. If a privacy-protected browser needs to identify your location [21], it will ask first before doing so. These kinds of browsers will also let users easily remove internet cookies and other web browsing data. Phones or tablets can also be tracked with Apple's Find My or Google's Find My Device services designed to [22]. Users can turn this tool off if they think someone was able to take control of their Apple or Google account and is using it for tracking.",
+      "Some cybersecurity websites advise using a smartphone’s Airplane Mode to block tracking operations. But some experts say this does not always turn off all tracking signals. Users should not [23] to block data collection. A better tool in many situations would be [24]. These block [25] to the smartphone. Experts suggest testing the bag to make sure data is actually being blocked. While such bags can be helpful, devices kept inside the containers cannot be used. I’m Bryan Lynn."
+    ],
+    "answers": [
+      "valuable tools",
+      "capture personal data and location information",
+      "limit the collection of private data",
+      "activate data tracking",
+      "unknowingly permit",
+      "both physical and digital",
+      "only when necessary",
+      "trusted contacts",
+      "immediately turn off location tracking",
+      "app permission settings",
+      "use your location in the background",
+      "only when the app is open",
+      "manufacturers have different versions",
+      "block advertising identifiers",
+      "third parties",
+      "Personalized Ads",
+      "Delete Advertising ID",
+      "after three months",
+      "give away location information",
+      "does not store your data",
+      "through an IP address",
+      "recover lost devices",
+      "depend on this setting alone",
+      "a signal-blocking Faraday bag",
+      "all wireless signals"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "personalised ads"
+      ],
+      [],
+      [
+        "after 3 months"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "4eb35cd6122f",
+    "paraphrases": [
+      [
+        "users might want to keep private",
+        "people may prefer not to disclose",
+        "Might want giữ ý mong muốn có thể có, không khẳng định mọi người đều như nhau.",
+        8.9,
+        21.3
+      ],
+      [
+        "unknowingly permit",
+        "allow without being aware of it",
+        "Unknowingly nghĩa là không biết rằng mình đang cho phép.",
+        51.7,
+        67.4
+      ],
+      [
+        "only when necessary",
+        "solely when there is a real need",
+        "Only giữ giới hạn trường hợp cần thiết.",
+        98.2,
+        114
+      ],
+      [
+        "immediately turn off location tracking",
+        "disable location monitoring straight away",
+        "Immediately và straight away đều chỉ làm ngay.",
+        111.7,
+        123.2
+      ],
+      [
+        "in the background",
+        "while the app is not actively being used",
+        "Background mô tả hoạt động của ứng dụng ngoài lúc sử dụng trực tiếp.",
+        149.6,
+        159.3
+      ],
+      [
+        "third parties",
+        "people or organisations other than the user and service provider",
+        "Third party chỉ bên ngoài mối quan hệ trực tiếp giữa người dùng và dịch vụ.",
+        199.4,
+        219.9
+      ],
+      [
+        "give away location information",
+        "disclose data about where someone is",
+        "Give away ở đây là tiết lộ thông tin.",
+        284.9,
+        294.7
+      ],
+      [
+        "recover lost devices",
+        "find and regain missing phones or tablets",
+        "Recover lost devices là tìm lại thiết bị thất lạc.",
+        331.9,
+        345.2
+      ],
+      [
+        "should not depend on this setting alone",
+        "should avoid relying solely on this option",
+        "Giữ nguyên lời khuyên không phụ thuộc vào duy nhất một cài đặt.",
+        369.8,
+        382.6
+      ],
+      [
+        "devices kept inside the containers cannot be used",
+        "phones enclosed in these bags are unusable while inside",
+        "Giữ điều kiện khi thiết bị nằm trong túi chắn tín hiệu.",
+        403.9,
+        411.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "capture data",
+        "meaning": "thu thập dữ liệu",
+        "note": "To collect and record information."
+      },
+      {
+        "term": "unknowingly",
+        "meaning": "mà không hay biết",
+        "note": "Without being aware of something."
+      },
+      {
+        "term": "navigation",
+        "meaning": "việc dẫn đường; định hướng",
+        "note": "Finding and following a route."
+      },
+      {
+        "term": "permission",
+        "meaning": "quyền cho phép",
+        "note": "Authorisation to do something."
+      },
+      {
+        "term": "identifier",
+        "meaning": "mã định danh",
+        "note": "A code or value used to distinguish a device or user."
+      },
+      {
+        "term": "third party",
+        "meaning": "bên thứ ba",
+        "note": "An outside person or organisation."
+      },
+      {
+        "term": "personalized",
+        "meaning": "được cá nhân hóa",
+        "note": "Adapted to an individual's interests or information."
+      },
+      {
+        "term": "browser",
+        "meaning": "trình duyệt",
+        "note": "Software used to view websites."
+      },
+      {
+        "term": "recover",
+        "meaning": "tìm lại; khôi phục",
+        "note": "To get something back after losing it."
+      },
+      {
+        "term": "wireless",
+        "meaning": "không dây",
+        "note": "Communicating without a physical cable."
+      }
+    ],
+    "signals": [
+      "However, the devices…",
+      "Similarly…",
+      "Instead, get the app…",
+      "While such bags…"
+    ]
+  },
+  "13": {
+    "paragraphs": [
+      "European manufacturer Airbus has announced [1] of a hydrogen-powered aircraft. The company explained that progress on the project has been [2]. Airbus had set a goal to make [3] [4]. The company has not announced [5] for the plane’s production. But the French union Force Ouvrière said some of its aircraft workers were recently told the technology was running [6], Reuters news agency reported. The French news agency AFP reported Airbus also said it had [7], but was still examining ways to reduce emissions. \"Our ambition and roadmap towards decarbonizing [8],\" an Airbus spokesman told AFP.",
+      "In September 2020, Airbus presented [9], called ZEROe, as part of its efforts to decarbonize. Other airplane manufacturers, however, have centered more on [10] or developing electric-powered planes for [11]. Airbus noted it has no plans to completely stop developing hydrogen-powered aircraft technology. The company said it sees hydrogen as “[12] for aviation.\" However, Airbus said in a statement to Reuters it recognizes that developing systems to [13] represent “a huge challenge requiring [14].\" Hydrogen motors do not release gases that can warm the earth’s atmosphere.",
+      "Instead, they release water. However, much of the hydrogen used for fuel is produced using [15]. Both of these production methods often [16], which can warm the atmosphere. Running renewable electricity through water can produce hydrogen [17].",
+      "However, this process is [18]. Transporting and storing hydrogen also present problems. As a gas [19], hydrogen takes up a very large space. This makes it impossible to use as fuel. It first needs to be [20] to be transported or stored. And it needs to be cooled to [21] to be liquefied. This cooling process requires its own source of energy. Liquified hydrogen still takes up [22]. The airline industry trade association IATA believes aviation will reach most of its reduction in emissions by using [23], or SAF. It believes other technologies, like hydrogen, will take longer to develop. SAF uses food and plant waste from cities, agricultural and forest wastes, and other non-petroleum sources.",
+      "This fuel is then added to jet fuel in [24] to become SAF. Airbus says it agrees that SAF can also play an important part in reducing emissions, particularly for [25]. I’m Andrew Smith."
+    ],
+    "answers": [
+      "a delay in its development efforts",
+      "slower and more complex than expected",
+      "a zero-emission airplane",
+      "by 2035",
+      "a new target date",
+      "five to 10 years behind",
+      "reduced the program’s budget by 25 percent",
+      "remain unchanged",
+      "three hydrogen-fueled airplane designs",
+      "renewable fuels",
+      "short-distance flights",
+      "a revolutionary energy source",
+      "produce, transport, and store hydrogen",
+      "global collaboration and investment",
+      "natural gas or coal",
+      "release carbon dioxide gas",
+      "without adding to carbon emissions",
+      "generally more costly",
+      "at room temperature",
+      "turned into a liquid",
+      "minus 253 degrees Celsius",
+      "four times the space of jet fuel",
+      "sustainable aviation fuel",
+      "mixtures of 10 to 50 percent",
+      "medium and long-distance flights"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [
+        "by twenty thirty-five",
+        "by two thousand and thirty-five"
+      ],
+      [],
+      [
+        "five to ten years behind",
+        "5 to 10 years behind"
+      ],
+      [
+        "reduced the programme's budget by 25 percent",
+        "reduced the program's budget by twenty-five percent",
+        "reduced the programme's budget by twenty-five per cent",
+        "reduced the program's budget by 25%"
+      ],
+      [],
+      [
+        "3 hydrogen-fueled airplane designs",
+        "three hydrogen-fuelled airplane designs",
+        "three hydrogen-fuelled aeroplane designs"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "-253 degrees Celsius",
+        "−253 degrees Celsius",
+        "-253°C",
+        "minus two hundred and fifty-three degrees Celsius",
+        "minus two hundred fifty-three degrees Celsius"
+      ],
+      [
+        "4 times the space of jet fuel"
+      ],
+      [],
+      [
+        "mixtures of ten to fifty percent",
+        "mixtures of 10 to 50 per cent",
+        "mixtures of 10 to 50%"
+      ],
+      []
+    ],
+    "contentRevision": "f58421745682",
+    "paraphrases": [
+      [
+        "slower and more complex than expected",
+        "less rapid and more complicated than anticipated",
+        "Giữ nguyên cả hai phép so sánh về tiến độ và độ phức tạp.",
+        12.2,
+        21.7
+      ],
+      [
+        "a new target date",
+        "a revised planned deadline",
+        "Target date là mốc dự kiến, không phải ngày chắc chắn.",
+        31.6,
+        37.5
+      ],
+      [
+        "five to 10 years behind",
+        "delayed by between five and ten years",
+        "Giữ nguyên khoảng chậm tiến độ.",
+        38.5,
+        55.7
+      ],
+      [
+        "remain unchanged",
+        "stay the same",
+        "Remain unchanged diễn đạt không thay đổi.",
+        73.8,
+        85.1
+      ],
+      [
+        "no plans to completely stop developing",
+        "no intention of abandoning development entirely",
+        "Giữ nguyên phủ định và mức độ hoàn toàn của completely.",
+        114.6,
+        123.2
+      ],
+      [
+        "global collaboration and investment",
+        "international cooperation and financial support",
+        "Collaboration là cùng hợp tác; investment bổ sung yếu tố nguồn vốn.",
+        133.5,
+        153.2
+      ],
+      [
+        "without adding to carbon emissions",
+        "without increasing the release of carbon gases",
+        "Giữ nguyên ý không làm tăng phát thải ở phương pháp được nói đến.",
+        184.9,
+        193.1
+      ],
+      [
+        "generally more costly",
+        "usually more expensive",
+        "Generally và usually đều chỉ xu hướng thường gặp, không tuyệt đối.",
+        194.6,
+        198.3
+      ],
+      [
+        "turned into a liquid",
+        "converted from gas to a liquid state",
+        "Ngữ cảnh là làm hiđrô chuyển từ thể khí sang thể lỏng.",
+        218.1,
+        233
+      ],
+      [
+        "will take longer to develop",
+        "will need more time to become ready for use",
+        "Giữ nguyên phép so sánh thời gian phát triển.",
+        264.4,
+        270.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "manufacturer",
+        "meaning": "nhà sản xuất",
+        "note": "A company that makes goods."
+      },
+      {
+        "term": "zero-emission",
+        "meaning": "không phát thải khi vận hành",
+        "note": "Producing no emissions during operation."
+      },
+      {
+        "term": "decarbonize",
+        "meaning": "khử cacbon; giảm phát thải cacbon",
+        "note": "To reduce carbon emissions from an activity or system."
+      },
+      {
+        "term": "renewable",
+        "meaning": "có thể tái tạo",
+        "note": "Naturally replenished rather than permanently used up."
+      },
+      {
+        "term": "aviation",
+        "meaning": "ngành hàng không",
+        "note": "The operation and development of aircraft."
+      },
+      {
+        "term": "collaboration",
+        "meaning": "sự hợp tác",
+        "note": "Working together towards a shared aim."
+      },
+      {
+        "term": "investment",
+        "meaning": "sự đầu tư; vốn đầu tư",
+        "note": "Money or resources provided for future development."
+      },
+      {
+        "term": "liquefy",
+        "meaning": "hóa lỏng",
+        "note": "To turn a substance into a liquid."
+      },
+      {
+        "term": "sustainable",
+        "meaning": "bền vững",
+        "note": "Able to continue while limiting long-term environmental damage."
+      },
+      {
+        "term": "petroleum",
+        "meaning": "dầu mỏ",
+        "note": "Naturally occurring oil used to make fuels and chemicals."
+      }
+    ],
+    "signals": [
+      "But the French union…",
+      "Other airplane manufacturers, however…",
+      "Instead, they release…",
+      "However, this process…"
+    ]
+  },
+  "14": {
+    "paragraphs": [
+      "Scientists say Europe’s Euclid space telescope has discovered [1] circling a nearby galaxy. The observed light is known as an Einstein ring. Researchers have estimated the ring encircles a galaxy [2] away from Earth. A light year is [3] – [4]. Astronomers have long known about the galaxy where the ring was discovered. So, they were surprised that the bright ring had not been identified before. It was discovered in [5] called NGC 6505. It is in the constellation – [6] – named Draco. Einstein rings are rare. They form when light from [7] bends around a closer galaxy. The nearer galaxy appears to have a circle of light, or a halo, around it. The Einstein ring gets its name from physicist Albert Einstein. Einstein predicted that light would bend around [8] in space. This is called “[9].” The American space agency NASA explains that as light passes through a gravitational lens, “it may take different paths, producing [10].” In this way, gravity itself acts as a lens, [11] in a way that is similar to [12] like those in eyeglasses or contact lenses. Gravitational lenses permit telescopes like Euclid to observe [13]. In the latest project, researchers from Germany’s Max Planck Institute for Astrophysics used data from Euclid to [14] to discover the Einstein ring. The Euclid space telescope is operated by the European Space Agency (ESA). In 2023, it launched on [15] that ESA officials have said aims to study the mysteries of [16] across the universe.",
+      "Astronomers at the Max Planck Institute are leading the research. In a statement, the organization said the first sign that the Einstein ring existed came during testing right after Euclid [17]. A team member, Bruno Altieri, was [18] collected by Euclid. “Even from that first observation, I could see it,” Altieri said in a statement. “But after Euclid made more observations of the area, we could see a perfect Einstein ring. For me, with [19] in gravitational lensing, that was amazing.” The scientists said the more distant galaxy involved in the method is [20] away from Earth.",
+      "They noted that the more distant galaxy [21] and does not have a name. Altieri’s team recently reported the findings in a study in the publication Astronomy and Astrophysics. Conor O’Riordan is another team member from the Max Planck Institute and was the lead writer of the study. He said, “All strong lenses are special, because they're so rare, and they're [22]. This one is particularly special, because it’s so close to Earth and [23] makes it very beautiful.” O’Riordan added that the researchers used the latest gravitational lensing methods developed at the institute. This permitted them to model the light of the ring. “We even had to look at some of the [24] to better understand how the detector works.” O’Riordan said the team’s modeling operations were just the first step in studying the newly discovered Einstein ring. He said the group plans to use the ring to also study “dark matter substructures” within the lensing galaxy.",
+      "O’Riordan predicted, “Euclid is going to [25], with all this data we've never had before.” I’m Bryan Lynn."
+    ],
+    "answers": [
+      "a bright ring of light",
+      "590 million light years",
+      "the distance light travels in a year",
+      "about 9.5 trillion kilometers",
+      "a well-studied galaxy",
+      "a group of stars",
+      "a more distant galaxy",
+      "extremely massive objects",
+      "gravitational lensing",
+      "multiple images of the same object",
+      "magnifying and distorting space and time",
+      "an optical lens",
+      "more distant and less-bright objects",
+      "create a computer model",
+      "a six-year mission",
+      "dark matter and dark energy",
+      "was deployed",
+      "looking over early data",
+      "a lifelong interest",
+      "about 4.4 billion light years",
+      "had never been observed before",
+      "incredibly useful scientifically",
+      "the alignment",
+      "raw data",
+      "revolutionize the field"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "five hundred and ninety million light years",
+        "five hundred ninety million light years"
+      ],
+      [],
+      [
+        "about nine point five trillion kilometers",
+        "about 9.5 trillion kilometres",
+        "about nine point five trillion kilometres"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a 6-year mission"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "about four point four billion light years"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "revolutionise the field"
+      ]
+    ],
+    "contentRevision": "674e2c6fc322",
+    "paraphrases": [
+      [
+        "have estimated",
+        "have calculated approximately",
+        "Estimate diễn đạt giá trị ước tính, không nhất thiết tuyệt đối chính xác.",
+        19.1,
+        29.7
+      ],
+      [
+        "had not been identified before",
+        "had never previously been recognised",
+        "Giữ nguyên ý chưa được nhận diện trước lần phát hiện này.",
+        40.7,
+        54.4
+      ],
+      [
+        "a circle of light, or a halo",
+        "a ring-shaped glow",
+        "Halo là quầng sáng có dạng vòng quanh vật thể.",
+        83.9,
+        91
+      ],
+      [
+        "extremely massive objects",
+        "bodies with exceptionally large masses",
+        "Massive trong vật lý nhấn mạnh khối lượng, không đơn thuần độ sáng.",
+        98.2,
+        112.5
+      ],
+      [
+        "multiple images of the same object",
+        "several views of one and the same body",
+        "Giữ nguyên nhiều ảnh nhưng chỉ một vật thể nguồn.",
+        113.3,
+        130.2
+      ],
+      [
+        "more distant and less-bright objects",
+        "bodies that are farther away and dimmer",
+        "Giữ nguyên cả hai phép so sánh khoảng cách và độ sáng.",
+        149.6,
+        160.6
+      ],
+      [
+        "was looking over early data",
+        "was examining information collected at the beginning",
+        "Look over nghĩa là xem xét, không phải nhìn qua phía trên.",
+        223.4,
+        232.2
+      ],
+      [
+        "with a lifelong interest",
+        "with an interest maintained throughout life",
+        "Lifelong nói về sự quan tâm lâu dài suốt đời.",
+        250.2,
+        257.1
+      ],
+      [
+        "raw data",
+        "information in its original, unprocessed form",
+        "Raw trong ngữ cảnh dữ liệu nghĩa là chưa xử lý.",
+        337.7,
+        345
+      ],
+      [
+        "revolutionize the field",
+        "bring about a fundamental change in this area of research",
+        "Revolutionize là thay đổi căn bản, mạnh hơn cải tiến nhỏ.",
+        369.7,
+        379.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "galaxy",
+        "meaning": "thiên hà",
+        "note": "A large system of stars, gas, dust and other matter."
+      },
+      {
+        "term": "light year",
+        "meaning": "năm ánh sáng",
+        "note": "The distance light travels in one year."
+      },
+      {
+        "term": "constellation",
+        "meaning": "chòm sao",
+        "note": "A named pattern or group of stars seen in the sky."
+      },
+      {
+        "term": "halo",
+        "meaning": "quầng sáng",
+        "note": "A ring of light around an object."
+      },
+      {
+        "term": "gravitational lensing",
+        "meaning": "hiện tượng thấu kính hấp dẫn",
+        "note": "The bending of light by the gravity of a massive object."
+      },
+      {
+        "term": "magnify",
+        "meaning": "phóng đại",
+        "note": "To make something appear larger."
+      },
+      {
+        "term": "distort",
+        "meaning": "làm biến dạng",
+        "note": "To change the shape or appearance of something."
+      },
+      {
+        "term": "deploy",
+        "meaning": "triển khai; đưa vào hoạt động",
+        "note": "To position something so that it can be used."
+      },
+      {
+        "term": "alignment",
+        "meaning": "sự thẳng hàng; cách sắp xếp tương đối",
+        "note": "The arrangement of objects along a line or relative to each other."
+      },
+      {
+        "term": "detector",
+        "meaning": "thiết bị dò; bộ cảm biến",
+        "note": "An instrument that identifies or measures a signal."
+      }
+    ],
+    "signals": [
+      "So, they were surprised…",
+      "In this way…",
+      "In the latest project…",
+      "This permitted them…"
+    ]
+  },
+  "15": {
+    "paragraphs": [
+      "There are several terms experts use to describe computer systems in the field of artificial intelligence. Recently, the French News Agency (AFP) defined some of the common terms and ideas used in that field. Here is a version for English learners: The first term is “artificial intelligence.” When asked what artificial intelligence is, the AI-powered ChatGPT system says that the term means “[1] in machines that are [2]\". AI's main quality or characteristic is [3] and then processing it using [4]. AI involves using ideas from many fields including computing, mathematics, languages, psychology, and others. Currently, the technology is being used heavily for investigating health issues, translating human languages, and predicting problems in machine tools and self-driving cars. But AI is affecting many fields of business and industry. A second important term is “algorithm.” An algorithm is important to all computer operations. It is [5] followed by a computer program to get a result. Algorithms can give rules for an AI's behavior, helping it to [6] of computer program developers. Unlike a simple computer program, AI algorithms permit a computer system to “learn” for itself. A third important term is “machine learning.” Machine learning is one method that researchers have used in their efforts to produce artificial intelligence. Machine learning lets computers learn from data [7] on what results to produce. In recent years, the field of neural networks has given important results. In a neural network, [8] are strengthened and others weakened as the system learns and makes changes. Learning can be \"supervised.\" This means the system learns to [9] based on a model. For example, the system could learn to [10] in an email or other messaging programs. \"Unsupervised\" learning permits the system to [11] or ways of doing things. These discoveries in the available data might not have been immediately clear. An example would be letting an online store identify [12]. \"Reinforcement\" learning adds a process of [13]. In this process, the system is [14], causing it to learn and improve. One example might be a self-driving vehicle whose objective is to [15] but also safely. That requirement would lead it to learn to stop at red lights although it requires additional time. Deep learning owes its name to its use of [16]. Raw data is examined by each layer in turn [17]. Geoffrey Hinton received the 2024 Nobel Peace Prize in Physics.",
+      "Hinton is credited with developing deep learning. Hinton received the prize along with 1980s neural-network developer John Hopfield. Francis Bach, head of France's SIERRA statistical learning laboratory, said this about deep learning: \"The more layers you have, the more complex behavior can become, and the more complex the behavior can be, the easier it is to [18].\" The method might help lead to [19]. We now turn to large language models (LLMs). These might be the most popular example of generative AI. Large language models power tools like OpenAI’s ChatGPT or Google’s Gemini. Such systems are able to write long papers, answer legal questions or even produce a cake recipe [20].",
+      "But the technology is still new. LLMs can suffer from \"hallucinations\"- the creation of content that is [21]. A final important term is artificial general intelligence (AGI) - one of the big goals of the whole AI field. AGI suggests [22] of a machine able to reproduce all human processes of human thinking. People who push the idea include OpenAI chief Sam Altman and his competitors at Anthropic. They consider such a system to be [23]. The goal is to use large amounts of [24] to train LLMs that are increasingly powerful. But critics say that LLM technology has important limits, including [25]. Maxime Amblard, computing professor at France's University of Lorraine, told AFP last year, \"LLMs do not work like human beings.\" Amblard added that humans, as flesh-and-blood intelligent beings, are \"sense-making machines\" with different abilities from today's computer systems. I’m Anna Matteo, and I’m John Russell."
+    ],
+    "answers": [
+      "the simulation of human intelligence",
+      "programmed to think, learn and make decisions",
+      "taking in large amounts of data",
+      "methods from statistics",
+      "a series of steps or instructions",
+      "realize the objectives",
+      "without being directly programmed",
+      "connections between some nodes",
+      "put new data into specific groups",
+      "identify spam",
+      "independently discover new areas",
+      "buying trends in sales data",
+      "repeated trial-and-error",
+      "rewarded based on its outcomes",
+      "reach its destination as quickly as possible",
+      "many layers of neural networks",
+      "at growing levels of abstraction",
+      "learn a desired behavior efficiently",
+      "scientific discoveries",
+      "based on their statistical models",
+      "false or incorrect",
+      "the unrealized dream",
+      "within reach",
+      "data and processing power",
+      "its ability to reason"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "realise the objectives"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "learn a desired behaviour efficiently"
+      ],
+      [],
+      [],
+      [],
+      [
+        "the unrealised dream"
+      ],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "ad7c7a6c8553",
+    "contentNote": "Lưu ý ở đoạn nói về giải Nobel: Người đọc nói nhầm “Nobel Peace Prize in Physics”. Tên đúng là “Nobel Prize in Physics” (giải Nobel Vật lý). Câu này không có chỗ trống.",
+    "paraphrases": [
+      [
+        "the simulation of human intelligence",
+        "the imitation of people's mental abilities",
+        "Simulation nói về mô phỏng khả năng trí tuệ, không khẳng định máy có đầy đủ trải nghiệm của con người.",
+        39.6,
+        48.8
+      ],
+      [
+        "realize the objectives",
+        "achieve the intended goals",
+        "Realize ở đây nghĩa là thực hiện được mục tiêu, không phải nhận ra.",
+        115.7,
+        125.5
+      ],
+      [
+        "without being directly programmed on what results to produce",
+        "without explicit instructions specifying every output",
+        "Giữ ý học từ dữ liệu thay vì lập trình trực tiếp từng kết quả.",
+        150.6,
+        159.4
+      ],
+      [
+        "identify spam",
+        "recognise unwanted messages",
+        "Spam chỉ thư hoặc tin nhắn rác.",
+        189.4,
+        197.4
+      ],
+      [
+        "might not have been immediately clear",
+        "may not have been obvious at first",
+        "Giữ nguyên mức độ chưa chắc chắn và ý chưa rõ ngay từ đầu.",
+        208.5,
+        215.1
+      ],
+      [
+        "repeated trial-and-error",
+        "successive attempts with learning from mistakes",
+        "Trial-and-error là thử nhiều cách và rút kinh nghiệm từ lỗi.",
+        224,
+        229.1
+      ],
+      [
+        "rewarded based on its outcomes",
+        "given positive feedback according to its results",
+        "Outcome là kết quả; việc thưởng phụ thuộc vào kết quả đó.",
+        229.9,
+        238.1
+      ],
+      [
+        "learn a desired behavior efficiently",
+        "acquire the intended behaviour with little wasted effort",
+        "Efficiently nhấn mạnh hiệu quả sử dụng công sức, không chỉ tốc độ.",
+        305.7,
+        318.7
+      ],
+      [
+        "content that is false or incorrect",
+        "information that is untrue or inaccurate",
+        "Giải thích hallucinations theo ngữ cảnh nội dung do mô hình tạo ra.",
+        361.3,
+        369
+      ],
+      [
+        "within reach",
+        "achievable",
+        "Within reach trong câu nói về điều được cho là có thể đạt tới.",
+        393.2,
+        406.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "simulation",
+        "meaning": "sự mô phỏng",
+        "note": "An imitation of a process or ability."
+      },
+      {
+        "term": "algorithm",
+        "meaning": "thuật toán",
+        "note": "A sequence of steps used to solve a problem or produce a result."
+      },
+      {
+        "term": "objective",
+        "meaning": "mục tiêu",
+        "note": "A result that someone intends to achieve."
+      },
+      {
+        "term": "neural network",
+        "meaning": "mạng nơ-ron",
+        "note": "A computing system made of connected units that adjust through training."
+      },
+      {
+        "term": "node",
+        "meaning": "nút; đơn vị kết nối",
+        "note": "An individual connected unit in a network."
+      },
+      {
+        "term": "supervised",
+        "meaning": "có giám sát",
+        "note": "Guided by examples with known or labelled outcomes in this context."
+      },
+      {
+        "term": "reinforcement",
+        "meaning": "sự củng cố; tăng cường",
+        "note": "Feedback that strengthens a pattern of behaviour."
+      },
+      {
+        "term": "abstraction",
+        "meaning": "sự trừu tượng hóa",
+        "note": "Representing information at a more general or conceptual level."
+      },
+      {
+        "term": "generative",
+        "meaning": "có khả năng tạo sinh",
+        "note": "Able to produce new content from learned patterns."
+      },
+      {
+        "term": "hallucination",
+        "meaning": "nội dung bịa hoặc sai do mô hình tạo ra",
+        "note": "In AI, generated information that is false or unsupported."
+      }
+    ],
+    "signals": [
+      "A second important term…",
+      "Unlike a simple computer program…",
+      "For example…",
+      "But critics say…"
+    ]
+  },
+  "16": {
+    "paragraphs": [
+      "A new study suggests an asteroid strike on the moon billions of years ago left [1] about the size of Earth’s Grand Canyon. Researchers from the United States and Britain said their research shows the two steep valleys, or canyons, likely formed in [2]. They noted the crash, or impact, happened near the south pole on the far side of the moon. That is the side of the moon which [3]. The area is known as the Schrödinger impact basin. The speed of the incoming object – which the team said might have been a comet – was estimated to be around [4]. The strike likely happened about [5]. The researchers used data collected by a spacecraft operated by the American space agency NASA. That vehicle, the Lunar Reconnaissance Orbiter, has been capturing lunar data [6] around the moon in [7].",
+      "One main goal of the orbiter’s mission was to create [8], three-dimensional, or 3D, map of the moon. The data has been used by NASA to learn more about [9] and to plan for future missions. The agency noted that the Lunar Reconnaissance Orbiter had “already collected as much data as [10].” The team studying the canyons used the orbiter’s map data to [11] of the incoming object, as well as material that [12]. The scientists recently published a study describing their results in Nature Communications. The group’s simulations suggested the space rock [13] before hitting. It then created a huge basin and launched rocky materials at speeds up to [14].",
+      "The researchers said material was sent flying and [15]. This resulted in the creation of the canyons. The team said the canyons appear [16] to the Grand Canyon, in the U.S. state of Arizona. The study’s lead writer was David Kring of the Lunar and Planetary Institute in Houston. He told the Associated Press that findings suggest the asteroid strike was a “very violent” geologic process. Kring and his team estimated the asteroid was [17]. They estimated that the energy needed to create the two canyons would have been [18] than the power of all [19]. Kring said most of the rock and debris was thrown in a direction away from the south pole. That finding is good news for NASA which plans to land astronauts in that area in the future.",
+      "Kring noted it should [20] of future astronauts. \"Because debris from the Schrödinger impact was jettisoned away from the lunar south pole, [21] will be [22]…,” Kring told Reuters news agency. This should make it easier for future American astronauts to collect them. NASA’s future lunar exploration plans are known as the agency’s Artemis program. The program aims to return astronauts to the moon for the first time since NASA’s Apollo 17 mission in 1972. The agency’s current plan is to send astronauts on a trip around the moon next year. That would be followed a year or so later by [23] on the lunar surface. The researchers said older rocks in the area can help scientists gain a better understanding of the moon’s past history. They could also help answer questions about [24]. Kring noted it is currently not clear whether the two huge canyons are [25] like some of the craters at the moon’s south pole.",
+      "“That is something that we’re clearly going to be reexamining,” he said. I’m Bryan Lynn."
+    ],
+    "answers": [
+      "two huge valleys",
+      "less than 10 minutes",
+      "always faces away from Earth",
+      "55,000 kilometers per hour",
+      "3.8 billion years ago",
+      "since entering orbit",
+      "June 2009",
+      "a highly detailed",
+      "lunar resources",
+      "all other planetary missions combined",
+      "simulate the path",
+      "was displaced by the crash",
+      "passed over the south pole",
+      "1 kilometer per second",
+      "struck the lunar surface like missiles",
+      "comparable in size",
+      "25 kilometers across",
+      "more than 130 times greater",
+      "the world’s current nuclear weapons",
+      "improve the exploration possibilities",
+      "ancient rocks in the polar region",
+      "at or close to the surface",
+      "a landing attempt",
+      "the formation of Earth",
+      "permanently shadowed"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "less than ten minutes"
+      ],
+      [],
+      [
+        "55000 kilometres per hour",
+        "fifty-five thousand kilometers per hour",
+        "fifty-five thousand kilometres per hour"
+      ],
+      [
+        "three point eight billion years ago"
+      ],
+      [],
+      [
+        "June two thousand nine",
+        "June two thousand and nine"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "one kilometer per second",
+        "1 kilometre per second",
+        "one kilometre per second"
+      ],
+      [],
+      [],
+      [
+        "twenty-five kilometers across",
+        "25 kilometres across",
+        "twenty-five kilometres across"
+      ],
+      [
+        "more than one hundred thirty times greater",
+        "more than one hundred and thirty times greater"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "c7330ed7c426",
+    "paraphrases": [
+      [
+        "faces away from Earth",
+        "is oriented in the opposite direction to Earth",
+        "Faces away mô tả hướng quay ra xa, không phải khoảng cách ngày càng lớn.",
+        40,
+        49
+      ],
+      [
+        "was estimated to be around",
+        "was calculated to be approximately",
+        "Giữ ý đây là ước tính gần đúng, không phải con số đo chính xác tuyệt đối.",
+        57.5,
+        70.7
+      ],
+      [
+        "a highly detailed",
+        "a very precise and information-rich",
+        "Highly detailed nghĩa là thể hiện nhiều chi tiết rõ ràng.",
+        100.5,
+        108.4
+      ],
+      [
+        "all other planetary missions combined",
+        "every other planetary mission added together",
+        "Combined chỉ tổng dữ liệu của tất cả các nhiệm vụ còn lại.",
+        119.4,
+        131.9
+      ],
+      [
+        "was displaced by the crash",
+        "was moved from its original position by the impact",
+        "Displaced là bị dịch chuyển khỏi vị trí ban đầu.",
+        138,
+        147.2
+      ],
+      [
+        "comparable in size",
+        "similar in dimensions",
+        "Comparable ở đây chỉ tương đương về kích thước, không khẳng định giống nhau mọi mặt.",
+        184.8,
+        197.2
+      ],
+      [
+        "25 kilometers across",
+        "25 kilometres from one side to the other",
+        "Across trong mô tả thiên thạch nói về bề ngang.",
+        223.9,
+        234.2
+      ],
+      [
+        "was jettisoned away from the lunar south pole",
+        "was forcefully thrown away from the moon's south pole",
+        "Jettisoned ở đây diễn tả vật chất bị văng ra do va chạm.",
+        267.5,
+        280.4
+      ],
+      [
+        "gain a better understanding",
+        "develop a clearer picture",
+        "Cụm từ nói về việc hiểu rõ hơn nhờ nghiên cứu.",
+        335.1,
+        346
+      ],
+      [
+        "permanently shadowed",
+        "continuously kept out of direct sunlight",
+        "Permanently shadowed là luôn ở trong bóng tối, không chỉ tối vào ban đêm.",
+        352.6,
+        363
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "asteroid",
+        "meaning": "tiểu hành tinh",
+        "note": "A small rocky object orbiting the Sun."
+      },
+      {
+        "term": "impact",
+        "meaning": "sự va chạm",
+        "note": "A forceful collision between objects."
+      },
+      {
+        "term": "basin",
+        "meaning": "vùng trũng; bồn địa",
+        "note": "A broad depression in a surface."
+      },
+      {
+        "term": "orbiter",
+        "meaning": "tàu bay theo quỹ đạo",
+        "note": "A spacecraft that travels around a celestial body."
+      },
+      {
+        "term": "simulate",
+        "meaning": "mô phỏng",
+        "note": "To model how an event or process behaves."
+      },
+      {
+        "term": "displace",
+        "meaning": "làm dịch chuyển",
+        "note": "To move something from its original position."
+      },
+      {
+        "term": "comparable",
+        "meaning": "có thể so sánh; tương đương",
+        "note": "Similar enough in a particular respect to be compared."
+      },
+      {
+        "term": "debris",
+        "meaning": "mảnh vỡ",
+        "note": "Scattered pieces left after destruction or impact."
+      },
+      {
+        "term": "jettison",
+        "meaning": "ném; đẩy văng ra",
+        "note": "To throw or eject something away."
+      },
+      {
+        "term": "crater",
+        "meaning": "hố va chạm",
+        "note": "A bowl-shaped hollow formed by an impact or eruption."
+      }
+    ],
+    "signals": [
+      "They noted…",
+      "as well as…",
+      "This resulted in…",
+      "That would be followed…"
+    ]
+  },
+  "17": {
+    "paragraphs": [
+      "Ancient Greece produced [1] - and, scientists now say, lead pollution. That is the finding of a study that recently appeared in Communications Earth and Environment. The researchers studied [2] removed from mainland Greece and below the Aegean Sea. They found in the cores the oldest known evidence of lead pollution in the environment dating back around [3]. That is [4] than the former oldest evidence of lead pollution. That evidence was discovered in Serbia. In ancient times, lead was [5] as a product of [6]. The toxic, or poisonous, metal turned to dust over time and [7]. Joseph Maran of Heidelberg University was a co-writer of the new study.",
+      "“Silver was used for jewelry, for special objects — but it [8],” it was [9] combined with lead, Maran said. The place with the earliest signs of lead is in northeastern Greece, near the island of Thasos. Past evidence suggests Thasos was one of the area’s most important places for [10], said Maran. Yale historian Joseph Manning, who was not involved in the study, said “Lead released from smelting is the world’s first form of [11].” The researchers found that levels of lead contamination [12] in ancient Greece. The levels remained low [13], the Classical period and the Hellenistic period. The Classical period is famous for Athenian democracy, and the thinkers Socrates and Plato. And the Hellenistic period saw Greek cultural influence [14] across the Mediterranean. But the new study shows that around [15] “[16]\" in lead releases [17] took place across Greece, said co-writer Andreas Koutsodendris of Heidelberg University. Around that time, the Roman army [18] the Greek peninsula, completely changing the area’s [19]. As Roman trade, colonies and shipping grew across the Mediterranean Sea and Black Sea, [20] also grew.",
+      "As a result, [21], Koutsodendris said. Later the Roman Empire used lead to make tools for eating and building, [22]. Past research – including a study of [23] – had detected high levels of lead across much of [24] during Roman times. But the new study adds [25] “and local picture to how lead levels changed,” said Nathan Chellman. Chellman, an environmental scientist at the University of Nevada, Reno, was not involved in the research. I’m John Russell."
+    ],
+    "answers": [
+      "the earliest records of democracy",
+      "sediment cores",
+      "5,200 years",
+      "1,200 years older",
+      "released into the atmosphere",
+      "copper and silver production",
+      "settled onto the soil",
+      "wasn't found in a pure state",
+      "mined in ore",
+      "silver mining and metalwork",
+      "toxic or industrial pollution",
+      "remained fairly low",
+      "throughout the Bronze Age",
+      "reach its height",
+      "2,150 years ago",
+      "a very strong and abrupt increase",
+      "caused by human activities",
+      "won control of",
+      "society and economy",
+      "demand for silver coins",
+      "more smelting was required",
+      "including pipes",
+      "ice cores from Greenland",
+      "the Northern Hemisphere",
+      "a more exact"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "five thousand two hundred years",
+        "five thousand and two hundred years",
+        "fifty-two hundred years"
+      ],
+      [
+        "one thousand two hundred years older",
+        "one thousand and two hundred years older",
+        "twelve hundred years older"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "two thousand one hundred fifty years ago",
+        "two thousand one hundred and fifty years ago",
+        "twenty-one hundred fifty years ago"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "8313650b087f",
+    "paraphrases": [
+      [
+        "dating back around 5,200 years",
+        "originating approximately 5,200 years ago",
+        "Dating back xác định niên đại; around cho biết con số gần đúng.",
+        29.1,
+        42.3
+      ],
+      [
+        "released into the atmosphere",
+        "emitted into the air",
+        "Release trong câu này là thải kim loại vào không khí.",
+        56.4,
+        65.9
+      ],
+      [
+        "settled onto the soil",
+        "came to rest on the ground",
+        "Settle ở đây chỉ bụi rơi xuống và lắng đọng trên đất.",
+        66.8,
+        75.2
+      ],
+      [
+        "wasn't found in a pure state",
+        "did not occur without other substances mixed in",
+        "A pure state nghĩa là không lẫn các chất khác.",
+        83.4,
+        97.2
+      ],
+      [
+        "was not involved in the study",
+        "did not take part in this research",
+        "Giữ rõ đây là chuyên gia không tham gia nghiên cứu được đề cập.",
+        118.9,
+        133.8
+      ],
+      [
+        "remained fairly low",
+        "continued at relatively small levels",
+        "Remained chỉ sự tiếp diễn; fairly low không có nghĩa là hoàn toàn bằng không.",
+        134.4,
+        142.3
+      ],
+      [
+        "reach its height",
+        "attain its greatest extent",
+        "Height ở đây là mức ảnh hưởng cao nhất, không phải độ cao vật lý.",
+        161.8,
+        169.6
+      ],
+      [
+        "a very strong and abrupt increase",
+        "a large and sudden rise",
+        "Strong mô tả mức tăng lớn; abrupt nói về việc diễn ra đột ngột.",
+        170.5,
+        187.5
+      ],
+      [
+        "won control of the Greek peninsula",
+        "gained power over the Greek peninsula",
+        "Won control nói về giành quyền kiểm soát một vùng đất.",
+        193.9,
+        204.8
+      ],
+      [
+        "a more exact",
+        "a more precise",
+        "Exact ở đây mô tả độ chính xác cao hơn của bức tranh về ô nhiễm chì.",
+        248.1,
+        257.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "sediment",
+        "meaning": "trầm tích",
+        "note": "Material that settles at the bottom of water or accumulates in layers."
+      },
+      {
+        "term": "core",
+        "meaning": "mẫu lõi",
+        "note": "A cylindrical sample showing layers beneath a surface."
+      },
+      {
+        "term": "lead",
+        "meaning": "chì",
+        "note": "A heavy metal that can be poisonous."
+      },
+      {
+        "term": "toxic",
+        "meaning": "độc hại",
+        "note": "Poisonous or harmful to living things."
+      },
+      {
+        "term": "ore",
+        "meaning": "quặng",
+        "note": "Rock containing a metal that can be extracted."
+      },
+      {
+        "term": "smelt",
+        "meaning": "luyện kim",
+        "note": "To use heat to extract metal from ore."
+      },
+      {
+        "term": "contamination",
+        "meaning": "sự nhiễm bẩn; ô nhiễm",
+        "note": "The presence of harmful or unwanted substances."
+      },
+      {
+        "term": "abrupt",
+        "meaning": "đột ngột",
+        "note": "Sudden rather than gradual."
+      },
+      {
+        "term": "peninsula",
+        "meaning": "bán đảo",
+        "note": "Land surrounded by water on most sides."
+      },
+      {
+        "term": "hemisphere",
+        "meaning": "bán cầu",
+        "note": "One half of the Earth."
+      }
+    ],
+    "signals": [
+      "In ancient times…",
+      "But the new study shows…",
+      "Around that time…",
+      "As a result…"
+    ]
+  },
+  "18": {
+    "paragraphs": [
+      "A new study warns that millions of Europeans could die from [1] by the end of the century. The study was based on [2] of predicted climate activity in [3]. It found that extreme temperatures, mostly heat, could kill as many as [4] in Europe by 2100. The researchers said the number of predicted deaths could be reduced if nations are able to find better ways of [5] and dealing with extreme heat. Currently, cold weather kills far more people in Europe than hot weather. But the study found that as temperatures continue to rise, deaths from cold weather [6].",
+      "However, heat-related deaths [7]. Scientists at the London School of Hygiene and Tropical Medicine led the research. The results appeared recently in a study in the publication Nature Medicine. The researchers urged increased efforts to [8] and expand [9] and cooling centers in parts of Europe. Without such efforts, places in Italy, southern Spain and Greece [10] in heat deaths related to climate change, the study found.",
+      "On the other hand, much of Scandinavia and Britain are predicted to see fewer temperature-related deaths, largely because low temperatures are expected to [11]. Pierre Masselot studies the environmental effects of human health at the London School of Hygiene and Tropical Medicine. He helped lead the research. Masselot told the Associated Press that drops in cold deaths in northern parts of Europe are happening in areas [12] as places further south. “The Mediterranean is [13],\" he said. \"It's a region that is warming [14].",
+      "And Malta is right in the middle of it.” The study predicts Malta’s temperature-related deaths will increase by [15] for [16] by the end of the century. On the other hand, Ireland’s rate is expected to [17] to [18]. European officials reported [19] have killed thousands of people in recent years across the continent. The highest number was in 2003, when [20] were recorded. Among the areas predicted to see the most deaths from [21] is Barcelona, Spain. The study found [22] could die from temperature-related causes in that city by 2100.",
+      "And the study warned that Rome and Naples could have [23]. The study predicted that [24] extra heat deaths would be linked to climate change. At the same time, the study found cold-related deaths would [25]. I’m Bryan Lynn."
+    ],
+    "answers": [
+      "heat-related causes",
+      "computer simulations",
+      "854 different European cities",
+      "2.3 million people",
+      "cutting carbon pollution levels",
+      "will lessen over time",
+      "are predicted to rise sharply",
+      "reduce greenhouse gases",
+      "indoor air-cooling systems",
+      "are likely to see large increases",
+      "become more moderate",
+      "not as populated",
+      "a so-called climate hotspot",
+      "much quicker than the rest of the world",
+      "269 people",
+      "every 100,000 individuals",
+      "drop slightly",
+      "15 per 100,000 people",
+      "several heat waves",
+      "about 70,000 deaths",
+      "future temperature rises",
+      "almost 250,000 people",
+      "up to 150,000 deaths",
+      "more than 5.8 million",
+      "drop by 3.5 million"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "eight hundred fifty-four different European cities",
+        "eight hundred and fifty-four different European cities"
+      ],
+      [
+        "two point three million people"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "indoor air cooling systems"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "two hundred sixty-nine people",
+        "two hundred and sixty-nine people"
+      ],
+      [
+        "every one hundred thousand individuals",
+        "every hundred thousand individuals"
+      ],
+      [],
+      [
+        "fifteen per one hundred thousand people",
+        "fifteen per hundred thousand people",
+        "15 per one hundred thousand people"
+      ],
+      [],
+      [
+        "about seventy thousand deaths"
+      ],
+      [],
+      [
+        "almost two hundred fifty thousand people",
+        "almost two hundred and fifty thousand people"
+      ],
+      [
+        "up to one hundred fifty thousand deaths",
+        "up to one hundred and fifty thousand deaths"
+      ],
+      [
+        "more than five point eight million"
+      ],
+      [
+        "drop by three point five million"
+      ]
+    ],
+    "contentRevision": "ec2455c48ad2",
+    "paraphrases": [
+      [
+        "could die from heat-related causes",
+        "might lose their lives because of heat",
+        "Could thể hiện khả năng theo dự báo, không phải kết quả chắc chắn.",
+        0,
+        10.9
+      ],
+      [
+        "as many as 2.3 million people",
+        "up to 2.3 million individuals",
+        "As many as nhấn mạnh mức dự báo có thể lên tới con số này.",
+        23.2,
+        36.5
+      ],
+      [
+        "cutting carbon pollution levels",
+        "reducing the amount of carbon pollution",
+        "Cutting trong ngữ cảnh này là giảm mức ô nhiễm.",
+        37.8,
+        55.1
+      ],
+      [
+        "will lessen over time",
+        "will gradually decrease",
+        "Lessen nghĩa là giảm đi theo thời gian.",
+        62.2,
+        72.5
+      ],
+      [
+        "are predicted to rise sharply",
+        "are forecast to increase steeply",
+        "Giữ cả ý dự báo và mức tăng mạnh.",
+        73.1,
+        78.6
+      ],
+      [
+        "become more moderate",
+        "grow less extreme",
+        "Moderate ở đây nói về nhiệt độ bớt khắc nghiệt.",
+        128.3,
+        144.4
+      ],
+      [
+        "not as populated as places further south",
+        "home to fewer people than more southerly areas",
+        "So sánh dân số giữa các vùng, không nói rằng phía bắc không có người ở.",
+        159.7,
+        174.9
+      ],
+      [
+        "a so-called climate hotspot",
+        "an area described as especially affected by climate warming",
+        "Hotspot trong đoạn này nói về vùng nóng lên nhanh hơn những nơi khác.",
+        175.6,
+        190.7
+      ],
+      [
+        "drop slightly",
+        "decrease by a small amount",
+        "Slightly chỉ mức giảm nhỏ, không phải giảm mạnh.",
+        206.6,
+        216.7
+      ],
+      [
+        "would be linked to climate change",
+        "would be associated with changes in climate",
+        "Giữ ý mối liên hệ trong dự báo của nghiên cứu.",
+        268.5,
+        277.8
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "simulation",
+        "meaning": "sự mô phỏng",
+        "note": "A model used to explore how a system may behave."
+      },
+      {
+        "term": "predict",
+        "meaning": "dự đoán",
+        "note": "To say what is expected to happen in the future."
+      },
+      {
+        "term": "extreme",
+        "meaning": "cực đoan; khắc nghiệt",
+        "note": "Far beyond normal or moderate conditions."
+      },
+      {
+        "term": "lessen",
+        "meaning": "giảm bớt",
+        "note": "To become or make something smaller in amount or degree."
+      },
+      {
+        "term": "urge",
+        "meaning": "thúc giục; kêu gọi",
+        "note": "To strongly encourage someone to act."
+      },
+      {
+        "term": "greenhouse gas",
+        "meaning": "khí nhà kính",
+        "note": "A gas that traps heat in the atmosphere."
+      },
+      {
+        "term": "moderate",
+        "meaning": "ôn hòa; vừa phải",
+        "note": "Not extreme in amount or intensity."
+      },
+      {
+        "term": "populated",
+        "meaning": "có dân cư",
+        "note": "Inhabited by people."
+      },
+      {
+        "term": "heat wave",
+        "meaning": "đợt nắng nóng",
+        "note": "A period of unusually hot weather."
+      },
+      {
+        "term": "continent",
+        "meaning": "châu lục",
+        "note": "One of the Earth's large continuous areas of land."
+      }
+    ],
+    "signals": [
+      "However…",
+      "Without such efforts…",
+      "On the other hand…",
+      "At the same time…"
+    ]
+  },
+  "19": {
+    "paragraphs": [
+      "An experimental aircraft developed by a private American company [1] during a recent flight test. California-based Boom Supersonic built the plane, named XB-1. The company said the aircraft reached a speed of [2] during a test on January 28. The test flight operated from the Mojave Air & Space Port in Mojave, California. Any speed greater than Mach 1.0 breaks the sound barrier and is considered supersonic. The American space agency NASA explains that [3], the speed of sound is estimated to be about 1,236 kilometers per hour. In a statement, Boom Supersonic said the XB-1 demonstrator aircraft climbed to [4] before reaching Mach 1.0. It recorded the speed [5]. The company also released a video feed of the supersonic test flight. The company said in a press release, “Historically, supersonic aircraft have been the work of nation states, [6].” But the latest flight made the XB-1 “the world’s first [7] supersonic jet” to break the sound barrier, Boom Supersonic said.",
+      "The company’s founder and chief executive officer, Blake Scholl, said, “XB-1’s supersonic flight demonstrates that the technology for passenger supersonic flight has arrived.” Boom Supersonic launched in 2014 “with the goal of [8] and enabling a new world of human connection.” With that in mind, the company has been working to develop a supersonic passenger airliner called Overture. The aircraft would carry [9]. Boom Supersonic is one of several American companies seeking to develop supersonic flight vehicles. NASA is also working on a supersonic aircraft [10] a U.S. contractor. The last time supersonic travel was available to passengers was 2003. That is the year the Concorde – the world’s first supersonic passenger jet aircraft – stopped service. Britain and France jointly operated the Concorde. But the joint operation between British Airways and Air France suffered [11] that led to the decision to stop flying the supersonic planes. Some of the difficulties were linked to publicity about a deadly Concorde crash in 2000.",
+      "That incident involved an Air France airliner crashing shortly after taking off from Paris. The crash [12]. Boom Supersonic says its planned Overture airliner will be designed to transport passengers from the U.S. East Coast across the Atlantic to Europe in [13]. The flight with normal passenger jets takes about eight hours. Amy Marino Spowart is the president and chief executive officer at the National Aeronautic Association. She told The Associated Press the latest supersonic test flight suggests “the future of aviation is [14].” Spowart added, “Not only is there hope for faster and better commercial flight, but Boom proves that [15].” Boom Supersonic has said its planned supersonic airliner will be designed to run on [16] sustainable aircraft fuel.",
+      "Such sustainable fuels are made from [17], such as food waste or other biomass materials. Both XB-1 and Overture are made mostly from [18] to provide “[19],” the company said. NASA’s supersonic aircraft – built together with Lockheed Martin – is called X-59. It is also an experimental plane that is seeking to test the level of noise produced by supersonic travel. Currently, supersonic flights are [20] because of the loud noise they produce. NASA has explained it plans to carry out testing this year of the X-59 aircraft, which has been designed and engineered to [21] than other supersonic aircraft. The tests – to take place at supersonic test centers in California – are designed “to prove the quiet supersonic technology works as designed.” NASA said that after that testing is done, the agency plans to begin [22], beginning in 2026. These will involve flying the X-59 over several cities and then asking people on the ground to [23] on the level of noise they heard.",
+      "NASA has said the X-59 – which measures [24] – is expected to fly at [25]. That is about 1,500 kilometers per hour. I’m Bryan Lynn."
+    ],
+    "answers": [
+      "broke the sound barrier",
+      "Mach 1.05",
+      "at sea level",
+      "more than 35,000 feet",
+      "within 11 minutes of taking off",
+      "developed by militaries and governments",
+      "independently developed",
+      "making high-speed travel mainstream",
+      "up to 80 passengers",
+      "in partnership with",
+      "several business difficulties",
+      "claimed a total of 113 lives",
+      "about 3-and-a-half hours",
+      "here and now",
+      "it can be done sustainably",
+      "up to 100 percent",
+      "non-petroleum products",
+      "a carbon-based composite material",
+      "a strong, lightweight structure",
+      "banned over land",
+      "operate at lower noise levels",
+      "community reaction studies",
+      "share their thoughts",
+      "30 meters long and nine meters wide",
+      "1.4 times the speed of sound"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "Mach one point zero five",
+        "Mach one point oh five"
+      ],
+      [],
+      [
+        "more than thirty-five thousand feet"
+      ],
+      [
+        "within eleven minutes of taking off"
+      ],
+      [],
+      [],
+      [],
+      [
+        "up to eighty passengers"
+      ],
+      [],
+      [],
+      [
+        "claimed a total of one hundred thirteen lives",
+        "claimed a total of one hundred and thirteen lives"
+      ],
+      [
+        "about three and a half hours",
+        "about 3 and a half hours",
+        "about 3.5 hours"
+      ],
+      [],
+      [],
+      [
+        "up to one hundred percent",
+        "up to 100%",
+        "up to one hundred per cent",
+        "up to 100 per cent"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "thirty meters long and nine meters wide",
+        "30 meters long and 9 meters wide",
+        "thirty metres long and nine metres wide",
+        "30 metres long and 9 metres wide",
+        "30 metres long and nine metres wide"
+      ],
+      [
+        "one point four times the speed of sound"
+      ]
+    ],
+    "contentRevision": "772dd00aea55",
+    "paraphrases": [
+      [
+        "broke the sound barrier",
+        "travelled faster than sound",
+        "Break the sound barrier nói về vượt tốc độ âm thanh.",
+        0,
+        12.1
+      ],
+      [
+        "within 11 minutes of taking off",
+        "no more than 11 minutes after departure from the ground",
+        "Within chỉ giới hạn thời gian tính từ lúc cất cánh.",
+        85,
+        90.2
+      ],
+      [
+        "independently developed",
+        "created outside the usual state-led development process",
+        "Trong đoạn này independently tương phản với các dự án do quân đội và chính phủ phát triển.",
+        112.6,
+        127.4
+      ],
+      [
+        "making high-speed travel mainstream",
+        "turning very fast travel into a widely used option",
+        "Mainstream là được sử dụng rộng rãi, không còn chỉ dành cho số ít.",
+        144,
+        160.4
+      ],
+      [
+        "in partnership with",
+        "in collaboration with",
+        "Cụm từ diễn tả hai bên cùng hợp tác phát triển máy bay.",
+        187.2,
+        195.5
+      ],
+      [
+        "claimed a total of 113 lives",
+        "caused 113 deaths",
+        "Claim lives trong tin tức là gây thiệt mạng.",
+        252.9,
+        257.6
+      ],
+      [
+        "here and now",
+        "already present rather than only a future possibility",
+        "Cụm từ nhấn mạnh tương lai được nói đến đang trở thành hiện thực.",
+        292,
+        304.1
+      ],
+      [
+        "banned over land",
+        "not permitted to fly above land",
+        "Banned là bị cấm theo quy định, không phải bất khả thi về kỹ thuật.",
+        377,
+        384.8
+      ],
+      [
+        "carry out testing",
+        "conduct tests",
+        "Carry out nghĩa là thực hiện một hoạt động đã định.",
+        385.8,
+        403.4
+      ],
+      [
+        "share their thoughts",
+        "give their opinions",
+        "Trong nghiên cứu phản ứng cộng đồng, người dân được hỏi ý kiến về tiếng ồn.",
+        430.7,
+        442.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "experimental",
+        "meaning": "mang tính thử nghiệm",
+        "note": "Used to test a new design or idea."
+      },
+      {
+        "term": "supersonic",
+        "meaning": "siêu thanh",
+        "note": "Travelling faster than the speed of sound."
+      },
+      {
+        "term": "demonstrator",
+        "meaning": "mẫu trình diễn công nghệ",
+        "note": "A vehicle built to show that a technology works."
+      },
+      {
+        "term": "mainstream",
+        "meaning": "phổ biến; đại chúng",
+        "note": "Widely accepted or used."
+      },
+      {
+        "term": "airliner",
+        "meaning": "máy bay chở khách",
+        "note": "A large aircraft used for passenger transport."
+      },
+      {
+        "term": "contractor",
+        "meaning": "nhà thầu",
+        "note": "A company or person hired to carry out specified work."
+      },
+      {
+        "term": "aviation",
+        "meaning": "ngành hàng không",
+        "note": "The operation and development of aircraft."
+      },
+      {
+        "term": "sustainable",
+        "meaning": "bền vững",
+        "note": "Designed to limit environmental damage and resource depletion."
+      },
+      {
+        "term": "biomass",
+        "meaning": "sinh khối",
+        "note": "Material from living or recently living organisms."
+      },
+      {
+        "term": "composite",
+        "meaning": "vật liệu tổng hợp",
+        "note": "A material made by combining different constituents."
+      }
+    ],
+    "signals": [
+      "But the latest flight…",
+      "With that in mind…",
+      "Not only… but…",
+      "after that testing is done…"
+    ]
+  },
+  "20": {
+    "paragraphs": [
+      "A recent study says India has [1] in 12 years. Researchers said the gain came from efforts to protect the big cats from hunters, and to protect against [2], among other things. The National Tiger Conservation Authority said the number of tigers grew from [3] in 2010 to [4] in 2022. Those numbers mean India is home to [5] of the total tiger population. The research shows that [6] between humans and wildlife also played a part in the population growth. The study credited efforts to [7] for communities near tiger habitats. The researchers said the growth in the tiger population also led to improvements in local economies [8]. The study appears in the publication Science. It said India's success demonstrates that wildlife protection can help [9]. “The common belief is that human densities [10] in tiger populations,\" said Yadvendradev Jhala.",
+      "Jhala is a scientist at Bengaluru-based Indian National Academy of Sciences and was the study’s lead writer. “What the research shows is that it's not the human density, but [11], which matters more.” Wildlife conservationists and ecologists welcomed the study. But they said [12] to a larger group of scientists would aid tigers and other wildlife in India. The study was based on data collected by Indian government-supported organizations. Arjun Gopalaswamy is an ecologist who knows how to measure wildlife populations.",
+      "He said that estimates from India’s official tiger observation program [13]. He said some of the numbers in the study are [14] of tiger populations from the same datasets. But he added that the study's findings seem to have [15] noted repeatedly by scientists since 2011 related to tiger population size and their range. The study said tigers disappeared in some areas. These included habitats that were not near national parks or other protected areas, and areas of increased development, increased human use of forest resources and [16]. “Without [17] and community benefits, conservation is not possible in our country,” said Jhala. That means local people need to see [18] to save tigers. Tigers are spread across about [19] of India. But just [20] is rich in tiger prey and is protected.",
+      "Another 45 percent of tiger habitat is shared with [21], the study said. Jhala said [22] is the “backbone” of tiger conservation in India. “Habitat is not a constraint, it's [23] which is a constraint,” he said. Wildlife biologist Ravi Chellam, who did not take part in the study, praised the tiger conservation efforts as promising. But, he said, such efforts need to be [24] to better care for the whole ecosystem in India. Chellam said several kinds of Indian wildlife are “on the edge,” and [25]. I’m Caty Weaver."
+    ],
+    "answers": [
+      "doubled its tiger population",
+      "the loss of tiger habitat and prey",
+      "an estimated 1,706",
+      "around 3,682",
+      "about 75 percent",
+      "a reduction in conflict",
+      "improve economic conditions",
+      "through increased ecotourism",
+      "both biodiversity and nearby communities",
+      "preclude an increase",
+      "the attitude of people",
+      "making the source data available",
+      "have been undependable",
+      "much higher than past estimates",
+      "corrected a data problem",
+      "areas with armed conflict",
+      "community support and participation",
+      "good results from their efforts",
+      "138,200 square kilometers",
+      "25 percent of the area",
+      "about 60 million people",
+      "strong wildlife protection legislation",
+      "the quality of the habitat",
+      "extended to other wild animals",
+      "need more attention"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "an estimated one thousand seven hundred six",
+        "an estimated one thousand seven hundred and six",
+        "an estimated seventeen hundred and six"
+      ],
+      [
+        "around three thousand six hundred eighty-two",
+        "around three thousand six hundred and eighty-two"
+      ],
+      [
+        "about seventy-five percent",
+        "about 75%",
+        "about seventy-five per cent",
+        "about 75 per cent"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "one hundred thirty-eight thousand two hundred square kilometers",
+        "one hundred and thirty-eight thousand two hundred square kilometers",
+        "138200 square kilometres",
+        "one hundred thirty-eight thousand two hundred square kilometres",
+        "one hundred and thirty-eight thousand two hundred square kilometres"
+      ],
+      [
+        "twenty-five percent of the area",
+        "25% of the area",
+        "twenty-five per cent of the area",
+        "25 per cent of the area"
+      ],
+      [
+        "about sixty million people"
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "75b1919be77d",
+    "paraphrases": [
+      [
+        "doubled its tiger population",
+        "increased its number of tigers to twice the previous level",
+        "Doubled là tăng lên gấp đôi, không phải tăng thêm hai con.",
+        0,
+        9.1
+      ],
+      [
+        "a reduction in conflict",
+        "a decrease in clashes",
+        "Reduction in conflict nói về ít xung đột hơn giữa người và động vật.",
+        59.6,
+        71.9
+      ],
+      [
+        "improve economic conditions",
+        "make financial circumstances better",
+        "Cụm từ nói về cải thiện điều kiện kinh tế cho cộng đồng gần nơi sống của hổ.",
+        71.9,
+        82.2
+      ],
+      [
+        "through increased ecotourism",
+        "by attracting more nature-based tourism",
+        "Through diễn tả cách hoạt động du lịch thiên nhiên giúp kinh tế địa phương.",
+        82.8,
+        96.8
+      ],
+      [
+        "preclude an increase",
+        "prevent a rise from happening",
+        "Preclude mạnh hơn gây khó khăn: nó mang nghĩa ngăn điều đó xảy ra.",
+        115.6,
+        126.2
+      ],
+      [
+        "have been undependable",
+        "have not been reliable",
+        "Ý kiến được trích dẫn đặt vấn đề về độ tin cậy của các ước tính.",
+        186,
+        194.5
+      ],
+      [
+        "their range",
+        "the area in which they live",
+        "Range ở đây là vùng phân bố của hổ, không phải một khoảng số liệu.",
+        206.7,
+        224
+      ],
+      [
+        "is rich in tiger prey",
+        "contains plenty of animals that tigers hunt",
+        "Prey là động vật bị săn để làm thức ăn.",
+        281,
+        289.1
+      ],
+      [
+        "a constraint",
+        "a limiting factor",
+        "Constraint là yếu tố hạn chế hoặc cản trở.",
+        311.4,
+        319.6
+      ],
+      [
+        "on the edge",
+        "in a precarious situation",
+        "Trong đoạn bảo tồn, on the edge nói về tình trạng nguy hiểm của động vật hoang dã.",
+        345.2,
+        353.8
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "habitat",
+        "meaning": "môi trường sống",
+        "note": "The natural place where an organism lives."
+      },
+      {
+        "term": "prey",
+        "meaning": "con mồi",
+        "note": "An animal hunted by another animal for food."
+      },
+      {
+        "term": "ecotourism",
+        "meaning": "du lịch sinh thái",
+        "note": "Tourism focused on natural environments and wildlife."
+      },
+      {
+        "term": "biodiversity",
+        "meaning": "đa dạng sinh học",
+        "note": "The variety of living organisms in an area."
+      },
+      {
+        "term": "preclude",
+        "meaning": "ngăn không cho xảy ra",
+        "note": "To make something impossible or prevent it."
+      },
+      {
+        "term": "attitude",
+        "meaning": "thái độ",
+        "note": "A way of thinking or feeling about something."
+      },
+      {
+        "term": "conservationist",
+        "meaning": "người làm công tác bảo tồn",
+        "note": "A person who works to protect nature."
+      },
+      {
+        "term": "undependable",
+        "meaning": "không đáng tin cậy",
+        "note": "Not able to be relied upon."
+      },
+      {
+        "term": "legislation",
+        "meaning": "pháp luật; hệ thống luật",
+        "note": "Laws made by a governing authority."
+      },
+      {
+        "term": "constraint",
+        "meaning": "sự hạn chế; yếu tố cản trở",
+        "note": "Something that limits what can be done."
+      }
+    ],
+    "signals": [
+      "among other things…",
+      "But they said…",
+      "That means…",
+      "But, he said…"
+    ]
+  },
+  "21": {
+    "paragraphs": [
+      "Scientists are worried that a large iceberg heading toward an island in the South Atlantic Ocean [1] there. Researchers say the iceberg is the largest in the world. It is moving through the South Atlantic toward the island of South Georgia. The island is [2] that is about 1,400 kilometers east of the Falkland Islands. Scientists say South Georgia is [3] for wildlife, especially penguins and seals. The iceberg is officially known as A23a and it measures about [4]. It has existed since 1986, when it [5] the Antarctic shelf. Andrew Meijers is an oceanographer with the British Antarctic Survey. He told the French News Agency (AFP) that scientists have been [6] to follow the iceberg’s movements.",
+      "Meijers said observations had shown the iceberg had not [7] like some other so-called \"megabergs\" that passed through the Southern Ocean. He added that [8] is difficult. But ocean conditions suggest it should reach South Georgia in [9]. Meijers said he is worried the iceberg will get caught on [10] around South Georgia. But he said it is also possible the large ice mass could miss the shelf and [11] beyond South Georgia. If the iceberg does get caught, or stuck, on the shelf, Meijers said it could [12] or it could break into pieces. Meijers is concerned that this could harm efforts by penguins and seals on the island to [13].",
+      "Icebergs that have grounded there in the past led to the deaths of young penguins and seals, he said. Raul Cordero is a mechanical engineer from Chile's University of Santiago. He is also a member of the National Antarctic Research Committee. Cordero told AFP he thinks the iceberg will miss South Georgia. \"The island acts as [14] and therefore usually [15] long before it reaches the island,\" he said. \"The iceberg is moved by that water flow, so [16] are not that high.\" Cordero added, however, that some iceberg pieces could affect the island. Soledad Tiranti is a glacier expert who is currently on an Argentinian exploration trip in the Antarctic. She told AFP that icebergs such as A23a \"are so deep that before reaching an island or mainland they [17]\" on the seabed.",
+      "It is currently summer in South Georgia and penguins and seals from the area have been looking for food in the cold Antarctic waters to [18]. Meijers said the animals might have to go around the iceberg if it gets stuck. He added that if they had to move around it, this would [19], possibly leading to animal deaths. The seal and penguin populations on South Georgia have already been having a \"bad season\" with [20], Meijers said. Iceberg A23a [21] before finally [22] from the Antarctic shelf in 2020. Scientists watching its movements say the iceberg has followed [23] as other large ice masses in the past. The icebergs generally pass [24] of the Antarctic Peninsula through the Weddell Sea along a path known as \"iceberg alley.\" They are pushed by [25], the Antarctic Circumpolar Current.",
+      "I’m Bryan Lynn."
+    ],
+    "answers": [
+      "could threaten wildlife",
+      "a British overseas territory",
+      "a main mating ground",
+      "3,500 square kilometers",
+      "broke off from",
+      "using satellite imagery",
+      "broken into smaller pieces",
+      "predicting the iceberg’s exact path",
+      "two to four weeks",
+      "the underground continental shelf",
+      "continue moving into open waters",
+      "remain there for months",
+      "feed and raise their young",
+      "an obstacle for ocean currents",
+      "diverts the water",
+      "the chances of it hitting",
+      "generally get stuck",
+      "bring back to their young",
+      "take a lot of their energy",
+      "cases of bird flu",
+      "remained stuck for 30 years",
+      "breaking free",
+      "nearly the same path",
+      "the east side",
+      "the world’s most powerful ocean current system"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [
+        "three thousand five hundred square kilometers",
+        "three thousand five hundred square kilometres",
+        "3500 square kilometres",
+        "thirty-five hundred square kilometers",
+        "thirty-five hundred square kilometres"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "2 to 4 weeks"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "remained stuck for thirty years"
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "a7dd9ef74a1c",
+    "paraphrases": [
+      [
+        "could threaten wildlife",
+        "might put wild animals at risk",
+        "Could nêu nguy cơ có thể xảy ra, không khẳng định tất cả động vật sẽ chết.",
+        0,
+        12.5
+      ],
+      [
+        "a main mating ground",
+        "an important area where animals reproduce",
+        "Mating ground là nơi động vật tìm bạn tình và sinh sản.",
+        38.4,
+        49.5
+      ],
+      [
+        "broke off from the Antarctic shelf",
+        "separated from the Antarctic ice shelf",
+        "Break off là tách rời khỏi khối lớn hơn.",
+        62.6,
+        71
+      ],
+      [
+        "satellite imagery",
+        "pictures obtained from satellites",
+        "Imagery chỉ các hình ảnh dùng để theo dõi chuyển động.",
+        79.1,
+        91.1
+      ],
+      [
+        "predicting the iceberg’s exact path is difficult",
+        "it is hard to forecast precisely where the iceberg will travel",
+        "Giữ ý khó dự báo đường đi chính xác.",
+        108.3,
+        123.2
+      ],
+      [
+        "remain there for months",
+        "stay in that place for several months",
+        "Remain nghĩa là tiếp tục ở nguyên vị trí.",
+        149.2,
+        161.5
+      ],
+      [
+        "diverts the water",
+        "changes the direction of the water flow",
+        "Divert là làm chuyển hướng, không phải làm nước biến mất.",
+        208.3,
+        221.1
+      ],
+      [
+        "the chances of it hitting are not that high",
+        "a collision is considered relatively unlikely",
+        "Giữ mức độ khả năng thấp chứ không khẳng định không thể va chạm.",
+        221.3,
+        229.3
+      ],
+      [
+        "take a lot of their energy",
+        "require considerable physical effort from them",
+        "Đi vòng quanh băng khiến động vật tiêu hao nhiều năng lượng.",
+        288.7,
+        298.1
+      ],
+      [
+        "breaking free from the Antarctic shelf",
+        "becoming released from the Antarctic shelf",
+        "Breaking free diễn tả thoát khỏi trạng thái mắc kẹt.",
+        312.3,
+        324.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "iceberg",
+        "meaning": "tảng băng trôi",
+        "note": "A large floating mass of ice."
+      },
+      {
+        "term": "territory",
+        "meaning": "lãnh thổ",
+        "note": "An area under the authority of a particular country."
+      },
+      {
+        "term": "mating ground",
+        "meaning": "nơi sinh sản; giao phối",
+        "note": "An area where animals gather to reproduce."
+      },
+      {
+        "term": "oceanographer",
+        "meaning": "nhà hải dương học",
+        "note": "A scientist who studies the oceans."
+      },
+      {
+        "term": "imagery",
+        "meaning": "hình ảnh",
+        "note": "Pictures used to represent or observe something."
+      },
+      {
+        "term": "continental shelf",
+        "meaning": "thềm lục địa",
+        "note": "The shallow underwater extension of a continent."
+      },
+      {
+        "term": "obstacle",
+        "meaning": "vật cản",
+        "note": "Something that blocks movement or progress."
+      },
+      {
+        "term": "divert",
+        "meaning": "chuyển hướng",
+        "note": "To cause something to follow a different route."
+      },
+      {
+        "term": "seabed",
+        "meaning": "đáy biển",
+        "note": "The ground at the bottom of the sea."
+      },
+      {
+        "term": "current",
+        "meaning": "dòng hải lưu",
+        "note": "Water moving steadily in a particular direction."
+      }
+    ],
+    "signals": [
+      "But ocean conditions suggest…",
+      "If the iceberg does get caught…",
+      "however…",
+      "possibly leading to…"
+    ]
+  },
+  "22": {
+    "paragraphs": [
+      "A century ago, iodine deficiency affected children across much of the United States. The problem mostly disappeared during the 1900s after iodine was added to common foods. But doctors are now seeing higher iodine deficiency rates. The rises are blamed on [1] and new [2]. Iodine is an element found in seawater and in some soils — [3]. A French chemist [4] the substance in 1811. Iodine’s name comes from a Greek word meaning violet-colored. Later in the 1800s, scientists began to understand that people need iodine to [5] and stay healthy. The element is also important for [6]. One sign of iodine deficiency is an increase in size, or [7], of the neck. This growth in the neck is known as a goiter. It can appear when the thyroid gland grows to [8] too little iodine to produce hormones that control certain body processes.",
+      "In the early 1900s, goiters were commonly seen in children in some parts of the United States. Some of the children showed other symptoms in addition to goiters. These included being smaller or [9]. In the past, public health experts realized they could not solve the iodine deficiency problem by feeding everyone [10]. But they learned iodine can be included with table salt. This form of salt, known as iodized salt, [11]. By the 1950s, [12] of U.S. households used iodized table salt. Bread and some other foods also had iodine. As a result, iodine deficiency in the U.S. became rare. But diets have changed over the years. Processed foods now [13] of the American diet. Although these foods contain a lot of salt, it is not iodized.",
+      "Leading bread makers also no longer add iodine. And for people who do salt their food, it is popular now to use kosher salt, Himalayan rock salt or other products that [14]. “People have forgotten why there’s iodine in salt,” said Dr. Elizabeth Pearce of Boston Medical Center. She is a leader in the Iodine Global Network, a nongovernmental agency working to end conditions linked to iodine deficiency. Pearce noted there had been [15] in U.S. iodine levels studied during the 1970s through the 1990s. While most Americans are getting enough iodine through diet, doctors worry this is not the case for women and children – [16] by iodine deficiency. The American Academy of Pediatrics and other medical groups advise that all pregnant and breastfeeding women get [17].",
+      "In the last 15 years or so, U.S. researchers have increasingly reported seeing [18] in pregnant women. A Michigan State University study of [19] found about [20] were not getting enough. That study’s lead writer, Jean Kerver, noted that many vitamins for pregnant women do not contain iodine. As a result, doctors suggest that pregnant or breastfeeding women [21] to make sure the vitamins or supplements they take have iodine. Some studies have linked even mild iodine deficiency to [22] on an intelligence test known as an intelligence quotient (IQ) test. But experts say [23] to establish exactly how the U.S. population is being affected by iodine deficiency. Dr. Monica Serrano-Gonzalez of Brown University said she and other doctors had seen five cases of iodine deficiency in children visiting a local health center in Providence, Rhode Island.",
+      "“We’re concerned this may be increasing, especially in [24].” Serrano-Gonzalez called for increasing publicity about the problem in order to prevent it from getting worse. She said, “This needs to be [25].” I’m John Russell."
+    ],
+    "answers": [
+      "dietary changes",
+      "food manufacturing methods",
+      "mostly in coastal areas",
+      "accidentally discovered",
+      "control their metabolism",
+      "a child’s brain development",
+      "swelling",
+      "make up for",
+      "experiencing deafness",
+      "seaweed and seafood",
+      "first became available in 1924",
+      "more than 70 percent",
+      "make up a large part",
+      "do not contain iodine",
+      "a reported 50 percent drop",
+      "the two groups most likely to be hurt",
+      "150 micrograms of iodine each day",
+      "mild iodine deficiency",
+      "about 460 pregnant women",
+      "25 percent of them",
+      "check labels",
+      "a lower score",
+      "there has not yet been enough research",
+      "patients with restricted diets",
+      "on people’s radar"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "first became available in nineteen twenty-four"
+      ],
+      [
+        "more than seventy percent",
+        "more than 70%",
+        "more than seventy per cent",
+        "more than 70 per cent"
+      ],
+      [],
+      [],
+      [
+        "a reported fifty percent drop",
+        "a reported 50% drop",
+        "a reported fifty per cent drop",
+        "a reported 50 per cent drop"
+      ],
+      [],
+      [
+        "one hundred fifty micrograms of iodine each day",
+        "one hundred and fifty micrograms of iodine each day"
+      ],
+      [],
+      [
+        "about four hundred sixty pregnant women",
+        "about four hundred and sixty pregnant women"
+      ],
+      [
+        "twenty-five percent of them",
+        "25% of them",
+        "twenty-five per cent of them",
+        "25 per cent of them"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "beb69feea0ec",
+    "paraphrases": [
+      [
+        "dietary changes",
+        "changes in what people eat",
+        "Dietary liên quan đến chế độ ăn, không chỉ việc ăn kiêng giảm cân.",
+        24.4,
+        31.9
+      ],
+      [
+        "accidentally discovered",
+        "found by chance",
+        "Accidentally cho biết phát hiện không có chủ đích từ trước.",
+        42.1,
+        48.2
+      ],
+      [
+        "make up for too little iodine",
+        "compensate for insufficient iodine",
+        "Make up for trong câu này là bù đắp sự thiếu hụt.",
+        88,
+        99.7
+      ],
+      [
+        "in addition to goiters",
+        "as well as enlarged thyroid glands",
+        "In addition to là bên cạnh; goiter là sự phình to của tuyến giáp.",
+        109.8,
+        115.2
+      ],
+      [
+        "became rare",
+        "happened only infrequently",
+        "Rare nghĩa là hiếm gặp, không có nghĩa biến mất hoàn toàn.",
+        163,
+        169.1
+      ],
+      [
+        "make up a large part of the American diet",
+        "account for a substantial share of what Americans eat",
+        "Make up ở đây mang nghĩa chiếm tỷ lệ, khác với make up for ở phần trước.",
+        173.7,
+        179.3
+      ],
+      [
+        "a reported 50 percent drop",
+        "a reported reduction by half",
+        "Giảm 50 phần trăm nghĩa là còn một nửa so với mức ban đầu.",
+        227.2,
+        239.8
+      ],
+      [
+        "mild iodine deficiency",
+        "a slight shortage of iodine",
+        "Mild chỉ mức độ thiếu nhẹ, không phải thiếu nghiêm trọng.",
+        271.4,
+        283.7
+      ],
+      [
+        "patients with restricted diets",
+        "patients whose food choices are limited",
+        "Restricted diets chỉ chế độ ăn bị giới hạn về những thực phẩm được dùng.",
+        365.2,
+        372.1
+      ],
+      [
+        "on people’s radar",
+        "something people are aware of",
+        "Cụm thành ngữ nói về sự chú ý và nhận thức, không phải thiết bị radar thật.",
+        382.6,
+        386.2
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "deficiency",
+        "meaning": "sự thiếu hụt",
+        "note": "An insufficient amount of something that is needed."
+      },
+      {
+        "term": "dietary",
+        "meaning": "thuộc chế độ ăn",
+        "note": "Relating to food and eating habits."
+      },
+      {
+        "term": "metabolism",
+        "meaning": "sự trao đổi chất",
+        "note": "The chemical processes that keep an organism functioning."
+      },
+      {
+        "term": "swelling",
+        "meaning": "sự sưng; phình to",
+        "note": "An increase in size in part of the body."
+      },
+      {
+        "term": "thyroid gland",
+        "meaning": "tuyến giáp",
+        "note": "A gland in the neck that produces hormones involved in metabolism."
+      },
+      {
+        "term": "iodized",
+        "meaning": "được bổ sung i-ốt",
+        "note": "Having iodine added."
+      },
+      {
+        "term": "processed food",
+        "meaning": "thực phẩm chế biến",
+        "note": "Food altered from its original state during manufacture."
+      },
+      {
+        "term": "microgram",
+        "meaning": "microgam",
+        "note": "One millionth of a gram."
+      },
+      {
+        "term": "supplement",
+        "meaning": "chất bổ sung",
+        "note": "A product taken to add nutrients to a diet."
+      },
+      {
+        "term": "restricted",
+        "meaning": "bị giới hạn",
+        "note": "Limited in range or availability."
+      }
+    ],
+    "signals": [
+      "But doctors are now…",
+      "As a result…",
+      "Although these foods…",
+      "While most Americans…"
+    ]
+  },
+  "23": {
+    "paragraphs": [
+      "Scientists examining material collected from an asteroid say it appears to contain some of [1]. The American spacecraft OSIRIS-REx collected the samples in 2020 from the asteroid Bennu. In 2023, the spacecraft sent the rock and dust material back to Earth in a special container that [2]. Scientists from the American space agency NASA recovered the samples in the western state of Utah. OSIRIS-REx is already on its way to another asteroid called Apophis. It is expected to reach that asteroid in 2029. On Bennu, the spacecraft collected [3] of material. This is believed to be the largest sample collected [4]. NASA has shared some of the material with international researchers. Two research groups released studies last week describing results of their examinations of the asteroid material. One study, published in Nature Astronomy, suggested the samples contained [5].",
+      "Organic compounds have [6] that attach to other elements, usually hydrogen, oxygen, nitrogen and sulfur. All life on Earth is based on carbon and is built from organic compounds. The other study, published in Nature, provides evidence that a much larger object, which Bennu is believed to have broken off from, once held [7]. The researchers said this suggests that in the early solar system, asteroids such as Bennu might have transported [8] to other planets and moons. Researchers from both groups noted it was important that the samples they worked with [9]. Asteroid pieces that fall to Earth turn into meteorites, and chemicals inside the samples [10]. In a statement, NASA said the findings [11] of life itself.",
+      "However, the space agency said, “They do suggest the conditions necessary for [12] were widespread across the early solar system.” This increases the chances that “life could have formed on other planets and moons,” the statement added. The parent of Bennu is believed to be an icy body measuring about [13]. Scientists believe the body formed in the outer solar system and was later destroyed, possibly [14]. The pieces that broke off likely formed Bennu and other asteroids observed to be [15], [16]. Nicky Fox is the associate administrator for NASA’s Science Mission Directorate in Washington D.C. She praised the OSIRIS-REx mission, saying it was “already [17] on what we understand about the beginnings of our solar system.” Fox added that she hopes the samples can help scientists understand “what ingredients in our solar system existed [18].” Tim McCoy is a researcher at the U.S. Smithsonian Institution and was a lead writer of the Nature study. He told the Associated Press (AP) that the samples may provide details about \"the kind of environment that [19] to the steps that lead from elements to life.” McCoy noted that combining the ingredients of life with [20] is “really the pathway to life.” He added the samples suggest the processes involving the chemical compounds “probably [21] and were much more widespread than we had thought before.\" Yasuhito Sekine is with the Institute of Science in Tokyo. He did not take part in the new research. Sekine confirmed the findings were only made possible by examining samples “collected directly from the asteroid, then [22] back on Earth.\" Jason Dworkin is a project scientist for the OSIRIS-REx mission at NASA’s Goddard Space Flight Center in Maryland. He told Reuters news agency that all biology is made up of organic compounds.",
+      "And some of those may have survived [23]. Dworkin said the materials from OSIRIS-REx provide new details about a solar system that might have had [24]. But he added that one of the most interesting questions, still remains: “Why we, so far, only see life [25].” I’m Bryan Lynn."
+    ],
+    "answers": [
+      "the chemical building blocks of life",
+      "landed by parachute",
+      "a total of 122 grams",
+      "from beyond the moon",
+      "a mixture of organic compounds",
+      "one or more carbon atoms",
+      "salty, liquid water",
+      "water and life-supporting chemicals",
+      "came directly from the asteroid itself",
+      "can be changed or lost",
+      "do not provide direct evidence",
+      "the emergence of life",
+      "100 kilometers across",
+      "1 to 2 billion years ago",
+      "masses of loose material",
+      "rather than solid objects",
+      "rewriting the textbook",
+      "before life started on Earth",
+      "could have been essential",
+      "an environment of sodium-rich water",
+      "occurred much earlier",
+      "carefully preserved",
+      "4.5 billion years",
+      "the right elements to support life",
+      "on Earth and not elsewhere"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "a total of one hundred twenty-two grams",
+        "a total of one hundred and twenty-two grams"
+      ],
+      [],
+      [],
+      [
+        "1 or more carbon atoms"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "one hundred kilometers across",
+        "100 kilometres across",
+        "one hundred kilometres across",
+        "a hundred kilometers across",
+        "a hundred kilometres across"
+      ],
+      [
+        "one to two billion years ago"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "four point five billion years"
+      ],
+      [],
+      []
+    ],
+    "contentRevision": "13c746ba95d4",
+    "paraphrases": [
+      [
+        "the chemical building blocks of life",
+        "the basic chemical components needed for life",
+        "Building blocks là các thành phần nền tảng, không phải bằng chứng đã tìm thấy sinh vật.",
+        0,
+        13
+      ],
+      [
+        "on its way to another asteroid",
+        "travelling towards a different asteroid",
+        "On its way nghĩa là đang trên hành trình đến nơi đó.",
+        48.1,
+        55.9
+      ],
+      [
+        "a mixture of organic compounds",
+        "a combination of carbon-based chemical substances",
+        "Mixture nói về nhiều hợp chất cùng có mặt trong mẫu.",
+        97.3,
+        108.1
+      ],
+      [
+        "came directly from the asteroid itself",
+        "were obtained from the asteroid without first falling to Earth",
+        "Directly tương phản với các mảnh thiên thạch đã rơi xuống Trái Đất.",
+        164.7,
+        176.3
+      ],
+      [
+        "do not provide direct evidence of life itself",
+        "do not directly prove that living organisms existed",
+        "Giữ nguyên sự phủ định; các hợp chất không tự chứng minh đã có sự sống.",
+        189.7,
+        198
+      ],
+      [
+        "the emergence of life",
+        "the appearance of living things",
+        "Emergence chỉ sự bắt đầu xuất hiện.",
+        198.5,
+        213
+      ],
+      [
+        "masses of loose material, rather than solid objects",
+        "collections of unconsolidated pieces instead of single solid bodies",
+        "Loose material chỉ vật chất rời rạc kết tụ lại.",
+        246,
+        258.2
+      ],
+      [
+        "rewriting the textbook",
+        "changing established scientific understanding",
+        "Đây là cách nói hình tượng về thay đổi kiến thức được chấp nhận trước đó.",
+        268.9,
+        282.7
+      ],
+      [
+        "could have been essential",
+        "might have been necessary",
+        "Giữ mức độ chưa chắc chắn của could trong nhận định về quá khứ.",
+        309.4,
+        326
+      ],
+      [
+        "carefully preserved back on Earth",
+        "protected from alteration after returning to Earth",
+        "Preserved là bảo quản mẫu để duy trì đặc tính của nó.",
+        365.3,
+        379.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "sample",
+        "meaning": "mẫu vật",
+        "note": "A small amount collected for examination."
+      },
+      {
+        "term": "parachute",
+        "meaning": "dù",
+        "note": "A device that slows descent through the air."
+      },
+      {
+        "term": "organic compound",
+        "meaning": "hợp chất hữu cơ",
+        "note": "A carbon-based chemical compound."
+      },
+      {
+        "term": "atom",
+        "meaning": "nguyên tử",
+        "note": "A basic unit of a chemical element."
+      },
+      {
+        "term": "meteorite",
+        "meaning": "thiên thạch đã rơi xuống bề mặt",
+        "note": "A space rock that reaches the surface of a planet or moon."
+      },
+      {
+        "term": "evidence",
+        "meaning": "bằng chứng",
+        "note": "Information supporting a conclusion."
+      },
+      {
+        "term": "emergence",
+        "meaning": "sự xuất hiện",
+        "note": "The process of coming into existence or becoming visible."
+      },
+      {
+        "term": "widespread",
+        "meaning": "phổ biến; trên diện rộng",
+        "note": "Found across a large area or in many places."
+      },
+      {
+        "term": "essential",
+        "meaning": "thiết yếu",
+        "note": "Necessary or extremely important."
+      },
+      {
+        "term": "preserve",
+        "meaning": "bảo quản; giữ nguyên",
+        "note": "To protect something from damage or change."
+      }
+    ],
+    "signals": [
+      "The other study…",
+      "However…",
+      "rather than…",
+      "But he added…"
+    ]
+  },
+  "24": {
+    "paragraphs": [
+      "Facebook parent company Meta recently announced changes to the way it tries to identify [1] published on its social media services. Meta chief Mark Zuckerberg explained in a video that the company had decided to make the changes because the old system had produced “[2].” Zuckerberg said the moderation system Meta had built needed to be “complex” to examine huge amounts of content in search of material that [3]. However, he noted the problem with such systems is they can make a lot of errors. The Meta chief added about such systems, “Even if they accidentally censor [4], that’s millions of people.” So, he said the company had decided to move to a new system centered on “reducing mistakes, simplifying our policies, and [5].” The new method turns over [6] to a “Community Notes” system.",
+      "The company said this system aims to “empower the community” to decide whether content is acceptable or [7]. The changes will be effective for Meta’s Facebook, Instagram and Threads services. Meta said the new system would become available first to U.S. users in the coming months. Meta’s former moderation system involved the use of [8]. Many of these were large media companies or news agencies. The efforts included [9] to fact-check content and identify false, inappropriate or harmful material. Meta said the third-party moderation method ended up identifying too much information for fact-checking. After closer examination, a lot of content should have been considered “[10].” Another problem, the company said, was that the decisions made by content moderators could be affected by their [11].",
+      "One result was that “a program intended to inform too often became [12].” Meta’s new Community Notes system is similar to the method used by the social media service X. A statement by Meta said changes to this system will have to be made by users, not anyone from the company. Meta said, “Just like they do on X, Community Notes will require agreement between people with [13] to help [14].” The company also invited any users to register to be among the first to try out the system. The International Fact-Checking Network (IFCN) criticized Meta’s latest decision. It said the move threatened to \"[15].\" The group [16] that the fact-checking program had become a \"tool to censor\" users. It noted, that \"[17] is also free speech.\" Milijana Rogač is executive editor of the Serbian fact-checking outlet Istinomer.",
+      "She told Reuters news agency that she thinks Meta's decision would end up hurting the media industry. Rogač noted that research suggests that many citizens use Meta services as [18]. Removing independent fact-checkers “further [19] and news,\" Rogač said. Not a lot of research has been done on [20]. But one effort carried out by the University of California and Johns Hopkins University found in 2024 that community notes entered on X for [21] were accurate. The research showed the notes used both [22] and were attached to [23]. However, [24] in that study was small. Also, the effects the system had on users' opinions and behavior is unknown. A 2023 study, from the Journal of Online Trust and Safety, said it was harder for users to agree when they examined [25]."
+    ],
+    "answers": [
+      "misinformation and harmful material",
+      "too many mistakes and too much censorship",
+      "violated company policies",
+      "just one percent of posts",
+      "restoring free expression",
+      "content moderation duties",
+      "needs further examination",
+      "independent, third-party fact-checking organizations",
+      "digital tools as well as human workers",
+      "legitimate political speech and debate",
+      "personal beliefs, opinions and biases",
+      "a tool to censor",
+      "a range of perspectives",
+      "prevent biased ratings",
+      "undo nearly a decade of progress",
+      "rejected Zuckerberg's claim",
+      "the freedom to say why something is not true",
+      "their main source for information",
+      "hinders access to accurate information",
+      "how effective Community Notes systems are",
+      "COVID-19 misinformation",
+      "moderate and high-quality sources",
+      "widely read posts",
+      "the number of people taking part",
+      "content related to political issues"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [
+        "just 1 percent of posts",
+        "just 1% of posts",
+        "just one per cent of posts",
+        "just 1 per cent of posts"
+      ],
+      [],
+      [],
+      [],
+      [
+        "independent third-party fact-checking organisations"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "COVID nineteen misinformation"
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "3c94ac16b510",
+    "paraphrases": [
+      [
+        "violated company policies",
+        "broke the company's rules",
+        "Violate nghĩa là không tuân thủ quy định.",
+        37,
+        55.5
+      ],
+      [
+        "turns over content moderation duties",
+        "hands responsibility for reviewing posts to others",
+        "Turn over duties là chuyển giao trách nhiệm, không phải ngừng mọi việc kiểm duyệt.",
+        92,
+        103.2
+      ],
+      [
+        "empower the community",
+        "give users greater authority",
+        "Empower diễn tả trao quyền quyết định cho cộng đồng người dùng.",
+        101,
+        113
+      ],
+      [
+        "third-party fact-checking organizations",
+        "independent outside groups that verify claims",
+        "Third-party ở đây là tổ chức bên ngoài công ty.",
+        131,
+        143.7
+      ],
+      [
+        "a range of perspectives",
+        "a variety of viewpoints",
+        "Range nhấn mạnh nhiều góc nhìn khác nhau.",
+        228,
+        242
+      ],
+      [
+        "undo nearly a decade of progress",
+        "reverse almost ten years of improvement",
+        "Undo ở đây là làm mất thành quả trước đó; đây là lời chỉ trích được trích dẫn.",
+        252,
+        268
+      ],
+      [
+        "rejected Zuckerberg's claim",
+        "disagreed with Zuckerberg's assertion",
+        "Reject a claim là bác bỏ nhận định, không phải xác nhận nhận định đó.",
+        267,
+        279
+      ],
+      [
+        "hinders access to accurate information",
+        "makes reliable information harder to obtain",
+        "Hinder là gây cản trở, không nhất thiết ngăn hoàn toàn.",
+        316,
+        330
+      ],
+      [
+        "widely read posts",
+        "posts seen and read by many people",
+        "Widely read nói về mức độ được tiếp cận rộng rãi.",
+        357,
+        370
+      ],
+      [
+        "the effects the system had on users' opinions and behavior is unknown",
+        "it is not known how the system affected users' views and actions",
+        "Giữ sự chưa biết về tác động; không biến kết quả này thành khẳng định hiệu quả.",
+        373,
+        382
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "misinformation",
+        "meaning": "thông tin sai lệch",
+        "note": "False or inaccurate information."
+      },
+      {
+        "term": "censorship",
+        "meaning": "sự kiểm duyệt; hạn chế nội dung",
+        "note": "The suppression or restriction of information or expression."
+      },
+      {
+        "term": "moderation",
+        "meaning": "sự xét duyệt nội dung",
+        "note": "Reviewing material and applying rules about what is allowed."
+      },
+      {
+        "term": "violate",
+        "meaning": "vi phạm",
+        "note": "To break a rule or agreement."
+      },
+      {
+        "term": "empower",
+        "meaning": "trao quyền",
+        "note": "To give someone authority or ability to act."
+      },
+      {
+        "term": "legitimate",
+        "meaning": "chính đáng; hợp lệ",
+        "note": "Acceptable or justified under the relevant rules."
+      },
+      {
+        "term": "bias",
+        "meaning": "sự thiên lệch",
+        "note": "A preference that can prevent fair judgement."
+      },
+      {
+        "term": "perspective",
+        "meaning": "quan điểm; góc nhìn",
+        "note": "A particular way of seeing an issue."
+      },
+      {
+        "term": "hinder",
+        "meaning": "cản trở",
+        "note": "To make something more difficult."
+      },
+      {
+        "term": "accurate",
+        "meaning": "chính xác",
+        "note": "Correct and free from significant errors."
+      }
+    ],
+    "signals": [
+      "However, he noted…",
+      "Another problem…",
+      "One result was…",
+      "However, the number…"
+    ]
   }
 };

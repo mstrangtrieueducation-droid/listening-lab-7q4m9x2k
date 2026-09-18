@@ -1,0 +1,34 @@
+{
+ "code":"L1-21","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-21.mp3",
+ "evidenceNote":"Compared all spoken paragraphs through the Caty Weaver sign-off. Removed the duplicated tiger photograph caption and all unspoken glossary entries. Checked reported figures and the qualifications expressed by outside scientists.",
+ "removeSpans":[{"start":"![Image 1:","end":"Arjun Gopalaswamy"},{"start":"habitat–n.","end":null}],
+ "textReplacements":[["andparticipation","and participation"]],
+ "gaps":["doubled its tiger population","the loss of tiger habitat and prey","an estimated 1,706","around 3,682","about 75 percent","a reduction in conflict","improve economic conditions","through increased ecotourism","both biodiversity and nearby communities","preclude an increase","the attitude of people","making the source data available","have been undependable","much higher than past estimates","corrected a data problem","areas with armed conflict","community support and participation","good results from their efforts","138,200 square kilometers","25 percent of the area","about 60 million people","strong wildlife protection legislation","the quality of the habitat","extended to other wild animals","need more attention"],
+ "acceptedVariants":{"an estimated 1,706":["an estimated one thousand seven hundred six","an estimated one thousand seven hundred and six","an estimated seventeen hundred and six"],"around 3,682":["around three thousand six hundred eighty-two","around three thousand six hundred and eighty-two"],"about 75 percent":["about seventy-five percent","about 75%","about seventy-five per cent","about 75 per cent"],"138,200 square kilometers":["one hundred thirty-eight thousand two hundred square kilometers","one hundred and thirty-eight thousand two hundred square kilometers","138200 square kilometres","one hundred thirty-eight thousand two hundred square kilometres","one hundred and thirty-eight thousand two hundred square kilometres"],"25 percent of the area":["twenty-five percent of the area","25% of the area","twenty-five per cent of the area","25 per cent of the area"],"about 60 million people":["about sixty million people"]},
+ "paraphrases":[
+  ["doubled its tiger population","increased its number of tigers to twice the previous level","Doubled là tăng lên gấp đôi, không phải tăng thêm hai con.",0,9.1],
+  ["a reduction in conflict","a decrease in clashes","Reduction in conflict nói về ít xung đột hơn giữa người và động vật.",59.6,71.9],
+  ["improve economic conditions","make financial circumstances better","Cụm từ nói về cải thiện điều kiện kinh tế cho cộng đồng gần nơi sống của hổ.",71.9,82.2],
+  ["through increased ecotourism","by attracting more nature-based tourism","Through diễn tả cách hoạt động du lịch thiên nhiên giúp kinh tế địa phương.",82.8,96.8],
+  ["preclude an increase","prevent a rise from happening","Preclude mạnh hơn gây khó khăn: nó mang nghĩa ngăn điều đó xảy ra.",115.6,126.2],
+  ["have been undependable","have not been reliable","Ý kiến được trích dẫn đặt vấn đề về độ tin cậy của các ước tính.",186,194.5],
+  ["their range","the area in which they live","Range ở đây là vùng phân bố của hổ, không phải một khoảng số liệu.",206.7,224],
+  ["is rich in tiger prey","contains plenty of animals that tigers hunt","Prey là động vật bị săn để làm thức ăn.",281,289.1],
+  ["a constraint","a limiting factor","Constraint là yếu tố hạn chế hoặc cản trở.",311.4,319.6],
+  ["on the edge","in a precarious situation","Trong đoạn bảo tồn, on the edge nói về tình trạng nguy hiểm của động vật hoang dã.",345.2,353.8]
+ ],
+ "vocabulary":[
+  ["habitat","môi trường sống","The natural place where an organism lives."],
+  ["prey","con mồi","An animal hunted by another animal for food."],
+  ["ecotourism","du lịch sinh thái","Tourism focused on natural environments and wildlife."],
+  ["biodiversity","đa dạng sinh học","The variety of living organisms in an area."],
+  ["preclude","ngăn không cho xảy ra","To make something impossible or prevent it."],
+  ["attitude","thái độ","A way of thinking or feeling about something."],
+  ["conservationist","người làm công tác bảo tồn","A person who works to protect nature."],
+  ["undependable","không đáng tin cậy","Not able to be relied upon."],
+  ["legislation","pháp luật; hệ thống luật","Laws made by a governing authority."],
+  ["constraint","sự hạn chế; yếu tố cản trở","Something that limits what can be done."]
+ ],
+ "signals":["among other things…","But they said…","That means…","But, he said…"],
+ "issuesFixed":["Removed duplicated image caption and unspoken glossary","Replaced a URL-derived answer that had no corresponding input","Corrected the merged word and restored 25 consecutive gaps","Rebuilt meaningful answers, explicit numeric variants and contextual paraphrases"]
+}

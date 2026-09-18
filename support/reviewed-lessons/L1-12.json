@@ -1,0 +1,34 @@
+{
+ "code":"L1-12","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-12.mp3",
+ "evidenceNote":"Compared the entire recording with the article using independent timestamped transcription. Removed the unspoken photo caption and retained established proper-name spellings.",
+ "removeSpans":[{"start":"![Image 1:","end":"The study appeared recently"}],
+ "textReplacements":[["Egyptianmummies","Egyptian mummies"],["evenfiction","even fiction"],["couldpreserve","could preserve"]],"appendText":"I’m John Russell.",
+ "gaps":["Egyptian mummies","some surprising findings","the pleasantness of them","a floral or flowery smell","protect the body from decay","chemical examinations","nine mummies","around 5,000 years old","a subject of interest","an important consideration","oils and plant-based materials","for the afterlife","purity and gods","corruption and decay","might be damaging","did not involve touching the mummies","technical instruments","air molecules","what social class a mummy was from","other types of museum collections","preserve or damage mummified remains","for future generations","ancient trade paths","recreate the scents they discovered","improve the museum visitors’ experiences"],
+ "acceptedVariants":{"nine mummies":["9 mummies"],"around 5,000 years old":["around five thousand years old"]},
+ "paraphrases":[
+  ["the remains mostly smelled good","the preserved bodies generally had a pleasant odour","Mostly là nhìn chung, không phải tất cả đều giống nhau.",14.9,19.7],
+  ["a floral or flowery smell","a scent resembling flowers","Floral và flowery cùng mô tả mùi giống hoa.",52.4,56.9],
+  ["protect the body from decay","prevent the remains from decomposing","Decay nói về sự phân hủy.",57.9,68.9],
+  ["for the public and researchers alike","for both ordinary people and scientists","Alike nhấn mạnh cả hai nhóm đều quan tâm.",95.5,110.7],
+  ["might be damaging","could cause harm","Giữ nguyên khả năng gây hại, không khẳng định đã gây hại.",155.8,162.8],
+  ["did not involve touching the mummies","required no physical contact with the preserved bodies","Diễn giải phương pháp đo không tiếp xúc.",163.8,171.5],
+  ["reveals a lot of information","discloses many details","Reveal là làm lộ ra hoặc cung cấp thông tin trước đó chưa rõ.",206,217.8],
+  ["for future generations","for people who will live after us","Future generations chỉ các thế hệ về sau.",246.7,254],
+  ["recreate the scents they discovered","reproduce the smells they identified","Recreate ở đây là tái tạo mùi, không phải giải trí.",292.1,299.3],
+  ["experience everything with their eyes","rely entirely on sight to engage with the exhibits","Câu mô tả cách tham quan chủ yếu bằng thị giác.",306.4,313.3]
+ ],
+ "vocabulary":[
+  ["mummy","xác ướp","A dead body preserved to prevent decay."],
+  ["remains","di hài; phần còn lại","What is left of a body or object."],
+  ["floral","có mùi hoa; thuộc hoa","Relating to or resembling flowers."],
+  ["resin","nhựa cây","A sticky substance produced by some trees."],
+  ["mummification","quá trình ướp xác","The process of preserving a body as a mummy."],
+  ["decay","sự phân hủy; phân rã","The process by which organic matter breaks down."],
+  ["afterlife","thế giới bên kia; cuộc sống sau khi chết","A life after death believed in by some traditions."],
+  ["purity","sự tinh khiết; thanh sạch","The state of being free from contamination."],
+  ["sarcophagus","quan tài bằng đá","A stone coffin, often decorated with carvings."],
+  ["preserve","bảo quản; gìn giữ","To protect something from damage or decay."]
+ ],
+ "signals":["Instead, they say…","This process used…","Instead, researchers…","The goal was…"],
+ "issuesFixed":["Removed photo Markdown and its repeated unspoken caption","Separated Egyptian mummies, even fiction and could preserve","Rebuilt 25 meaningful gaps including age and sample size","Restored complete spoken sign-off","Wrote paraphrases with original-audio ranges and Vietnamese vocabulary"]
+}

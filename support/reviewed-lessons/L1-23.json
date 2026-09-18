@@ -1,0 +1,34 @@
+{
+ "code":"L1-23","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-23.mp3",
+ "evidenceNote":"Compared every paragraph with the complete recording through the spoken sign-off. This is a language exercise reproducing the report; the medical statements have not been expanded into personalised advice. Preserved the source spelling of doctors' names.",
+ "textReplacements":[["theirmetabolism","their metabolism"]],
+ "appendText":"I’m John Russell.",
+ "gaps":["dietary changes","food manufacturing methods","mostly in coastal areas","accidentally discovered","control their metabolism","a child’s brain development","swelling","make up for","experiencing deafness","seaweed and seafood","first became available in 1924","more than 70 percent","make up a large part","do not contain iodine","a reported 50 percent drop","the two groups most likely to be hurt","150 micrograms of iodine each day","mild iodine deficiency","about 460 pregnant women","25 percent of them","check labels","a lower score","there has not yet been enough research","patients with restricted diets","on people’s radar"],
+ "acceptedVariants":{"first became available in 1924":["first became available in nineteen twenty-four"],"more than 70 percent":["more than seventy percent","more than 70%","more than seventy per cent","more than 70 per cent"],"a reported 50 percent drop":["a reported fifty percent drop","a reported 50% drop","a reported fifty per cent drop","a reported 50 per cent drop"],"150 micrograms of iodine each day":["one hundred fifty micrograms of iodine each day","one hundred and fifty micrograms of iodine each day"],"about 460 pregnant women":["about four hundred sixty pregnant women","about four hundred and sixty pregnant women"],"25 percent of them":["twenty-five percent of them","25% of them","twenty-five per cent of them","25 per cent of them"]},
+ "paraphrases":[
+  ["dietary changes","changes in what people eat","Dietary liên quan đến chế độ ăn, không chỉ việc ăn kiêng giảm cân.",24.4,31.9],
+  ["accidentally discovered","found by chance","Accidentally cho biết phát hiện không có chủ đích từ trước.",42.1,48.2],
+  ["make up for too little iodine","compensate for insufficient iodine","Make up for trong câu này là bù đắp sự thiếu hụt.",88,99.7],
+  ["in addition to goiters","as well as enlarged thyroid glands","In addition to là bên cạnh; goiter là sự phình to của tuyến giáp.",109.8,115.2],
+  ["became rare","happened only infrequently","Rare nghĩa là hiếm gặp, không có nghĩa biến mất hoàn toàn.",163,169.1],
+  ["make up a large part of the American diet","account for a substantial share of what Americans eat","Make up ở đây mang nghĩa chiếm tỷ lệ, khác với make up for ở phần trước.",173.7,179.3],
+  ["a reported 50 percent drop","a reported reduction by half","Giảm 50 phần trăm nghĩa là còn một nửa so với mức ban đầu.",227.2,239.8],
+  ["mild iodine deficiency","a slight shortage of iodine","Mild chỉ mức độ thiếu nhẹ, không phải thiếu nghiêm trọng.",271.4,283.7],
+  ["patients with restricted diets","patients whose food choices are limited","Restricted diets chỉ chế độ ăn bị giới hạn về những thực phẩm được dùng.",365.2,372.1],
+  ["on people’s radar","something people are aware of","Cụm thành ngữ nói về sự chú ý và nhận thức, không phải thiết bị radar thật.",382.6,386.2]
+ ],
+ "vocabulary":[
+  ["deficiency","sự thiếu hụt","An insufficient amount of something that is needed."],
+  ["dietary","thuộc chế độ ăn","Relating to food and eating habits."],
+  ["metabolism","sự trao đổi chất","The chemical processes that keep an organism functioning."],
+  ["swelling","sự sưng; phình to","An increase in size in part of the body."],
+  ["thyroid gland","tuyến giáp","A gland in the neck that produces hormones involved in metabolism."],
+  ["iodized","được bổ sung i-ốt","Having iodine added."],
+  ["processed food","thực phẩm chế biến","Food altered from its original state during manufacture."],
+  ["microgram","microgam","One millionth of a gram."],
+  ["supplement","chất bổ sung","A product taken to add nutrients to a diet."],
+  ["restricted","bị giới hạn","Limited in range or availability."]
+ ],
+ "signals":["But doctors are now…","As a result…","Although these foods…","While most Americans…"],
+ "issuesFixed":["Separated their metabolism and restored the missing spoken sign-off","Replaced arbitrary fragments with 25 coherent gaps across the recording","Added complete quantities and explicit equivalent number formats","Distinguished make up from make up for in paraphrase explanations"]
+}

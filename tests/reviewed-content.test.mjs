@@ -6,6 +6,9 @@ import fs from 'node:fs';
 
 test('numeric grading preserves decimal values while allowing explicit equivalents', () => {
   assert.equal(isCorrectAnswer('31 percent', '3.1 percent'), false);
+  assert.equal(isCorrectAnswer('51 degrees Celsius', 'minus 51 degrees Celsius', ['-51 degrees Celsius']), false);
+  assert.equal(isCorrectAnswer('-51 degrees Celsius', 'minus 51 degrees Celsius'), true);
+  assert.equal(isCorrectAnswer('−51 degrees Celsius', 'minus 51 degrees Celsius'), true);
   assert.equal(isCorrectAnswer('3.1%', '3.1 percent', ['3.1%']), true);
   assert.equal(isCorrectAnswer('much better equipped', 'much better-equipped'), true);
   assert.equal(isCorrectAnswer('seventy years', 'seven years'), false);

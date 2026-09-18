@@ -1,0 +1,35 @@
+{
+ "code":"L1-24","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-24.mp3",
+ "evidenceNote":"Compared the complete recording with each paragraph, including McCoy noted versus the written He noted. Restored the missing sign-off, kept uncertainty about life and preserved all numerical quantities.",
+ "removeSpans":[{"start":"Bryan Lynn wrote this story","end":null}],
+ "textReplacements":[["He noted that combining","McCoy noted that combining"],["U.S.\n\nSmithsonian Institution","U.S. Smithsonian Institution"]],
+ "appendText":"I’m Bryan Lynn.",
+ "gaps":["the chemical building blocks of life","landed by parachute","a total of 122 grams","from beyond the moon","a mixture of organic compounds","one or more carbon atoms","salty, liquid water","water and life-supporting chemicals","came directly from the asteroid itself","can be changed or lost","do not provide direct evidence","the emergence of life","100 kilometers across","1 to 2 billion years ago","masses of loose material","rather than solid objects","rewriting the textbook","before life started on Earth","could have been essential","an environment of sodium-rich water","occurred much earlier","carefully preserved","4.5 billion years","the right elements to support life","on Earth and not elsewhere"],
+ "acceptedVariants":{"a total of 122 grams":["a total of one hundred twenty-two grams","a total of one hundred and twenty-two grams"],"one or more carbon atoms":["1 or more carbon atoms"],"100 kilometers across":["one hundred kilometers across","100 kilometres across","one hundred kilometres across","a hundred kilometers across","a hundred kilometres across"],"1 to 2 billion years ago":["one to two billion years ago"],"4.5 billion years":["four point five billion years"]},
+ "paraphrases":[
+  ["the chemical building blocks of life","the basic chemical components needed for life","Building blocks là các thành phần nền tảng, không phải bằng chứng đã tìm thấy sinh vật.",0,13],
+  ["on its way to another asteroid","travelling towards a different asteroid","On its way nghĩa là đang trên hành trình đến nơi đó.",48.1,55.9],
+  ["a mixture of organic compounds","a combination of carbon-based chemical substances","Mixture nói về nhiều hợp chất cùng có mặt trong mẫu.",97.3,108.1],
+  ["came directly from the asteroid itself","were obtained from the asteroid without first falling to Earth","Directly tương phản với các mảnh thiên thạch đã rơi xuống Trái Đất.",164.7,176.3],
+  ["do not provide direct evidence of life itself","do not directly prove that living organisms existed","Giữ nguyên sự phủ định; các hợp chất không tự chứng minh đã có sự sống.",189.7,198],
+  ["the emergence of life","the appearance of living things","Emergence chỉ sự bắt đầu xuất hiện.",198.5,213],
+  ["masses of loose material, rather than solid objects","collections of unconsolidated pieces instead of single solid bodies","Loose material chỉ vật chất rời rạc kết tụ lại.",246,258.2],
+  ["rewriting the textbook","changing established scientific understanding","Đây là cách nói hình tượng về thay đổi kiến thức được chấp nhận trước đó.",268.9,282.7],
+  ["could have been essential","might have been necessary","Giữ mức độ chưa chắc chắn của could trong nhận định về quá khứ.",309.4,326],
+  ["carefully preserved back on Earth","protected from alteration after returning to Earth","Preserved là bảo quản mẫu để duy trì đặc tính của nó.",365.3,379.4]
+ ],
+ "vocabulary":[
+  ["sample","mẫu vật","A small amount collected for examination."],
+  ["parachute","dù","A device that slows descent through the air."],
+  ["organic compound","hợp chất hữu cơ","A carbon-based chemical compound."],
+  ["atom","nguyên tử","A basic unit of a chemical element."],
+  ["meteorite","thiên thạch đã rơi xuống bề mặt","A space rock that reaches the surface of a planet or moon."],
+  ["evidence","bằng chứng","Information supporting a conclusion."],
+  ["emergence","sự xuất hiện","The process of coming into existence or becoming visible."],
+  ["widespread","phổ biến; trên diện rộng","Found across a large area or in many places."],
+  ["essential","thiết yếu","Necessary or extremely important."],
+  ["preserve","bảo quản; giữ nguyên","To protect something from damage or change."]
+ ],
+ "signals":["The other study…","However…","rather than…","But he added…"],
+ "issuesFixed":["Replaced a URL-derived answer with a real spoken phrase and input","Restored full 4.5 billion quantity instead of the fragment 5 billion","Matched McCoy noted to the audio and joined a split institutional name","Removed written byline and authored 25 gaps and 10 accurate paraphrases"]
+}

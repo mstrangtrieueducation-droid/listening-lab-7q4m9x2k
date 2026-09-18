@@ -1,0 +1,36 @@
+{
+ "code":"L1-17","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-17.mp3",
+ "evidenceNote":"Compared the whole 377-second audio transcription against every paragraph. Retained source spellings of scientific names. The spoken report ends with I'm Bryan Lynn, not the written byline.",
+ "unwrapLinks":true,
+ "removeSpans":[{"start":"Bryan Lynn wrote this story","end":null}],
+ "textReplacements":[["asteroidstrike","asteroid strike"]],
+ "appendText":"I’m Bryan Lynn.",
+ "gaps":["two huge valleys","less than 10 minutes","always faces away from Earth","55,000 kilometers per hour","3.8 billion years ago","since entering orbit","June 2009","a highly detailed","lunar resources","all other planetary missions combined","simulate the path","was displaced by the crash","passed over the south pole","1 kilometer per second","struck the lunar surface like missiles","comparable in size","25 kilometers across","more than 130 times greater","the world’s current nuclear weapons","improve the exploration possibilities","ancient rocks in the polar region","at or close to the surface","a landing attempt","the formation of Earth","permanently shadowed"],
+ "acceptedVariants":{"less than 10 minutes":["less than ten minutes"],"55,000 kilometers per hour":["55000 kilometres per hour","fifty-five thousand kilometers per hour","fifty-five thousand kilometres per hour"],"3.8 billion years ago":["three point eight billion years ago"],"June 2009":["June two thousand nine","June two thousand and nine"],"1 kilometer per second":["one kilometer per second","1 kilometre per second","one kilometre per second"],"25 kilometers across":["twenty-five kilometers across","25 kilometres across","twenty-five kilometres across"],"more than 130 times greater":["more than one hundred thirty times greater","more than one hundred and thirty times greater"]},
+ "paraphrases":[
+  ["faces away from Earth","is oriented in the opposite direction to Earth","Faces away mô tả hướng quay ra xa, không phải khoảng cách ngày càng lớn.",40,49],
+  ["was estimated to be around","was calculated to be approximately","Giữ ý đây là ước tính gần đúng, không phải con số đo chính xác tuyệt đối.",57.5,70.7],
+  ["a highly detailed","a very precise and information-rich","Highly detailed nghĩa là thể hiện nhiều chi tiết rõ ràng.",100.5,108.4],
+  ["all other planetary missions combined","every other planetary mission added together","Combined chỉ tổng dữ liệu của tất cả các nhiệm vụ còn lại.",119.4,131.9],
+  ["was displaced by the crash","was moved from its original position by the impact","Displaced là bị dịch chuyển khỏi vị trí ban đầu.",138,147.2],
+  ["comparable in size","similar in dimensions","Comparable ở đây chỉ tương đương về kích thước, không khẳng định giống nhau mọi mặt.",184.8,197.2],
+  ["25 kilometers across","25 kilometres from one side to the other","Across trong mô tả thiên thạch nói về bề ngang.",223.9,234.2],
+  ["was jettisoned away from the lunar south pole","was forcefully thrown away from the moon's south pole","Jettisoned ở đây diễn tả vật chất bị văng ra do va chạm.",267.5,280.4],
+  ["gain a better understanding","develop a clearer picture","Cụm từ nói về việc hiểu rõ hơn nhờ nghiên cứu.",335.1,346],
+  ["permanently shadowed","continuously kept out of direct sunlight","Permanently shadowed là luôn ở trong bóng tối, không chỉ tối vào ban đêm.",352.6,363]
+ ],
+ "vocabulary":[
+  ["asteroid","tiểu hành tinh","A small rocky object orbiting the Sun."],
+  ["impact","sự va chạm","A forceful collision between objects."],
+  ["basin","vùng trũng; bồn địa","A broad depression in a surface."],
+  ["orbiter","tàu bay theo quỹ đạo","A spacecraft that travels around a celestial body."],
+  ["simulate","mô phỏng","To model how an event or process behaves."],
+  ["displace","làm dịch chuyển","To move something from its original position."],
+  ["comparable","có thể so sánh; tương đương","Similar enough in a particular respect to be compared."],
+  ["debris","mảnh vỡ","Scattered pieces left after destruction or impact."],
+  ["jettison","ném; đẩy văng ra","To throw or eject something away."],
+  ["crater","hố va chạm","A bowl-shaped hollow formed by an impact or eruption."]
+ ],
+ "signals":["They noted…","as well as…","This resulted in…","That would be followed…"],
+ "issuesFixed":["Removed hyperlink markup and unspoken editorial credit","Separated asteroid strike and preserved complete decimal numbers","Replaced arbitrary fragments with 25 coherent gaps","Rebuilt 10 paraphrases with audio timings and vocabulary"]
+}

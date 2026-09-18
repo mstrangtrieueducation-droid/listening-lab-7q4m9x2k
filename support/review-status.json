@@ -106,8 +106,220 @@
         "Rewrote paraphrases preserving uncertainty in the report",
         "Aligned replay ranges and added Vietnamese vocabulary meanings"
       ]
+    },
+    {
+      "code": "L1-09",
+      "status": "content-reviewed-build-validated",
+      "revision": "6cf750f72736",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed three duplicated image captions and URLs",
+        "Corrected deliveriesaround",
+        "Preserved complete area measurements instead of splitting thousands",
+        "Rebuilt all 25 gaps and 10 paraphrases with original-audio ranges",
+        "Added Vietnamese vocabulary and restored the spoken sign-off"
+      ]
+    },
+    {
+      "code": "L1-10",
+      "status": "content-reviewed-build-validated",
+      "revision": "37a4dc8d11ad",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Restored all 25 visible sequential gaps, replacing missing URL answers 15 and 23",
+        "Corrected windchilltemperatures",
+        "Kept the complete range 16 to 48 and negative temperature",
+        "Removed unspoken editorial credit and restored spoken sign-off",
+        "Rewrote accurate paraphrases with timestamps and Vietnamese vocabulary"
+      ]
+    },
+    {
+      "code": "L1-11",
+      "status": "content-reviewed-build-validated",
+      "revision": "2a634fe2c605",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Corrected odds of and companion asteroid",
+        "Restored presenter sign-off",
+        "Replaced arbitrary fragments with complete probability ranges and meaningful phrases",
+        "Kept numerical alternatives without conflating decimals",
+        "Rewrote paraphrases and vocabulary with verified original-audio intervals"
+      ]
+    },
+    {
+      "code": "L1-12",
+      "status": "content-reviewed-build-validated",
+      "revision": "30704f94f8d3",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed photo Markdown and its repeated unspoken caption",
+        "Separated Egyptian mummies, even fiction and could preserve",
+        "Rebuilt 25 meaningful gaps including age and sample size",
+        "Restored complete spoken sign-off",
+        "Wrote paraphrases with original-audio ranges and Vietnamese vocabulary"
+      ]
+    },
+    {
+      "code": "L1-13",
+      "status": "content-reviewed-build-validated",
+      "revision": "4eb35cd6122f",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed article-link destinations and unspoken subheading",
+        "Recovered and verified the expert quotation with a second audio pass",
+        "Corrected spacing at navigation and spoken and in settings names",
+        "Removed unspoken editorial credit and restored sign-off",
+        "Rebuilt 25 gaps and 10 paraphrases with original-audio ranges and Vietnamese meanings"
+      ]
+    },
+    {
+      "code": "L1-14",
+      "status": "content-reviewed-build-validated",
+      "revision": "f58421745682",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed both duplicated image captions and editorial credit",
+        "Kept complete 25 percent budget reduction, year range and minus 253 temperature",
+        "Restored spoken SAF expansion and presenter sign-off",
+        "Rebuilt 25 gaps and 10 accurate paraphrases with audio ranges",
+        "Added Vietnamese vocabulary and explicit numerical spelling alternatives"
+      ]
+    },
+    {
+      "code": "L1-15",
+      "status": "content-reviewed-build-validated",
+      "revision": "674e2c6fc322",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed two duplicated photo blocks and unspoken editorial credit",
+        "Replaced unrendered URL answers 8, 9 and 23 with actual spoken phrases",
+        "Corrected raw data and kept entire astronomical measurements",
+        "Rebuilt 25 sequential gaps and restored sign-off",
+        "Rewrote paraphrases and vocabulary with original-audio replay intervals"
+      ]
+    },
+    {
+      "code": "L1-16",
+      "status": "content-reviewed-build-validated",
+      "revision": "ad7c7a6c8553",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed three unspoken photo captions and image links",
+        "Corrected merged words and restored spoken one of the big goals",
+        "Restored both spoken presenter sign-offs",
+        "Rebuilt 25 meaningful gaps spread across the full recording",
+        "Wrote 10 accurate paraphrases with replay times and Vietnamese vocabulary"
+      ]
+    },
+    {
+      "code": "L1-17",
+      "status": "content-reviewed-build-validated",
+      "revision": "c7330ed7c426",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed hyperlink markup and unspoken editorial credit",
+        "Separated asteroid strike and preserved complete decimal numbers",
+        "Replaced arbitrary fragments with 25 coherent gaps",
+        "Rebuilt 10 paraphrases with audio timings and vocabulary"
+      ]
+    },
+    {
+      "code": "L1-18",
+      "status": "content-reviewed-build-validated",
+      "revision": "8313650b087f",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed image markdown, repeated caption and unspoken word definitions",
+        "Restored missing spaces and sentence punctuation",
+        "Replaced answers taken from captions and broken numerical fragments",
+        "Rebuilt 25 gaps, 10 paraphrases and vocabulary against the audio"
+      ]
+    },
+    {
+      "code": "L1-19",
+      "status": "content-reviewed-build-validated",
+      "revision": "ec2455c48ad2",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed hyperlink syntax and unspoken byline",
+        "Replaced incomplete numerical fragments with full quantities",
+        "Preserved forecast language and meaningful phrase boundaries",
+        "Authored 25 gaps, 10 contextual paraphrases and vocabulary"
+      ]
+    },
+    {
+      "code": "L1-20",
+      "status": "content-reviewed-build-validated",
+      "revision": "772dd00aea55",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed photo captions, hyperlink syntax and stray embedded-video title",
+        "Matched the spoken opening and restored sign-off",
+        "Replaced caption-based answers with 25 meaningful audio phrases",
+        "Added numerical alternatives and 10 contextual paraphrases with replay ranges"
+      ]
+    },
+    {
+      "code": "L1-21",
+      "status": "content-reviewed-build-validated",
+      "revision": "75b1919be77d",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed duplicated image caption and unspoken glossary",
+        "Replaced a URL-derived answer that had no corresponding input",
+        "Corrected the merged word and restored 25 consecutive gaps",
+        "Rebuilt meaningful answers, explicit numeric variants and contextual paraphrases"
+      ]
+    },
+    {
+      "code": "L1-22",
+      "status": "content-reviewed-build-validated",
+      "revision": "a7dd9ef74a1c",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed unspoken editorial credits and restored presenter sign-off",
+        "Replaced arbitrary six-word cuts with 25 complete phrases",
+        "Kept uncertain predictions distinct from facts",
+        "Wrote 10 accurate paraphrases and audio replay ranges"
+      ]
+    },
+    {
+      "code": "L1-23",
+      "status": "content-reviewed-build-validated",
+      "revision": "beb69feea0ec",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Separated their metabolism and restored the missing spoken sign-off",
+        "Replaced arbitrary fragments with 25 coherent gaps across the recording",
+        "Added complete quantities and explicit equivalent number formats",
+        "Distinguished make up from make up for in paraphrase explanations"
+      ]
+    },
+    {
+      "code": "L1-24",
+      "status": "content-reviewed-build-validated",
+      "revision": "13c746ba95d4",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Replaced a URL-derived answer with a real spoken phrase and input",
+        "Restored full 4.5 billion quantity instead of the fragment 5 billion",
+        "Matched McCoy noted to the audio and joined a split institutional name",
+        "Removed written byline and authored 25 gaps and 10 accurate paraphrases"
+      ]
+    },
+    {
+      "code": "L1-25",
+      "status": "content-reviewed-build-validated",
+      "revision": "3c94ac16b510",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed a missing-input URL answer and unspoken byline",
+        "Rebuilt 25 meaningful gaps across the complete audio",
+        "Preserved attribution and uncertainty in the debate",
+        "Replaced generated fragments with 10 accurate paraphrases and vocabulary"
+      ]
     }
   ],
-  "pending": 92,
+  "pending": 75,
   "note": "Build validation is not proof of deployment. Unlisted lessons have not completed individual review."
 }

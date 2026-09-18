@@ -1,0 +1,36 @@
+{
+ "code":"L1-20","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-20.mp3",
+ "evidenceNote":"Compared the complete recording and separately rechecked the 126–162 second quotation using small.en. Removed the photo caption, video label and written production credit. Kept all reported future plans in their original historical context.",
+ "unwrapLinks":true,
+ "removeSpans":[{"start":"![Image 2:","end":"Amy Marino Spowart"},{"start":"The Associated Press, Reuters and Boom Supersonic reported on this story.","end":null}],
+ "textReplacements":[["California-based company Boom Supersonic","California-based Boom Supersonic"],["Boom Supersonic XB-1 The company","The company"]],
+ "appendText":"I’m Bryan Lynn.",
+ "gaps":["broke the sound barrier","Mach 1.05","at sea level","more than 35,000 feet","within 11 minutes of taking off","developed by militaries and governments","independently developed","making high-speed travel mainstream","up to 80 passengers","in partnership with","several business difficulties","claimed a total of 113 lives","about 3-and-a-half hours","here and now","it can be done sustainably","up to 100 percent","non-petroleum products","a carbon-based composite material","a strong, lightweight structure","banned over land","operate at lower noise levels","community reaction studies","share their thoughts","30 meters long and nine meters wide","1.4 times the speed of sound"],
+ "acceptedVariants":{"Mach 1.05":["Mach one point zero five","Mach one point oh five"],"more than 35,000 feet":["more than thirty-five thousand feet"],"within 11 minutes of taking off":["within eleven minutes of taking off"],"up to 80 passengers":["up to eighty passengers"],"claimed a total of 113 lives":["claimed a total of one hundred thirteen lives","claimed a total of one hundred and thirteen lives"],"about 3-and-a-half hours":["about three and a half hours","about 3 and a half hours","about 3.5 hours"],"up to 100 percent":["up to one hundred percent","up to 100%","up to one hundred per cent","up to 100 per cent"],"30 meters long and nine meters wide":["thirty meters long and nine meters wide","30 meters long and 9 meters wide","thirty metres long and nine metres wide","30 metres long and 9 metres wide","30 metres long and nine metres wide"],"1.4 times the speed of sound":["one point four times the speed of sound"]},
+ "paraphrases":[
+  ["broke the sound barrier","travelled faster than sound","Break the sound barrier nói về vượt tốc độ âm thanh.",0,12.1],
+  ["within 11 minutes of taking off","no more than 11 minutes after departure from the ground","Within chỉ giới hạn thời gian tính từ lúc cất cánh.",85,90.2],
+  ["independently developed","created outside the usual state-led development process","Trong đoạn này independently tương phản với các dự án do quân đội và chính phủ phát triển.",112.6,127.4],
+  ["making high-speed travel mainstream","turning very fast travel into a widely used option","Mainstream là được sử dụng rộng rãi, không còn chỉ dành cho số ít.",144,160.4],
+  ["in partnership with","in collaboration with","Cụm từ diễn tả hai bên cùng hợp tác phát triển máy bay.",187.2,195.5],
+  ["claimed a total of 113 lives","caused 113 deaths","Claim lives trong tin tức là gây thiệt mạng.",252.9,257.6],
+  ["here and now","already present rather than only a future possibility","Cụm từ nhấn mạnh tương lai được nói đến đang trở thành hiện thực.",292,304.1],
+  ["banned over land","not permitted to fly above land","Banned là bị cấm theo quy định, không phải bất khả thi về kỹ thuật.",377,384.8],
+  ["carry out testing","conduct tests","Carry out nghĩa là thực hiện một hoạt động đã định.",385.8,403.4],
+  ["share their thoughts","give their opinions","Trong nghiên cứu phản ứng cộng đồng, người dân được hỏi ý kiến về tiếng ồn.",430.7,442.9]
+ ],
+ "vocabulary":[
+  ["experimental","mang tính thử nghiệm","Used to test a new design or idea."],
+  ["supersonic","siêu thanh","Travelling faster than the speed of sound."],
+  ["demonstrator","mẫu trình diễn công nghệ","A vehicle built to show that a technology works."],
+  ["mainstream","phổ biến; đại chúng","Widely accepted or used."],
+  ["airliner","máy bay chở khách","A large aircraft used for passenger transport."],
+  ["contractor","nhà thầu","A company or person hired to carry out specified work."],
+  ["aviation","ngành hàng không","The operation and development of aircraft."],
+  ["sustainable","bền vững","Designed to limit environmental damage and resource depletion."],
+  ["biomass","sinh khối","Material from living or recently living organisms."],
+  ["composite","vật liệu tổng hợp","A material made by combining different constituents."]
+ ],
+ "signals":["But the latest flight…","With that in mind…","Not only… but…","after that testing is done…"],
+ "issuesFixed":["Removed photo captions, hyperlink syntax and stray embedded-video title","Matched the spoken opening and restored sign-off","Replaced caption-based answers with 25 meaningful audio phrases","Added numerical alternatives and 10 contextual paraphrases with replay ranges"]
+}

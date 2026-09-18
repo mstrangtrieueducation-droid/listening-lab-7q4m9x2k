@@ -1,0 +1,38 @@
+{
+ "code":"L1-10","status":"reviewed","reviewDate":"2026-09-17","audioEvidence":"public/media/level1/l1-10.mp3",
+ "evidenceNote":"Full independent audio transcription compared against source. Existing answer indices 15 and 23 referred to URLs and had no visible inputs. Rebuilt all gaps rather than renumbering the broken set.",
+ "removeSpans":[{"start":"Bryan Lynn wrote this story for the original report","end":null}],
+ "textReplacements":[["windchilltemperatures","windchill temperatures"]],"appendText":"I’m Bryan Lynn.",
+ "gaps":["extreme cold","driven by a polar vortex","strong westerly winds","about 16 to 48 kilometers","above the surface","the stratosphere","masses of cold air","break off and move south","in northerly directions","weather forces in the Arctic","take into account the effects of wind","minus 51 degrees Celsius","colder than air temperature readings","frostbite and hypothermia","protected from the cold","freeze and burst","expected to report","both of Earth’s poles","strengthen in the winter","weaken in the summer","Every year or so","split into two","being pushed southward","predicting low temperatures","heavy snow or flooding"],
+ "acceptedVariants":{
+  "about 16 to 48 kilometers":["about sixteen to forty-eight kilometers","about 16-48 kilometers","about 16 to 48 kilometres","about sixteen to forty-eight kilometres"],
+  "minus 51 degrees Celsius":["minus fifty-one degrees Celsius","-51 degrees Celsius","−51 degrees Celsius","-51°C","minus 51°C"],
+  "split into two":["split into 2"]
+ },
+ "paraphrases":[
+  ["has been driven by a polar vortex","has been caused by a polar vortex","Driven by trong câu chỉ nguyên nhân đợt rét.",0,12.5],
+  ["strong westerly winds","powerful winds blowing from the west","Westerly chỉ gió từ phía tây, không phải thổi về phía tây.",19,38],
+  ["masses of cold air","large bodies of chilly air","Masses ở đây là các khối khí lớn.",54.6,65.1],
+  ["in northerly directions","towards the north","Giữ đúng hướng chuyển động.",65.9,72.7],
+  ["take into account the effects of wind","include the influence of wind in the calculation","Take into account nghĩa là tính đến một yếu tố.",96.4,111.7],
+  ["colder than air temperature readings","lower than the measured air temperatures","Giữ nguyên phép so sánh giữa nhiệt độ cảm nhận do gió và nhiệt độ không khí.",113.3,120.8],
+  ["freeze and burst","turn to ice and cause the pipes to split open","Nước đóng băng có thể làm đường ống vỡ, không phải ống tự biến thành băng.",141.1,153.8],
+  ["Every year or so","approximately once a year","Or so thể hiện con số xấp xỉ, không phải đúng từng năm.",199.4,204.2],
+  ["split into two","divide into two separate parts","Giữ nguyên số lượng hai phần.",205.3,211.7],
+  ["could bring heavy snow or flooding","might cause substantial snowfall or floods","Could và might đều diễn đạt khả năng, không khẳng định chắc chắn.",253.5,260.6]
+ ],
+ "vocabulary":[
+  ["polar vortex","xoáy cực","A large circulation of winds around a polar region."],
+  ["westerly","từ phía tây","Describing a wind that comes from the west."],
+  ["stratosphere","tầng bình lưu","The layer of the atmosphere above the troposphere."],
+  ["weaken","yếu đi; làm yếu","To become or make less strong."],
+  ["windchill","hiệu ứng lạnh do gió","The cooling effect of wind on how cold conditions feel."],
+  ["meteorologist","nhà khí tượng học","A scientist who studies weather."],
+  ["frostbite","bỏng lạnh; tổn thương do giá lạnh","Damage to body tissue caused by freezing conditions."],
+  ["hypothermia","tình trạng hạ thân nhiệt","A dangerously low body temperature."],
+  ["burst","vỡ; nổ tung","To break open suddenly."],
+  ["southward","về phía nam","Moving or directed towards the south."]
+ ],
+ "signals":["But what is…","At times…","This can lead to…","Other states likely to…"],
+ "issuesFixed":["Restored all 25 visible sequential gaps, replacing missing URL answers 15 and 23","Corrected windchilltemperatures","Kept the complete range 16 to 48 and negative temperature","Removed unspoken editorial credit and restored spoken sign-off","Rewrote accurate paraphrases with timestamps and Vietnamese vocabulary"]
+}

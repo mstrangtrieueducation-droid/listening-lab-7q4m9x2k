@@ -1,0 +1,33 @@
+{
+ "code":"L1-25","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-25.mp3",
+ "evidenceNote":"Compared all paragraphs with the full 396-second audio and rechecked 147–163 seconds with small.en to verify human workers. The audio ends after political issues with no presenter sign-off. Removed the written production credit. Kept the positions of Meta, IFCN and outside researchers clearly attributed.",
+ "removeSpans":[{"start":"Bryan Lynn wrote this story","end":null}],
+ "gaps":["misinformation and harmful material","too many mistakes and too much censorship","violated company policies","just one percent of posts","restoring free expression","content moderation duties","needs further examination","independent, third-party fact-checking organizations","digital tools as well as human workers","legitimate political speech and debate","personal beliefs, opinions and biases","a tool to censor","a range of perspectives","prevent biased ratings","undo nearly a decade of progress","rejected Zuckerberg's claim","the freedom to say why something is not true","their main source for information","hinders access to accurate information","how effective Community Notes systems are","COVID-19 misinformation","moderate and high-quality sources","widely read posts","the number of people taking part","content related to political issues"],
+ "acceptedVariants":{"just one percent of posts":["just 1 percent of posts","just 1% of posts","just one per cent of posts","just 1 per cent of posts"],"independent, third-party fact-checking organizations":["independent third-party fact-checking organisations"],"COVID-19 misinformation":["COVID nineteen misinformation"]},
+ "paraphrases":[
+  ["violated company policies","broke the company's rules","Violate nghĩa là không tuân thủ quy định.",37,55.5],
+  ["turns over content moderation duties","hands responsibility for reviewing posts to others","Turn over duties là chuyển giao trách nhiệm, không phải ngừng mọi việc kiểm duyệt.",92,103.2],
+  ["empower the community","give users greater authority","Empower diễn tả trao quyền quyết định cho cộng đồng người dùng.",101,113],
+  ["third-party fact-checking organizations","independent outside groups that verify claims","Third-party ở đây là tổ chức bên ngoài công ty.",131,143.7],
+  ["a range of perspectives","a variety of viewpoints","Range nhấn mạnh nhiều góc nhìn khác nhau.",228,242],
+  ["undo nearly a decade of progress","reverse almost ten years of improvement","Undo ở đây là làm mất thành quả trước đó; đây là lời chỉ trích được trích dẫn.",252,268],
+  ["rejected Zuckerberg's claim","disagreed with Zuckerberg's assertion","Reject a claim là bác bỏ nhận định, không phải xác nhận nhận định đó.",267,279],
+  ["hinders access to accurate information","makes reliable information harder to obtain","Hinder là gây cản trở, không nhất thiết ngăn hoàn toàn.",316,330],
+  ["widely read posts","posts seen and read by many people","Widely read nói về mức độ được tiếp cận rộng rãi.",357,370],
+  ["the effects the system had on users' opinions and behavior is unknown","it is not known how the system affected users' views and actions","Giữ sự chưa biết về tác động; không biến kết quả này thành khẳng định hiệu quả.",373,382]
+ ],
+ "vocabulary":[
+  ["misinformation","thông tin sai lệch","False or inaccurate information."],
+  ["censorship","sự kiểm duyệt; hạn chế nội dung","The suppression or restriction of information or expression."],
+  ["moderation","sự xét duyệt nội dung","Reviewing material and applying rules about what is allowed."],
+  ["violate","vi phạm","To break a rule or agreement."],
+  ["empower","trao quyền","To give someone authority or ability to act."],
+  ["legitimate","chính đáng; hợp lệ","Acceptable or justified under the relevant rules."],
+  ["bias","sự thiên lệch","A preference that can prevent fair judgement."],
+  ["perspective","quan điểm; góc nhìn","A particular way of seeing an issue."],
+  ["hinder","cản trở","To make something more difficult."],
+  ["accurate","chính xác","Correct and free from significant errors."]
+ ],
+ "signals":["However, he noted…","Another problem…","One result was…","However, the number…"],
+ "issuesFixed":["Removed a missing-input URL answer and unspoken byline","Rebuilt 25 meaningful gaps across the complete audio","Preserved attribution and uncertainty in the debate","Replaced generated fragments with 10 accurate paraphrases and vocabulary"]
+}
