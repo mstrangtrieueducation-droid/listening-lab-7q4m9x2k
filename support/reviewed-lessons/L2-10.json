@@ -1,0 +1,238 @@
+{
+  "code": "L2-10",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-10.mp3",
+  "evidenceNote": "Compared every original paragraph with the whole 362-second MP3. Preserved MAOA and Dunedin spellings, qualifications about associations and the explicit rejection of genetic determinism. A focused small.en pass checks the accented interview at 164–190; selected gaps avoid uncertain connecting words. Restored the spoken outro as plain text. Second pass confirms the numerical passage and the conditional if an individual; corrected the initial About and singular manslaughter.",
+  "textReplacements": [
+    [
+      "monoamine oxidase A,\n\nthat",
+      "monoamine oxidase A, that"
+    ],
+    [
+      "violent behaviour,\n\ncould",
+      "violent behaviour, could"
+    ],
+    [
+      "antisocial personality disorder,\n\nwhich",
+      "antisocial personality disorder, which"
+    ],
+    [
+      "But a little bit more than 10%",
+      "About a little bit more than 10%"
+    ],
+    [
+      "murders, attempted murders, manslaughters.",
+      "murders, attempted murders, manslaughter."
+    ]
+  ],
+  "appendText": "Thanks for watching. If you enjoyed that, be sure to check out these videos next. And if you haven't already, hit the subscribe button and click the bell to get a notification each time we upload a new video.",
+  "gaps": [
+    "deeply rooted in our evolutionary history",
+    "commit acts of violence",
+    "The socio-economic situation",
+    "something we have no control of",
+    "starts in 1978",
+    "going back generations and generations",
+    "gathering DNA samples",
+    "the same genetic change",
+    "knocked out the function of the gene",
+    "breaks down a chemical called serotonin",
+    "signals between the cells in your brain",
+    "harder to control urges",
+    "linked to violent behaviour",
+    "1,000 New Zealanders for decades",
+    "childhood experiences",
+    "lowers the level of activity",
+    "a very difficult childhood",
+    "caught the eye of researchers",
+    "around 800 prisoners",
+    "about two-thirds of them",
+    "at least 10 violent crimes",
+    "two or more violent crimes",
+    "up to six in ten people",
+    "a low activity version",
+    "a defence in court",
+    "the person lacked control",
+    "to dazzle a jury",
+    "the stakes are obviously, literally, life and death",
+    "argue against the death penalty",
+    "wishful thinking",
+    "increased risk of aggressive behaviour",
+    "an abusive childhood",
+    "not functioning adequately",
+    "antisocial personality disorder",
+    "an incredibly complex issue",
+    "interacts with our genes",
+    "some terrible genetic dystopia",
+    "locked up",
+    "We have agency",
+    "our own free choices"
+  ],
+  "acceptedVariants": {
+    "starts in 1978": [
+      "starts in nineteen seventy-eight"
+    ],
+    "1,000 New Zealanders for decades": [
+      "a thousand New Zealanders for decades",
+      "one thousand New Zealanders for decades",
+      "1000 New Zealanders for decades"
+    ],
+    "around 800 prisoners": [
+      "around eight hundred prisoners"
+    ],
+    "about two-thirds of them": [
+      "about 2 thirds of them",
+      "about two thirds of them"
+    ],
+    "at least 10 violent crimes": [
+      "at least ten violent crimes"
+    ],
+    "two or more violent crimes": [
+      "2 or more violent crimes"
+    ],
+    "up to six in ten people": [
+      "up to 6 in 10 people"
+    ],
+    "a defence in court": [
+      "a defense in court"
+    ]
+  },
+  "paraphrases": [
+    [
+      "knocked out the function of the gene",
+      "stopped the gene from working",
+      "Knock out ở đây là làm mất chức năng hoàn toàn.",
+      69.5,
+      81.1
+    ],
+    [
+      "harder to control urges",
+      "more difficult to resist impulses",
+      "Urges là những thôi thúc muốn hành động.",
+      96.6,
+      105.1
+    ],
+    [
+      "associated with a history of violence",
+      "linked to previous violent behaviour",
+      "Associated with chỉ mối liên hệ, không khẳng định nguyên nhân duy nhất.",
+      127.2,
+      144.8
+    ],
+    [
+      "caught the eye of researchers",
+      "attracted scientists’ attention",
+      "Catch the eye là thu hút chú ý.",
+      145,
+      150.7
+    ],
+    [
+      "the person lacked control",
+      "the individual was said to be unable to restrain their actions",
+      "Đây là lập luận được dùng tại tòa, không phải kết luận của bài.",
+      227.8,
+      241.9
+    ],
+    [
+      "to dazzle a jury",
+      "to impress jurors with apparently striking evidence",
+      "Dazzle diễn tả việc gây ấn tượng cho bồi thẩm đoàn.",
+      242,
+      248.1
+    ],
+    [
+      "wishful thinking",
+      "believing something mainly because one wants it to be true",
+      "Wishful thinking là suy nghĩ theo điều mình muốn tin.",
+      263.5,
+      271.1
+    ],
+    [
+      "not functioning adequately",
+      "not working well enough",
+      "Adequately là ở mức đủ hoặc phù hợp.",
+      282.6,
+      293.3
+    ],
+    [
+      "an incredibly complex issue",
+      "a matter involving many interacting factors",
+      "Complex là phức tạp, không thể quy về một yếu tố.",
+      297.3,
+      313.4
+    ],
+    [
+      "We have agency",
+      "we can make choices and act for ourselves",
+      "Agency ở đây là khả năng chủ động lựa chọn hành động.",
+      328.6,
+      339.6
+    ]
+  ],
+  "vocabulary": [
+    [
+      "evolutionary",
+      "thuộc tiến hóa",
+      "Related to development across generations."
+    ],
+    [
+      "socio-economic",
+      "thuộc kinh tế xã hội",
+      "Related to social and economic conditions."
+    ],
+    [
+      "gene",
+      "gen",
+      "A unit of inherited biological information."
+    ],
+    [
+      "neurotransmitter",
+      "chất dẫn truyền thần kinh",
+      "A chemical involved in transmitting signals between nerve cells."
+    ],
+    [
+      "impulsive",
+      "bốc đồng",
+      "Acting suddenly without enough thought."
+    ],
+    [
+      "cohort",
+      "nhóm đối tượng nghiên cứu",
+      "A group of people studied over a period of time."
+    ],
+    [
+      "sceptical",
+      "hoài nghi",
+      "Not easily convinced that a claim is true."
+    ],
+    [
+      "jury",
+      "bồi thẩm đoàn",
+      "A group of people selected to decide facts in a trial."
+    ],
+    [
+      "dystopia",
+      "xã hội phản địa đàng",
+      "An imagined society characterised by oppression or suffering."
+    ],
+    [
+      "agency",
+      "khả năng tự chủ hành động",
+      "The capacity to make choices and act independently."
+    ]
+  ],
+  "signals": [
+    "But curiously,…",
+    "Of course,…",
+    "Some studies suggest…",
+    "In reality,…"
+  ],
+  "issuesFixed": [
+    "Rebuilt forty chronological meaningful gaps with complete quantities",
+    "Preserved uncertainty and distinctions between association and causation",
+    "Kept explicit rejection of the claim that genes predetermine violence",
+    "Rejoined split sentences and restored the spoken outro",
+    "Verified all ten replay clips against the recording"
+  ]
+}

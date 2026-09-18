@@ -18,7 +18,7 @@ For each lesson, in order:
 
 Do not regenerate this content using arbitrary word windows, synonym substitution or a blanket cleanup regex.
 
-L1-26 was replaced with the teacher-approved television-invention report, preserving its access token and form code; the old audio remains available for rollback. All 50 Level 1 lessons have individual records. Level 2 remains pending until its own records are reviewed.
+L1-26 was replaced with the teacher-approved television-invention report, preserving its access token and form code; the old audio remains available for rollback. All 50 Level 1 lessons and Level 2 lessons 01–10 have individual records. Level 2 lessons 11–50 remain pending. The teacher explicitly requested stopping after L2-10 on 2026-09-18 and continuing only when she returns. Do not start more lessons or schedule background work. Resume at L2-11 after her next instruction.
 
 The submission endpoint was updated to version 16 on 2026-09-18. It accepts real-source codes R01–R50 for each level, validates Listening /25 for L1 and /40 for L2, and returns totals /35 and /50 respectively. Legacy P01–P04 submissions retain their original /35 handling and fingerprints. Updated frontend scripts validate the corresponding receipt and recover previously rejected R-code submissions without altering their payloads. Backend tests use mocked sheets; never create fake live grades. Existing scorebook header labels still reflect the legacy form denominators and need a separate compatible label review before any sheet-header migration.
 

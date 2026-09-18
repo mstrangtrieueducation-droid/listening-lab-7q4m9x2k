@@ -1,0 +1,198 @@
+{
+  "code": "L2-08",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-08.mp3",
+  "evidenceNote": "Compared all original paragraphs with the complete 361-second audio transcription. Preserved source spellings such as Cezanne rather than the recogniser’s Suzanne. Kept interview hesitations outside gaps, joined the interrupted biological-organisms sentence and restored the spoken outro as plain text. All forty answers are meaningful phrases in chronological order.",
+  "textReplacements": [
+    [
+      "limited capacities,\n\nwe see",
+      "limited capacities, we see"
+    ]
+  ],
+  "appendText": "Thanks for watching. If you enjoyed that, be sure to check out these videos next. And if you haven't already, hit the subscribe button and click the bell to get a notification each time we upload a new video.",
+  "gaps": [
+    "isn't just given to us",
+    "every moment of every day",
+    "the breeze on my face",
+    "through the senses",
+    "the pressure waves",
+    "ambiguous signals",
+    "make sense of all these sensory signals",
+    "the process of perception",
+    "a creative act of interpretation",
+    "its best guess",
+    "what we consciously perceive",
+    "prior knowledge",
+    "the structure of our brain",
+    "knowledge that we're not aware of having",
+    "light tends always to come from above",
+    "in a particular way",
+    "if your brain believes it, then you will see it",
+    "evolved biological organisms",
+    "limited capacities",
+    "in order to survive",
+    "texture and beauty and meaning",
+    "light waves of different wavelengths",
+    "an infinite variety of different colours",
+    "allows the brain",
+    "as lighting conditions change",
+    "our own interpretations",
+    "inner perceptual diversity",
+    "external diversity",
+    "even though we'll both call it blue",
+    "blue and black",
+    "white and gold",
+    "how other people could see it differently",
+    "a very badly exposed photograph",
+    "the ambient surrounding light",
+    "we're experiencing the same thing",
+    "better communicate with each other",
+    "apparently straightforward",
+    "rooted in the fact",
+    "completely dependent on my brain",
+    "a shared reality"
+  ],
+  "acceptedVariants": {
+    "an infinite variety of different colours": [
+      "an infinite variety of different colors"
+    ]
+  },
+  "paraphrases": [
+    [
+      "ambiguous signals",
+      "information that can be interpreted in more than one way",
+      "Ambiguous nghĩa là chưa rõ một cách hiểu duy nhất.",
+      59.6,
+      74.5
+    ],
+    [
+      "make sense of",
+      "understand and interpret",
+      "Make sense of là hiểu ý nghĩa của thông tin.",
+      65,
+      76.7
+    ],
+    [
+      "prior knowledge",
+      "understanding acquired beforehand",
+      "Prior là có trước khi nhận tín hiệu mới.",
+      99,
+      110.3
+    ],
+    [
+      "limited capacities",
+      "restricted abilities",
+      "Limited capacities chỉ giới hạn khả năng xử lý.",
+      140.6,
+      149.9
+    ],
+    [
+      "keep track of objects",
+      "continue to identify and follow things",
+      "Keep track là theo dõi và nhận biết liên tục.",
+      172.6,
+      179.3
+    ],
+    [
+      "inner perceptual diversity",
+      "differences in people’s internal sensory experiences",
+      "Cụm chỉ khác biệt trong trải nghiệm cảm nhận bên trong.",
+      193.2,
+      204.1
+    ],
+    [
+      "so convinced",
+      "so certain about their interpretation",
+      "Convinced là tin chắc.",
+      254.7,
+      262.7
+    ],
+    [
+      "the ambient surrounding light",
+      "the light present in the environment",
+      "Ambient light là ánh sáng môi trường.",
+      268.5,
+      280.8
+    ],
+    [
+      "apparently straightforward",
+      "seemingly simple",
+      "Apparently giữ ý nghĩa trông có vẻ đơn giản.",
+      300,
+      310.9
+    ],
+    [
+      "rooted in the fact",
+      "based on the underlying circumstance",
+      "Rooted in là bắt nguồn từ một yếu tố nền tảng.",
+      315.8,
+      324.5
+    ]
+  ],
+  "vocabulary": [
+    [
+      "perception",
+      "sự tri giác",
+      "The process of interpreting sensory information."
+    ],
+    [
+      "retina",
+      "võng mạc",
+      "The light-sensitive tissue at the back of the eye."
+    ],
+    [
+      "eardrum",
+      "màng nhĩ",
+      "A membrane that vibrates in response to sound."
+    ],
+    [
+      "ambiguous",
+      "mơ hồ; đa nghĩa",
+      "Open to more than one interpretation."
+    ],
+    [
+      "interpretation",
+      "cách diễn giải",
+      "An explanation of the meaning of something."
+    ],
+    [
+      "prior",
+      "có trước",
+      "Existing or occurring before something else."
+    ],
+    [
+      "wavelength",
+      "bước sóng",
+      "The distance between corresponding points of a wave."
+    ],
+    [
+      "diversity",
+      "sự đa dạng",
+      "The presence of differences within a group."
+    ],
+    [
+      "ambient",
+      "thuộc môi trường xung quanh",
+      "Present in the surrounding environment."
+    ],
+    [
+      "assumption",
+      "giả định",
+      "Something taken to be true without direct confirmation."
+    ]
+  ],
+  "signals": [
+    "Yet,…",
+    "For example,…",
+    "Even though…",
+    "Because…"
+  ],
+  "issuesFixed": [
+    "Replaced split fragments with forty complete chronological phrases",
+    "Preserved qualifiers about subjective experience",
+    "Restored spoken outro without creating links or buttons",
+    "Rejoined a sentence split across sections",
+    "Verified ten replay clips against the MP3"
+  ]
+}

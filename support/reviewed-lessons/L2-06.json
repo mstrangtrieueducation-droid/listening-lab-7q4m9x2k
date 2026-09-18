@@ -1,0 +1,219 @@
+{
+  "code": "L2-06",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-06.mp3",
+  "evidenceNote": "Compared all original paragraphs against the full 292-second audio transcription and timestamps. Restored the spoken closing sentence as plain text, corrected the not-to-be word order and rejoined a split sentence. No generated links or next-lesson controls. Selected forty chronological phrases, retaining scientific uncertainty.",
+  "textReplacements": [
+    [
+      "turns out to not be the case",
+      "turns out not to be the case"
+    ],
+    [
+      "previous theory\n\nwith Einstein's",
+      "previous theory with Einstein's"
+    ]
+  ],
+  "appendText": "And if you haven't already, hit the subscribe button and click the bell to get a notification each time we upload a new video.",
+  "gaps": [
+    "an immutable fact",
+    "an undisputed place",
+    "in August 2006",
+    "demoted to a dwarf planet",
+    "one of three criteria",
+    "from an early age",
+    "the answer is quite the opposite",
+    "at the heart of the scientific method",
+    "a giant system of checks and balances",
+    "experiments or observations of nature",
+    "the formulation of a hypothesis",
+    "a rigorous process of checks",
+    "draw the right conclusions",
+    "the coastlines of West Africa",
+    "in the early 1620s",
+    "an ancient supercontinent",
+    "140 million years ago",
+    "remained gospel for centuries",
+    "plate tectonics",
+    "provided a neat explanation",
+    "examining the same raw data",
+    "a fossilised bone",
+    "in the middle Jurassic",
+    "setting up ground-breaking experiments",
+    "theory of general relativity",
+    "the bending of starlight",
+    "interpretation of gravity",
+    "a fundamental fact",
+    "supersede our understanding",
+    "a lack of diversity",
+    "Until the 1970s",
+    "limit their studies to male primates",
+    "human evolution",
+    "both female and male baboons",
+    "facing a backlash",
+    "instilling doubt",
+    "outdated ideas are replaced",
+    "the legwork that came before them",
+    "baked into the scientific process",
+    "willing to be proved wrong"
+  ],
+  "acceptedVariants": {
+    "in August 2006": [
+      "in August two thousand and six",
+      "in August two thousand six"
+    ],
+    "one of three criteria": [
+      "one of 3 criteria"
+    ],
+    "in the early 1620s": [
+      "in the early sixteen twenties"
+    ],
+    "140 million years ago": [
+      "one hundred and forty million years ago",
+      "one hundred forty million years ago"
+    ],
+    "a fossilised bone": [
+      "a fossilized bone"
+    ],
+    "Until the 1970s": [
+      "until the nineteen seventies"
+    ]
+  },
+  "paraphrases": [
+    [
+      "an immutable fact",
+      "a fact considered unchanging",
+      "Immutable là không thay đổi; đây là cách người ta từng nhìn nhận Pluto.",
+      0,
+      9.7
+    ],
+    [
+      "an undisputed place",
+      "a position that nobody questioned",
+      "Undisputed nghĩa là không bị tranh cãi.",
+      10,
+      19.6
+    ],
+    [
+      "demoted to a dwarf planet",
+      "reclassified into a lower planetary category",
+      "Demoted mô tả việc hạ phân loại trong ngữ cảnh này.",
+      19.7,
+      32.3
+    ],
+    [
+      "at the heart of the scientific method",
+      "central to the way science works",
+      "At the heart of là giữ vai trò cốt lõi.",
+      49.5,
+      59.3
+    ],
+    [
+      "a rigorous process of checks",
+      "a thorough and demanding verification process",
+      "Rigorous nhấn mạnh việc kiểm tra kỹ lưỡng.",
+      68.2,
+      77
+    ],
+    [
+      "remained gospel for centuries",
+      "was treated as unquestionable truth for hundreds of years",
+      "Gospel ở đây dùng nghĩa bóng là chân lý được tin tuyệt đối.",
+      106,
+      118.7
+    ],
+    [
+      "supersede our understanding",
+      "replace our current explanation with a newer one",
+      "Supersede là thay thế một cách hiểu đã có.",
+      183.6,
+      196.7
+    ],
+    [
+      "skew the results",
+      "distort the findings",
+      "Skew là làm kết quả bị lệch.",
+      198.7,
+      207
+    ],
+    [
+      "facing a backlash",
+      "encountering a strong negative reaction",
+      "Backlash là phản ứng chống đối mạnh.",
+      215,
+      231.5
+    ],
+    [
+      "baked into the scientific process",
+      "an integral part of scientific investigation",
+      "Baked into diễn tả đặc điểm vốn có trong quá trình.",
+      255.9,
+      269.7
+    ]
+  ],
+  "vocabulary": [
+    [
+      "immutable",
+      "không thay đổi",
+      "Not subject to change."
+    ],
+    [
+      "undisputed",
+      "không bị tranh cãi",
+      "Accepted without being questioned."
+    ],
+    [
+      "demote",
+      "hạ cấp",
+      "To move something to a lower rank."
+    ],
+    [
+      "criterion",
+      "tiêu chí",
+      "A standard used to judge something; plural: criteria."
+    ],
+    [
+      "hypothesis",
+      "giả thuyết",
+      "A proposed explanation that can be tested."
+    ],
+    [
+      "rigorous",
+      "nghiêm ngặt",
+      "Thorough and carefully controlled."
+    ],
+    [
+      "tectonics",
+      "kiến tạo",
+      "The study of the structure and movement of the Earth’s crust."
+    ],
+    [
+      "supersede",
+      "thay thế",
+      "To take the place of an earlier explanation or system."
+    ],
+    [
+      "skew",
+      "làm lệch",
+      "To distort a result or perspective."
+    ],
+    [
+      "backlash",
+      "phản ứng chống đối",
+      "A strong negative reaction to a change or idea."
+    ]
+  ],
+  "signals": [
+    "However,…",
+    "But even with…",
+    "Rather than…",
+    "Ultimately,…"
+  ],
+  "issuesFixed": [
+    "Replaced forty arbitrary word windows with complete chronological phrases",
+    "Kept complete years and numerical quantities intact",
+    "Rejoined sentence broken between transcript sections",
+    "Restored spoken outro without adding navigation",
+    "Checked all ten replay intervals against this audio"
+  ]
+}

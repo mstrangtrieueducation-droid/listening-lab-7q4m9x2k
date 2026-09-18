@@ -11714,5 +11714,1198 @@ export const reviewedContent = {
       "From this perspective,…",
       "Instead,…"
     ]
+  },
+  "55": {
+    "paragraphs": [
+      "Remember when Pluto was a planet? Until very recently, Pluto's planetary status was [1] learned by primary school kids the world over. Pluto had [2] in papier mâché models of the solar system and even its very own song lyric - 'And last of all there's Pluto too...' But [3], Pluto found itself cruelly [4] after failing to meet [5] the International Astronomical Union uses to define a full-sized planet. We are taught [6] to think of scientific facts as, well, facts. And it can be unsettling when this turns out not to be the case. But does this uncertainty really mean that we can't trust science? According to the Royal Society, the world's oldest independent scientific academy, [7]. Questioning established facts is actually [8].",
+      "Think of the whole process as [9] based on raw information drawn from [10]. Those experiments and observations lead to [11] which then goes through [12] by other scientists. However, there isn't always enough information to [13]. Take for example Sir Francis Bacon, who noticed that [14] and eastern South America looked like they were symmetrical. He believed that nature was copying herself. What he couldn't have known [15] was that the two coasts are two sides of a fault-line in [16] which split apart [17]. Bacon's hypothesis [18], until new discoveries about the science of [19] emerged in the 1950s and [20] for Bacon's observation.",
+      "There's also the fact that different experts [21] can draw different conclusions. Spare a thought for poor Robert Plot who, in the 1670s, found [22] that he thought was that of a giant human. At least he wasn't around when a geologist and zoologist proved it was in fact a Megalosaurus, a kind of dinosaur that roamed the Earth [23]. Sometimes the scientific method is all about [24] at the right time, in the right place to test theories. In 1919, a blockbuster meeting of the Royal Society confirmed Einstein's [25] after a solar eclipse provided the perfect circumstances to measure [26]. This showed that the gravity of a massive object, such as the Sun, could bend light around it. Under the watchful eye of Sir Isaac Newton's portrait, the scientific community replaced Newton's previous theory with Einstein's newer and more general [27]. But even with evidence in its favour, Einstein's theory still can't be thought of as [28]. It's even possible that in the future new breakthroughs will [29] of general relativity. Uncertainty in science isn't enough if all the perspectives are the same. Sometimes [30] in the system can skew the results. [31], primatologists were mostly men and tended to [32]. They believed that the aggression observed in baboons meant [33] had been driven by similar behaviour. That was until anthropologist Shirley Strum began observing [34], disproving these earlier theories and [35] for her troubles. Scientists don't always get it right on the first go.",
+      "But rather than [36], it should inspire confidence that [37] when new information becomes available. It's the difference between upgrading your mobile and clinging to your old rotary phone because you don't want to be wrong. And in most cases, newer breakthroughs would not be possible without [38]. While the rotary phone isn't the best available technology today, your smart phone wouldn't exist without it. Uncertainty is [39]. It's the fundamental reason that progress is possible. Ultimately, it comes down to who you trust more - the person who's certain they're right, or the person who's [40]. And if you haven't already, hit the subscribe button and click the bell to get a notification each time we upload a new video."
+    ],
+    "answers": [
+      "an immutable fact",
+      "an undisputed place",
+      "in August 2006",
+      "demoted to a dwarf planet",
+      "one of three criteria",
+      "from an early age",
+      "the answer is quite the opposite",
+      "at the heart of the scientific method",
+      "a giant system of checks and balances",
+      "experiments or observations of nature",
+      "the formulation of a hypothesis",
+      "a rigorous process of checks",
+      "draw the right conclusions",
+      "the coastlines of West Africa",
+      "in the early 1620s",
+      "an ancient supercontinent",
+      "140 million years ago",
+      "remained gospel for centuries",
+      "plate tectonics",
+      "provided a neat explanation",
+      "examining the same raw data",
+      "a fossilised bone",
+      "in the middle Jurassic",
+      "setting up ground-breaking experiments",
+      "theory of general relativity",
+      "the bending of starlight",
+      "interpretation of gravity",
+      "a fundamental fact",
+      "supersede our understanding",
+      "a lack of diversity",
+      "Until the 1970s",
+      "limit their studies to male primates",
+      "human evolution",
+      "both female and male baboons",
+      "facing a backlash",
+      "instilling doubt",
+      "outdated ideas are replaced",
+      "the legwork that came before them",
+      "baked into the scientific process",
+      "willing to be proved wrong"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "in August two thousand and six",
+        "in August two thousand six"
+      ],
+      [],
+      [
+        "one of 3 criteria"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "in the early sixteen twenties"
+      ],
+      [],
+      [
+        "one hundred and forty million years ago",
+        "one hundred forty million years ago"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a fossilized bone"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "until the nineteen seventies"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "965ba791570e",
+    "paraphrases": [
+      [
+        "an immutable fact",
+        "a fact considered unchanging",
+        "Immutable là không thay đổi; đây là cách người ta từng nhìn nhận Pluto.",
+        0,
+        9.7
+      ],
+      [
+        "an undisputed place",
+        "a position that nobody questioned",
+        "Undisputed nghĩa là không bị tranh cãi.",
+        10,
+        19.6
+      ],
+      [
+        "demoted to a dwarf planet",
+        "reclassified into a lower planetary category",
+        "Demoted mô tả việc hạ phân loại trong ngữ cảnh này.",
+        19.7,
+        32.3
+      ],
+      [
+        "at the heart of the scientific method",
+        "central to the way science works",
+        "At the heart of là giữ vai trò cốt lõi.",
+        49.5,
+        59.3
+      ],
+      [
+        "a rigorous process of checks",
+        "a thorough and demanding verification process",
+        "Rigorous nhấn mạnh việc kiểm tra kỹ lưỡng.",
+        68.2,
+        77
+      ],
+      [
+        "remained gospel for centuries",
+        "was treated as unquestionable truth for hundreds of years",
+        "Gospel ở đây dùng nghĩa bóng là chân lý được tin tuyệt đối.",
+        106,
+        118.7
+      ],
+      [
+        "supersede our understanding",
+        "replace our current explanation with a newer one",
+        "Supersede là thay thế một cách hiểu đã có.",
+        183.6,
+        196.7
+      ],
+      [
+        "skew the results",
+        "distort the findings",
+        "Skew là làm kết quả bị lệch.",
+        198.7,
+        207
+      ],
+      [
+        "facing a backlash",
+        "encountering a strong negative reaction",
+        "Backlash là phản ứng chống đối mạnh.",
+        215,
+        231.5
+      ],
+      [
+        "baked into the scientific process",
+        "an integral part of scientific investigation",
+        "Baked into diễn tả đặc điểm vốn có trong quá trình.",
+        255.9,
+        269.7
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "immutable",
+        "meaning": "không thay đổi",
+        "note": "Not subject to change."
+      },
+      {
+        "term": "undisputed",
+        "meaning": "không bị tranh cãi",
+        "note": "Accepted without being questioned."
+      },
+      {
+        "term": "demote",
+        "meaning": "hạ cấp",
+        "note": "To move something to a lower rank."
+      },
+      {
+        "term": "criterion",
+        "meaning": "tiêu chí",
+        "note": "A standard used to judge something; plural: criteria."
+      },
+      {
+        "term": "hypothesis",
+        "meaning": "giả thuyết",
+        "note": "A proposed explanation that can be tested."
+      },
+      {
+        "term": "rigorous",
+        "meaning": "nghiêm ngặt",
+        "note": "Thorough and carefully controlled."
+      },
+      {
+        "term": "tectonics",
+        "meaning": "kiến tạo",
+        "note": "The study of the structure and movement of the Earth’s crust."
+      },
+      {
+        "term": "supersede",
+        "meaning": "thay thế",
+        "note": "To take the place of an earlier explanation or system."
+      },
+      {
+        "term": "skew",
+        "meaning": "làm lệch",
+        "note": "To distort a result or perspective."
+      },
+      {
+        "term": "backlash",
+        "meaning": "phản ứng chống đối",
+        "note": "A strong negative reaction to a change or idea."
+      }
+    ],
+    "signals": [
+      "However,…",
+      "But even with…",
+      "Rather than…",
+      "Ultimately,…"
+    ]
+  },
+  "56": {
+    "paragraphs": [
+      "There are ways to make your brain [1], and dancing is one of the best. It doesn't just use your whole body, but works most of your brain too. A bit like jogging and doing a Sudoku at the same time. Here are [2] and makes it more resilient. Dancing lights up the whole brain. These are the parts you use when you [3]. When you see others dance around you and work out where your body is in the space, as well as [4], being ready to react, especially if anything goes wrong. And maybe the hardest part, [5] to keep dancing week after week. All of this activity means it can be better for the brain than other types of exercise. Doctor Chen is a former professional dancer and explains why. If we are just exercising our muscles, for example, if we're just [6] or if we're just lifting weight, over time, that just becomes [7] and you're not so much challenging your brain anymore. Whereas dancing, you're constantly [8]. Like doing a workout to shape your body, you can also shape your brain.",
+      "It has an extraordinary ability to [9] your whole life. This is called neuroplasticity, and dance is good brain exercise. So when you dance, research has shown that it grows the gray matter, and it grows the white matter as well, and [10] and make your neurons bigger and make them more effective. Let's break it down. The brain is formed of cells called neurons. That's what brain tissue is made of. Each neuron has a head, which is [11]. Together they make up the gray matter in the outer layer of the brain. This is where [12]. The tail of the neuron, or axon, is the white matter. It's [13] and sends messages around the different brain regions and the rest of the body. So dancing can actually [14]. And scientists have also found that regular exercise makes the brain stronger by producing more of [15]. When you dance or when you exercise in general, you produce this hormone called [16]. And it's basically [17]. And it helps your brain cells grow. And it helps with neuroplasticity. The human brain is made up of [18].",
+      "Each neuron can fire [19], depending on what you're doing. These neural messages are electrical pulses sent back and forth [20] and dance has been shown to improve the way these messages travel. This is something Doctor Julia Basso sees when she measures the brain activity of dancers [21] as they move in real time. She's the dancer on the left. The flow of information from one region to another can be faster, and it enhances our ability to learn and remember information, to have [22] and to [23]. Because your brain controls your body. If your neurons communicate better, that can impact nearly everything you do. So coordination is going to be improved. The way we respond to others through communication and through speaking is going to be improved. The way we may even answer math questions or other [24] will be enhanced. Whether in a class a club on TikTok or when no one is watching, dancing feels good. This is because the brain releases [25] that boost your mood. They're the ones you've probably heard of, like endorphins, [26], dopamine, and serotonin, both natural mood lifters. And if you're dancing with other people, you also get oxytocin, [27]. The more you do an activity like dancing, the more your brain looks forward to even craves doing it again. The more we participate in dance, and the more it's exposed to these neurochemicals, the more you're going to want to have those experiences and [28]. And this is one of the reasons why people keep coming back to the dance floor. While you might not notice the impact of your bigger, faster brain now, it could be extremely important as you get older. As we age, our [29]. This can lead to [30] like Parkinson's and Alzheimer's. There is no cure for these illnesses, only prevention. The best way to do that. Build up [31]. You can think of it as [32] and activities like learning or, really complex work or dancing are like [33]. A catastrophe happens if you only have [34], you're going to go into debt. But if you have [35], for example, that’s what cognitive— if you have a good cognitive reserve, you have a lot of money. Having lots of neurons means you have many potential routes for messages to travel, not just one or two. So then you can [36] with other alternative pathways that maybe other people don't have. But you have because of what you built over the years. There's scientific evidence that dance helps do just that. Researchers looked at [37] and the risk of dementia. The study followed the impact of [38] like swimming, walking or doing housework. Dancing was the only one shown to lower the risk of dementia. When we age, the brain starts to degenerate, and dance can help stave that off. It can help to increase cognitive function, support brain health in general, grow neurons, and [39] that may be declining during the aging process. Now, that being said, starting dance at any age will be beneficial because neuroplasticity happens [40]."
+    ],
+    "answers": [
+      "bigger, faster, and stronger",
+      "four ways dancing transforms your brain",
+      "balance and coordinate your movements",
+      "learning and remembering a routine",
+      "staying motivated",
+      "running on the treadmill",
+      "raw muscle memory",
+      "engaging different parts of the brain",
+      "grow, rewire, and reorganize",
+      "make these pathways more efficient",
+      "its control center",
+      "information is received and processed",
+      "the central connective tissue",
+      "increase all that brain tissue",
+      "an incredibly helpful substance",
+      "brain derived neurotrophic factor",
+      "a fertiliser for your brain cells",
+      "about 86 billion of these cells",
+      "between one and 200 times per second",
+      "faster than the blink of an eye",
+      "using specialised caps",
+      "better cognitive function",
+      "support emotional health",
+      "problem solving abilities",
+      "an enjoyable cocktail of hormones",
+      "the body's natural painkiller",
+      "the bonding hormone",
+      "feel those sensations",
+      "neurons naturally start to die",
+      "degenerative diseases",
+      "a big neural reserve",
+      "like a savings account",
+      "making deposits into your savings bank",
+      "$100",
+      "$1 million",
+      "bypass the neurons that have died",
+      "links between different leisure activities",
+      "11 physical exercises",
+      "increase neurotransmitters",
+      "throughout the entire lifespan"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "4 ways dancing transforms your brain"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "grow rewire and reorganise"
+      ],
+      [],
+      [
+        "its control centre"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "brain-derived neurotrophic factor"
+      ],
+      [
+        "a fertilizer for your brain cells"
+      ],
+      [
+        "about eighty-six billion of these cells"
+      ],
+      [
+        "between one and two hundred times per second",
+        "between 1 and 200 times per second"
+      ],
+      [],
+      [
+        "using specialized caps"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a hundred dollars",
+        "one hundred dollars",
+        "100 dollars"
+      ],
+      [
+        "a million dollars",
+        "one million dollars",
+        "1 million dollars"
+      ],
+      [],
+      [],
+      [
+        "eleven physical exercises"
+      ],
+      [],
+      []
+    ],
+    "contentRevision": "3ecdb855ff1e",
+    "paraphrases": [
+      [
+        "makes it more resilient",
+        "helps it cope better with challenges",
+        "Resilient là có khả năng thích nghi và phục hồi tốt hơn.",
+        20.8,
+        25.6
+      ],
+      [
+        "staying motivated",
+        "maintaining the desire to continue",
+        "Stay motivated là duy trì động lực.",
+        51.6,
+        61.4
+      ],
+      [
+        "constantly engaging different parts of the brain",
+        "continually activating several brain regions",
+        "Engage ở đây là huy động hoạt động của các vùng não.",
+        75.5,
+        87.4
+      ],
+      [
+        "faster than the blink of an eye",
+        "extremely quickly",
+        "Thành ngữ diễn tả tốc độ rất nhanh.",
+        182.7,
+        194.2
+      ],
+      [
+        "in real time",
+        "as the activity is actually happening",
+        "In real time là ngay khi hoạt động diễn ra.",
+        194.9,
+        210.7
+      ],
+      [
+        "enhances our ability to learn",
+        "improves our capacity to acquire knowledge",
+        "Enhance là tăng cường khả năng.",
+        212,
+        224.8
+      ],
+      [
+        "boost your mood",
+        "make you feel better emotionally",
+        "Boost your mood là cải thiện tâm trạng.",
+        255.2,
+        281
+      ],
+      [
+        "go into debt",
+        "owe more money than you have available",
+        "Go into debt thuộc phép so sánh với tài khoản tiết kiệm.",
+        348.8,
+        353.3
+      ],
+      [
+        "bypass the neurons that have died",
+        "send messages along routes around dead nerve cells",
+        "Bypass là đi vòng qua bằng đường thay thế.",
+        361.5,
+        381.6
+      ],
+      [
+        "help stave that off",
+        "help delay that deterioration",
+        "Help stave off giữ sắc thái hỗ trợ trì hoãn, không khẳng định chữa khỏi.",
+        404.2,
+        420
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "resilient",
+        "meaning": "có khả năng phục hồi",
+        "note": "Able to recover or adapt after difficulties."
+      },
+      {
+        "term": "coordinate",
+        "meaning": "phối hợp",
+        "note": "To organise movements so that they work together."
+      },
+      {
+        "term": "neuroplasticity",
+        "meaning": "tính mềm dẻo thần kinh",
+        "note": "The capacity of the nervous system to change its connections."
+      },
+      {
+        "term": "neuron",
+        "meaning": "tế bào thần kinh",
+        "note": "A cell that transmits signals in the nervous system."
+      },
+      {
+        "term": "axon",
+        "meaning": "sợi trục",
+        "note": "The extension of a neuron that carries signals away from its cell body."
+      },
+      {
+        "term": "cognitive",
+        "meaning": "thuộc nhận thức",
+        "note": "Related to thinking, learning or remembering."
+      },
+      {
+        "term": "endorphin",
+        "meaning": "endorphin",
+        "note": "A substance produced in the body that helps reduce pain."
+      },
+      {
+        "term": "degenerative",
+        "meaning": "gây thoái hóa",
+        "note": "Involving gradual deterioration of tissue or function."
+      },
+      {
+        "term": "reserve",
+        "meaning": "nguồn dự trữ",
+        "note": "A supply or capacity kept available for later use."
+      },
+      {
+        "term": "bypass",
+        "meaning": "đi vòng qua",
+        "note": "To use an alternative route around something."
+      }
+    ],
+    "signals": [
+      "Whereas…",
+      "Depending on…",
+      "As we age,…",
+      "That being said,…"
+    ]
+  },
+  "57": {
+    "paragraphs": [
+      "The world we experience [1]. The brain is actively generating our experienced worlds [2]. If I'm sitting on the beach, and I open my eyes, I suddenly see before me the sea, the waves, I can feel [3], I can hear the seagulls in the distance. It seems like there's this objective world out there, and it's just pouring itself into my mind [4]. Yet, I know that's not what's going on. The signals that arrive at our eyes and our ears, the light waves that hit our retinas, [5] that come into our eardrums, they don't come with labels on them, like \"I'm from a seagull\", or \"I'm from the sea\", or \"I'm blue\". They're just [6]. The brain has to [7] and figure out where they came from and what they mean.",
+      "That's [8]. So perception isn't just a reading out of the world around us, it's always [9] in which the brain is utilising its knowledge about the way the world is, to make [10] of what causes the sensory signals, and that - that's [11]. So the brain has what you might call [12], about the structure of the world and about what's out there, that allows it to interpret the sensory signals that come in. And sometimes this prior knowledge is built deep into [13], and it's [14]. For example, that [15]. And that means that, when we look at shadows, our brain is using that knowledge so that we interpret what shadows mean [16]. It's not so much \"I'll believe it when I see it\", but [17]. Perhaps the real world just isn't something that's useful for us to see. We are [18], our brains have [19], we see the world as it's most useful to us [20]. Colour is a very, very familiar feature of our visual experience that gives our lives [21]. Does colour exist in the world? Well not really, no. There are just [22], and out of those wavelengths, the brain generates [23]. And why does it do this? Well, it [24] to keep track of objects [25]. As the artist Cezanne once said, \"colour is the place where the brain and the universe meet\". This process is going to be a little bit different for each of us, we're all going to experience [26] of even the same sensory data. And this brings up this idea of [27]. Now we're all familiar with the idea of [28]. We all recognise that we're different heights, different skin colours, different shapes, and we're less familiar with the idea of inner diversity.",
+      "One reason is that you can't see my experience. If you look at the blue sky, the blue that you experience might not be the same as the blue that I experience, [29]. There's one example of perceptual diversity, which became very well known a few years ago. It was this photo of a dress that half the world saw as [30], and half the world saw as [31]. These bits are blue, and these bits are black. Definitely. The people that saw it as blue and black were so convinced that what they saw was the way it is that they couldn't understand [32]. And the same went for the people that saw it to be white and gold. Don't you see it? Part of the reason was that it was [33]. So it was very ambiguous, and the colour that it seemed to be depended on the assumptions your brain was making about [34]. Okay, if we see that so differently, what about the rest of our experience? How can we assume that in other cases [35]?",
+      "The answer is we probably aren't. It can almost be used as a lever to help people [36]. Because if you can demonstrate that even something as [37] as opening your eyes and looking at a photograph can lead to such different beliefs about what's going on, then we can begin to recognise that other people may see things differently, believe things differently. A lot of challenges in communicating with each other might be [38] that our literal experience of the same world is different. It's not that these things don't exist - they exist - but the way in which they exist for me is [39]. We do all experience a shared world, [40], but our way of experiencing it is individual. It's unique. And it's very precious because of that. Thanks for watching. If you enjoyed that, be sure to check out these videos next. And if you haven't already, hit the subscribe button and click the bell to get a notification each time we upload a new video."
+    ],
+    "answers": [
+      "isn't just given to us",
+      "every moment of every day",
+      "the breeze on my face",
+      "through the senses",
+      "the pressure waves",
+      "ambiguous signals",
+      "make sense of all these sensory signals",
+      "the process of perception",
+      "a creative act of interpretation",
+      "its best guess",
+      "what we consciously perceive",
+      "prior knowledge",
+      "the structure of our brain",
+      "knowledge that we're not aware of having",
+      "light tends always to come from above",
+      "in a particular way",
+      "if your brain believes it, then you will see it",
+      "evolved biological organisms",
+      "limited capacities",
+      "in order to survive",
+      "texture and beauty and meaning",
+      "light waves of different wavelengths",
+      "an infinite variety of different colours",
+      "allows the brain",
+      "as lighting conditions change",
+      "our own interpretations",
+      "inner perceptual diversity",
+      "external diversity",
+      "even though we'll both call it blue",
+      "blue and black",
+      "white and gold",
+      "how other people could see it differently",
+      "a very badly exposed photograph",
+      "the ambient surrounding light",
+      "we're experiencing the same thing",
+      "better communicate with each other",
+      "apparently straightforward",
+      "rooted in the fact",
+      "completely dependent on my brain",
+      "a shared reality"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "an infinite variety of different colors"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "5660afef821a",
+    "paraphrases": [
+      [
+        "ambiguous signals",
+        "information that can be interpreted in more than one way",
+        "Ambiguous nghĩa là chưa rõ một cách hiểu duy nhất.",
+        59.6,
+        74.5
+      ],
+      [
+        "make sense of",
+        "understand and interpret",
+        "Make sense of là hiểu ý nghĩa của thông tin.",
+        65,
+        76.7
+      ],
+      [
+        "prior knowledge",
+        "understanding acquired beforehand",
+        "Prior là có trước khi nhận tín hiệu mới.",
+        99,
+        110.3
+      ],
+      [
+        "limited capacities",
+        "restricted abilities",
+        "Limited capacities chỉ giới hạn khả năng xử lý.",
+        140.6,
+        149.9
+      ],
+      [
+        "keep track of objects",
+        "continue to identify and follow things",
+        "Keep track là theo dõi và nhận biết liên tục.",
+        172.6,
+        179.3
+      ],
+      [
+        "inner perceptual diversity",
+        "differences in people’s internal sensory experiences",
+        "Cụm chỉ khác biệt trong trải nghiệm cảm nhận bên trong.",
+        193.2,
+        204.1
+      ],
+      [
+        "so convinced",
+        "so certain about their interpretation",
+        "Convinced là tin chắc.",
+        254.7,
+        262.7
+      ],
+      [
+        "the ambient surrounding light",
+        "the light present in the environment",
+        "Ambient light là ánh sáng môi trường.",
+        268.5,
+        280.8
+      ],
+      [
+        "apparently straightforward",
+        "seemingly simple",
+        "Apparently giữ ý nghĩa trông có vẻ đơn giản.",
+        300,
+        310.9
+      ],
+      [
+        "rooted in the fact",
+        "based on the underlying circumstance",
+        "Rooted in là bắt nguồn từ một yếu tố nền tảng.",
+        315.8,
+        324.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "perception",
+        "meaning": "sự tri giác",
+        "note": "The process of interpreting sensory information."
+      },
+      {
+        "term": "retina",
+        "meaning": "võng mạc",
+        "note": "The light-sensitive tissue at the back of the eye."
+      },
+      {
+        "term": "eardrum",
+        "meaning": "màng nhĩ",
+        "note": "A membrane that vibrates in response to sound."
+      },
+      {
+        "term": "ambiguous",
+        "meaning": "mơ hồ; đa nghĩa",
+        "note": "Open to more than one interpretation."
+      },
+      {
+        "term": "interpretation",
+        "meaning": "cách diễn giải",
+        "note": "An explanation of the meaning of something."
+      },
+      {
+        "term": "prior",
+        "meaning": "có trước",
+        "note": "Existing or occurring before something else."
+      },
+      {
+        "term": "wavelength",
+        "meaning": "bước sóng",
+        "note": "The distance between corresponding points of a wave."
+      },
+      {
+        "term": "diversity",
+        "meaning": "sự đa dạng",
+        "note": "The presence of differences within a group."
+      },
+      {
+        "term": "ambient",
+        "meaning": "thuộc môi trường xung quanh",
+        "note": "Present in the surrounding environment."
+      },
+      {
+        "term": "assumption",
+        "meaning": "giả định",
+        "note": "Something taken to be true without direct confirmation."
+      }
+    ],
+    "signals": [
+      "Yet,…",
+      "For example,…",
+      "Even though…",
+      "Because…"
+    ]
+  },
+  "58": {
+    "paragraphs": [
+      "This is a pie chart. And this is Scottish political economist William Playfair, who created the world's first pie chart, along with some of [1]. Data visualisation is everywhere today, but when Playfair first created them [2], using shapes to represent numbers was largely sneered at. How could drawings truly [3]? But now data visualisation has become [4]. Here are five charts that have, in their own way, changed the world. One of the best known uses of data visualisation was devised [5]. At the time, it was widely believed that infectious diseases like cholera were [6]. Surgeon John Snow felt differently. He was convinced that infections could be [7]. And when [8] occurred in Soho, Snow tracked each case and [9]. A clear picture emerged. All the deaths from cholera were [10] on Broad Street.",
+      "When he presented his findings to the local officials, the pump was shut down and [11]. Dr John Snow fundamentally changed [12], and his simple dot maps were a huge part of that. Around about the same time, \"the lady with the lamp\", Florence Nightingale, used a cunning visual to save even more lives. During the Crimean War, she realised that [13] were killing more soldiers than were dying on the battlefield itself. She wanted to persuade Queen Victoria, head of the British Army at the time, to [14] in military hospitals. So she created the Coxcomb, a sort of [15] which showcased the data on the causes of soldiers' deaths in a highly effective way. Her efforts [16], not only improving the sanitary conditions of army hospitals at the time, but ultimately [17]. One of the most original examples of data visualisation was created by American historian and [18] W.E.B Du Bois for [19]. He presented a series of hand-made charts showcasing the educational, social and business accomplishments of black Americans in [20]. The materials both [21] and illustrated how black communities were still being discriminated against. Du Bois hoped the visualisations would help to [22] in the world. \"The problem of the 20th century is the problem of the color-line,\" he wrote. Although his dreams weren't realised, Du Bois' beautiful charts are now recognised as a powerful use of data visualisation to [23]. Data visualisation can also be used for misinformation, sometimes with [24]. This is the Kallikak family tree. As a chart, it's not ground-breaking, but [25]. It was conjured up by Henry Goddard, an American psychologist and eugenicist who believed that one of society's greatest problems was \"feeble-minded\" people -",
+      "basically, anyone deemed to be of lower intelligence. Goddard wrote a book based on the story of Martin Kallikak, a soldier who was married and had a family of [26]. But according to the book, Martin Kallikak had a one-night stand with a \"feeble-minded\" barmaid. She had a son who became known as \"Old Horror\", who went on to [27]. According to Goddard, feeble-mindedness was hereditary, and the family was full of what he called \"the lowest types of human beings\". But [28]. The barmaid never existed. Even so, the Kallikak family tree could be found in school textbooks [29], and it was also used by the eugenics movement for decades afterwards. And it was adopted by the Nazis, who used it in [30] to gain support for their racial purity laws, which led to the murder of [31] in the Holocaust. Sometimes, iconic status can be achieved almost accidentally. [32], scientist Ed Hawkins was invited to give a speech about climate change at Hay, a literary festival in Wales. He needed to convey the increase in [33] to [34]. So, he devised a chart that used no words, just colours. It was a stunningly simple way of demonstrating how the planet had warmed [35]. The chart, known as the warming stripes, uses blues to indicate [36] and reds to show years with temperatures [37]. Updated every year, Hawkins says [38] that every country needed a new red stripe, demonstrating how fast the Earth's climate is changing. Although the graphic breaks some of the rules of data visualisation - it doesn't provide [39] - arguably, it is [40] of modern times. What do you think the next chart to change the world will be? Thanks for watching. If you enjoyed that, be sure to check out these videos next. And if you haven't already, hit the subscribe button and click the bell to get a notification each time we upload a new video."
+    ],
+    "answers": [
+      "the first line and bar charts",
+      "over 200 years ago",
+      "represent solid scientific data",
+      "an art form of its own",
+      "in London in 1854",
+      "spread through the air",
+      "spread by dirty water",
+      "a deadly outbreak of cholera",
+      "marked them with a dot on a map",
+      "clustered around a water pump",
+      "the outbreak ended",
+      "our understanding of microbes",
+      "unsanitary conditions in hospitals",
+      "fund better conditions",
+      "uneven pie chart",
+      "had sweeping impact",
+      "changing the face of modern healthcare",
+      "civil rights activist",
+      "the 1900 Paris World's Fair",
+      "the 35 years since slavery had been officially abolished",
+      "challenged stereotypes",
+      "end racial prejudice",
+      "demonstrate social change",
+      "disastrous consequences",
+      "its impact was profound",
+      "fine, upstanding citizens",
+      "father ten children",
+      "it was a fiction",
+      "as late as the 1950s",
+      "propaganda films",
+      "thousands of disabled people",
+      "In 2018",
+      "global average temperatures",
+      "a largely non-scientific audience",
+      "since 1850",
+      "cooler than average years",
+      "hotter than average",
+      "2022 was the first year",
+      "a title or legend",
+      "one of the most iconic graphics"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "over two hundred years ago"
+      ],
+      [],
+      [],
+      [
+        "in London in eighteen fifty-four"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "the nineteen hundred Paris world’s fair"
+      ],
+      [
+        "the thirty-five years since slavery had been officially abolished"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "father 10 children"
+      ],
+      [],
+      [
+        "as late as the nineteen fifties"
+      ],
+      [],
+      [],
+      [
+        "in twenty eighteen",
+        "in two thousand and eighteen"
+      ],
+      [],
+      [],
+      [
+        "since eighteen fifty"
+      ],
+      [],
+      [],
+      [
+        "twenty twenty-two was the first year",
+        "two thousand and twenty-two was the first year"
+      ],
+      [],
+      []
+    ],
+    "contentRevision": "d2af4e521cd3",
+    "paraphrases": [
+      [
+        "largely sneered at",
+        "mostly treated with contempt",
+        "Sneer at là chế giễu hoặc coi thường.",
+        11.2,
+        25
+      ],
+      [
+        "clustered around a water pump",
+        "concentrated near one source of water",
+        "Clustered around là tập trung quanh một điểm.",
+        60.5,
+        74.6
+      ],
+      [
+        "had sweeping impact",
+        "produced wide-ranging effects",
+        "Sweeping nhấn mạnh phạm vi ảnh hưởng rộng.",
+        121.4,
+        134.3
+      ],
+      [
+        "challenged stereotypes",
+        "questioned fixed assumptions about a group",
+        "Challenge là đặt lại vấn đề với định kiến.",
+        156.6,
+        168.4
+      ],
+      [
+        "racial prejudice",
+        "unfair judgments based on race",
+        "Prejudice là định kiến, không phải đánh giá dựa trên từng cá nhân.",
+        169.1,
+        174.4
+      ],
+      [
+        "with disastrous consequences",
+        "with extremely harmful results",
+        "Disastrous mô tả hậu quả tai hại của thông tin sai.",
+        189,
+        198.5
+      ],
+      [
+        "its impact was profound",
+        "its effects were far-reaching and serious",
+        "Profound ở đây là sâu sắc, lớn về mức độ ảnh hưởng.",
+        199.5,
+        207
+      ],
+      [
+        "it was a fiction",
+        "the account was invented rather than true",
+        "Giữ rõ sự bác bỏ của người dẫn đối với câu chuyện bịa đặt.",
+        242,
+        258.6
+      ],
+      [
+        "convey the increase",
+        "communicate the rise",
+        "Convey là truyền đạt điều muốn thể hiện.",
+        293.1,
+        305.2
+      ],
+      [
+        "a largely non-scientific audience",
+        "listeners mostly without a scientific background",
+        "Largely là phần lớn, không phải toàn bộ.",
+        293.1,
+        305.2
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "visualisation",
+        "meaning": "sự trực quan hóa",
+        "note": "The representation of information using images or charts."
+      },
+      {
+        "term": "outbreak",
+        "meaning": "đợt bùng phát",
+        "note": "A sudden occurrence of many cases of a disease."
+      },
+      {
+        "term": "cluster",
+        "meaning": "tập trung thành nhóm",
+        "note": "To gather closely together."
+      },
+      {
+        "term": "microbe",
+        "meaning": "vi sinh vật",
+        "note": "An organism too small to be seen without magnification."
+      },
+      {
+        "term": "unsanitary",
+        "meaning": "mất vệ sinh",
+        "note": "Dirty in a way that can harm health."
+      },
+      {
+        "term": "abolish",
+        "meaning": "bãi bỏ",
+        "note": "To officially put an end to a system or practice."
+      },
+      {
+        "term": "stereotype",
+        "meaning": "khuôn mẫu định kiến",
+        "note": "A fixed oversimplified belief about a group."
+      },
+      {
+        "term": "prejudice",
+        "meaning": "định kiến",
+        "note": "An unfair judgment made without adequate evidence."
+      },
+      {
+        "term": "misinformation",
+        "meaning": "thông tin sai lệch",
+        "note": "False or inaccurate information."
+      },
+      {
+        "term": "legend",
+        "meaning": "chú giải biểu đồ",
+        "note": "A key explaining the symbols or colours in a chart."
+      }
+    ],
+    "signals": [
+      "At the time,…",
+      "Although…",
+      "Even so,…",
+      "Arguably,…"
+    ]
+  },
+  "59": {
+    "paragraphs": [
+      "Violence, though [1], has to be one of the most destructive of human behaviours. For years, researchers have tried to understand what drives us to [2]. Is it the environment we were raised in? [3] we find ourselves in? Or is it driven by something completely different - [4] - our genes? Or specifically, the so-called 'warrior gene'? The story of the warrior gene [5], when a woman walked into a hospital in the Netherlands, and not because she was worried about herself, but because she was worried about her family. All the men in the family had a history of really terrible violent crimes. There were murders, there were rapes, [6]. Researchers started [7] from the members of her family, and they discovered that all the men who had this history of very violent crime, they had [8] in a gene called MAOA, or monoamine oxidase A, that completely [9], it wasn't working at all. We all have two copies of this 'warrior gene'. It makes a molecule in your brain that [10]. This is a neurotransmitter, it sends [11], and affects your behaviour. So if this gene isn't working as well as it could do, it's thought that perhaps it makes you more impulsive, it makes it [12]. So the Dutch study was the first time that this gene, MAOA, had been [13], but then a study in New Zealand took this further. The Dunedin study followed [14], looking for connections between [15] and violent behaviour later in life. They found that having a variation that just [16] of this gene, not knocks it out completely, but just lowers the activity, was associated with a history of violence. But curiously, mostly only in people who also had [17] as well.",
+      "And that [18] in Finland working with prisoners in a very high security prison. We collected a cohort of [19], and [20] had conducted at least one violent crime. About a little bit more than 10% or 15% had committed [21], murders, attempted murders, manslaughter. I was sceptical, but what we did find was indeed if an individual had [22] then he or she had significantly more of the low activity MAOA. We know that [23] are walking around with [24] of MAOA, but of course, six out of ten people don't commit horrific violent crimes. So obviously we can't say that if you've got this gene variation you are going to be a violent criminal, genetics doesn't really work like that. But this idea that there's a gene behind violent behaviour, could you use that as [25]? You know, \"It wasn't me, guv. It was my genes that made me do it.\" Well it might sound a bit strange, but that is actually what's happening. It's only really been used in two countries, two in an Italian court and the rest have been in American courts. It's been used as a way of saying that [26]. I think it's the sort of evidence that is attempting to be used [27]. In the US, where you have the death penalty for these kinds of incredibly violent crimes, [28]. So lawyers will try and introduce any kind of evidence they can to [29] for their client. To say that there is a gene, like a time bomb that none of us are aware of, I think is [30]. So humans carry different versions of the MAOA gene, and those that reduce the activity of this gene have been linked to [31]. Some studies also suggest a link between [32], the MAOA gene [33], and an increased risk of developing [34], which may result in committing violent criminal acts. But whilst it can be tempting to paint a simple picture of how genetics influence our behaviour, in reality, it's [35]. Everything that happens to us [36] and influences who we are and how we behave. The fact that we can find a connection between genes and violent behaviour doesn't mean that we're going to be heading towards [37] where little Johnny is [38] because he's got 'bad genes' that might make him do bad things. That simply isn't how genetics work. [39], we have independence, we can make [40] about who we are and how we behave. Thanks for watching. If you enjoyed that, be sure to check out these videos next. And if you haven't already, hit the subscribe button and click the bell to get a notification each time we upload a new video."
+    ],
+    "answers": [
+      "deeply rooted in our evolutionary history",
+      "commit acts of violence",
+      "The socio-economic situation",
+      "something we have no control of",
+      "starts in 1978",
+      "going back generations and generations",
+      "gathering DNA samples",
+      "the same genetic change",
+      "knocked out the function of the gene",
+      "breaks down a chemical called serotonin",
+      "signals between the cells in your brain",
+      "harder to control urges",
+      "linked to violent behaviour",
+      "1,000 New Zealanders for decades",
+      "childhood experiences",
+      "lowers the level of activity",
+      "a very difficult childhood",
+      "caught the eye of researchers",
+      "around 800 prisoners",
+      "about two-thirds of them",
+      "at least 10 violent crimes",
+      "two or more violent crimes",
+      "up to six in ten people",
+      "a low activity version",
+      "a defence in court",
+      "the person lacked control",
+      "to dazzle a jury",
+      "the stakes are obviously, literally, life and death",
+      "argue against the death penalty",
+      "wishful thinking",
+      "increased risk of aggressive behaviour",
+      "an abusive childhood",
+      "not functioning adequately",
+      "antisocial personality disorder",
+      "an incredibly complex issue",
+      "interacts with our genes",
+      "some terrible genetic dystopia",
+      "locked up",
+      "We have agency",
+      "our own free choices"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "starts in nineteen seventy-eight"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a thousand New Zealanders for decades",
+        "one thousand New Zealanders for decades",
+        "1000 New Zealanders for decades"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "around eight hundred prisoners"
+      ],
+      [
+        "about 2 thirds of them",
+        "about two thirds of them"
+      ],
+      [
+        "at least ten violent crimes"
+      ],
+      [
+        "2 or more violent crimes"
+      ],
+      [
+        "up to 6 in 10 people"
+      ],
+      [],
+      [
+        "a defense in court"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "49b659b462a0",
+    "paraphrases": [
+      [
+        "knocked out the function of the gene",
+        "stopped the gene from working",
+        "Knock out ở đây là làm mất chức năng hoàn toàn.",
+        69.5,
+        81.1
+      ],
+      [
+        "harder to control urges",
+        "more difficult to resist impulses",
+        "Urges là những thôi thúc muốn hành động.",
+        96.6,
+        105.1
+      ],
+      [
+        "associated with a history of violence",
+        "linked to previous violent behaviour",
+        "Associated with chỉ mối liên hệ, không khẳng định nguyên nhân duy nhất.",
+        127.2,
+        144.8
+      ],
+      [
+        "caught the eye of researchers",
+        "attracted scientists’ attention",
+        "Catch the eye là thu hút chú ý.",
+        145,
+        150.7
+      ],
+      [
+        "the person lacked control",
+        "the individual was said to be unable to restrain their actions",
+        "Đây là lập luận được dùng tại tòa, không phải kết luận của bài.",
+        227.8,
+        241.9
+      ],
+      [
+        "to dazzle a jury",
+        "to impress jurors with apparently striking evidence",
+        "Dazzle diễn tả việc gây ấn tượng cho bồi thẩm đoàn.",
+        242,
+        248.1
+      ],
+      [
+        "wishful thinking",
+        "believing something mainly because one wants it to be true",
+        "Wishful thinking là suy nghĩ theo điều mình muốn tin.",
+        263.5,
+        271.1
+      ],
+      [
+        "not functioning adequately",
+        "not working well enough",
+        "Adequately là ở mức đủ hoặc phù hợp.",
+        282.6,
+        293.3
+      ],
+      [
+        "an incredibly complex issue",
+        "a matter involving many interacting factors",
+        "Complex là phức tạp, không thể quy về một yếu tố.",
+        297.3,
+        313.4
+      ],
+      [
+        "We have agency",
+        "we can make choices and act for ourselves",
+        "Agency ở đây là khả năng chủ động lựa chọn hành động.",
+        328.6,
+        339.6
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "evolutionary",
+        "meaning": "thuộc tiến hóa",
+        "note": "Related to development across generations."
+      },
+      {
+        "term": "socio-economic",
+        "meaning": "thuộc kinh tế xã hội",
+        "note": "Related to social and economic conditions."
+      },
+      {
+        "term": "gene",
+        "meaning": "gen",
+        "note": "A unit of inherited biological information."
+      },
+      {
+        "term": "neurotransmitter",
+        "meaning": "chất dẫn truyền thần kinh",
+        "note": "A chemical involved in transmitting signals between nerve cells."
+      },
+      {
+        "term": "impulsive",
+        "meaning": "bốc đồng",
+        "note": "Acting suddenly without enough thought."
+      },
+      {
+        "term": "cohort",
+        "meaning": "nhóm đối tượng nghiên cứu",
+        "note": "A group of people studied over a period of time."
+      },
+      {
+        "term": "sceptical",
+        "meaning": "hoài nghi",
+        "note": "Not easily convinced that a claim is true."
+      },
+      {
+        "term": "jury",
+        "meaning": "bồi thẩm đoàn",
+        "note": "A group of people selected to decide facts in a trial."
+      },
+      {
+        "term": "dystopia",
+        "meaning": "xã hội phản địa đàng",
+        "note": "An imagined society characterised by oppression or suffering."
+      },
+      {
+        "term": "agency",
+        "meaning": "khả năng tự chủ hành động",
+        "note": "The capacity to make choices and act independently."
+      }
+    ],
+    "signals": [
+      "But curiously,…",
+      "Of course,…",
+      "Some studies suggest…",
+      "In reality,…"
+    ]
   }
 };

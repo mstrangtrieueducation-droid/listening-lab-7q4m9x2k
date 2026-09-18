@@ -1,0 +1,244 @@
+{
+  "code": "L2-07",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-07.mp3",
+  "evidenceNote": "Compared the full 433-second spoken report with every source paragraph. A second small.en pass at 347–362 confirms the financial analogy and a brief abandoned phrase before cognitive reserve. Kept that hesitation unassessed; complete meaningful phrases are used for all forty answers. Speech claims remain attributed to the recording, with can/may qualifications retained in paraphrases.",
+  "textReplacements": [
+    [
+      "becomes muscle memory",
+      "becomes raw muscle memory"
+    ],
+    [
+      "dopamine,\n\nand serotonin",
+      "dopamine, and serotonin"
+    ],
+    [
+      "$1 million, for example, if you have",
+      "$1 million, for example, that’s what cognitive— if you have"
+    ],
+    [
+      "many potential routes\n\nfor messages",
+      "many potential routes for messages"
+    ]
+  ],
+  "gaps": [
+    "bigger, faster, and stronger",
+    "four ways dancing transforms your brain",
+    "balance and coordinate your movements",
+    "learning and remembering a routine",
+    "staying motivated",
+    "running on the treadmill",
+    "raw muscle memory",
+    "engaging different parts of the brain",
+    "grow, rewire, and reorganize",
+    "make these pathways more efficient",
+    "its control center",
+    "information is received and processed",
+    "the central connective tissue",
+    "increase all that brain tissue",
+    "an incredibly helpful substance",
+    "brain derived neurotrophic factor",
+    "a fertiliser for your brain cells",
+    "about 86 billion of these cells",
+    "between one and 200 times per second",
+    "faster than the blink of an eye",
+    "using specialised caps",
+    "better cognitive function",
+    "support emotional health",
+    "problem solving abilities",
+    "an enjoyable cocktail of hormones",
+    "the body's natural painkiller",
+    "the bonding hormone",
+    "feel those sensations",
+    "neurons naturally start to die",
+    "degenerative diseases",
+    "a big neural reserve",
+    "like a savings account",
+    "making deposits into your savings bank",
+    "$100",
+    "$1 million",
+    "bypass the neurons that have died",
+    "links between different leisure activities",
+    "11 physical exercises",
+    "increase neurotransmitters",
+    "throughout the entire lifespan"
+  ],
+  "acceptedVariants": {
+    "four ways dancing transforms your brain": [
+      "4 ways dancing transforms your brain"
+    ],
+    "grow, rewire, and reorganize": [
+      "grow rewire and reorganise"
+    ],
+    "its control center": [
+      "its control centre"
+    ],
+    "brain derived neurotrophic factor": [
+      "brain-derived neurotrophic factor"
+    ],
+    "a fertiliser for your brain cells": [
+      "a fertilizer for your brain cells"
+    ],
+    "about 86 billion of these cells": [
+      "about eighty-six billion of these cells"
+    ],
+    "between one and 200 times per second": [
+      "between one and two hundred times per second",
+      "between 1 and 200 times per second"
+    ],
+    "using specialised caps": [
+      "using specialized caps"
+    ],
+    "$100": [
+      "a hundred dollars",
+      "one hundred dollars",
+      "100 dollars"
+    ],
+    "$1 million": [
+      "a million dollars",
+      "one million dollars",
+      "1 million dollars"
+    ],
+    "11 physical exercises": [
+      "eleven physical exercises"
+    ]
+  },
+  "paraphrases": [
+    [
+      "makes it more resilient",
+      "helps it cope better with challenges",
+      "Resilient là có khả năng thích nghi và phục hồi tốt hơn.",
+      20.8,
+      25.6
+    ],
+    [
+      "staying motivated",
+      "maintaining the desire to continue",
+      "Stay motivated là duy trì động lực.",
+      51.6,
+      61.4
+    ],
+    [
+      "constantly engaging different parts of the brain",
+      "continually activating several brain regions",
+      "Engage ở đây là huy động hoạt động của các vùng não.",
+      75.5,
+      87.4
+    ],
+    [
+      "faster than the blink of an eye",
+      "extremely quickly",
+      "Thành ngữ diễn tả tốc độ rất nhanh.",
+      182.7,
+      194.2
+    ],
+    [
+      "in real time",
+      "as the activity is actually happening",
+      "In real time là ngay khi hoạt động diễn ra.",
+      194.9,
+      210.7
+    ],
+    [
+      "enhances our ability to learn",
+      "improves our capacity to acquire knowledge",
+      "Enhance là tăng cường khả năng.",
+      212,
+      224.8
+    ],
+    [
+      "boost your mood",
+      "make you feel better emotionally",
+      "Boost your mood là cải thiện tâm trạng.",
+      255.2,
+      281
+    ],
+    [
+      "go into debt",
+      "owe more money than you have available",
+      "Go into debt thuộc phép so sánh với tài khoản tiết kiệm.",
+      348.8,
+      353.3
+    ],
+    [
+      "bypass the neurons that have died",
+      "send messages along routes around dead nerve cells",
+      "Bypass là đi vòng qua bằng đường thay thế.",
+      361.5,
+      381.6
+    ],
+    [
+      "help stave that off",
+      "help delay that deterioration",
+      "Help stave off giữ sắc thái hỗ trợ trì hoãn, không khẳng định chữa khỏi.",
+      404.2,
+      420
+    ]
+  ],
+  "vocabulary": [
+    [
+      "resilient",
+      "có khả năng phục hồi",
+      "Able to recover or adapt after difficulties."
+    ],
+    [
+      "coordinate",
+      "phối hợp",
+      "To organise movements so that they work together."
+    ],
+    [
+      "neuroplasticity",
+      "tính mềm dẻo thần kinh",
+      "The capacity of the nervous system to change its connections."
+    ],
+    [
+      "neuron",
+      "tế bào thần kinh",
+      "A cell that transmits signals in the nervous system."
+    ],
+    [
+      "axon",
+      "sợi trục",
+      "The extension of a neuron that carries signals away from its cell body."
+    ],
+    [
+      "cognitive",
+      "thuộc nhận thức",
+      "Related to thinking, learning or remembering."
+    ],
+    [
+      "endorphin",
+      "endorphin",
+      "A substance produced in the body that helps reduce pain."
+    ],
+    [
+      "degenerative",
+      "gây thoái hóa",
+      "Involving gradual deterioration of tissue or function."
+    ],
+    [
+      "reserve",
+      "nguồn dự trữ",
+      "A supply or capacity kept available for later use."
+    ],
+    [
+      "bypass",
+      "đi vòng qua",
+      "To use an alternative route around something."
+    ]
+  ],
+  "signals": [
+    "Whereas…",
+    "Depending on…",
+    "As we age,…",
+    "That being said,…"
+  ],
+  "issuesFixed": [
+    "Rebuilt forty complete phrases in listening order",
+    "Added complete quantities with equivalent number spellings",
+    "Kept the speaker’s false start outside assessed gaps",
+    "Rejoined broken sentences",
+    "Replaced generic paraphrases with ten checked audio segments"
+  ]
+}

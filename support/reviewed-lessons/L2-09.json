@@ -1,0 +1,232 @@
+{
+  "code": "L2-09",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-09.mp3",
+  "evidenceNote": "Compared all source paragraphs against the complete audio and timestamps, preserving correct proper names despite ASR errors. Rejoined the Du Bois and Hay sentence splits and removed a stray quotation mark. Forty chronological gaps now include intact historical dates and quantities. A focused second pass checks the closing audio separately. The independent small.en pass at 348–363 confirms the whole outro omitted by the first pass, now restored.",
+  "textReplacements": [
+    [
+      "W.E.B Du Bois\n\nfor",
+      "W.E.B Du Bois for"
+    ],
+    [
+      "20th century \"is",
+      "20th century is"
+    ],
+    [
+      "at Hay,\n\n",
+      "at Hay, "
+    ]
+  ],
+  "gaps": [
+    "the first line and bar charts",
+    "over 200 years ago",
+    "represent solid scientific data",
+    "an art form of its own",
+    "in London in 1854",
+    "spread through the air",
+    "spread by dirty water",
+    "a deadly outbreak of cholera",
+    "marked them with a dot on a map",
+    "clustered around a water pump",
+    "the outbreak ended",
+    "our understanding of microbes",
+    "unsanitary conditions in hospitals",
+    "fund better conditions",
+    "uneven pie chart",
+    "had sweeping impact",
+    "changing the face of modern healthcare",
+    "civil rights activist",
+    "the 1900 Paris World's Fair",
+    "the 35 years since slavery had been officially abolished",
+    "challenged stereotypes",
+    "end racial prejudice",
+    "demonstrate social change",
+    "disastrous consequences",
+    "its impact was profound",
+    "fine, upstanding citizens",
+    "father ten children",
+    "it was a fiction",
+    "as late as the 1950s",
+    "propaganda films",
+    "thousands of disabled people",
+    "In 2018",
+    "global average temperatures",
+    "a largely non-scientific audience",
+    "since 1850",
+    "cooler than average years",
+    "hotter than average",
+    "2022 was the first year",
+    "a title or legend",
+    "one of the most iconic graphics"
+  ],
+  "acceptedVariants": {
+    "over 200 years ago": [
+      "over two hundred years ago"
+    ],
+    "in London in 1854": [
+      "in London in eighteen fifty-four"
+    ],
+    "the 1900 Paris World's Fair": [
+      "the nineteen hundred Paris world’s fair"
+    ],
+    "the 35 years since slavery had been officially abolished": [
+      "the thirty-five years since slavery had been officially abolished"
+    ],
+    "father ten children": [
+      "father 10 children"
+    ],
+    "as late as the 1950s": [
+      "as late as the nineteen fifties"
+    ],
+    "In 2018": [
+      "in twenty eighteen",
+      "in two thousand and eighteen"
+    ],
+    "since 1850": [
+      "since eighteen fifty"
+    ],
+    "2022 was the first year": [
+      "twenty twenty-two was the first year",
+      "two thousand and twenty-two was the first year"
+    ]
+  },
+  "paraphrases": [
+    [
+      "largely sneered at",
+      "mostly treated with contempt",
+      "Sneer at là chế giễu hoặc coi thường.",
+      11.2,
+      25
+    ],
+    [
+      "clustered around a water pump",
+      "concentrated near one source of water",
+      "Clustered around là tập trung quanh một điểm.",
+      60.5,
+      74.6
+    ],
+    [
+      "had sweeping impact",
+      "produced wide-ranging effects",
+      "Sweeping nhấn mạnh phạm vi ảnh hưởng rộng.",
+      121.4,
+      134.3
+    ],
+    [
+      "challenged stereotypes",
+      "questioned fixed assumptions about a group",
+      "Challenge là đặt lại vấn đề với định kiến.",
+      156.6,
+      168.4
+    ],
+    [
+      "racial prejudice",
+      "unfair judgments based on race",
+      "Prejudice là định kiến, không phải đánh giá dựa trên từng cá nhân.",
+      169.1,
+      174.4
+    ],
+    [
+      "with disastrous consequences",
+      "with extremely harmful results",
+      "Disastrous mô tả hậu quả tai hại của thông tin sai.",
+      189,
+      198.5
+    ],
+    [
+      "its impact was profound",
+      "its effects were far-reaching and serious",
+      "Profound ở đây là sâu sắc, lớn về mức độ ảnh hưởng.",
+      199.5,
+      207
+    ],
+    [
+      "it was a fiction",
+      "the account was invented rather than true",
+      "Giữ rõ sự bác bỏ của người dẫn đối với câu chuyện bịa đặt.",
+      242,
+      258.6
+    ],
+    [
+      "convey the increase",
+      "communicate the rise",
+      "Convey là truyền đạt điều muốn thể hiện.",
+      293.1,
+      305.2
+    ],
+    [
+      "a largely non-scientific audience",
+      "listeners mostly without a scientific background",
+      "Largely là phần lớn, không phải toàn bộ.",
+      293.1,
+      305.2
+    ]
+  ],
+  "vocabulary": [
+    [
+      "visualisation",
+      "sự trực quan hóa",
+      "The representation of information using images or charts."
+    ],
+    [
+      "outbreak",
+      "đợt bùng phát",
+      "A sudden occurrence of many cases of a disease."
+    ],
+    [
+      "cluster",
+      "tập trung thành nhóm",
+      "To gather closely together."
+    ],
+    [
+      "microbe",
+      "vi sinh vật",
+      "An organism too small to be seen without magnification."
+    ],
+    [
+      "unsanitary",
+      "mất vệ sinh",
+      "Dirty in a way that can harm health."
+    ],
+    [
+      "abolish",
+      "bãi bỏ",
+      "To officially put an end to a system or practice."
+    ],
+    [
+      "stereotype",
+      "khuôn mẫu định kiến",
+      "A fixed oversimplified belief about a group."
+    ],
+    [
+      "prejudice",
+      "định kiến",
+      "An unfair judgment made without adequate evidence."
+    ],
+    [
+      "misinformation",
+      "thông tin sai lệch",
+      "False or inaccurate information."
+    ],
+    [
+      "legend",
+      "chú giải biểu đồ",
+      "A key explaining the symbols or colours in a chart."
+    ]
+  ],
+  "signals": [
+    "At the time,…",
+    "Although…",
+    "Even so,…",
+    "Arguably,…"
+  ],
+  "issuesFixed": [
+    "Rebuilt forty chronological phrases instead of arbitrary word windows",
+    "Kept complete dates and quantities with spelling variants",
+    "Repaired broken sentences and quotation mark",
+    "Retained explicit rejection of the fabricated Kallikak story",
+    "Checked ten replay intervals and historical context"
+  ],
+  "appendText": "Thanks for watching. If you enjoyed that, be sure to check out these videos next. And if you haven't already, hit the subscribe button and click the bell to get a notification each time we upload a new video."
+}

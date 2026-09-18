@@ -678,8 +678,73 @@
         "Rebuilt 40 ordered phrases including intact numeric quantities",
         "Separated false positives, base rates, prior and posterior probabilities accurately"
       ]
+    },
+    {
+      "code": "L2-06",
+      "status": "content-reviewed-build-validated",
+      "revision": "965ba791570e",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Replaced forty arbitrary word windows with complete chronological phrases",
+        "Kept complete years and numerical quantities intact",
+        "Rejoined sentence broken between transcript sections",
+        "Restored spoken outro without adding navigation",
+        "Checked all ten replay intervals against this audio"
+      ]
+    },
+    {
+      "code": "L2-07",
+      "status": "content-reviewed-build-validated",
+      "revision": "3ecdb855ff1e",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Rebuilt forty complete phrases in listening order",
+        "Added complete quantities with equivalent number spellings",
+        "Kept the speaker’s false start outside assessed gaps",
+        "Rejoined broken sentences",
+        "Replaced generic paraphrases with ten checked audio segments"
+      ]
+    },
+    {
+      "code": "L2-08",
+      "status": "content-reviewed-build-validated",
+      "revision": "5660afef821a",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Replaced split fragments with forty complete chronological phrases",
+        "Preserved qualifiers about subjective experience",
+        "Restored spoken outro without creating links or buttons",
+        "Rejoined a sentence split across sections",
+        "Verified ten replay clips against the MP3"
+      ]
+    },
+    {
+      "code": "L2-09",
+      "status": "content-reviewed-build-validated",
+      "revision": "d2af4e521cd3",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Rebuilt forty chronological phrases instead of arbitrary word windows",
+        "Kept complete dates and quantities with spelling variants",
+        "Repaired broken sentences and quotation mark",
+        "Retained explicit rejection of the fabricated Kallikak story",
+        "Checked ten replay intervals and historical context"
+      ]
+    },
+    {
+      "code": "L2-10",
+      "status": "content-reviewed-build-validated",
+      "revision": "49b659b462a0",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Rebuilt forty chronological meaningful gaps with complete quantities",
+        "Preserved uncertainty and distinctions between association and causation",
+        "Kept explicit rejection of the claim that genes predetermine violence",
+        "Rejoined split sentences and restored the spoken outro",
+        "Verified all ten replay clips against the recording"
+      ]
     }
   ],
-  "pending": 45,
+  "pending": 40,
   "note": "Build validation is not proof of deployment. Unlisted lessons have not completed individual review."
 }
