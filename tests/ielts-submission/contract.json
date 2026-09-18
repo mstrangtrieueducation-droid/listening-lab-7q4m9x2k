@@ -8,11 +8,11 @@
       "expected": [
         {
           "role": "client",
-          "file": "submission-client.1608db39982c.js"
+          "file": "submission-client.7169f5bb336c.js"
         },
         {
           "role": "runtime",
-          "file": "fighter-durable.558e29889a22.js"
+          "file": "fighter-durable.90e5345cd635.js"
         },
         {
           "role": "module",
@@ -24,8 +24,8 @@
   ],
   "assets": [
     {
-      "file": "submission-client.1608db39982c.js",
-      "sha256": "5bee3c49bcf2e4e73b61cb550b7aa2f687a951cab72c59b7f1fab0c79dbabc4f",
+      "file": "submission-client.7169f5bb336c.js",
+      "sha256": "7169f5bb336c0a1cc43ba22a3bfd57b57833ae0d75aee091898b1a2a2ae4bf9b",
       "requires": [
         "enqueueListening(",
         "subscribe(listener)",
@@ -36,8 +36,8 @@
       ]
     },
     {
-      "file": "fighter-durable.558e29889a22.js",
-      "sha256": "6c979494a234d59b7fd5018983a7f608fa0b8210d11071d9c393f0632d8178e7",
+      "file": "fighter-durable.90e5345cd635.js",
+      "sha256": "90e5345cd6354a27cc6c43a31436fa92b4dba89297b80c7990388363747184fd",
       "requires": [
         "root.IELTSFighterDurable=",
         "indexedDB.open",
