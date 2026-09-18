@@ -1,0 +1,255 @@
+{
+  "code": "L2-04",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-04.mp3",
+  "evidenceNote": "Compared the whole 314-second recording with source. Corrected refutable to irrefutable, the missing final evolution-is-a-fact sentence, grammatical transcription slips and comparative descriptions of tortoises. Rebuilt 40 gaps and all replay intervals.",
+  "textReplacements": [
+    [
+      "image and likeness were shared",
+      "image and likeness was shared"
+    ],
+    [
+      "a long neck but could",
+      "a longer neck but could"
+    ],
+    [
+      "crossbred animals or species",
+      "crossbred animals of a species"
+    ],
+    [
+      "at some point it would",
+      "at one point it would"
+    ],
+    [
+      "passed on their traits",
+      "pass their traits"
+    ],
+    [
+      "In a drier environment those",
+      "In a dry environment those"
+    ],
+    [
+      "their shorter neck",
+      "their short neck"
+    ],
+    [
+      "he hadn't published anything",
+      "he hadn't published any"
+    ],
+    [
+      "refutable evidence",
+      "irrefutable evidence"
+    ],
+    [
+      "Everything changed when",
+      "But everything changed when"
+    ],
+    [
+      "on the same evolutionary level",
+      "in the same evolutionary level"
+    ],
+    [
+      "The planet keeps changing, sometimes dramatically, and we keep changing with it.",
+      "And today, more than 150 years after Darwin’s theory became known, we know that evolution is a fact. The planet keeps changing, sometimes dramatically, and we keep changing with it."
+    ]
+  ],
+  "gaps": [
+    "the middle of the 19th century",
+    "conceived by a divine force",
+    "explain with evidence",
+    "by natural selection",
+    "an extraordinary journey",
+    "20 years refining his ideas",
+    "In 1831 Darwin was 22 years old",
+    "almost five years travelling several continents",
+    "dozens of live specimens",
+    "probably not a coincidence",
+    "unique physical characteristics",
+    "vegetation was abundant",
+    "a dome-shaped shell",
+    "a saddle-like shell and a longer neck",
+    "animal breeders and gardeners",
+    "the artificial selection",
+    "the food supplies available",
+    "a fight for survival",
+    "not necessarily the survivor",
+    "best adapts to the environment",
+    "more successful at reproduction",
+    "die without descendants",
+    "pass their traits to their lineage",
+    "a new species",
+    "protect themselves from predators",
+    "descended from a common ancestor",
+    "began to diversify",
+    "thousands of pages",
+    "irrefutable evidence",
+    "cause quite a stir",
+    "reached the same conclusion",
+    "take sole credit for the theory",
+    "a joint letter",
+    "way beyond the scientific community",
+    "shook the foundations",
+    "a biological process",
+    "the same evolutionary level",
+    "compatible with faith",
+    "more than 150 years",
+    "we keep changing with it"
+  ],
+  "acceptedVariants": {
+    "the middle of the 19th century": [
+      "the middle of the nineteenth century"
+    ],
+    "20 years refining his ideas": [
+      "twenty years refining his ideas"
+    ],
+    "In 1831 Darwin was 22 years old": [
+      "in eighteen thirty-one Darwin was twenty-two years old",
+      "in 1831 Darwin was twenty-two years old"
+    ],
+    "almost five years travelling several continents": [
+      "almost five years traveling several continents",
+      "almost 5 years travelling several continents"
+    ],
+    "more than 150 years": [
+      "more than one hundred fifty years",
+      "more than one hundred and fifty years"
+    ]
+  },
+  "paraphrases": [
+    [
+      "refining his ideas",
+      "improving and developing his explanations",
+      "Refine là chỉnh sửa để ý tưởng chính xác hơn.",
+      40.2,
+      47.8
+    ],
+    [
+      "probably not a coincidence",
+      "likely to have a meaningful connection",
+      "Probably giữ sắc thái suy đoán của nhận xét.",
+      84,
+      94.1
+    ],
+    [
+      "vegetation was abundant",
+      "plants grew in large quantities",
+      "Abundant nghĩa là dồi dào.",
+      105.1,
+      111.2
+    ],
+    [
+      "not necessarily the survivor",
+      "not always the one that stays alive",
+      "Not necessarily không có nghĩa là không bao giờ sống sót.",
+      162.5,
+      171.6
+    ],
+    [
+      "die without descendants",
+      "leave no offspring when they die",
+      "Descendants là thế hệ con cháu.",
+      178,
+      180.7
+    ],
+    [
+      "descended from a common ancestor",
+      "originated from a shared earlier form of life",
+      "Common ancestor là tổ tiên chung.",
+      205.6,
+      219.2
+    ],
+    [
+      "irrefutable evidence",
+      "evidence that cannot be disproved",
+      "Irrefutable trái nghĩa refutable; tiền tố làm đổi nghĩa.",
+      225.6,
+      242.8
+    ],
+    [
+      "cause quite a stir",
+      "create considerable public reaction",
+      "A stir là phản ứng xôn xao hoặc tranh luận.",
+      230.7,
+      242.8
+    ],
+    [
+      "take sole credit for the theory",
+      "receive all the recognition for the explanation",
+      "Sole credit là công lao chỉ dành cho một người.",
+      248.6,
+      260.5
+    ],
+    [
+      "compatible with faith",
+      "able to coexist with religious belief",
+      "Compatible with là không mâu thuẫn theo cách hiểu được nêu.",
+      286.7,
+      304.5
+    ]
+  ],
+  "vocabulary": [
+    [
+      "naturalist",
+      "nhà tự nhiên học",
+      "A person who studies animals, plants and nature."
+    ],
+    [
+      "refine",
+      "hoàn thiện",
+      "To improve an idea by making careful changes."
+    ],
+    [
+      "specimen",
+      "mẫu vật",
+      "An individual sample used for study."
+    ],
+    [
+      "coincidence",
+      "sự trùng hợp",
+      "Events occurring together without an apparent causal link."
+    ],
+    [
+      "vegetation",
+      "thảm thực vật",
+      "Plants growing in an area."
+    ],
+    [
+      "trait",
+      "đặc điểm",
+      "A characteristic of an organism."
+    ],
+    [
+      "lineage",
+      "dòng dõi",
+      "A line of descent from earlier generations."
+    ],
+    [
+      "ancestor",
+      "tổ tiên",
+      "An earlier organism from which others descended."
+    ],
+    [
+      "irrefutable",
+      "không thể bác bỏ",
+      "Impossible to disprove."
+    ],
+    [
+      "compatible",
+      "tương thích",
+      "Able to exist together without conflict."
+    ]
+  ],
+  "signals": [
+    "Instead,…",
+    "Until he read…",
+    "From then on,…",
+    "But everything changed…"
+  ],
+  "issuesFixed": [
+    "Corrected meaning-reversing refutable transcription error",
+    "Restored omitted final spoken sentence",
+    "Repaired source transcription slips in comparisons and verb forms",
+    "Rebuilt 40 chronological gaps and checked all ten replay segments"
+  ]
+}

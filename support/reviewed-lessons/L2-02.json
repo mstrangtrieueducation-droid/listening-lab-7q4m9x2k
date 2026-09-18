@@ -1,0 +1,207 @@
+{
+  "code": "L2-02",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-02.mp3",
+  "evidenceNote": "Compared all 292 seconds of timestamped MP3 ASR with the source; content matches apart from artificial paragraph breaks within sentences. Kept the clearly hypothetical opening story, original names and speaker wording. Designed all 40 gaps in chronological order and rebuilt ten replay pairs within the actual recording.",
+  "textReplacements": [
+    [
+      "this\n\nvideo on",
+      "this video on"
+    ],
+    [
+      "butterfly in\n\nBrazil",
+      "butterfly in Brazil"
+    ]
+  ],
+  "gaps": [
+    "the year is 1905",
+    "Two minutes late",
+    "at the same time",
+    "five minutes later than usual",
+    "a problem with the brakes",
+    "is run over",
+    "the basis of modern physics",
+    "never come into existence",
+    "This sequence of events",
+    "the butterfly effect",
+    "with relative ease",
+    "this deterministic vision",
+    "not everything is predictable",
+    "work like clockwork",
+    "not all phenomena",
+    "a mathematical model to forecast the weather",
+    "temperature, humidity, pressure, and wind direction",
+    "very close to reality",
+    "verify some results",
+    "a completely different trajectory",
+    "a particle of dust",
+    "not a special case",
+    "tiny differences",
+    "monumental changes",
+    "in theory",
+    "spark a tornado in Texas",
+    "the exact position and speed",
+    "inaccuracy",
+    "long-term prediction is impossible",
+    "chaos is not the same as disorder",
+    "effects still follow causes",
+    "towards a certain point",
+    "resembled the wings of a butterfly",
+    "has practical applications",
+    "a slight fluctuation",
+    "predictions but of probabilities",
+    "cardiac arrhythmia",
+    "triggered by a single negative comment",
+    "an element of uncertainty",
+    "the limit of our knowledge"
+  ],
+  "acceptedVariants": {
+    "the year is 1905": [
+      "the year is nineteen oh five",
+      "the year is nineteen hundred and five"
+    ],
+    "Two minutes late": [
+      "2 minutes late"
+    ],
+    "five minutes later than usual": [
+      "5 minutes later than usual"
+    ]
+  },
+  "paraphrases": [
+    [
+      "never come into existence",
+      "are never created",
+      "Come into existence là bắt đầu tồn tại.",
+      57,
+      65.1
+    ],
+    [
+      "with relative ease",
+      "without much difficulty",
+      "Relative ease là tương đối dễ, không phải dễ tuyệt đối.",
+      83.1,
+      90.4
+    ],
+    [
+      "work like clockwork",
+      "operate in a completely regular and predictable way",
+      "Clockwork là hình ảnh chỉ sự vận hành đều đặn.",
+      91,
+      97.5
+    ],
+    [
+      "forecast the weather",
+      "predict future weather conditions",
+      "Forecast có nghĩa dự báo.",
+      111.1,
+      117.5
+    ],
+    [
+      "verify some results",
+      "check whether some findings are correct",
+      "Verify là kiểm tra tính đúng đắn.",
+      133.2,
+      140
+    ],
+    [
+      "a completely different trajectory",
+      "an entirely different path of development",
+      "Trajectory trong mô hình là hướng diễn biến.",
+      146.6,
+      152.2
+    ],
+    [
+      "monumental changes",
+      "extremely large alterations",
+      "Monumental nhấn mạnh quy mô rất lớn.",
+      172.4,
+      184
+    ],
+    [
+      "effects still follow causes",
+      "outcomes still result from prior events",
+      "Câu giữ quan hệ nhân quả dù khó dự đoán.",
+      211.2,
+      220.7
+    ],
+    [
+      "a slight fluctuation",
+      "a small variation",
+      "Slight fluctuation là dao động nhỏ.",
+      238.4,
+      247.7
+    ],
+    [
+      "can be triggered by a single negative comment",
+      "can be set off by just one unfavourable remark",
+      "Trigger là kích hoạt; can giữ ý khả năng.",
+      265.2,
+      270
+    ]
+  ],
+  "vocabulary": [
+    [
+      "deterministic",
+      "mang tính tất định",
+      "Assuming outcomes follow fixed causes in a predictable way."
+    ],
+    [
+      "phenomenon",
+      "hiện tượng",
+      "An observable event or process."
+    ],
+    [
+      "meteorologist",
+      "nhà khí tượng học",
+      "A scientist who studies weather."
+    ],
+    [
+      "humidity",
+      "độ ẩm",
+      "The amount of water vapour in the air."
+    ],
+    [
+      "trajectory",
+      "quỹ đạo; hướng diễn biến",
+      "The path followed by an object or process."
+    ],
+    [
+      "deduce",
+      "suy luận",
+      "To reach a conclusion from evidence."
+    ],
+    [
+      "disturbance",
+      "sự xáo trộn",
+      "An event that interrupts a system’s usual condition."
+    ],
+    [
+      "fluctuation",
+      "sự dao động",
+      "A change up or down in a value."
+    ],
+    [
+      "probability",
+      "xác suất",
+      "The likelihood of an event occurring."
+    ],
+    [
+      "uncertainty",
+      "sự không chắc chắn",
+      "A lack of definite knowledge about an outcome."
+    ]
+  ],
+  "signals": [
+    "For that reason,…",
+    "According to these laws,…",
+    "Even though…",
+    "Ultimately,…"
+  ],
+  "issuesFixed": [
+    "Rebuilt 40 sequential gaps rather than scrambled appended questions",
+    "Repaired breaks splitting video and butterfly-in-Brazil sentences",
+    "Replaced meaningless fragments with systems and probability phrases",
+    "Recreated accurate, timestamped paraphrases and substantive vocabulary notes"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "code": "L2-03",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-03.mp3",
+  "evidenceNote": "Compared the complete 338-second MP3 transcription with every source paragraph. Independent small.en pass at 320–338 confirms the narrator says genome in the final sentence, so retained that actual wording without using it as a gap. Preserved distinction between gene regulation and modification of DNA and between animal experiments and ongoing human research.",
+  "textReplacements": [
+    [
+      "positively influence our epigenome",
+      "positively influence our genome"
+    ]
+  ],
+  "gaps": [
+    "alter our genetic code",
+    "the functioning of our lungs",
+    "our propensity for diseases",
+    "two identical twin brothers",
+    "acquire different characteristics",
+    "turning some of our genes on or off",
+    "without modifying the DNA",
+    "the set of chemicals",
+    "an instruction manual",
+    "emphasise or cross out",
+    "almost two metres of DNA",
+    "a compact structure",
+    "easy access to the genes",
+    "compress or decompress the DNA",
+    "the gene is turned off",
+    "the human embryo begin to divide",
+    "her emotional and physical state",
+    "in the form of chemical signals",
+    "more prone to obesity",
+    "store more calories",
+    "periods of prolonged famine",
+    "smoking heavily since adolescence",
+    "a shorter life expectancy",
+    "throughout our lives",
+    "trauma to subsequent generations",
+    "the smell of cherry blossom",
+    "an electric shock",
+    "their offspring also became nervous",
+    "during their upbringing",
+    "greater sensitivity to that smell",
+    "a receptor for odours",
+    "predestined to relive the emotions",
+    "epigenetic transmission of trauma",
+    "epigenetic changes are reversible",
+    "a huge universe of possibilities",
+    "reverse the epigenome markers",
+    "the appearance of certain tumours",
+    "revolutionise the treatment",
+    "without impacting the positive markers",
+    "our future generations"
+  ],
+  "acceptedVariants": {
+    "emphasise or cross out": [
+      "emphasize or cross out"
+    ],
+    "almost two metres of DNA": [
+      "almost two meters of DNA",
+      "almost 2 metres of DNA",
+      "almost 2 meters of DNA"
+    ],
+    "a receptor for odours": [
+      "a receptor for odors"
+    ],
+    "the appearance of certain tumours": [
+      "the appearance of certain tumors"
+    ],
+    "revolutionise the treatment": [
+      "revolutionize the treatment"
+    ]
+  },
+  "paraphrases": [
+    [
+      "our propensity for diseases",
+      "our tendency to develop illnesses",
+      "Propensity là xu hướng dễ mắc, không phải chắc chắn mắc.",
+      13.3,
+      24.1
+    ],
+    [
+      "without modifying the DNA",
+      "without changing the DNA itself",
+      "Without giữ đúng sự phân biệt giữa điều hòa hoạt động và sửa đổi DNA.",
+      57.5,
+      71
+    ],
+    [
+      "comes into play",
+      "starts to have an effect",
+      "Come into play là bắt đầu tham gia vào cơ chế.",
+      119.1,
+      125.7
+    ],
+    [
+      "more prone to obesity",
+      "more likely to become obese",
+      "Prone to chỉ nguy cơ tăng, không phải kết quả chắc chắn.",
+      167.2,
+      177.4
+    ],
+    [
+      "periods of prolonged famine",
+      "extended times of severe food shortage",
+      "Prolonged là kéo dài; famine là thiếu lương thực nghiêm trọng.",
+      178.3,
+      185.1
+    ],
+    [
+      "a shorter life expectancy",
+      "a lower expected length of life",
+      "Life expectancy là số năm sống dự kiến.",
+      192.1,
+      202.9
+    ],
+    [
+      "subsequent generations",
+      "later generations",
+      "Subsequent nói về các thế hệ đến sau.",
+      221,
+      226.2
+    ],
+    [
+      "despite not having had contact with their parents",
+      "even though they had not interacted with their parents",
+      "Despite nêu sự tương phản của kết quả với điều kiện nuôi dưỡng.",
+      235.7,
+      244.7
+    ],
+    [
+      "epigenetic changes are reversible",
+      "these regulatory changes can be undone",
+      "Reversible là có thể đảo ngược, không nói mọi điều trị đều đã khả thi.",
+      281,
+      290.2
+    ],
+    [
+      "without impacting the positive markers",
+      "while leaving the beneficial markers unaffected",
+      "Giữ điều kiện chọn lọc của mục tiêu phát triển thuốc.",
+      314.9,
+      322
+    ]
+  ],
+  "vocabulary": [
+    [
+      "gene",
+      "gen",
+      "A unit of inherited biological information."
+    ],
+    [
+      "genome",
+      "bộ gen",
+      "The complete genetic material of an organism."
+    ],
+    [
+      "epigenome",
+      "hệ dấu biểu sinh",
+      "Chemical marks involved in regulating gene activity."
+    ],
+    [
+      "propensity",
+      "khuynh hướng",
+      "A natural tendency towards a condition or behaviour."
+    ],
+    [
+      "histone",
+      "protein histone",
+      "A protein around which DNA is packaged."
+    ],
+    [
+      "embryo",
+      "phôi",
+      "An organism in an early stage of development."
+    ],
+    [
+      "famine",
+      "nạn đói",
+      "A severe and widespread shortage of food."
+    ],
+    [
+      "offspring",
+      "con; thế hệ con",
+      "The young produced by an organism."
+    ],
+    [
+      "receptor",
+      "thụ thể",
+      "A structure that receives a particular signal."
+    ],
+    [
+      "reversible",
+      "có thể đảo ngược",
+      "Capable of being changed back."
+    ]
+  ],
+  "signals": [
+    "After all,…",
+    "The reason is that…",
+    "But that does not mean…",
+    "Even so,…"
+  ],
+  "issuesFixed": [
+    "Rebuilt all 40 gaps in chronological order",
+    "Matched the final spoken genome wording using a second transcription model",
+    "Preserved negation and uncertainty in genetic claims",
+    "Replaced generic vocabulary notes with meaningful definitions and ten timed paraphrases"
+  ]
+}

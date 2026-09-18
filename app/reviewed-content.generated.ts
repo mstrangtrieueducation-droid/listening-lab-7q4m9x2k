@@ -10521,5 +10521,1198 @@ export const reviewedContent = {
       "In April alone,…",
       "More recently,…"
     ]
+  },
+  "50": {
+    "paragraphs": [
+      "Clicking on this video activated circuits in your brain that took [1]: the ones required for reading. We think of language as natural, and reading is [2], so it must be natural. But it isn't. It isn't natural at all. Scientific studies indicate that a neurotypical brain is born with the circuitry that allows our eyes to see and our [3], but it doesn't [4]. From [5], our brain hasn't had enough time to develop [6]. And so, to build a reading brain network, we co-opt parts of the brain involved in vision and [7] and language and attention and affect.",
+      "The Sumerian cuneiform symbols are thought to be [8] in the world, dating back to [9]. Around the same time, though, Egyptians started developing their hieroglyphics. Symbols evolved over time. The more we read and wrote, [10], becoming the letters and characters we recognise today. Scientists now know that reading activates the brain so that letters and words become [11]. Reading is really [12]. It involves activation in [13]. The process of developing a reading brain alters everything from brain activity to [14].",
+      "And the language we read also shapes our brain. Chinese characters, for instance, are an example of [15]. Each object or idea is [16] rather than by a set of letters of the alphabet. Research indicates that learning logographic writing systems activates different areas of the brain than learning [17] like English. The areas involved in [18] do more of the work.",
+      "This theory was corroborated after scientists studied [19] who knew both Chinese and English. The man [20], which affected some areas of his brain, including his ability to read Chinese. But astonishingly, [21]. It's a beautiful example of how the brain circuit reflects the requirements of Chinese, which inevitably means more visual memory and visual processing of those [22]. Whatever the language, reading not only impacts the brain, but it also affects us [23]. We might feel in our guts the nervousness or the pain of a character. And I mean that not only like I feel it inside me, but I mean that literally, like the anterior insula, which is responsible for gastric—gastromotoric movement, for feelings of nausea and pain and discomfort, is also the part of the brain that's associated with [24].",
+      "And the brain is [25]. Evidence suggests that it's already changing as a result of new technologies. Reading on a phone or tablet is generally [26], often interrupted by messages and alerts. When we read on screens, we tend to skim, and when we skim, we're [27]. We need to support individuals in being able to [28] about the things that they're reading, because that's fundamental to a democracy, is our ability to [29] about the information that we're consuming. Some academic research even suggests that children who use cell phones [30] perform worse in school later in life. At eight years of age, [31] predicted their [32] and academic performance.",
+      "And it's a negative: the more digital, the worse academic. If you can imagine if that brain is [33], you're going to have them not able to really move from one stimulus to the next without a desire for [34]. So then you have kids going offline and saying they're bored. It's [35], and some studies suggest that monitored and education-focused screen time [36]. For parents concerned about navigating the digital world, the advice is to [37]. The antidote to all this happening is the simplest, most beautiful one, and that is to have our children [38] and have a reading life. Our parents and teachers all have to help. They have to model, they have to read to their child, they have to love it themselves.",
+      "And this is likely to have [39]. The power of deep reading is really fundamental to our humanity. When we read deeply, we change our brains and we change who we are, and that process of changing [40] changes society and allows us to build bigger, more beautiful futures."
+    ],
+    "answers": [
+      "thousands of years to develop",
+      "written language",
+      "vocal cords to produce sounds",
+      "innately have the ability to read",
+      "an evolutionary time scale",
+      "a dedicated reading brain",
+      "auditory processing",
+      "one of the earliest writing systems",
+      "around 3300 BC",
+      "the more sophisticated they became",
+      "associated with sounds and meanings",
+      "a whole-brain process",
+      "all four lobes of the cortex",
+      "brain structure and brain connectivity",
+      "a logographic system",
+      "represented by a symbol",
+      "an alphabet-based language",
+      "visual memory and visual association",
+      "a bilingual patient",
+      "suffered a massive stroke",
+      "his proficiency in English remained intact",
+      "beautifully intricate symbols or characters",
+      "on a physical level",
+      "many of the empathic processes",
+      "very adaptable",
+      "passive scrolling",
+      "more susceptible to misinformation",
+      "think critically",
+      "analyse and think deeply",
+      "from an early age",
+      "the amount of digital exposure",
+      "attentional executive function processing",
+      "constantly being distracted and hyperstimulated",
+      "ever quicker intervals between stimuli",
+      "a relatively new field of research",
+      "can be beneficial to children",
+      "go back to basics",
+      "immersed in reading",
+      "benefits beyond the individual reader",
+      "the minds and hearts of individuals"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "around thirty-three hundred BC",
+        "around three thousand three hundred BC",
+        "around 3300 B.C."
+      ],
+      [],
+      [],
+      [],
+      [
+        "all 4 lobes of the cortex"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "analyze and think deeply"
+      ],
+      [],
+      [],
+      [],
+      [
+        "constantly being distracted and hyper stimulated"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "7210cce973f8",
+    "paraphrases": [
+      [
+        "a dedicated reading brain",
+        "a neural system specialised for reading",
+        "Dedicated nói về hệ thống dành riêng cho chức năng đọc.",
+        31.5,
+        38
+      ],
+      [
+        "co-opt parts of the brain",
+        "use existing brain regions for a new purpose",
+        "Co-opt là dùng bộ phận vốn có để đảm nhiệm việc khác.",
+        38.2,
+        49.1
+      ],
+      [
+        "alters everything from brain activity to brain structure and brain connectivity",
+        "changes how the brain works, is organised and connects",
+        "Paraphrase giữ đủ ba khía cạnh của câu gốc.",
+        92.1,
+        102
+      ],
+      [
+        "represented by a symbol",
+        "shown using a visual sign",
+        "Represented by nghĩa là được biểu đạt bằng.",
+        111.2,
+        117.5
+      ],
+      [
+        "This theory was corroborated",
+        "This explanation received supporting evidence",
+        "Corroborate là củng cố bằng chứng cho nhận định.",
+        132.6,
+        138.5
+      ],
+      [
+        "his proficiency in English remained intact",
+        "his ability to read English was preserved",
+        "Intact nghĩa là khả năng đó không bị mất sau cơn đột quỵ.",
+        146.8,
+        150.8
+      ],
+      [
+        "more susceptible to misinformation",
+        "more vulnerable to false information",
+        "Susceptible nói về dễ bị tác động bởi thông tin sai.",
+        223,
+        228.6
+      ],
+      [
+        "think critically about the things that they're reading",
+        "evaluate what they read carefully",
+        "Think critically là xem xét và đánh giá thay vì chấp nhận ngay.",
+        229.5,
+        243.2
+      ],
+      [
+        "can be beneficial to children",
+        "may have positive effects on children",
+        "Can giữ ý có thể có lợi trong điều kiện được nêu.",
+        294.3,
+        301.7
+      ],
+      [
+        "immersed in reading",
+        "deeply engaged in reading",
+        "Immersed diễn tả sự tham gia sâu, thường xuyên.",
+        307.9,
+        326.8
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "circuitry",
+        "meaning": "hệ thống mạch thần kinh",
+        "note": "A connected system of neural pathways that performs a function."
+      },
+      {
+        "term": "innately",
+        "meaning": "một cách bẩm sinh",
+        "note": "Naturally present from birth rather than learned."
+      },
+      {
+        "term": "co-opt",
+        "meaning": "tận dụng cho chức năng mới",
+        "note": "Take an existing system and use it for a new purpose."
+      },
+      {
+        "term": "auditory processing",
+        "meaning": "xử lý thông tin thính giác",
+        "note": "The brain's interpretation of sounds and spoken information."
+      },
+      {
+        "term": "cuneiform",
+        "meaning": "chữ hình nêm",
+        "note": "An ancient writing system made with wedge-shaped marks."
+      },
+      {
+        "term": "cortex",
+        "meaning": "vỏ não",
+        "note": "The outer layer of the brain involved in complex thought and perception."
+      },
+      {
+        "term": "connectivity",
+        "meaning": "khả năng kết nối thần kinh",
+        "note": "The pattern and strength of connections between brain regions."
+      },
+      {
+        "term": "logographic",
+        "meaning": "thuộc hệ chữ biểu ý",
+        "note": "Using symbols to represent words, objects or ideas."
+      },
+      {
+        "term": "corroborate",
+        "meaning": "xác nhận bằng thêm bằng chứng",
+        "note": "Support a claim or theory with additional evidence."
+      },
+      {
+        "term": "susceptible",
+        "meaning": "dễ bị tác động",
+        "note": "Likely to be influenced or harmed by something."
+      }
+    ],
+    "signals": [
+      "Scientific studies indicate…",
+      "Research indicates…",
+      "Evidence suggests…",
+      "Some studies suggest…"
+    ]
+  },
+  "51": {
+    "paragraphs": [
+      "Imagine, [1]. One day, the clock on the tower in Berne, Switzerland, is a little late. [2], to be more precise. For that reason, a man who lives near the tower does not wake up [3] that he usually wakes up to go to work. Realising the mistake, he becomes a little nervous. It takes him a little longer to get dressed, drink some coffee and leave the house. He leaves [4]. He is about to cross the street. Meanwhile, a banker gets into his new car without knowing that it has [5]. Our man crosses the street and doesn't see the car. The man [6] and dies. This man is no less than Albert Einstein. That year Einstein should have published four works that would become [7]. Innovations like GPS, TV screens, the semiconductors that allowed us to create laptops, never happen. The computer, the laptop, the mobile you are watching this video on [8]. And this video... doesn't exist either. [9] is an example of what is known as [10], a manifestation of Chaos Theory. For many centuries, the world was explained through the laws of Isaac Newton and classical physics. According to these laws, if the current state of an object is known, its future behaviour can be predicted [11]. Chaos Theory questions [12]: [13] anymore, nor does it [14]. Since the 1800s, mathematicians have raised the idea that [15] could be predicted by Newtonian laws. But a meteorologist named Edward Lorenz made chaos theory a visible phenomenon. It all started in 1961 when he was working on [16]. Lorenz entered data such as [17] into his computer.",
+      "His computer would draw a graph modelling what the weather would be like, not always accurate, but [18]. One morning, Lorenz decided to [19]. He stopped the computer, to save time, entered the numbers himself, and went to grab a coffee. When he returned, the chart was incredibly different from the original. At the beginning it started out pretty similar, but in the middle it presented [20]. Surprised, he checked the numbers. He found that the number he had entered was three tenths less than the number used by the computer. That difference, which altered the trajectory so much, is equivalent to [21] on the Eiffel Tower, or one less feather in the weight of a duck. Lorenz deduced that this experiment was [22], that there were other systems in which [23] produced, over time, [24], making everything seem unpredictable... that the flapping of a butterfly in Brazil could, [25], cause enough of a disturbance to [26]. Even though we have a good idea of how the universe works, there are no measurements that allow us to determine [27] of every atom in the universe. And this \"[28]\" in our calculations makes predictions difficult, one of the reasons why [29]. But [30]. Although chaos makes predictions difficult, the universe is not random and [31]. And no matter how chaotic it may seem, a system always follows a trajectory [32]. For example, in the calculations Lorenz used for his model, the trajectory created a pattern that [33]. Understanding these patterns of chaos [34]. In the stock market it reminds us that [35] can cause a crisis in the market -",
+      "and that is why we cannot speak of [36]. In the human body, it allows us to understand the chaotic behaviour of a heart with [37]. Even in human behaviour, the butterfly effect can be used to analyse social phenomena. For example, how trolling on social networks can be [38]. Our universe continues to obey the laws of cause and effect. The sun will continue to rise every morning. The planes we build will keep flying. Ultimately, chaos theory introduces [39] into our reading of the Universe. It reveals [40]."
+    ],
+    "answers": [
+      "the year is 1905",
+      "Two minutes late",
+      "at the same time",
+      "five minutes later than usual",
+      "a problem with the brakes",
+      "is run over",
+      "the basis of modern physics",
+      "never come into existence",
+      "This sequence of events",
+      "the butterfly effect",
+      "with relative ease",
+      "this deterministic vision",
+      "not everything is predictable",
+      "work like clockwork",
+      "not all phenomena",
+      "a mathematical model to forecast the weather",
+      "temperature, humidity, pressure, and wind direction",
+      "very close to reality",
+      "verify some results",
+      "a completely different trajectory",
+      "a particle of dust",
+      "not a special case",
+      "tiny differences",
+      "monumental changes",
+      "in theory",
+      "spark a tornado in Texas",
+      "the exact position and speed",
+      "inaccuracy",
+      "long-term prediction is impossible",
+      "chaos is not the same as disorder",
+      "effects still follow causes",
+      "towards a certain point",
+      "resembled the wings of a butterfly",
+      "has practical applications",
+      "a slight fluctuation",
+      "predictions but of probabilities",
+      "cardiac arrhythmia",
+      "triggered by a single negative comment",
+      "an element of uncertainty",
+      "the limit of our knowledge"
+    ],
+    "acceptedVariants": [
+      [
+        "the year is nineteen oh five",
+        "the year is nineteen hundred and five"
+      ],
+      [
+        "2 minutes late"
+      ],
+      [],
+      [
+        "5 minutes later than usual"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "0cd4110e4f4e",
+    "paraphrases": [
+      [
+        "never come into existence",
+        "are never created",
+        "Come into existence là bắt đầu tồn tại.",
+        57,
+        65.1
+      ],
+      [
+        "with relative ease",
+        "without much difficulty",
+        "Relative ease là tương đối dễ, không phải dễ tuyệt đối.",
+        83.1,
+        90.4
+      ],
+      [
+        "work like clockwork",
+        "operate in a completely regular and predictable way",
+        "Clockwork là hình ảnh chỉ sự vận hành đều đặn.",
+        91,
+        97.5
+      ],
+      [
+        "forecast the weather",
+        "predict future weather conditions",
+        "Forecast có nghĩa dự báo.",
+        111.1,
+        117.5
+      ],
+      [
+        "verify some results",
+        "check whether some findings are correct",
+        "Verify là kiểm tra tính đúng đắn.",
+        133.2,
+        140
+      ],
+      [
+        "a completely different trajectory",
+        "an entirely different path of development",
+        "Trajectory trong mô hình là hướng diễn biến.",
+        146.6,
+        152.2
+      ],
+      [
+        "monumental changes",
+        "extremely large alterations",
+        "Monumental nhấn mạnh quy mô rất lớn.",
+        172.4,
+        184
+      ],
+      [
+        "effects still follow causes",
+        "outcomes still result from prior events",
+        "Câu giữ quan hệ nhân quả dù khó dự đoán.",
+        211.2,
+        220.7
+      ],
+      [
+        "a slight fluctuation",
+        "a small variation",
+        "Slight fluctuation là dao động nhỏ.",
+        238.4,
+        247.7
+      ],
+      [
+        "can be triggered by a single negative comment",
+        "can be set off by just one unfavourable remark",
+        "Trigger là kích hoạt; can giữ ý khả năng.",
+        265.2,
+        270
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "deterministic",
+        "meaning": "mang tính tất định",
+        "note": "Assuming outcomes follow fixed causes in a predictable way."
+      },
+      {
+        "term": "phenomenon",
+        "meaning": "hiện tượng",
+        "note": "An observable event or process."
+      },
+      {
+        "term": "meteorologist",
+        "meaning": "nhà khí tượng học",
+        "note": "A scientist who studies weather."
+      },
+      {
+        "term": "humidity",
+        "meaning": "độ ẩm",
+        "note": "The amount of water vapour in the air."
+      },
+      {
+        "term": "trajectory",
+        "meaning": "quỹ đạo; hướng diễn biến",
+        "note": "The path followed by an object or process."
+      },
+      {
+        "term": "deduce",
+        "meaning": "suy luận",
+        "note": "To reach a conclusion from evidence."
+      },
+      {
+        "term": "disturbance",
+        "meaning": "sự xáo trộn",
+        "note": "An event that interrupts a system’s usual condition."
+      },
+      {
+        "term": "fluctuation",
+        "meaning": "sự dao động",
+        "note": "A change up or down in a value."
+      },
+      {
+        "term": "probability",
+        "meaning": "xác suất",
+        "note": "The likelihood of an event occurring."
+      },
+      {
+        "term": "uncertainty",
+        "meaning": "sự không chắc chắn",
+        "note": "A lack of definite knowledge about an outcome."
+      }
+    ],
+    "signals": [
+      "For that reason,…",
+      "According to these laws,…",
+      "Even though…",
+      "Ultimately,…"
+    ]
+  },
+  "52": {
+    "paragraphs": [
+      "For a long time, scientists believed that it wasn’t possible to [1]. After all, the genes that make up our DNA contain all the information about who we are. They give instructions to the body’s cells and determine everything from the colour of our eyes to [2] and [3] such as cancer or diabetes. But the life one leads, along with other factors, makes it more complex. Imagine [4]. Their DNA is the same, but the way they live is very different. One leads a calm life, the other has a stressful job. One exercises more, but the other eats better. The twins start to [5] or perhaps develop different diseases. How can this be if their genome is exactly the same? The reason is that the human body has a natural way of [6] in response to the environment and the lifestyle we lead. And it does so [7].",
+      "It's called epigenetics. And [8] that mark the genome and tell cells what to do is known as the epigenome. Think of DNA as [9] for how the cell should work. Every cell in your body has one of these manuals. The epigenome is like someone picking up a pack of coloured markers to [10] different parts of the manual. This part here, it's more important, accentuate it. This one, don't use it. And how does it do it? Every cell in your body contains [11]. In order for it to fit inside a cell, the genetic material is wrapped up in a set of proteins called histones to form [12]. But that means the cell doesn't always have [13]. This is where epigenetics comes into play. Epigenetic marks are chemical markers that act on this structure to give it instructions to [14]. If they compress it, the cell cannot access the information and [15].",
+      "Epigenetic marks that decompress the DNA allow the cell to read the gene and turn it on. This process starts as soon as the first cells of [16]. That is why it is so important for the baby what its mother eats, [17], plus the medicines and vitamins she takes. All that information can be transmitted [18] to the baby through the blood. If the mother's diet during pregnancy is poor, the baby could be [19], since its epigenome has programmed it to [20] every time it eats. This phenomenon has been tested in several studies with women who went through [21] during wars, for example. But the role of the father is also important because he can transmit some of his epigenetic marks to his children. For example, if a father has been [22], this may result in [23] for his children and even for his grandchildren. The epigenome acts on our body [24], not just in the embryonic phase.",
+      "As in the example of the twins, our habits, our diet, our experiences, and the environment in which we live can turn our genes on or off. But it goes further: epigenetics shows that nature may have found a way to pass on [25]. In one experiment, scientists made male mice associate [26] with pain caused by [27]. These mice procreated and [28] when they were presented with that smell, despite not having had contact with their parents [29]. The third generation of mice, the grandchildren of the first, also showed [30], more than any of the others. In their DNA, the scientists found epigenetic marks on a gene responsible for coding a protein that is [31]. They also had more neurons in their brains responsible for detecting the smell of cherry blossom. But that does not mean that we are [32] of our parents and grandparents.",
+      "Scientists are still studying how this type of [33] can occur in humans. Even so, they already predict that it might be possible to reprogramme this same mechanism to make us healthier, since [34]. This opens up [35] in the scientific world. For example, there are studies to create drugs that make it possible to [36] that favour [37]. Epigenetics could also [38] of different diseases such as diabetes, lupus, Alzheimer's or even some addictions. The big challenge now is how to develop drugs that act only on the negative markers, [39]. Epigenetics proves that not everything is written in our genes and that we can positively influence our genome. Something that can not only benefit us in the present, but also [40]."
+    ],
+    "answers": [
+      "alter our genetic code",
+      "the functioning of our lungs",
+      "our propensity for diseases",
+      "two identical twin brothers",
+      "acquire different characteristics",
+      "turning some of our genes on or off",
+      "without modifying the DNA",
+      "the set of chemicals",
+      "an instruction manual",
+      "emphasise or cross out",
+      "almost two metres of DNA",
+      "a compact structure",
+      "easy access to the genes",
+      "compress or decompress the DNA",
+      "the gene is turned off",
+      "the human embryo begin to divide",
+      "her emotional and physical state",
+      "in the form of chemical signals",
+      "more prone to obesity",
+      "store more calories",
+      "periods of prolonged famine",
+      "smoking heavily since adolescence",
+      "a shorter life expectancy",
+      "throughout our lives",
+      "trauma to subsequent generations",
+      "the smell of cherry blossom",
+      "an electric shock",
+      "their offspring also became nervous",
+      "during their upbringing",
+      "greater sensitivity to that smell",
+      "a receptor for odours",
+      "predestined to relive the emotions",
+      "epigenetic transmission of trauma",
+      "epigenetic changes are reversible",
+      "a huge universe of possibilities",
+      "reverse the epigenome markers",
+      "the appearance of certain tumours",
+      "revolutionise the treatment",
+      "without impacting the positive markers",
+      "our future generations"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "emphasize or cross out"
+      ],
+      [
+        "almost two meters of DNA",
+        "almost 2 metres of DNA",
+        "almost 2 meters of DNA"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a receptor for odors"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "the appearance of certain tumors"
+      ],
+      [
+        "revolutionize the treatment"
+      ],
+      [],
+      []
+    ],
+    "contentRevision": "4d355c724f07",
+    "paraphrases": [
+      [
+        "our propensity for diseases",
+        "our tendency to develop illnesses",
+        "Propensity là xu hướng dễ mắc, không phải chắc chắn mắc.",
+        13.3,
+        24.1
+      ],
+      [
+        "without modifying the DNA",
+        "without changing the DNA itself",
+        "Without giữ đúng sự phân biệt giữa điều hòa hoạt động và sửa đổi DNA.",
+        57.5,
+        71
+      ],
+      [
+        "comes into play",
+        "starts to have an effect",
+        "Come into play là bắt đầu tham gia vào cơ chế.",
+        119.1,
+        125.7
+      ],
+      [
+        "more prone to obesity",
+        "more likely to become obese",
+        "Prone to chỉ nguy cơ tăng, không phải kết quả chắc chắn.",
+        167.2,
+        177.4
+      ],
+      [
+        "periods of prolonged famine",
+        "extended times of severe food shortage",
+        "Prolonged là kéo dài; famine là thiếu lương thực nghiêm trọng.",
+        178.3,
+        185.1
+      ],
+      [
+        "a shorter life expectancy",
+        "a lower expected length of life",
+        "Life expectancy là số năm sống dự kiến.",
+        192.1,
+        202.9
+      ],
+      [
+        "subsequent generations",
+        "later generations",
+        "Subsequent nói về các thế hệ đến sau.",
+        221,
+        226.2
+      ],
+      [
+        "despite not having had contact with their parents",
+        "even though they had not interacted with their parents",
+        "Despite nêu sự tương phản của kết quả với điều kiện nuôi dưỡng.",
+        235.7,
+        244.7
+      ],
+      [
+        "epigenetic changes are reversible",
+        "these regulatory changes can be undone",
+        "Reversible là có thể đảo ngược, không nói mọi điều trị đều đã khả thi.",
+        281,
+        290.2
+      ],
+      [
+        "without impacting the positive markers",
+        "while leaving the beneficial markers unaffected",
+        "Giữ điều kiện chọn lọc của mục tiêu phát triển thuốc.",
+        314.9,
+        322
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "gene",
+        "meaning": "gen",
+        "note": "A unit of inherited biological information."
+      },
+      {
+        "term": "genome",
+        "meaning": "bộ gen",
+        "note": "The complete genetic material of an organism."
+      },
+      {
+        "term": "epigenome",
+        "meaning": "hệ dấu biểu sinh",
+        "note": "Chemical marks involved in regulating gene activity."
+      },
+      {
+        "term": "propensity",
+        "meaning": "khuynh hướng",
+        "note": "A natural tendency towards a condition or behaviour."
+      },
+      {
+        "term": "histone",
+        "meaning": "protein histone",
+        "note": "A protein around which DNA is packaged."
+      },
+      {
+        "term": "embryo",
+        "meaning": "phôi",
+        "note": "An organism in an early stage of development."
+      },
+      {
+        "term": "famine",
+        "meaning": "nạn đói",
+        "note": "A severe and widespread shortage of food."
+      },
+      {
+        "term": "offspring",
+        "meaning": "con; thế hệ con",
+        "note": "The young produced by an organism."
+      },
+      {
+        "term": "receptor",
+        "meaning": "thụ thể",
+        "note": "A structure that receives a particular signal."
+      },
+      {
+        "term": "reversible",
+        "meaning": "có thể đảo ngược",
+        "note": "Capable of being changed back."
+      }
+    ],
+    "signals": [
+      "After all,…",
+      "The reason is that…",
+      "But that does not mean…",
+      "Even so,…"
+    ]
+  },
+  "53": {
+    "paragraphs": [
+      "The belief that God had created mankind in his own image and likeness was shared by most Western scientists until [1]. They thought all the creatures of the planet had been [2]. That is until Charles Darwin arrived. Some researchers were already talking about an evolution of the species but the British naturalist was the first to [3] how evolution might occur – [4]. His theory radically changed biology offering a new explanation of the origin of human beings. It also made him one of the most influential scientists and intellectuals in history. But to get there he had to make [5], perform hundreds of experiments and spend [6]. [7] and studying at the University of Cambridge when he was invited as a naturalist to a great expedition.",
+      "He boarded the HMS Beagle and spent [8] starting in South America from which he brought back [9], illustrations and fossils. These fossils gave him one of the first clues about evolution. For example, observing the remains of a milodon, a giant animal similar to the sloth. He thought that those similarities were [10]. There had to be some kind of link. When he stopped at the Galapagos Islands, Darwin also observed its giant tortoises which lived in nearby islands but showed [11] in each island. In the humid areas where [12] the turtles had a short neck and [13] whilst in the islands with a drier environment they had [14] but could he explain that difference? Upon his return Darwin spent time observing how [15] crossbred animals of a species to create new varieties.",
+      "For that creation to be successful [16] made by man was key. Darwin realised that the natural world probably made the same kind of selection but he couldn’t explain how it happened until he read the work of Thomas Robert Malthus, a British intellectual from the 18th century. In an essay on demography Malthus said that as the population in Europe was growing at one point it would increase much more than [17] and that would cause [18]. This idea helped Darwin explain how evolution works. In nature there is a struggle for survival in which the strongest individual is [19]. Instead it's the one which [20] where it lives. If a living being has any trait that helps them to survive it will be [21]. Those which don't adapt will [22]. The creatures with the most success in reproducing [23] and so on until these variations end up becoming [24]. That's why the differences between the Galapagos tortoises were a product of evolution.",
+      "In a dry environment those with longer necks could reach the bushes easily in order to get food. Whilst those who lived in the humid environment could eat grass and [25] thanks to their short neck and the dome-shaped shell. Darwin said that all species including humans were not created independently but they [26]. From then on life on the planet [27]. Twenty years after his trip Darwin had written [28] but he hadn't published any. He wanted to have [29] perhaps because he knew that his theory was going to [30]. But everything changed when he received a letter from Alfred Russel Wallace, an admirer and fellow naturalist, who told him that he had [31] - evolution was produced by natural selection. Darwin panicked. Facing the possibility that Wallace could [32], the two naturalists agreed to present [33] explaining their findings.",
+      "But a year later Darwin published his book titled On the Origin of Species and he became a celebrity [34]. His findings [35] of Victorian Britain. Like Copernicus in his time, Darwin changed the game by explaining that diversity came from [36] without any interference from God. Darwin put human beings in [37] as all the creatures on the planet. Scientific advances have confirmed his theory and even the Catholic Church ended up accepting, decades later, that evolution is [38]. And today, [39] after Darwin’s theory became known, we know that evolution is a fact. The planet keeps changing, sometimes dramatically, and [40]."
+    ],
+    "answers": [
+      "the middle of the 19th century",
+      "conceived by a divine force",
+      "explain with evidence",
+      "by natural selection",
+      "an extraordinary journey",
+      "20 years refining his ideas",
+      "In 1831 Darwin was 22 years old",
+      "almost five years travelling several continents",
+      "dozens of live specimens",
+      "probably not a coincidence",
+      "unique physical characteristics",
+      "vegetation was abundant",
+      "a dome-shaped shell",
+      "a saddle-like shell and a longer neck",
+      "animal breeders and gardeners",
+      "the artificial selection",
+      "the food supplies available",
+      "a fight for survival",
+      "not necessarily the survivor",
+      "best adapts to the environment",
+      "more successful at reproduction",
+      "die without descendants",
+      "pass their traits to their lineage",
+      "a new species",
+      "protect themselves from predators",
+      "descended from a common ancestor",
+      "began to diversify",
+      "thousands of pages",
+      "irrefutable evidence",
+      "cause quite a stir",
+      "reached the same conclusion",
+      "take sole credit for the theory",
+      "a joint letter",
+      "way beyond the scientific community",
+      "shook the foundations",
+      "a biological process",
+      "the same evolutionary level",
+      "compatible with faith",
+      "more than 150 years",
+      "we keep changing with it"
+    ],
+    "acceptedVariants": [
+      [
+        "the middle of the nineteenth century"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "twenty years refining his ideas"
+      ],
+      [
+        "in eighteen thirty-one Darwin was twenty-two years old",
+        "in 1831 Darwin was twenty-two years old"
+      ],
+      [
+        "almost five years traveling several continents",
+        "almost 5 years travelling several continents"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "more than one hundred fifty years",
+        "more than one hundred and fifty years"
+      ],
+      []
+    ],
+    "contentRevision": "9dab84efcdbd",
+    "paraphrases": [
+      [
+        "refining his ideas",
+        "improving and developing his explanations",
+        "Refine là chỉnh sửa để ý tưởng chính xác hơn.",
+        40.2,
+        47.8
+      ],
+      [
+        "probably not a coincidence",
+        "likely to have a meaningful connection",
+        "Probably giữ sắc thái suy đoán của nhận xét.",
+        84,
+        94.1
+      ],
+      [
+        "vegetation was abundant",
+        "plants grew in large quantities",
+        "Abundant nghĩa là dồi dào.",
+        105.1,
+        111.2
+      ],
+      [
+        "not necessarily the survivor",
+        "not always the one that stays alive",
+        "Not necessarily không có nghĩa là không bao giờ sống sót.",
+        162.5,
+        171.6
+      ],
+      [
+        "die without descendants",
+        "leave no offspring when they die",
+        "Descendants là thế hệ con cháu.",
+        178,
+        180.7
+      ],
+      [
+        "descended from a common ancestor",
+        "originated from a shared earlier form of life",
+        "Common ancestor là tổ tiên chung.",
+        205.6,
+        219.2
+      ],
+      [
+        "irrefutable evidence",
+        "evidence that cannot be disproved",
+        "Irrefutable trái nghĩa refutable; tiền tố làm đổi nghĩa.",
+        225.6,
+        242.8
+      ],
+      [
+        "cause quite a stir",
+        "create considerable public reaction",
+        "A stir là phản ứng xôn xao hoặc tranh luận.",
+        230.7,
+        242.8
+      ],
+      [
+        "take sole credit for the theory",
+        "receive all the recognition for the explanation",
+        "Sole credit là công lao chỉ dành cho một người.",
+        248.6,
+        260.5
+      ],
+      [
+        "compatible with faith",
+        "able to coexist with religious belief",
+        "Compatible with là không mâu thuẫn theo cách hiểu được nêu.",
+        286.7,
+        304.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "naturalist",
+        "meaning": "nhà tự nhiên học",
+        "note": "A person who studies animals, plants and nature."
+      },
+      {
+        "term": "refine",
+        "meaning": "hoàn thiện",
+        "note": "To improve an idea by making careful changes."
+      },
+      {
+        "term": "specimen",
+        "meaning": "mẫu vật",
+        "note": "An individual sample used for study."
+      },
+      {
+        "term": "coincidence",
+        "meaning": "sự trùng hợp",
+        "note": "Events occurring together without an apparent causal link."
+      },
+      {
+        "term": "vegetation",
+        "meaning": "thảm thực vật",
+        "note": "Plants growing in an area."
+      },
+      {
+        "term": "trait",
+        "meaning": "đặc điểm",
+        "note": "A characteristic of an organism."
+      },
+      {
+        "term": "lineage",
+        "meaning": "dòng dõi",
+        "note": "A line of descent from earlier generations."
+      },
+      {
+        "term": "ancestor",
+        "meaning": "tổ tiên",
+        "note": "An earlier organism from which others descended."
+      },
+      {
+        "term": "irrefutable",
+        "meaning": "không thể bác bỏ",
+        "note": "Impossible to disprove."
+      },
+      {
+        "term": "compatible",
+        "meaning": "tương thích",
+        "note": "Able to exist together without conflict."
+      }
+    ],
+    "signals": [
+      "Instead,…",
+      "Until he read…",
+      "From then on,…",
+      "But everything changed…"
+    ]
+  },
+  "54": {
+    "paragraphs": [
+      "You probably don't realise it, but every time you [1], like rethinking a decision after hearing a friend's advice, you're using something called Bayesian reasoning. Bayesian reasoning was [2] by the Reverend Thomas Bayes, a clergyman from Tunbridge Wells in southern England, way back in [3]. Bayes wasn't well-known in his lifetime. In fact, his theory wasn't published until [4]. But his work has gone on to [5]. It even helped [6] during World War II. So what is Bayesian reasoning and how can it help us understand the world? Thomas Bayes introduced two vital ideas. First, that [7], and second, how our beliefs should be [8].",
+      "Essentially, he produced a theory for [9]. Bayesian analysis can be used in any situation where [10] changes our beliefs. Alan Turing and his team at Bletchley Park used Bayesian ideas to learn about the settings of Enigma machines in World War II, changing their opinion [11]. The spam filter on your email account will use Bayesian analysis to change its probability that your email message is spam as [12] is detected. Take breast cancer screening in the UK. Mammograms are rather accurate, [13], and 97% of women without cancer correctly get [14]. But what about the other 3%? Let's consider what we expect to happen to [15]. Based on past experience of the rate of breast cancer among women getting mammograms, we would expect [16] to have cancer, and that case is almost certain to be picked up on the mammogram. Of the remaining 99 without cancer, we would expect three women to get [17]. So in total, we expect [18], but only one actually has cancer. From this perspective, looking only at the women who get a positive result, perhaps the test does not seem so accurate. [19], or 75% of the women recalled, don't have cancer. Further tests should [20]. This is an example of using Bayesian analysis. Since we are [21] for the condition, [22] that a random woman being tested has breast cancer is 1%, and after getting a positive test result, this is updated to what is called [23], which is [24].",
+      "Of course, [25] will eventually change the probabilities of those who are recalled either to 0% or, less fortunately, 100%. The use of Bayesian analysis in medical testing is now standard. However, more controversial is the use of Bayesian methods in science - [26]. The traditional view of science is that it is [27], the data is analysed [28] and results speak for themselves. The Bayesian perspective is somewhat different. It acknowledges that there are always [29] and that we don't [30]. Each set of data [31], rather than [32]. For example, [33] are not designed in complete ignorance. There is always some historical evidence available about [34] of the new therapy, and [35] and used to prioritise investigations and [36]. And it's even thought that we have Bayesian brains. We don't [37] to interpret our sensations for each second that passes. Instead, we always have [38] of what we might experience next, and then [39] accordingly. Fundamentally, Bayesian ideas reflect what it means to be human. We live in a world of uncertainty, but we always have prior expectations of what might happen next, and we revise that uncertainty as we learn from experience. All based on the ideas of [40] from Tunbridge Wells."
+    ],
+    "answers": [
+      "change your mind based on new information",
+      "first articulated",
+      "the 18th Century",
+      "two years after he had died",
+      "profoundly shape science, medicine and artificial intelligence",
+      "crack the Nazis' Enigma code",
+      "our beliefs can be expressed as probabilities",
+      "revised when we obtain more information",
+      "learning from experience",
+      "each new item of information",
+      "as new patterns were found",
+      "each new suspicious feature",
+      "detecting about 90% of cancers",
+      "a negative test result",
+      "100 women being tested",
+      "one out of the 100",
+      "a false positive result",
+      "one plus three equals four positive tests",
+      "Around three out of four",
+      "rapidly identify these three false positives",
+      "taking into account the base rate",
+      "our prior probability",
+      "a posterior probability",
+      "one out of four, or 25%",
+      "further investigations",
+      "so-called Bayesian inference",
+      "a completely objective activity",
+      "without preconceptions",
+      "judgments underlying every analysis",
+      "start from a blank slate",
+      "adds to our existing knowledge",
+      "standing entirely on its own",
+      "clinical trials of new drugs",
+      "the potential effectiveness",
+      "expert judgments can be elicited",
+      "produce efficient designs",
+      "start from scratch",
+      "prior expectations",
+      "new observations update our beliefs",
+      "a rather obscure 18th-century cleric"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "the eighteenth century"
+      ],
+      [
+        "2 years after he had died",
+        "two years after he’d died",
+        "two years after he'd died"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "detecting about ninety percent of cancers",
+        "detecting about 90 percent of cancers"
+      ],
+      [],
+      [
+        "one hundred women being tested",
+        "a hundred women being tested"
+      ],
+      [
+        "one out of the hundred",
+        "one out of the one hundred",
+        "1 out of the 100"
+      ],
+      [],
+      [
+        "1 plus 3 equals 4 positive tests",
+        "1 + 3 = 4 positive tests"
+      ],
+      [
+        "around 3 out of 4"
+      ],
+      [
+        "rapidly identify these 3 false positives"
+      ],
+      [],
+      [],
+      [],
+      [
+        "one out of four or twenty-five percent",
+        "1 out of 4 or 25 percent",
+        "one out of four or 25 percent"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "judgements underlying every analysis"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "expert judgements can be elicited"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a rather obscure eighteenth-century cleric"
+      ]
+    ],
+    "contentRevision": "1a2623c55f59",
+    "paraphrases": [
+      [
+        "learning from experience",
+        "using what has happened to improve understanding",
+        "Cụm nói về cập nhật hiểu biết dựa trên trải nghiệm.",
+        55.6,
+        69.4
+      ],
+      [
+        "a false positive result",
+        "a test indicating a condition that is actually absent",
+        "False positive là dương tính giả, khác với âm tính giả.",
+        125.2,
+        138.8
+      ],
+      [
+        "taking into account the base rate",
+        "considering how common the condition is beforehand",
+        "Base rate là tỷ lệ nền trước khi có thông tin xét nghiệm.",
+        157,
+        174.6
+      ],
+      [
+        "a posterior probability",
+        "an updated likelihood after new evidence",
+        "Posterior là xác suất sau khi cập nhật bằng chứng.",
+        168.7,
+        181.3
+      ],
+      [
+        "without preconceptions",
+        "without assumptions formed in advance",
+        "Preconception là quan niệm có trước khi xem dữ liệu.",
+        203.1,
+        213.4
+      ],
+      [
+        "start from a blank slate",
+        "begin with no prior knowledge or assumptions",
+        "Blank slate là hình ảnh chỉ điểm xuất phát chưa có thông tin.",
+        214.2,
+        226
+      ],
+      [
+        "standing entirely on its own",
+        "being considered completely independently",
+        "Cụm đặt trong đối chiếu với kiến thức đã có.",
+        219.8,
+        226
+      ],
+      [
+        "expert judgments can be elicited",
+        "specialists can be asked to provide their assessments",
+        "Elicit là gợi ra hoặc thu nhận ý kiến.",
+        232.4,
+        243.9
+      ],
+      [
+        "start from scratch",
+        "begin from the very beginning",
+        "Start from scratch là làm từ đầu.",
+        243.9,
+        256.3
+      ],
+      [
+        "a rather obscure 18th-century cleric",
+        "a relatively little-known religious figure from the seventeen hundreds",
+        "Obscure ở đây là ít được biết đến.",
+        274.8,
+        283.6
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "reasoning",
+        "meaning": "sự suy luận",
+        "note": "The process of drawing conclusions from information."
+      },
+      {
+        "term": "articulate",
+        "meaning": "trình bày rõ",
+        "note": "To express an idea clearly."
+      },
+      {
+        "term": "probability",
+        "meaning": "xác suất",
+        "note": "The likelihood that an event will occur."
+      },
+      {
+        "term": "revise",
+        "meaning": "điều chỉnh",
+        "note": "To change an opinion in light of information."
+      },
+      {
+        "term": "false positive",
+        "meaning": "dương tính giả",
+        "note": "A test result indicating a condition that is not present."
+      },
+      {
+        "term": "base rate",
+        "meaning": "tỷ lệ nền",
+        "note": "The frequency of a condition in the relevant population."
+      },
+      {
+        "term": "posterior",
+        "meaning": "sau cập nhật bằng chứng",
+        "note": "Referring to probability after new evidence is considered."
+      },
+      {
+        "term": "preconception",
+        "meaning": "định kiến; quan niệm có trước",
+        "note": "An opinion formed before obtaining relevant evidence."
+      },
+      {
+        "term": "elicit",
+        "meaning": "gợi ra; thu nhận",
+        "note": "To obtain a response or information from someone."
+      },
+      {
+        "term": "obscure",
+        "meaning": "ít được biết đến",
+        "note": "Not widely known."
+      }
+    ],
+    "signals": [
+      "First,… and second,…",
+      "Based on past experience…",
+      "From this perspective,…",
+      "Instead,…"
+    ]
   }
 };

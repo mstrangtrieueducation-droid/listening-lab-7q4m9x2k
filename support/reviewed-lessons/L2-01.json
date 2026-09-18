@@ -1,0 +1,202 @@
+{
+  "code": "L2-01",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-01.mp3",
+  "evidenceNote": "Compared the entire 355-second MP3 with the original transcript and timestamped ASR. Original text shortened or rewrote several interview answers and omitted sentences. Reconstructed the spoken discussion, retaining disfluencies where needed; all ten replay intervals reset to the actual MP3 duration. Focused second-model check confirms the omitted interview explanation at 178–208 seconds. The original technical spelling anterior insula is retained; ASR is ambiguous on its initial vowel, and this term is not assessed as a gap.",
+  "transcript": "Clicking on this video activated circuits in your brain that took thousands of years to develop: the ones required for reading. We think of language as natural, and reading is written language, so it must be natural. But it isn't. It isn't natural at all. Scientific studies indicate that a neurotypical brain is born with the circuitry that allows our eyes to see and our vocal cords to produce sounds, but it doesn't innately have the ability to read. From an evolutionary time scale, our brain hasn't had enough time to develop a dedicated reading brain. And so, to build a reading brain network, we co-opt parts of the brain involved in vision and auditory processing and language and attention and affect.\n\nThe Sumerian cuneiform symbols are thought to be one of the earliest writing systems in the world, dating back to around 3300 BC. Around the same time, though, Egyptians started developing their hieroglyphics. Symbols evolved over time. The more we read and wrote, the more sophisticated they became, becoming the letters and characters we recognise today. Scientists now know that reading activates the brain so that letters and words become associated with sounds and meanings. Reading is really a whole-brain process. It involves activation in all four lobes of the cortex. The process of developing a reading brain alters everything from brain activity to brain structure and brain connectivity.\n\nAnd the language we read also shapes our brain. Chinese characters, for instance, are an example of a logographic system. Each object or idea is represented by a symbol rather than by a set of letters of the alphabet. Research indicates that learning logographic writing systems activates different areas of the brain than learning an alphabet-based language like English. The areas involved in visual memory and visual association do more of the work.\n\nThis theory was corroborated after scientists studied a bilingual patient who knew both Chinese and English. The man suffered a massive stroke, which affected some areas of his brain, including his ability to read Chinese. But astonishingly, his proficiency in English remained intact. It's a beautiful example of how the brain circuit reflects the requirements of Chinese, which inevitably means more visual memory and visual processing of those beautifully intricate symbols or characters. Whatever the language, reading not only impacts the brain, but it also affects us on a physical level. We might feel in our guts the nervousness or the pain of a character. And I mean that not only like I feel it inside me, but I mean that literally, like the anterior insula, which is responsible for gastric—gastromotoric movement, for feelings of nausea and pain and discomfort, is also the part of the brain that's associated with many of the empathic processes.\n\nAnd the brain is very adaptable. Evidence suggests that it's already changing as a result of new technologies. Reading on a phone or tablet is generally passive scrolling, often interrupted by messages and alerts. When we read on screens, we tend to skim, and when we skim, we're more susceptible to misinformation. We need to support individuals in being able to think critically about the things that they're reading, because that's fundamental to a democracy, is our ability to analyse and think deeply about the information that we're consuming. Some academic research even suggests that children who use cell phones from an early age perform worse in school later in life. At eight years of age, the amount of digital exposure predicted their attentional executive function processing and academic performance.\n\nAnd it's a negative: the more digital, the worse academic. If you can imagine if that brain is constantly being distracted and hyperstimulated, you're going to have them not able to really move from one stimulus to the next without a desire for ever quicker intervals between stimuli. So then you have kids going offline and saying they're bored. It's a relatively new field of research, and some studies suggest that monitored and education-focused screen time can be beneficial to children. For parents concerned about navigating the digital world, the advice is to go back to basics. The antidote to all this happening is the simplest, most beautiful one, and that is to have our children immersed in reading and have a reading life. Our parents and teachers all have to help. They have to model, they have to read to their child, they have to love it themselves.\n\nAnd this is likely to have benefits beyond the individual reader. The power of deep reading is really fundamental to our humanity. When we read deeply, we change our brains and we change who we are, and that process of changing the minds and hearts of individuals changes society and allows us to build bigger, more beautiful futures.",
+  "gaps": [
+    "thousands of years to develop",
+    "written language",
+    "vocal cords to produce sounds",
+    "innately have the ability to read",
+    "an evolutionary time scale",
+    "a dedicated reading brain",
+    "auditory processing",
+    "one of the earliest writing systems",
+    "around 3300 BC",
+    "the more sophisticated they became",
+    "associated with sounds and meanings",
+    "a whole-brain process",
+    "all four lobes of the cortex",
+    "brain structure and brain connectivity",
+    "a logographic system",
+    "represented by a symbol",
+    "an alphabet-based language",
+    "visual memory and visual association",
+    "a bilingual patient",
+    "suffered a massive stroke",
+    "his proficiency in English remained intact",
+    "beautifully intricate symbols or characters",
+    "on a physical level",
+    "many of the empathic processes",
+    "very adaptable",
+    "passive scrolling",
+    "more susceptible to misinformation",
+    "think critically",
+    "analyse and think deeply",
+    "from an early age",
+    "the amount of digital exposure",
+    "attentional executive function processing",
+    "constantly being distracted and hyperstimulated",
+    "ever quicker intervals between stimuli",
+    "a relatively new field of research",
+    "can be beneficial to children",
+    "go back to basics",
+    "immersed in reading",
+    "benefits beyond the individual reader",
+    "the minds and hearts of individuals"
+  ],
+  "acceptedVariants": {
+    "around 3300 BC": [
+      "around thirty-three hundred BC",
+      "around three thousand three hundred BC",
+      "around 3300 B.C."
+    ],
+    "all four lobes of the cortex": [
+      "all 4 lobes of the cortex"
+    ],
+    "analyse and think deeply": [
+      "analyze and think deeply"
+    ],
+    "constantly being distracted and hyperstimulated": [
+      "constantly being distracted and hyper stimulated"
+    ]
+  },
+  "paraphrases": [
+    [
+      "a dedicated reading brain",
+      "a neural system specialised for reading",
+      "Dedicated nói về hệ thống dành riêng cho chức năng đọc.",
+      31.5,
+      38
+    ],
+    [
+      "co-opt parts of the brain",
+      "use existing brain regions for a new purpose",
+      "Co-opt là dùng bộ phận vốn có để đảm nhiệm việc khác.",
+      38.2,
+      49.1
+    ],
+    [
+      "alters everything from brain activity to brain structure and brain connectivity",
+      "changes how the brain works, is organised and connects",
+      "Paraphrase giữ đủ ba khía cạnh của câu gốc.",
+      92.1,
+      102
+    ],
+    [
+      "represented by a symbol",
+      "shown using a visual sign",
+      "Represented by nghĩa là được biểu đạt bằng.",
+      111.2,
+      117.5
+    ],
+    [
+      "This theory was corroborated",
+      "This explanation received supporting evidence",
+      "Corroborate là củng cố bằng chứng cho nhận định.",
+      132.6,
+      138.5
+    ],
+    [
+      "his proficiency in English remained intact",
+      "his ability to read English was preserved",
+      "Intact nghĩa là khả năng đó không bị mất sau cơn đột quỵ.",
+      146.8,
+      150.8
+    ],
+    [
+      "more susceptible to misinformation",
+      "more vulnerable to false information",
+      "Susceptible nói về dễ bị tác động bởi thông tin sai.",
+      223,
+      228.6
+    ],
+    [
+      "think critically about the things that they're reading",
+      "evaluate what they read carefully",
+      "Think critically là xem xét và đánh giá thay vì chấp nhận ngay.",
+      229.5,
+      243.2
+    ],
+    [
+      "can be beneficial to children",
+      "may have positive effects on children",
+      "Can giữ ý có thể có lợi trong điều kiện được nêu.",
+      294.3,
+      301.7
+    ],
+    [
+      "immersed in reading",
+      "deeply engaged in reading",
+      "Immersed diễn tả sự tham gia sâu, thường xuyên.",
+      307.9,
+      326.8
+    ]
+  ],
+  "vocabulary": [
+    [
+      "circuitry",
+      "hệ thống mạch thần kinh",
+      "A connected system of neural pathways that performs a function."
+    ],
+    [
+      "innately",
+      "một cách bẩm sinh",
+      "Naturally present from birth rather than learned."
+    ],
+    [
+      "co-opt",
+      "tận dụng cho chức năng mới",
+      "Take an existing system and use it for a new purpose."
+    ],
+    [
+      "auditory processing",
+      "xử lý thông tin thính giác",
+      "The brain's interpretation of sounds and spoken information."
+    ],
+    [
+      "cuneiform",
+      "chữ hình nêm",
+      "An ancient writing system made with wedge-shaped marks."
+    ],
+    [
+      "cortex",
+      "vỏ não",
+      "The outer layer of the brain involved in complex thought and perception."
+    ],
+    [
+      "connectivity",
+      "khả năng kết nối thần kinh",
+      "The pattern and strength of connections between brain regions."
+    ],
+    [
+      "logographic",
+      "thuộc hệ chữ biểu ý",
+      "Using symbols to represent words, objects or ideas."
+    ],
+    [
+      "corroborate",
+      "xác nhận bằng thêm bằng chứng",
+      "Support a claim or theory with additional evidence."
+    ],
+    [
+      "susceptible",
+      "dễ bị tác động",
+      "Likely to be influenced or harmed by something."
+    ]
+  ],
+  "signals": [
+    "Scientific studies indicate…",
+    "Research indicates…",
+    "Evidence suggests…",
+    "Some studies suggest…"
+  ],
+  "issuesFixed": [
+    "Restored omitted and rewritten spoken interview sentences",
+    "Rebuilt 40 gaps in listening order instead of appending 26–40 out of order",
+    "Corrected every replay interval, including ranges previously past the end of audio",
+    "Preserved qualifications about monitored educational screen use"
+  ]
+}

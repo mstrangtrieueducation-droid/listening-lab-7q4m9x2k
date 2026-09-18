@@ -618,8 +618,68 @@
         "Changed misleading 250 million title to neutral topic",
         "Selected complete quantities and meaningful phrases with explicit number equivalents"
       ]
+    },
+    {
+      "code": "L2-01",
+      "status": "content-reviewed-build-validated",
+      "revision": "7210cce973f8",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored omitted and rewritten spoken interview sentences",
+        "Rebuilt 40 gaps in listening order instead of appending 26–40 out of order",
+        "Corrected every replay interval, including ranges previously past the end of audio",
+        "Preserved qualifications about monitored educational screen use"
+      ]
+    },
+    {
+      "code": "L2-02",
+      "status": "content-reviewed-build-validated",
+      "revision": "0cd4110e4f4e",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Rebuilt 40 sequential gaps rather than scrambled appended questions",
+        "Repaired breaks splitting video and butterfly-in-Brazil sentences",
+        "Replaced meaningless fragments with systems and probability phrases",
+        "Recreated accurate, timestamped paraphrases and substantive vocabulary notes"
+      ]
+    },
+    {
+      "code": "L2-03",
+      "status": "content-reviewed-build-validated",
+      "revision": "4d355c724f07",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Rebuilt all 40 gaps in chronological order",
+        "Matched the final spoken genome wording using a second transcription model",
+        "Preserved negation and uncertainty in genetic claims",
+        "Replaced generic vocabulary notes with meaningful definitions and ten timed paraphrases"
+      ]
+    },
+    {
+      "code": "L2-04",
+      "status": "content-reviewed-build-validated",
+      "revision": "9dab84efcdbd",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Corrected meaning-reversing refutable transcription error",
+        "Restored omitted final spoken sentence",
+        "Repaired source transcription slips in comparisons and verb forms",
+        "Rebuilt 40 chronological gaps and checked all ten replay segments"
+      ]
+    },
+    {
+      "code": "L2-05",
+      "status": "content-reviewed-build-validated",
+      "revision": "1a2623c55f59",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Removed duplicated arithmetic expression",
+        "Verified sentences missed by initial ASR",
+        "Rebuilt 40 ordered phrases including intact numeric quantities",
+        "Separated false positives, base rates, prior and posterior probabilities accurately"
+      ]
     }
   ],
-  "pending": 50,
+  "pending": 45,
   "note": "Build validation is not proof of deployment. Unlisted lessons have not completed individual review."
 }

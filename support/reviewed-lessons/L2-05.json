@@ -1,0 +1,254 @@
+{
+  "code": "L2-05",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "media/level2/l2-05.mp3",
+  "evidenceNote": "Compared all 285 seconds of audio with the source. Focused small.en pass at 17–37 confirms Bayes’s lifetime and posthumous-publication sentences skipped by the first ASR pass. Fixed duplicated equals-four expression, source grammar and paragraph splits; retained illustrative probabilities as spoken.",
+  "textReplacements": [
+    [
+      "what we would expect to happen to 100 women",
+      "what we expect to happen to 100 women"
+    ],
+    [
+      "mammograms,\n\nwe would expect",
+      "mammograms, we would expect"
+    ],
+    [
+      "1 + 3 = 4 equals 4 positive tests",
+      "one plus three equals four positive tests"
+    ],
+    [
+      "that data is analysed without preconceptions and the results speak for themselves",
+      "the data is analysed without preconceptions and results speak for themselves"
+    ],
+    [
+      "the potential effectiveness\n\nof the new therapy",
+      "the potential effectiveness of the new therapy"
+    ]
+  ],
+  "gaps": [
+    "change your mind based on new information",
+    "first articulated",
+    "the 18th Century",
+    "two years after he had died",
+    "profoundly shape science, medicine and artificial intelligence",
+    "crack the Nazis' Enigma code",
+    "our beliefs can be expressed as probabilities",
+    "revised when we obtain more information",
+    "learning from experience",
+    "each new item of information",
+    "as new patterns were found",
+    "each new suspicious feature",
+    "detecting about 90% of cancers",
+    "a negative test result",
+    "100 women being tested",
+    "one out of the 100",
+    "a false positive result",
+    "one plus three equals four positive tests",
+    "Around three out of four",
+    "rapidly identify these three false positives",
+    "taking into account the base rate",
+    "our prior probability",
+    "a posterior probability",
+    "one out of four, or 25%",
+    "further investigations",
+    "so-called Bayesian inference",
+    "a completely objective activity",
+    "without preconceptions",
+    "judgments underlying every analysis",
+    "start from a blank slate",
+    "adds to our existing knowledge",
+    "standing entirely on its own",
+    "clinical trials of new drugs",
+    "the potential effectiveness",
+    "expert judgments can be elicited",
+    "produce efficient designs",
+    "start from scratch",
+    "prior expectations",
+    "new observations update our beliefs",
+    "a rather obscure 18th-century cleric"
+  ],
+  "acceptedVariants": {
+    "the 18th Century": [
+      "the eighteenth century"
+    ],
+    "two years after he had died": [
+      "2 years after he had died",
+      "two years after he’d died",
+      "two years after he'd died"
+    ],
+    "detecting about 90% of cancers": [
+      "detecting about ninety percent of cancers",
+      "detecting about 90 percent of cancers"
+    ],
+    "100 women being tested": [
+      "one hundred women being tested",
+      "a hundred women being tested"
+    ],
+    "one out of the 100": [
+      "one out of the hundred",
+      "one out of the one hundred",
+      "1 out of the 100"
+    ],
+    "one plus three equals four positive tests": [
+      "1 plus 3 equals 4 positive tests",
+      "1 + 3 = 4 positive tests"
+    ],
+    "Around three out of four": [
+      "around 3 out of 4"
+    ],
+    "rapidly identify these three false positives": [
+      "rapidly identify these 3 false positives"
+    ],
+    "one out of four, or 25%": [
+      "one out of four or twenty-five percent",
+      "1 out of 4 or 25 percent",
+      "one out of four or 25 percent"
+    ],
+    "judgments underlying every analysis": [
+      "judgements underlying every analysis"
+    ],
+    "expert judgments can be elicited": [
+      "expert judgements can be elicited"
+    ],
+    "a rather obscure 18th-century cleric": [
+      "a rather obscure eighteenth-century cleric"
+    ]
+  },
+  "paraphrases": [
+    [
+      "learning from experience",
+      "using what has happened to improve understanding",
+      "Cụm nói về cập nhật hiểu biết dựa trên trải nghiệm.",
+      55.6,
+      69.4
+    ],
+    [
+      "a false positive result",
+      "a test indicating a condition that is actually absent",
+      "False positive là dương tính giả, khác với âm tính giả.",
+      125.2,
+      138.8
+    ],
+    [
+      "taking into account the base rate",
+      "considering how common the condition is beforehand",
+      "Base rate là tỷ lệ nền trước khi có thông tin xét nghiệm.",
+      157,
+      174.6
+    ],
+    [
+      "a posterior probability",
+      "an updated likelihood after new evidence",
+      "Posterior là xác suất sau khi cập nhật bằng chứng.",
+      168.7,
+      181.3
+    ],
+    [
+      "without preconceptions",
+      "without assumptions formed in advance",
+      "Preconception là quan niệm có trước khi xem dữ liệu.",
+      203.1,
+      213.4
+    ],
+    [
+      "start from a blank slate",
+      "begin with no prior knowledge or assumptions",
+      "Blank slate là hình ảnh chỉ điểm xuất phát chưa có thông tin.",
+      214.2,
+      226
+    ],
+    [
+      "standing entirely on its own",
+      "being considered completely independently",
+      "Cụm đặt trong đối chiếu với kiến thức đã có.",
+      219.8,
+      226
+    ],
+    [
+      "expert judgments can be elicited",
+      "specialists can be asked to provide their assessments",
+      "Elicit là gợi ra hoặc thu nhận ý kiến.",
+      232.4,
+      243.9
+    ],
+    [
+      "start from scratch",
+      "begin from the very beginning",
+      "Start from scratch là làm từ đầu.",
+      243.9,
+      256.3
+    ],
+    [
+      "a rather obscure 18th-century cleric",
+      "a relatively little-known religious figure from the seventeen hundreds",
+      "Obscure ở đây là ít được biết đến.",
+      274.8,
+      283.6
+    ]
+  ],
+  "vocabulary": [
+    [
+      "reasoning",
+      "sự suy luận",
+      "The process of drawing conclusions from information."
+    ],
+    [
+      "articulate",
+      "trình bày rõ",
+      "To express an idea clearly."
+    ],
+    [
+      "probability",
+      "xác suất",
+      "The likelihood that an event will occur."
+    ],
+    [
+      "revise",
+      "điều chỉnh",
+      "To change an opinion in light of information."
+    ],
+    [
+      "false positive",
+      "dương tính giả",
+      "A test result indicating a condition that is not present."
+    ],
+    [
+      "base rate",
+      "tỷ lệ nền",
+      "The frequency of a condition in the relevant population."
+    ],
+    [
+      "posterior",
+      "sau cập nhật bằng chứng",
+      "Referring to probability after new evidence is considered."
+    ],
+    [
+      "preconception",
+      "định kiến; quan niệm có trước",
+      "An opinion formed before obtaining relevant evidence."
+    ],
+    [
+      "elicit",
+      "gợi ra; thu nhận",
+      "To obtain a response or information from someone."
+    ],
+    [
+      "obscure",
+      "ít được biết đến",
+      "Not widely known."
+    ]
+  ],
+  "signals": [
+    "First,… and second,…",
+    "Based on past experience…",
+    "From this perspective,…",
+    "Instead,…"
+  ],
+  "issuesFixed": [
+    "Removed duplicated arithmetic expression",
+    "Verified sentences missed by initial ASR",
+    "Rebuilt 40 ordered phrases including intact numeric quantities",
+    "Separated false positives, base rates, prior and posterior probabilities accurately"
+  ]
+}
