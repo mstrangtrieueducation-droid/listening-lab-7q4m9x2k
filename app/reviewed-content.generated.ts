@@ -8617,7 +8617,7 @@ export const reviewedContent = {
     "paragraphs": [
       "In Senegal, educators are starting to teach English to younger children in an effort to better prepare them to succeed in [1]. The preschool students also learn French – [2] – as well as Arabic and the nation’s national languages, the French news agency AFP reports. Senegalese children who attend preschool – also known as nursery school, are generally under five. Since mid-January, the education ministry has been testing a program that teaches English in [3]. It is part of a plan to better connect Senegal [4]. At one nursery school visited by AFP reporters near central Dakar, five-year-old students were heard singing, \"Good morning, teacher!\" The teacher, Absa Ndiaye, said, \"They're interested in the lesson, and they start a conversation with 'How are you?'\" Senegal recently became an oil and gas producer and has seen [5].",
       "However, many young people have been leaving the country [6]. In Senegal, French is used in public schools and in [7]. Until recently, English was only taught in public high schools and universities, and sometimes in private nursery schools. Aissatou Sarr Cisse is in charge of the education ministry's English program. She told AFP that even after some students had studied English for [8], they “[9] in English.\" \"We're starting from a younger age so that they can [10]. The aim is to shape people who are open to the world,” she said. She added that improving their English will give them access to [11] “with Senegal’s partners.” In March, President Bassirou Diomaye Faye was elected after running a nationalist campaign. After many years of strong ties with the former colonial power, he is trying to reset Senegal's relationship with France, [12].",
-      "In the schools testing the program, English is taught [13]. On both days, [14] are taught in nursery schools and two 30-minute lessons in primary schools. The subjects taught center on family, colors, [15], the environment and the weather. In Dakar's working-class Medina neighborhood, teacher Mamadou Kama listens to a conversation in English between two 13-year-olds in his primary school class of [16]. \"I can see that the students are motivated. Some of them are asking for English lessons to be (taught) every day,\" said Kama, who has a degree in English. The ministry has invested in teachers who have high English levels. However, most of them have [17] the ministry aims to provide. \"We haven't had the time to create handbooks,” said the education ministry’s Cisse. “Computers have been ordered, and [18], we have provided students with printed documents with fun pictures.\" The project has been praised by Ousmane Sene, director of the Dakar-based West African Research Centre, or WARC,.",
+      "In the schools testing the program, English is taught [13]. On both days, [14] are taught in nursery schools and two 30-minute lessons in primary schools. The subjects taught center on family, colors, [15], the environment and the weather. In Dakar's working-class Medina neighborhood, teacher Mamadou Kama listens to a conversation in English between two 13-year-olds in his primary school class of [16]. \"I can see that the students are motivated. Some of them are asking for English lessons to be (taught) every day,\" said Kama, who has a degree in English. The ministry has invested in teachers who have high English levels. However, most of them have [17] the ministry aims to provide. \"We haven't had the time to create handbooks,” said the education ministry’s Cisse. “Computers have been ordered, and [18], we have provided students with printed documents with fun pictures.\" The project has been praised by Ousmane Sene, director of the Dakar-based West African Research Centre, or WARC.",
       "WARC handles [19] between the United States and west African universities. \"English is the most common language at an international level. And it's the most used language in [20], so it's [21],\" Sene told AFP. Additionally, most scientific material worldwide is written in English, said Mathiam Thiam. He helped create the English program. Thiam added that if people in Senegal do not adapt and improve their English, they will [22]. But Sene noted that something needs to happen first: The project needs “… to [23].” Some critics of the program point to a lack of teachers. Samba Dioulde Thiam is a former member of parliament and retired teacher. In an opinion article, he wrote, \"On these grounds alone, introducing English at nursery and primary school levels is [24].",
       "It's impossible.\" He noted that intellectuals have been demanding the introduction of Senegal's national languages in education for many years. The program involving English [25]. But one 13-year-old student, Aissatou Barry, seems far removed from such debates. She told AFP that she \"can't wait to study English in sixth grade.\" I’m Andrew Smith."
     ],
@@ -8684,7 +8684,7 @@ export const reviewedContent = {
       [],
       []
     ],
-    "contentRevision": "66fff3f60592",
+    "contentRevision": "b4169418dd67",
     "paraphrases": [
       [
         "in an effort to better prepare them",
@@ -9466,6 +9466,1060 @@ export const reviewedContent = {
       "This includes…",
       "The companies warn…",
       "while not doing enough…"
+    ]
+  },
+  "45": {
+    "paragraphs": [
+      "Cambodian officials are warning visitors to the nation’s famous Angkor Wat complex of buildings to [1]. They say the animals have become [2]. The officials blamed the behavior of the macaque monkeys on visitors to the area who [3]. Social media influencers – many of them on YouTube – use video of the monkeys to [4], the officials added. The macaques are [5] surrounding Angkor Wat, a UNESCO World Heritage Site in northwestern Cambodia.",
+      "The monkeys have become [6] around the popular tourist area. Officials watching the animals told the French News Agency, AFP, that [7] – especially by people filming material to publish online – had changed the monkeys’ behavior. The agency that operates Angkor Wat is the APSARA National Authority. It said in a statement that a small number of YouTubers [8] to create videos. This \"changed the monkeys' [9] from being wild animals to domestic ones that are aggressive, steal food, and [10].\" Agency spokesman Long Kosal told AFP that officials also worry about the monkeys [11] that [12].",
+      "\"[13], they have been climbing up and [14], damaging temples,\" he said. Some macaques had also [15]. Local officials have urged tourists to [16] while visiting Angkor Wat. They added that they are currently looking for \"[17]\" to solve the problem. Angkor Wat was the capital of the Khmer Empire. Building work began on the complex [18]. It remains Cambodia's top tourist site and earns a lot of money for [19].",
+      "[20] visited the area last year. Since becoming a world heritage site [21], Angkor Wat and the surrounding forest have received [22]. Officials have expressed hope that [23] around Angkor Wat will increase visitor interest and [24]. Last year, Cambodian officials announced a plan to [25] in public areas to identify and take away those presenting a danger to humans. I’m Bryan Lynn."
+    ],
+    "answers": [
+      "stay away from wild monkeys",
+      "aggressive and destructive",
+      "feed the animals or interact with them",
+      "grow their online followings",
+      "native to forest areas",
+      "more destructive of property",
+      "too much human interaction",
+      "repeatedly feed the monkeys",
+      "natural behavior",
+      "cause injuries among people",
+      "causing damage to stonework",
+      "dates back centuries",
+      "On top of biting visitors",
+      "pushing stones down",
+      "damaged information signs",
+      "leave the monkeys alone",
+      "an appropriate solution",
+      "about 900 years ago",
+      "the developing nation",
+      "More than one million foreign tourists",
+      "in 1992",
+      "increased legal protection and security",
+      "wildlife sightings",
+      "support conservation education efforts",
+      "carry out a census of monkeys"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "natural behaviour"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "about nine hundred years ago"
+      ],
+      [],
+      [
+        "more than 1 million foreign tourists",
+        "more than 1,000,000 foreign tourists"
+      ],
+      [
+        "in nineteen ninety-two"
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "704c04556819",
+    "paraphrases": [
+      [
+        "stay away from wild monkeys",
+        "avoid approaching the wild animals",
+        "Stay away là giữ khoảng cách, không lại gần.",
+        0,
+        13.5
+      ],
+      [
+        "aggressive and destructive",
+        "likely to attack and cause damage",
+        "Hai tính từ mô tả hai loại hành vi.",
+        14.4,
+        20.3
+      ],
+      [
+        "grow their online followings",
+        "increase the number of people following them online",
+        "Following là tập hợp người theo dõi.",
+        35.3,
+        48.4
+      ],
+      [
+        "native to forest areas",
+        "naturally found in those wooded regions",
+        "Native to nói về nơi loài vốn sinh sống.",
+        49.4,
+        62.1
+      ],
+      [
+        "too much human interaction",
+        "excessive contact with people",
+        "Too much mang ý tiếp xúc vượt mức phù hợp.",
+        72.4,
+        91.2
+      ],
+      [
+        "dates back centuries",
+        "has existed for hundreds of years",
+        "Date back nói về nguồn gốc từ thời xa xưa.",
+        127.4,
+        141.2
+      ],
+      [
+        "On top of biting visitors",
+        "In addition to biting tourists",
+        "On top of trong câu nghĩa là ngoài hành động đã nêu.",
+        142.2,
+        157.5
+      ],
+      [
+        "leave the monkeys alone",
+        "stop disturbing or interacting with the monkeys",
+        "Leave alone là để yên.",
+        158.8,
+        167.2
+      ],
+      [
+        "an appropriate solution",
+        "a suitable way to resolve the problem",
+        "Appropriate là phù hợp với vấn đề.",
+        168,
+        175.5
+      ],
+      [
+        "carry out a census of monkeys",
+        "conduct an official count of the monkey population",
+        "Census là cuộc kiểm kê số lượng.",
+        234.2,
+        250.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "aggressive",
+        "meaning": "hung hăng",
+        "note": "Ready or likely to attack."
+      },
+      {
+        "term": "destructive",
+        "meaning": "có tính phá hoại",
+        "note": "Causing serious damage."
+      },
+      {
+        "term": "interact",
+        "meaning": "tương tác",
+        "note": "To act upon or communicate with others."
+      },
+      {
+        "term": "following",
+        "meaning": "lượng người theo dõi",
+        "note": "The people who follow a person’s work or online activity."
+      },
+      {
+        "term": "native",
+        "meaning": "bản địa",
+        "note": "Naturally belonging to a particular place."
+      },
+      {
+        "term": "domestic",
+        "meaning": "được thuần hóa",
+        "note": "Accustomed to living with people."
+      },
+      {
+        "term": "stonework",
+        "meaning": "kết cấu bằng đá",
+        "note": "Parts of a building made from stone."
+      },
+      {
+        "term": "appropriate",
+        "meaning": "phù hợp",
+        "note": "Suitable for a particular situation."
+      },
+      {
+        "term": "conservation",
+        "meaning": "sự bảo tồn",
+        "note": "The protection of wildlife and natural or historic sites."
+      },
+      {
+        "term": "census",
+        "meaning": "cuộc kiểm kê",
+        "note": "An official count of a population."
+      }
+    ],
+    "signals": [
+      "The officials blamed…",
+      "On top of…",
+      "Since becoming…",
+      "Last year,…"
+    ]
+  },
+  "46": {
+    "paragraphs": [
+      "Norway is very close to meeting its goal of selling only [1] starting this year. The Norwegian Road Federation, or OFV, an automotive industry group, estimates that [2] of new cars registered in Norway in January were all-electric. No other country has such a high rate of electric car, or EV, ownership. The OFV noted that of the 9,343 new cars sold last month in Norway, 8,954 of them were all-electric. Of the 50 most-sold models, [3]. The first of those came in [4] among the 50 models, the federation said.",
+      "The European Automobile Manufacturers’ Association, or ACEA, reported the share of electric cars in Europe was [5]. That was [6] since 2020. OFV director Oyvind Solberg Thorsen said in a statement, \"We've never seen this before...If the rest of the year continues like this, we will very soon be close to the 2025 goal.\" He noted that reaching 100 percent of the goal means to continue to offer the “incentives that make it [7] over other models.” Even though it is [8], Norway aims to only sell \"zero emission\" new vehicles starting in 2025. That goal is [9] set by the European Union, or EU.",
+      "Norway is not a member of the EU. One difference between the EU and Norway’s method is that Norway [10] of cars with engines that burn fuel. Instead, Norway offers [11] to EV manufacturers and owners. On the other hand, the country [12]. For example, Norwegian EV owners do not have to pay [13] and receive [14]. EVs are also permitted to use parts of roads normally saved for [15]. While some tax breaks and incentives have been reduced over the years, EVs have still kept expanding across Norwegian roads. Frode Hvattum is a 50-year-old father of three who owns two EVs. He told the French News Agency AFP he started buying EVs because of [16] and for the benefits of driving them.",
+      "He lives in an area near Oslo where the streets are full of Teslas, Audis and Volkswagens. Some [17] are increasingly appearing too. Many homes have a device to charge, or [18], their EV’s battery. Norway also has a large national network of [19]. Having [20] was important for Hvattum, who, like many Norwegians, often travels by car to his second home in the mountains several hours outside Oslo. He said he finds it easy to plan and make trips with [21]. \"You don't have to plan your trip [22],\" Hvattum said. He added that he uses the [23] his vehicle needs to make it up to the mountains to shop for food.",
+      "Even if EV sales [24] this year, experts say Norway can still be seen as having met its goal. Christina Bu heads the Norwegian Electric Vehicle Association. She told AFP, \"We should finish the year at [25].\" I’m Jill Robbins."
+    ],
+    "answers": [
+      "fully electric new vehicles",
+      "nearly 96 percent",
+      "only two were non-electric",
+      "33rd place",
+      "just 13.6 percent during 2024",
+      "the first recorded decrease",
+      "profitable to choose an electric car",
+      "a major oil and gas producer",
+      "10 years ahead of the target",
+      "has not banned the sale",
+      "a number of tax breaks",
+      "heavily taxes gas-powered vehicles",
+      "road tolls",
+      "free parking in public car parks",
+      "public transportation vehicles",
+      "his concern for the environment",
+      "less costly Chinese EVs",
+      "supply electricity to",
+      "superfast charging stations",
+      "a nationwide charging network",
+      "numerous charging stations available",
+      "as much as before",
+      "15-to-20-minute charging breaks",
+      "fail to meet the 100 percent mark",
+      "between 95 and 100 percent"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "nearly ninety-six percent",
+        "nearly 96%"
+      ],
+      [
+        "only 2 were non-electric"
+      ],
+      [
+        "thirty-third place"
+      ],
+      [
+        "just thirteen point six percent during twenty twenty-four",
+        "just 13.6% during 2024"
+      ],
+      [],
+      [],
+      [],
+      [
+        "ten years ahead of the target"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "fifteen-to-twenty-minute charging breaks",
+        "15 to 20 minute charging breaks"
+      ],
+      [
+        "fail to meet the one hundred percent mark",
+        "fail to meet the 100% mark"
+      ],
+      [
+        "between ninety-five and one hundred percent",
+        "between 95 and 100%"
+      ]
+    ],
+    "contentRevision": "32bfc78feb24",
+    "paraphrases": [
+      [
+        "very close to meeting its goal",
+        "almost achieving its target",
+        "Close to meeting chỉ gần đạt, chưa khẳng định hoàn tất.",
+        1.7,
+        9.3
+      ],
+      [
+        "only two were non-electric",
+        "just two did not run entirely on electricity",
+        "Non-electric được đặt trong đối chiếu với all-electric của đoạn.",
+        46.4,
+        51.3
+      ],
+      [
+        "profitable to choose an electric car",
+        "financially beneficial to select an EV",
+        "Profitable ở đây nói về lợi ích tiền bạc.",
+        96.5,
+        108.6
+      ],
+      [
+        "10 years ahead of the target",
+        "a decade earlier than the planned deadline",
+        "Ahead of trong mốc thời gian nghĩa là sớm hơn.",
+        121.9,
+        128.7
+      ],
+      [
+        "has not banned the sale",
+        "has not made selling them illegal",
+        "Không được biến has not banned thành lệnh cấm.",
+        132.8,
+        143.9
+      ],
+      [
+        "tax breaks",
+        "reductions in the amount of tax owed",
+        "Tax break là ưu đãi thuế.",
+        145,
+        152
+      ],
+      [
+        "are also permitted to use",
+        "are also allowed to travel on",
+        "Permitted đồng nghĩa allowed trong quy định giao thông.",
+        169.3,
+        176.5
+      ],
+      [
+        "have been reduced over the years",
+        "have gradually become smaller",
+        "Reduced nói ưu đãi đã giảm, không nhất thiết bị bỏ hết.",
+        177.6,
+        187.6
+      ],
+      [
+        "a nationwide charging network",
+        "a system of charging points across the country",
+        "Nationwide là phạm vi cả nước.",
+        229.7,
+        253.1
+      ],
+      [
+        "numerous charging stations available",
+        "many places where the battery can be recharged",
+        "Numerous là nhiều về số lượng.",
+        254,
+        259.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "vehicle",
+        "meaning": "phương tiện giao thông",
+        "note": "A machine used to transport people or goods."
+      },
+      {
+        "term": "register",
+        "meaning": "đăng ký",
+        "note": "To record something officially."
+      },
+      {
+        "term": "incentive",
+        "meaning": "biện pháp khuyến khích",
+        "note": "A benefit encouraging a particular choice."
+      },
+      {
+        "term": "profitable",
+        "meaning": "có lợi về tài chính",
+        "note": "Bringing financial benefit."
+      },
+      {
+        "term": "emission",
+        "meaning": "sự phát thải",
+        "note": "The release of gas or other substances."
+      },
+      {
+        "term": "tax break",
+        "meaning": "ưu đãi thuế",
+        "note": "A reduction in tax owed."
+      },
+      {
+        "term": "toll",
+        "meaning": "phí sử dụng đường",
+        "note": "A charge for using a road or bridge."
+      },
+      {
+        "term": "battery",
+        "meaning": "pin; ắc quy",
+        "note": "A device that stores electrical energy."
+      },
+      {
+        "term": "nationwide",
+        "meaning": "trên toàn quốc",
+        "note": "Extending across the country."
+      },
+      {
+        "term": "numerous",
+        "meaning": "nhiều",
+        "note": "Existing in large numbers."
+      }
+    ],
+    "signals": [
+      "Even though…",
+      "Instead,…",
+      "On the other hand,…",
+      "Even if…"
+    ]
+  },
+  "47": {
+    "paragraphs": [
+      "New Zealand’s parliament recently passed a law that gives a mountain all the [1]. The indigenous Māori people of New Zealand [2]. The mountain is now known by its Māori name, Taranaki Maunga. The Māori people of New Zealand represent [3] of the country’s population. Taranaki Maunga is [4] on New Zealand’s North Island. Snow covers the top of [5]. It is a popular place for tourism, hiking and snow sports. The legal recognition of the mountain is one of the steps New Zealand’s government has taken to [6] the indigenous population suffered in the past. The new law makes it known that the Taranaki area was stolen from the Māori after New Zealand was colonized. The new law gives Taranaki Maunga all the rights, powers, duties, responsibilities and liabilities of a person.",
+      "The law says [7] will be “the face and voice” of the mountain. Four members from local Māori tribes and [8] by the country's conservation minister will be in the group. Paul Goldsmith is the lawmaker responsible for the legal settlements between the government and Māori tribes. In a speech to Parliament, he said, “The mountain has long been an honored ancestor, a source of [9] and [10].\" Britain colonized New Zealand in the 1700s and 1800s. In 1770, the British explorer Captain James Cook named the volcano Mount Egmont. In 1840, Māori tribes and representatives of the British government signed the Treaty of Waitangi. The treaty promised the Māori would keep [11].",
+      "However, the British government began breaking parts of the treaty after that. In 1865, the government took a large area of Taranaki land, including the mountain, to punish the Māori for [12]. Over the next one hundred years, hunting and sports groups helped [13], but the Māori did not. Goldsmith told the Associated Press that, in the past, Māori customs connected to the mountain were banned while the government supported tourism in the area. The Māori protest movement of the 1970s and 1980s led to [14] of the Māori language, culture and rights in New Zealand’s law. This has included [15] to pay for the harm caused by breaking the Treaty of Waitangi. The mountain's legal rights are in place to [16]. The law will support traditional uses of the land and calls for [17] to protect the native wildlife.",
+      "The mountain will [18]. New Zealand was the first country in the world to [19]. In 2014, a law gave personhood to Te Urewera, a large forest on the North Island. [20] and the Tūhoe tribe [21]. And in 2017, New Zealand recognized the Whanganui River as a human, as part of a settlement with the tribe connected to the river. [22] in Parliament supported the new law for Taranaki Maunga.",
+      "The unity of the vote was a change from recent disagreements in New Zealand about proposed changes to the Treaty of Waitangi itself. In November, [23] marched to Parliament to protest a new law with proposed changes to the treaty. The protesters said the new law would [24] and harm the progress that has been made during the last 50 years. Most officials [25] with the proposed changes to become law. I’m Andrew Smith."
+    ],
+    "answers": [
+      "rights and responsibilities of a human being",
+      "consider the mountain their ancestor",
+      "about 15 percent",
+      "a dormant volcano",
+      "the 2,516-meter-high mountain",
+      "make up for harm",
+      "a newly created group",
+      "four members appointed",
+      "physical, cultural and spiritual sustenance",
+      "a final resting place",
+      "the rights to their land and resources",
+      "rebelling against British rule",
+      "oversee how the land was used",
+      "increased recognition",
+      "billions of dollars",
+      "support its health and wellbeing",
+      "conservation work",
+      "remain open to the public",
+      "recognize landforms as people",
+      "Government ownership ended",
+      "became its guardian",
+      "All 123 lawmakers",
+      "about 40,000 people",
+      "take away Māori rights",
+      "do not expect the bill"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "about fifteen percent",
+        "about 15%"
+      ],
+      [],
+      [
+        "the two thousand five hundred sixteen meter high mountain",
+        "the two thousand five hundred and sixteen meter high mountain",
+        "the 2516 metre high mountain"
+      ],
+      [],
+      [],
+      [
+        "4 members appointed"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "support its health and well-being"
+      ],
+      [],
+      [],
+      [
+        "recognise landforms as people"
+      ],
+      [],
+      [],
+      [
+        "all one hundred twenty-three lawmakers",
+        "all one hundred and twenty-three lawmakers"
+      ],
+      [
+        "about forty thousand people"
+      ],
+      [
+        "take away Maori rights"
+      ],
+      []
+    ],
+    "contentRevision": "493d01049917",
+    "paraphrases": [
+      [
+        "a dormant volcano",
+        "a volcano that is not currently erupting",
+        "Dormant không khẳng định núi lửa đã tắt vĩnh viễn.",
+        38.8,
+        45.3
+      ],
+      [
+        "make up for harm",
+        "compensate for damage caused",
+        "Make up for ở đây là bù đắp tổn hại.",
+        60.9,
+        75.6
+      ],
+      [
+        "“the face and voice” of the mountain",
+        "the mountain’s official representatives",
+        "Face and voice là hình ảnh chỉ người đại diện.",
+        102.1,
+        109.5
+      ],
+      [
+        "a final resting place",
+        "a place where the dead are laid to rest",
+        "Final resting place là cách nói về nơi an táng.",
+        137.9,
+        150.7
+      ],
+      [
+        "rebelling against British rule",
+        "resisting British authority",
+        "Rebel against nghĩa là chống lại quyền cai trị.",
+        196.1,
+        211.2
+      ],
+      [
+        "oversee how the land was used",
+        "supervise the use of the land",
+        "Oversee là giám sát, quản lý.",
+        212.1,
+        224
+      ],
+      [
+        "increased recognition",
+        "greater official acknowledgement",
+        "Recognition nói về sự thừa nhận chính thức.",
+        241.7,
+        257
+      ],
+      [
+        "remain open to the public",
+        "continue to be accessible to everyone",
+        "Remain giữ ý vẫn tiếp tục, không phải mới mở.",
+        288.5,
+        291.6
+      ],
+      [
+        "became its guardian",
+        "took responsibility for protecting it",
+        "Guardian là người hoặc tổ chức bảo vệ và chăm sóc.",
+        311.7,
+        317.5
+      ],
+      [
+        "do not expect the bill with the proposed changes to become law",
+        "think the proposed changes are unlikely to be enacted",
+        "Câu thể hiện dự đoán không được thông qua, không phải đã bị bác bỏ.",
+        382.9,
+        390.2
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "indigenous",
+        "meaning": "bản địa",
+        "note": "Originating naturally in a place before later settlers."
+      },
+      {
+        "term": "ancestor",
+        "meaning": "tổ tiên",
+        "note": "A person or being regarded as an earlier source of descent."
+      },
+      {
+        "term": "dormant",
+        "meaning": "tạm ngừng hoạt động",
+        "note": "Inactive for a period but capable of becoming active again."
+      },
+      {
+        "term": "liability",
+        "meaning": "nghĩa vụ pháp lý",
+        "note": "A responsibility recognised by law."
+      },
+      {
+        "term": "appoint",
+        "meaning": "bổ nhiệm",
+        "note": "To choose someone officially for a role."
+      },
+      {
+        "term": "sustenance",
+        "meaning": "nguồn nuôi dưỡng",
+        "note": "Support that maintains physical or spiritual life."
+      },
+      {
+        "term": "treaty",
+        "meaning": "hiệp ước",
+        "note": "A formal agreement between states or peoples."
+      },
+      {
+        "term": "oversee",
+        "meaning": "giám sát",
+        "note": "To supervise an activity or area."
+      },
+      {
+        "term": "guardian",
+        "meaning": "người bảo hộ",
+        "note": "Someone responsible for protecting something."
+      },
+      {
+        "term": "bill",
+        "meaning": "dự luật",
+        "note": "A proposed law under consideration."
+      }
+    ],
+    "signals": [
+      "However,…",
+      "Over the next one hundred years,…",
+      "This has included…",
+      "Most officials do not expect…"
+    ]
+  },
+  "48": {
+    "paragraphs": [
+      "International visitors to Israel used to visit Ein Gedi, a popular beach on the Dead Sea. The Dead Sea is the place on Earth’s surface that is [1]. Now, the beautiful desert area is [2] beside the shrinking, salty lake. The beach has been [3], mainly because of the appearance of dangerous holes in the ground. These holes, known as sinkholes, are caused by [4]. The beach has been closed because the drop in the sea's level has made it [5]. These environmental changes are not new. The Dead Sea, where Israeli, Jordanian and Palestinian territory meet, has been dying for years. With the current conflict in the Middle East, [6] have disappeared too. Nadav Tal of the Israel office of Eco Peace, a non-profit group, told the French News Agency (AFP), \"[7] is the key to saving the Dead Sea.\" Tal added: \"Because we are living in a conflict area, there is [8].\" Tal described how the sea has been declining [9] since the 1960s. The evaporation of the salty waters takes place partly because temperatures reach [10] in the summer. The sea has also been affected by years of [11] from the sea's main source, the Jordan River, and [12] which begin in Lebanon and Syria.",
+      "Local factories also use the water to get minerals -- potash, bromine, sodium chloride, and magnesium chloride, among others. Tal told AFP, \"The consequences of this [13] is what we see around us.” He described it as an “[14],\" adding that \"the declining of the Dead Sea is a disaster for Israeli tourism.\" Efforts to deal with the Dead Sea disaster include [15] signed by Israel and Jordan. But the wars taking place in Gaza and beyond have brought tensions to [16]. As a result, [17] are no longer getting attention. At Israel's environment ministry, Ohad Carny has been working on the Dead Sea issue for years. He said the government was [18]. They include [19] and making a canal from either the north or the south to deal with [20] in the area including the Dead Sea.",
+      "But, he said, \"It doesn't make economic or environmental sense to desalinate water and bring it directly to the Dead Sea, because then it's [21] and the region needs…more drinking water and [22].” Carny said that his attention was on the Israeli side.",
+      "But he added, \"We can't do it alone. It must be [23]. So [24], and we won't do anything without an agreement together with the Jordanian side.\" Back at the Dead Sea, 40-year-old bus driver Benny is at a place where people can still visit. Benny was getting some winter sun at one of the warm sinkhole pools. He said the sea's changes were difficult. \"But everything has [25]. Because of what is happening here, we have water spots like this one.\" I’m John Russell."
+    ],
+    "answers": [
+      "farthest below sea level",
+      "in ruins",
+      "closed to the public for five years",
+      "the collapse of the surface layer",
+      "difficult to reach its waters",
+      "efforts to deal with the environmental problem",
+      "Regional cooperation",
+      "an obstacle",
+      "more than one meter per year",
+      "up to 50 degrees Celsius",
+      "increasing water usage",
+      "other smaller waterways",
+      "water diversion",
+      "ecological disaster",
+      "past agreements",
+      "an all-time high",
+      "cross-border environmental issues",
+      "looking into several solutions",
+      "building a desalination factory",
+      "water shortages",
+      "a waste of drinking water",
+      "more water for agriculture",
+      "a joint effort",
+      "only time will tell",
+      "a plus and minus"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "closed to the public for 5 years"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "more than one metre per year",
+        "more than 1 meter per year",
+        "more than 1 metre per year"
+      ],
+      [
+        "up to fifty degrees Celsius"
+      ],
+      [],
+      [],
+      [],
+      [
+        "ecological disaster"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "7506bd6cf925",
+    "paraphrases": [
+      [
+        "farthest below sea level",
+        "at the greatest depth beneath the ocean’s surface level",
+        "Farthest below mô tả độ thấp của bề mặt đất so với mực biển.",
+        10.3,
+        16.6
+      ],
+      [
+        "in ruins",
+        "in a badly damaged condition",
+        "In ruins là tình trạng bị tàn phá hoặc xuống cấp nghiêm trọng.",
+        17.5,
+        24.7
+      ],
+      [
+        "the collapse of the surface layer",
+        "the ground’s upper layer falling in",
+        "Collapse mô tả mặt đất sụp xuống tạo hố.",
+        36.4,
+        43.8
+      ],
+      [
+        "Regional cooperation is the key",
+        "Working together across the region is essential",
+        "The key trong câu nghĩa là yếu tố thiết yếu.",
+        88.1,
+        92.4
+      ],
+      [
+        "there is an obstacle",
+        "there is something blocking progress",
+        "Obstacle là trở ngại đối với việc hợp tác.",
+        93.5,
+        99.3
+      ],
+      [
+        "water diversion",
+        "redirecting water away from its usual course",
+        "Diversion nói về việc chuyển dòng nước.",
+        149.4,
+        157
+      ],
+      [
+        "an all-time high",
+        "a higher level than ever before",
+        "All-time high là mức cao nhất từng được ghi nhận.",
+        177.9,
+        184.5
+      ],
+      [
+        "looking into several solutions",
+        "examining a number of possible ways to address the problem",
+        "Look into là xem xét, tìm hiểu.",
+        202.1,
+        221.1
+      ],
+      [
+        "a joint effort",
+        "work carried out together",
+        "Joint nhấn mạnh cần nhiều bên tham gia.",
+        249.5,
+        255.1
+      ],
+      [
+        "only time will tell",
+        "the outcome will become clear in the future",
+        "Cụm này nói kết quả hiện chưa thể biết chắc.",
+        256.2,
+        264.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "sinkhole",
+        "meaning": "hố sụt",
+        "note": "A hole formed when the surface ground collapses."
+      },
+      {
+        "term": "collapse",
+        "meaning": "sự sụp đổ",
+        "note": "A sudden falling in or failure of a structure."
+      },
+      {
+        "term": "obstacle",
+        "meaning": "trở ngại",
+        "note": "Something that prevents progress."
+      },
+      {
+        "term": "evaporation",
+        "meaning": "sự bay hơi",
+        "note": "The change of liquid water into vapour."
+      },
+      {
+        "term": "waterway",
+        "meaning": "đường dẫn nước",
+        "note": "A river or channel through which water flows."
+      },
+      {
+        "term": "diversion",
+        "meaning": "sự chuyển hướng",
+        "note": "The redirection of something from its usual course."
+      },
+      {
+        "term": "ecological",
+        "meaning": "thuộc sinh thái",
+        "note": "Related to organisms and their environment."
+      },
+      {
+        "term": "desalination",
+        "meaning": "sự khử mặn",
+        "note": "The removal of salt from water."
+      },
+      {
+        "term": "canal",
+        "meaning": "kênh đào",
+        "note": "An artificial channel for water."
+      },
+      {
+        "term": "joint",
+        "meaning": "chung; phối hợp",
+        "note": "Involving two or more parties together."
+      }
+    ],
+    "signals": [
+      "mainly because of…",
+      "As a result,…",
+      "But he added…",
+      "Because of what is happening…"
+    ]
+  },
+  "49": {
+    "title": "Extreme weather and interrupted schooling",
+    "paragraphs": [
+      "A United Nations report has found that [1] of [2] last year. The weather included severe events such as heatwaves, cyclones and [3], the U.N.’s Children’s Fund (UNICEF) said. [4] were affected. UNICEF said weather-related interruptions amounted to [5] across the world [6] at some point during 2024.",
+      "The report also noted that some countries said that hundreds of their schools were destroyed by weather. Nations in Asia and sub-Saharan Africa [7]. But the report said other parts of the world also experienced problems. The report noted that heavy rains and flooding near the end of 2024 disrupted school for [8]. And in Spain, thousands of students had their classes canceled [9]. UNICEF reported that southern Europe experienced deadly floods and parts of Asia and Africa suffered flooding and cyclones. But heatwaves, the report noted, were “[10] shuttering schools last year.” [11] had their schooling interrupted [12], the report said.",
+      "Those interruptions were linked to heatwaves in parts of the Middle East and Asia. School was interrupted because temperatures rose [13]. UNICEF executive director Catherine Russell said in a statement the report shows that the world’s children today “are [14]” to extreme weather-related events than in the past. She added, “Children cannot concentrate in classrooms that [15], and they cannot get to school if the path is flooded, or if schools are washed away.\" [16] of the children affected in 2024 were in [17], the report said.",
+      "UNICEF said this demonstrates how climate extremes continue to have [18] on the world’s poorest countries. In Pakistan, flooding ruined [19] in April. And Afghanistan experienced heatwaves [20] that destroyed [21] in May. [22] in southern Africa threatened schooling for millions of children, the report added. More recently, the French territory of Mayotte in the Indian Ocean off Africa [23] by Cyclone Chido in December. Cyclone Chido also destroyed [24] and three education departments in Mozambique. The U.N. children’s agency report stated that the world's schools and education systems “[25]” to deal with the effects of extreme weather.",
+      "I’m Bryan Lynn."
+    ],
+    "answers": [
+      "extreme weather interrupted the schooling",
+      "at least 242 million children",
+      "extreme dryness and flooding",
+      "Students in 85 nations",
+      "one in seven school-aged children",
+      "being kept out of class",
+      "were hit especially hard",
+      "more than 900,000 children in Italy",
+      "because of severe flooding",
+      "the predominant climate hazard",
+      "More than 118 million children",
+      "in April alone",
+      "above 40 degrees Celsius",
+      "more vulnerable",
+      "offer no respite from sweltering heat",
+      "Around 74 percent",
+      "middle- and low-income countries",
+      "a damaging effect",
+      "more than 400 schools",
+      "followed by severe flooding",
+      "more than 110 schools",
+      "Months of drought",
+      "was left in ruins",
+      "more than 330 schools",
+      "are largely ill-equipped"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "at least two hundred forty-two million children",
+        "at least two hundred and forty-two million children"
+      ],
+      [],
+      [
+        "students in eighty-five nations"
+      ],
+      [
+        "1 in 7 school-aged children"
+      ],
+      [],
+      [],
+      [
+        "more than nine hundred thousand children in Italy"
+      ],
+      [],
+      [],
+      [
+        "more than one hundred eighteen million children",
+        "more than one hundred and eighteen million children"
+      ],
+      [],
+      [
+        "above forty degrees Celsius"
+      ],
+      [],
+      [],
+      [
+        "around seventy-four percent",
+        "around 74%"
+      ],
+      [],
+      [],
+      [
+        "more than four hundred schools"
+      ],
+      [],
+      [
+        "more than one hundred ten schools",
+        "more than one hundred and ten schools"
+      ],
+      [],
+      [],
+      [
+        "more than three hundred thirty schools",
+        "more than three hundred and thirty schools"
+      ],
+      []
+    ],
+    "contentRevision": "9418e3a010f9",
+    "paraphrases": [
+      [
+        "at least 242 million children",
+        "no fewer than two hundred and forty-two million children",
+        "At least nêu mức tối thiểu, không phải số lượng chính xác duy nhất.",
+        0,
+        19.1
+      ],
+      [
+        "being kept out of class",
+        "being prevented from attending lessons",
+        "Kept out trong bài là không thể đến lớp vì thời tiết.",
+        38.7,
+        56.6
+      ],
+      [
+        "were hit especially hard",
+        "suffered particularly serious effects",
+        "Hit hard là chịu tác động nặng nề.",
+        64,
+        80.3
+      ],
+      [
+        "the predominant climate hazard",
+        "the main weather-related danger",
+        "Predominant nghĩa là chủ yếu, không phải duy nhất.",
+        111.8,
+        129.2
+      ],
+      [
+        "in April alone",
+        "during just the month of April",
+        "Alone nhấn mạnh chỉ tính riêng tháng đó.",
+        129.2,
+        137.1
+      ],
+      [
+        "more vulnerable",
+        "more easily harmed",
+        "Vulnerable nói về mức độ dễ bị tổn thương.",
+        159.2,
+        165.8
+      ],
+      [
+        "offer no respite from sweltering heat",
+        "provide no relief from extremely hot conditions",
+        "Respite là khoảng thời gian hoặc điều kiện giúp giảm khó chịu.",
+        165.8,
+        189.2
+      ],
+      [
+        "have a damaging effect",
+        "cause harmful consequences",
+        "Damaging mô tả tác động tiêu cực.",
+        196.5,
+        214.5
+      ],
+      [
+        "was left in ruins",
+        "was severely devastated",
+        "Left in ruins là bị tàn phá nghiêm trọng.",
+        239.2,
+        248.2
+      ],
+      [
+        "are largely ill-equipped",
+        "generally lack the resources needed to cope",
+        "Ill-equipped nói thiếu điều kiện đáp ứng, không phải không muốn làm.",
+        258.3,
+        279
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "schooling",
+        "meaning": "việc học ở trường",
+        "note": "Education received at school."
+      },
+      {
+        "term": "cyclone",
+        "meaning": "xoáy thuận nhiệt đới",
+        "note": "A powerful rotating storm."
+      },
+      {
+        "term": "disrupt",
+        "meaning": "làm gián đoạn",
+        "note": "To interrupt the normal course of an activity."
+      },
+      {
+        "term": "predominant",
+        "meaning": "chủ yếu",
+        "note": "More common or important than the others."
+      },
+      {
+        "term": "hazard",
+        "meaning": "mối nguy",
+        "note": "Something that can cause harm."
+      },
+      {
+        "term": "vulnerable",
+        "meaning": "dễ bị tổn thương",
+        "note": "Easily harmed by a threat or difficulty."
+      },
+      {
+        "term": "respite",
+        "meaning": "sự giảm nhẹ tạm thời",
+        "note": "A short period of relief from difficulty."
+      },
+      {
+        "term": "sweltering",
+        "meaning": "nóng ngột ngạt",
+        "note": "Uncomfortably and intensely hot."
+      },
+      {
+        "term": "drought",
+        "meaning": "hạn hán",
+        "note": "A prolonged period with very little rain."
+      },
+      {
+        "term": "ill-equipped",
+        "meaning": "thiếu trang bị cần thiết",
+        "note": "Lacking the resources or preparation needed."
+      }
+    ],
+    "signals": [
+      "at least…",
+      "But heatwaves,…",
+      "In April alone,…",
+      "More recently,…"
     ]
   }
 };

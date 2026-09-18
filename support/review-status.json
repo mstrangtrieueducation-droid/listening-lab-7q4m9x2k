@@ -514,7 +514,7 @@
     {
       "code": "L1-42",
       "status": "content-reviewed-build-validated",
-      "revision": "66fff3f60592",
+      "revision": "b4169418dd67",
       "gapCount": 25,
       "issuesFixed": [
         "Removed link syntax and URL-derived answer 23",
@@ -558,8 +558,68 @@
         "Restored speech-only ending",
         "Replaced arbitrary fragments with 25 meaningful targets and 10 paraphrases"
       ]
+    },
+    {
+      "code": "L1-46",
+      "status": "content-reviewed-build-validated",
+      "revision": "704c04556819",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed written agency and adaptation credits absent from audio",
+        "Restored presenter sign-off",
+        "Replaced 25 arbitrary fragments with complete behavioural and conservation phrases",
+        "Built 10 contextual pairs with real replay intervals"
+      ]
+    },
+    {
+      "code": "L1-47",
+      "status": "content-reviewed-build-validated",
+      "revision": "32bfc78feb24",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Separated road tolls",
+        "Restored spoken acronym expansions and sign-off",
+        "Designed full numerical and policy phrases",
+        "Kept target, incentives and absence of a ban distinct"
+      ]
+    },
+    {
+      "code": "L1-48",
+      "status": "content-reviewed-build-validated",
+      "revision": "493d01049917",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed duplicated river-photo caption",
+        "Replaced partial-word Māori gaps with whole phrases",
+        "Restored final spoken identification",
+        "Distinguished dormant from extinct and a bill from enacted law"
+      ]
+    },
+    {
+      "code": "L1-49",
+      "status": "content-reviewed-build-validated",
+      "revision": "7506bd6cf925",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed both repeated photo captions and credits",
+        "Separated merged words and restored an unbroken quotation",
+        "Replaced mechanical fragments with complete environmental phrases",
+        "Preserved conditional arguments about water use and cooperation"
+      ]
+    },
+    {
+      "code": "L1-50",
+      "status": "content-reviewed-build-validated",
+      "revision": "9418e3a010f9",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed non-spoken editorial credits",
+        "Repaired merged weather vocabulary",
+        "Changed misleading 250 million title to neutral topic",
+        "Selected complete quantities and meaningful phrases with explicit number equivalents"
+      ]
     }
   ],
-  "pending": 55,
+  "pending": 50,
   "note": "Build validation is not proof of deployment. Unlisted lessons have not completed individual review."
 }

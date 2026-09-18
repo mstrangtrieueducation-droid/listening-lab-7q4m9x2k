@@ -16,6 +16,10 @@ For each lesson, in order:
 
 `support/review-status.json` records content/build validation, not deployment. Do not describe the entire course as reviewed while lessons remain pending.
 
-Do not regenerate this content using arbitrary word windows, synonym substitution or a blanket cleanup regex. There is a known duplicate at L1-26 / L1-08 that must be resolved separately. The legacy submission transport hard-codes a total of 35: audit the server and transport together before changing Level 2's 50-point reporting.
+Do not regenerate this content using arbitrary word windows, synonym substitution or a blanket cleanup regex.
+
+L1-26 was replaced with the teacher-approved television-invention report, preserving its access token and form code; the old audio remains available for rollback. All 50 Level 1 lessons have individual records. Level 2 remains pending until its own records are reviewed.
+
+The submission endpoint was updated to version 16 on 2026-09-18. It accepts real-source codes R01–R50 for each level, validates Listening /25 for L1 and /40 for L2, and returns totals /35 and /50 respectively. Legacy P01–P04 submissions retain their original /35 handling and fingerprints. Updated frontend scripts validate the corresponding receipt and recover previously rejected R-code submissions without altering their payloads. Backend tests use mocked sheets; never create fake live grades. Existing scorebook header labels still reflect the legacy form denominators and need a separate compatible label review before any sheet-header migration.
 
 Evidence and release logs for this review are in the local workspace folder `fighter-listening-content-audit-20260917`; they are not student-facing assets.

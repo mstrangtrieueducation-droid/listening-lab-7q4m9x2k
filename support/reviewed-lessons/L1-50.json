@@ -1,0 +1,223 @@
+{
+  "code": "L1-50",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-50.mp3",
+  "evidenceNote": "Compared full 279-second MP3 ASR with source. Focused small.en verification of 145–198 seconds confirmed the director attribution, flooded paths/washed-away schools and 74 percent omitted by the first pass. Removed non-spoken credits, separated cyclones and, and restored presenter. Neutral title avoids the original 250 million headline versus spoken 242 million mismatch.",
+  "replacement": {
+    "title": "Extreme weather and interrupted schooling"
+  },
+  "removeSpans": [
+    {
+      "start": "The Associated Press reported this story.",
+      "end": null
+    }
+  ],
+  "textReplacements": [
+    [
+      "cyclonesand",
+      "cyclones and"
+    ]
+  ],
+  "appendText": "I’m Bryan Lynn.",
+  "gaps": [
+    "extreme weather interrupted the schooling",
+    "at least 242 million children",
+    "extreme dryness and flooding",
+    "Students in 85 nations",
+    "one in seven school-aged children",
+    "being kept out of class",
+    "were hit especially hard",
+    "more than 900,000 children in Italy",
+    "because of severe flooding",
+    "the predominant climate hazard",
+    "More than 118 million children",
+    "in April alone",
+    "above 40 degrees Celsius",
+    "more vulnerable",
+    "offer no respite from sweltering heat",
+    "Around 74 percent",
+    "middle- and low-income countries",
+    "a damaging effect",
+    "more than 400 schools",
+    "followed by severe flooding",
+    "more than 110 schools",
+    "Months of drought",
+    "was left in ruins",
+    "more than 330 schools",
+    "are largely ill-equipped"
+  ],
+  "acceptedVariants": {
+    "at least 242 million children": [
+      "at least two hundred forty-two million children",
+      "at least two hundred and forty-two million children"
+    ],
+    "Students in 85 nations": [
+      "students in eighty-five nations"
+    ],
+    "one in seven school-aged children": [
+      "1 in 7 school-aged children"
+    ],
+    "more than 900,000 children in Italy": [
+      "more than nine hundred thousand children in Italy"
+    ],
+    "More than 118 million children": [
+      "more than one hundred eighteen million children",
+      "more than one hundred and eighteen million children"
+    ],
+    "above 40 degrees Celsius": [
+      "above forty degrees Celsius"
+    ],
+    "Around 74 percent": [
+      "around seventy-four percent",
+      "around 74%"
+    ],
+    "more than 400 schools": [
+      "more than four hundred schools"
+    ],
+    "more than 110 schools": [
+      "more than one hundred ten schools",
+      "more than one hundred and ten schools"
+    ],
+    "more than 330 schools": [
+      "more than three hundred thirty schools",
+      "more than three hundred and thirty schools"
+    ]
+  },
+  "paraphrases": [
+    [
+      "at least 242 million children",
+      "no fewer than two hundred and forty-two million children",
+      "At least nêu mức tối thiểu, không phải số lượng chính xác duy nhất.",
+      0,
+      19.1
+    ],
+    [
+      "being kept out of class",
+      "being prevented from attending lessons",
+      "Kept out trong bài là không thể đến lớp vì thời tiết.",
+      38.7,
+      56.6
+    ],
+    [
+      "were hit especially hard",
+      "suffered particularly serious effects",
+      "Hit hard là chịu tác động nặng nề.",
+      64,
+      80.3
+    ],
+    [
+      "the predominant climate hazard",
+      "the main weather-related danger",
+      "Predominant nghĩa là chủ yếu, không phải duy nhất.",
+      111.8,
+      129.2
+    ],
+    [
+      "in April alone",
+      "during just the month of April",
+      "Alone nhấn mạnh chỉ tính riêng tháng đó.",
+      129.2,
+      137.1
+    ],
+    [
+      "more vulnerable",
+      "more easily harmed",
+      "Vulnerable nói về mức độ dễ bị tổn thương.",
+      159.2,
+      165.8
+    ],
+    [
+      "offer no respite from sweltering heat",
+      "provide no relief from extremely hot conditions",
+      "Respite là khoảng thời gian hoặc điều kiện giúp giảm khó chịu.",
+      165.8,
+      189.2
+    ],
+    [
+      "have a damaging effect",
+      "cause harmful consequences",
+      "Damaging mô tả tác động tiêu cực.",
+      196.5,
+      214.5
+    ],
+    [
+      "was left in ruins",
+      "was severely devastated",
+      "Left in ruins là bị tàn phá nghiêm trọng.",
+      239.2,
+      248.2
+    ],
+    [
+      "are largely ill-equipped",
+      "generally lack the resources needed to cope",
+      "Ill-equipped nói thiếu điều kiện đáp ứng, không phải không muốn làm.",
+      258.3,
+      279
+    ]
+  ],
+  "vocabulary": [
+    [
+      "schooling",
+      "việc học ở trường",
+      "Education received at school."
+    ],
+    [
+      "cyclone",
+      "xoáy thuận nhiệt đới",
+      "A powerful rotating storm."
+    ],
+    [
+      "disrupt",
+      "làm gián đoạn",
+      "To interrupt the normal course of an activity."
+    ],
+    [
+      "predominant",
+      "chủ yếu",
+      "More common or important than the others."
+    ],
+    [
+      "hazard",
+      "mối nguy",
+      "Something that can cause harm."
+    ],
+    [
+      "vulnerable",
+      "dễ bị tổn thương",
+      "Easily harmed by a threat or difficulty."
+    ],
+    [
+      "respite",
+      "sự giảm nhẹ tạm thời",
+      "A short period of relief from difficulty."
+    ],
+    [
+      "sweltering",
+      "nóng ngột ngạt",
+      "Uncomfortably and intensely hot."
+    ],
+    [
+      "drought",
+      "hạn hán",
+      "A prolonged period with very little rain."
+    ],
+    [
+      "ill-equipped",
+      "thiếu trang bị cần thiết",
+      "Lacking the resources or preparation needed."
+    ]
+  ],
+  "signals": [
+    "at least…",
+    "But heatwaves,…",
+    "In April alone,…",
+    "More recently,…"
+  ],
+  "issuesFixed": [
+    "Removed non-spoken editorial credits",
+    "Repaired merged weather vocabulary",
+    "Changed misleading 250 million title to neutral topic",
+    "Selected complete quantities and meaningful phrases with explicit number equivalents"
+  ]
+}

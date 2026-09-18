@@ -1,0 +1,192 @@
+{
+  "code": "L1-46",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-46.mp3",
+  "evidenceNote": "Compared every paragraph with timestamped ASR of the full 254-second MP3. The core article is spoken; removed the two written production credits and restored the actual closing presenter. Retained spoken social-media references without using them as promotional metadata.",
+  "removeSpans": [
+    {
+      "start": "Agence France-Presse reported this story.",
+      "end": null
+    }
+  ],
+  "appendText": "I’m Bryan Lynn.",
+  "gaps": [
+    "stay away from wild monkeys",
+    "aggressive and destructive",
+    "feed the animals or interact with them",
+    "grow their online followings",
+    "native to forest areas",
+    "more destructive of property",
+    "too much human interaction",
+    "repeatedly feed the monkeys",
+    "natural behavior",
+    "cause injuries among people",
+    "causing damage to stonework",
+    "dates back centuries",
+    "On top of biting visitors",
+    "pushing stones down",
+    "damaged information signs",
+    "leave the monkeys alone",
+    "an appropriate solution",
+    "about 900 years ago",
+    "the developing nation",
+    "More than one million foreign tourists",
+    "in 1992",
+    "increased legal protection and security",
+    "wildlife sightings",
+    "support conservation education efforts",
+    "carry out a census of monkeys"
+  ],
+  "acceptedVariants": {
+    "natural behavior": [
+      "natural behaviour"
+    ],
+    "about 900 years ago": [
+      "about nine hundred years ago"
+    ],
+    "More than one million foreign tourists": [
+      "more than 1 million foreign tourists",
+      "more than 1,000,000 foreign tourists"
+    ],
+    "in 1992": [
+      "in nineteen ninety-two"
+    ]
+  },
+  "paraphrases": [
+    [
+      "stay away from wild monkeys",
+      "avoid approaching the wild animals",
+      "Stay away là giữ khoảng cách, không lại gần.",
+      0,
+      13.5
+    ],
+    [
+      "aggressive and destructive",
+      "likely to attack and cause damage",
+      "Hai tính từ mô tả hai loại hành vi.",
+      14.4,
+      20.3
+    ],
+    [
+      "grow their online followings",
+      "increase the number of people following them online",
+      "Following là tập hợp người theo dõi.",
+      35.3,
+      48.4
+    ],
+    [
+      "native to forest areas",
+      "naturally found in those wooded regions",
+      "Native to nói về nơi loài vốn sinh sống.",
+      49.4,
+      62.1
+    ],
+    [
+      "too much human interaction",
+      "excessive contact with people",
+      "Too much mang ý tiếp xúc vượt mức phù hợp.",
+      72.4,
+      91.2
+    ],
+    [
+      "dates back centuries",
+      "has existed for hundreds of years",
+      "Date back nói về nguồn gốc từ thời xa xưa.",
+      127.4,
+      141.2
+    ],
+    [
+      "On top of biting visitors",
+      "In addition to biting tourists",
+      "On top of trong câu nghĩa là ngoài hành động đã nêu.",
+      142.2,
+      157.5
+    ],
+    [
+      "leave the monkeys alone",
+      "stop disturbing or interacting with the monkeys",
+      "Leave alone là để yên.",
+      158.8,
+      167.2
+    ],
+    [
+      "an appropriate solution",
+      "a suitable way to resolve the problem",
+      "Appropriate là phù hợp với vấn đề.",
+      168,
+      175.5
+    ],
+    [
+      "carry out a census of monkeys",
+      "conduct an official count of the monkey population",
+      "Census là cuộc kiểm kê số lượng.",
+      234.2,
+      250.4
+    ]
+  ],
+  "vocabulary": [
+    [
+      "aggressive",
+      "hung hăng",
+      "Ready or likely to attack."
+    ],
+    [
+      "destructive",
+      "có tính phá hoại",
+      "Causing serious damage."
+    ],
+    [
+      "interact",
+      "tương tác",
+      "To act upon or communicate with others."
+    ],
+    [
+      "following",
+      "lượng người theo dõi",
+      "The people who follow a person’s work or online activity."
+    ],
+    [
+      "native",
+      "bản địa",
+      "Naturally belonging to a particular place."
+    ],
+    [
+      "domestic",
+      "được thuần hóa",
+      "Accustomed to living with people."
+    ],
+    [
+      "stonework",
+      "kết cấu bằng đá",
+      "Parts of a building made from stone."
+    ],
+    [
+      "appropriate",
+      "phù hợp",
+      "Suitable for a particular situation."
+    ],
+    [
+      "conservation",
+      "sự bảo tồn",
+      "The protection of wildlife and natural or historic sites."
+    ],
+    [
+      "census",
+      "cuộc kiểm kê",
+      "An official count of a population."
+    ]
+  ],
+  "signals": [
+    "The officials blamed…",
+    "On top of…",
+    "Since becoming…",
+    "Last year,…"
+  ],
+  "issuesFixed": [
+    "Removed written agency and adaptation credits absent from audio",
+    "Restored presenter sign-off",
+    "Replaced 25 arbitrary fragments with complete behavioural and conservation phrases",
+    "Built 10 contextual pairs with real replay intervals"
+  ]
+}

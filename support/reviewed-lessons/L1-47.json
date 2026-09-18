@@ -1,0 +1,224 @@
+{
+  "code": "L1-47",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-47.mp3",
+  "evidenceNote": "Compared all 300 seconds of MP3 ASR against the source. Repaired roadtolls, expanded the acronyms as spoken and restored the presenter. Preserved all report-time statements and differentiated a sales target from a legal ban.",
+  "textReplacements": [
+    [
+      "Federation (OFV),",
+      "Federation, or OFV,"
+    ],
+    [
+      "electric car (EV) ownership",
+      "electric car, or EV, ownership"
+    ],
+    [
+      "Association (ACEA)",
+      "Association, or ACEA,"
+    ],
+    [
+      "European Union (EU).",
+      "European Union, or EU."
+    ],
+    [
+      "roadtolls",
+      "road tolls"
+    ]
+  ],
+  "appendText": "I’m Jill Robbins.",
+  "gaps": [
+    "fully electric new vehicles",
+    "nearly 96 percent",
+    "only two were non-electric",
+    "33rd place",
+    "just 13.6 percent during 2024",
+    "the first recorded decrease",
+    "profitable to choose an electric car",
+    "a major oil and gas producer",
+    "10 years ahead of the target",
+    "has not banned the sale",
+    "a number of tax breaks",
+    "heavily taxes gas-powered vehicles",
+    "road tolls",
+    "free parking in public car parks",
+    "public transportation vehicles",
+    "his concern for the environment",
+    "less costly Chinese EVs",
+    "supply electricity to",
+    "superfast charging stations",
+    "a nationwide charging network",
+    "numerous charging stations available",
+    "as much as before",
+    "15-to-20-minute charging breaks",
+    "fail to meet the 100 percent mark",
+    "between 95 and 100 percent"
+  ],
+  "acceptedVariants": {
+    "nearly 96 percent": [
+      "nearly ninety-six percent",
+      "nearly 96%"
+    ],
+    "only two were non-electric": [
+      "only 2 were non-electric"
+    ],
+    "33rd place": [
+      "thirty-third place"
+    ],
+    "just 13.6 percent during 2024": [
+      "just thirteen point six percent during twenty twenty-four",
+      "just 13.6% during 2024"
+    ],
+    "10 years ahead of the target": [
+      "ten years ahead of the target"
+    ],
+    "15-to-20-minute charging breaks": [
+      "fifteen-to-twenty-minute charging breaks",
+      "15 to 20 minute charging breaks"
+    ],
+    "fail to meet the 100 percent mark": [
+      "fail to meet the one hundred percent mark",
+      "fail to meet the 100% mark"
+    ],
+    "between 95 and 100 percent": [
+      "between ninety-five and one hundred percent",
+      "between 95 and 100%"
+    ]
+  },
+  "paraphrases": [
+    [
+      "very close to meeting its goal",
+      "almost achieving its target",
+      "Close to meeting chỉ gần đạt, chưa khẳng định hoàn tất.",
+      1.7,
+      9.3
+    ],
+    [
+      "only two were non-electric",
+      "just two did not run entirely on electricity",
+      "Non-electric được đặt trong đối chiếu với all-electric của đoạn.",
+      46.4,
+      51.3
+    ],
+    [
+      "profitable to choose an electric car",
+      "financially beneficial to select an EV",
+      "Profitable ở đây nói về lợi ích tiền bạc.",
+      96.5,
+      108.6
+    ],
+    [
+      "10 years ahead of the target",
+      "a decade earlier than the planned deadline",
+      "Ahead of trong mốc thời gian nghĩa là sớm hơn.",
+      121.9,
+      128.7
+    ],
+    [
+      "has not banned the sale",
+      "has not made selling them illegal",
+      "Không được biến has not banned thành lệnh cấm.",
+      132.8,
+      143.9
+    ],
+    [
+      "tax breaks",
+      "reductions in the amount of tax owed",
+      "Tax break là ưu đãi thuế.",
+      145,
+      152
+    ],
+    [
+      "are also permitted to use",
+      "are also allowed to travel on",
+      "Permitted đồng nghĩa allowed trong quy định giao thông.",
+      169.3,
+      176.5
+    ],
+    [
+      "have been reduced over the years",
+      "have gradually become smaller",
+      "Reduced nói ưu đãi đã giảm, không nhất thiết bị bỏ hết.",
+      177.6,
+      187.6
+    ],
+    [
+      "a nationwide charging network",
+      "a system of charging points across the country",
+      "Nationwide là phạm vi cả nước.",
+      229.7,
+      253.1
+    ],
+    [
+      "numerous charging stations available",
+      "many places where the battery can be recharged",
+      "Numerous là nhiều về số lượng.",
+      254,
+      259.5
+    ]
+  ],
+  "vocabulary": [
+    [
+      "vehicle",
+      "phương tiện giao thông",
+      "A machine used to transport people or goods."
+    ],
+    [
+      "register",
+      "đăng ký",
+      "To record something officially."
+    ],
+    [
+      "incentive",
+      "biện pháp khuyến khích",
+      "A benefit encouraging a particular choice."
+    ],
+    [
+      "profitable",
+      "có lợi về tài chính",
+      "Bringing financial benefit."
+    ],
+    [
+      "emission",
+      "sự phát thải",
+      "The release of gas or other substances."
+    ],
+    [
+      "tax break",
+      "ưu đãi thuế",
+      "A reduction in tax owed."
+    ],
+    [
+      "toll",
+      "phí sử dụng đường",
+      "A charge for using a road or bridge."
+    ],
+    [
+      "battery",
+      "pin; ắc quy",
+      "A device that stores electrical energy."
+    ],
+    [
+      "nationwide",
+      "trên toàn quốc",
+      "Extending across the country."
+    ],
+    [
+      "numerous",
+      "nhiều",
+      "Existing in large numbers."
+    ]
+  ],
+  "signals": [
+    "Even though…",
+    "Instead,…",
+    "On the other hand,…",
+    "Even if…"
+  ],
+  "issuesFixed": [
+    "Separated road tolls",
+    "Restored spoken acronym expansions and sign-off",
+    "Designed full numerical and policy phrases",
+    "Kept target, incentives and absence of a ban distinct"
+  ]
+}

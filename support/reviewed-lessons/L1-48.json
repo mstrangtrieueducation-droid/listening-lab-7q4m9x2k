@@ -1,0 +1,207 @@
+{
+  "code": "L1-48",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-48.mp3",
+  "evidenceNote": "Compared complete 394-second MP3 ASR with every article paragraph. Source spellings retained for Māori names rather than adopting ASR guesses. Removed river-photo caption and restored presenter. Replaced gaps that cut through Māori with whole legal, cultural and environmental phrases.",
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "New Zealand was the first country"
+    }
+  ],
+  "appendText": "I’m Andrew Smith.",
+  "gaps": [
+    "rights and responsibilities of a human being",
+    "consider the mountain their ancestor",
+    "about 15 percent",
+    "a dormant volcano",
+    "the 2,516-meter-high mountain",
+    "make up for harm",
+    "a newly created group",
+    "four members appointed",
+    "physical, cultural and spiritual sustenance",
+    "a final resting place",
+    "the rights to their land and resources",
+    "rebelling against British rule",
+    "oversee how the land was used",
+    "increased recognition",
+    "billions of dollars",
+    "support its health and wellbeing",
+    "conservation work",
+    "remain open to the public",
+    "recognize landforms as people",
+    "Government ownership ended",
+    "became its guardian",
+    "All 123 lawmakers",
+    "about 40,000 people",
+    "take away Māori rights",
+    "do not expect the bill"
+  ],
+  "acceptedVariants": {
+    "about 15 percent": [
+      "about fifteen percent",
+      "about 15%"
+    ],
+    "the 2,516-meter-high mountain": [
+      "the two thousand five hundred sixteen meter high mountain",
+      "the two thousand five hundred and sixteen meter high mountain",
+      "the 2516 metre high mountain"
+    ],
+    "four members appointed": [
+      "4 members appointed"
+    ],
+    "support its health and wellbeing": [
+      "support its health and well-being"
+    ],
+    "recognize landforms as people": [
+      "recognise landforms as people"
+    ],
+    "All 123 lawmakers": [
+      "all one hundred twenty-three lawmakers",
+      "all one hundred and twenty-three lawmakers"
+    ],
+    "about 40,000 people": [
+      "about forty thousand people"
+    ],
+    "take away Māori rights": [
+      "take away Maori rights"
+    ]
+  },
+  "paraphrases": [
+    [
+      "a dormant volcano",
+      "a volcano that is not currently erupting",
+      "Dormant không khẳng định núi lửa đã tắt vĩnh viễn.",
+      38.8,
+      45.3
+    ],
+    [
+      "make up for harm",
+      "compensate for damage caused",
+      "Make up for ở đây là bù đắp tổn hại.",
+      60.9,
+      75.6
+    ],
+    [
+      "“the face and voice” of the mountain",
+      "the mountain’s official representatives",
+      "Face and voice là hình ảnh chỉ người đại diện.",
+      102.1,
+      109.5
+    ],
+    [
+      "a final resting place",
+      "a place where the dead are laid to rest",
+      "Final resting place là cách nói về nơi an táng.",
+      137.9,
+      150.7
+    ],
+    [
+      "rebelling against British rule",
+      "resisting British authority",
+      "Rebel against nghĩa là chống lại quyền cai trị.",
+      196.1,
+      211.2
+    ],
+    [
+      "oversee how the land was used",
+      "supervise the use of the land",
+      "Oversee là giám sát, quản lý.",
+      212.1,
+      224
+    ],
+    [
+      "increased recognition",
+      "greater official acknowledgement",
+      "Recognition nói về sự thừa nhận chính thức.",
+      241.7,
+      257
+    ],
+    [
+      "remain open to the public",
+      "continue to be accessible to everyone",
+      "Remain giữ ý vẫn tiếp tục, không phải mới mở.",
+      288.5,
+      291.6
+    ],
+    [
+      "became its guardian",
+      "took responsibility for protecting it",
+      "Guardian là người hoặc tổ chức bảo vệ và chăm sóc.",
+      311.7,
+      317.5
+    ],
+    [
+      "do not expect the bill with the proposed changes to become law",
+      "think the proposed changes are unlikely to be enacted",
+      "Câu thể hiện dự đoán không được thông qua, không phải đã bị bác bỏ.",
+      382.9,
+      390.2
+    ]
+  ],
+  "vocabulary": [
+    [
+      "indigenous",
+      "bản địa",
+      "Originating naturally in a place before later settlers."
+    ],
+    [
+      "ancestor",
+      "tổ tiên",
+      "A person or being regarded as an earlier source of descent."
+    ],
+    [
+      "dormant",
+      "tạm ngừng hoạt động",
+      "Inactive for a period but capable of becoming active again."
+    ],
+    [
+      "liability",
+      "nghĩa vụ pháp lý",
+      "A responsibility recognised by law."
+    ],
+    [
+      "appoint",
+      "bổ nhiệm",
+      "To choose someone officially for a role."
+    ],
+    [
+      "sustenance",
+      "nguồn nuôi dưỡng",
+      "Support that maintains physical or spiritual life."
+    ],
+    [
+      "treaty",
+      "hiệp ước",
+      "A formal agreement between states or peoples."
+    ],
+    [
+      "oversee",
+      "giám sát",
+      "To supervise an activity or area."
+    ],
+    [
+      "guardian",
+      "người bảo hộ",
+      "Someone responsible for protecting something."
+    ],
+    [
+      "bill",
+      "dự luật",
+      "A proposed law under consideration."
+    ]
+  ],
+  "signals": [
+    "However,…",
+    "Over the next one hundred years,…",
+    "This has included…",
+    "Most officials do not expect…"
+  ],
+  "issuesFixed": [
+    "Removed duplicated river-photo caption",
+    "Replaced partial-word Māori gaps with whole phrases",
+    "Restored final spoken identification",
+    "Distinguished dormant from extinct and a bill from enacted law"
+  ]
+}

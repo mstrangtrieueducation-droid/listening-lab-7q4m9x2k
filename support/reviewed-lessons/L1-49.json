@@ -1,0 +1,215 @@
+{
+  "code": "L1-49",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-49.mp3",
+  "evidenceNote": "Compared all source paragraphs with timestamped ASR of the complete 295-second MP3. Removed two repeated photograph captions, repaired four merged words and an artificial break within a quotation; restored the presenter sign-off. Kept the report’s environmental arguments and qualifications intact.",
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "The evaporation of the salty waters"
+    },
+    {
+      "start": "![Image 2:",
+      "end": "Carny said that his attention"
+    }
+  ],
+  "textReplacements": [
+    [
+      "Regionalcooperation is the key...\n\nto saving",
+      "Regional cooperation is the key to saving"
+    ],
+    [
+      "beendecliningmore",
+      "been declining more"
+    ],
+    [
+      "Theconsequences",
+      "The consequences"
+    ],
+    [
+      "canalfrom",
+      "canal from"
+    ]
+  ],
+  "appendText": "I’m John Russell.",
+  "gaps": [
+    "farthest below sea level",
+    "in ruins",
+    "closed to the public for five years",
+    "the collapse of the surface layer",
+    "difficult to reach its waters",
+    "efforts to deal with the environmental problem",
+    "Regional cooperation",
+    "an obstacle",
+    "more than one meter per year",
+    "up to 50 degrees Celsius",
+    "increasing water usage",
+    "other smaller waterways",
+    "water diversion",
+    "ecological disaster",
+    "past agreements",
+    "an all-time high",
+    "cross-border environmental issues",
+    "looking into several solutions",
+    "building a desalination factory",
+    "water shortages",
+    "a waste of drinking water",
+    "more water for agriculture",
+    "a joint effort",
+    "only time will tell",
+    "a plus and minus"
+  ],
+  "acceptedVariants": {
+    "closed to the public for five years": [
+      "closed to the public for 5 years"
+    ],
+    "more than one meter per year": [
+      "more than one metre per year",
+      "more than 1 meter per year",
+      "more than 1 metre per year"
+    ],
+    "up to 50 degrees Celsius": [
+      "up to fifty degrees Celsius"
+    ],
+    "ecological disaster": [
+      "ecological disaster"
+    ]
+  },
+  "paraphrases": [
+    [
+      "farthest below sea level",
+      "at the greatest depth beneath the ocean’s surface level",
+      "Farthest below mô tả độ thấp của bề mặt đất so với mực biển.",
+      10.3,
+      16.6
+    ],
+    [
+      "in ruins",
+      "in a badly damaged condition",
+      "In ruins là tình trạng bị tàn phá hoặc xuống cấp nghiêm trọng.",
+      17.5,
+      24.7
+    ],
+    [
+      "the collapse of the surface layer",
+      "the ground’s upper layer falling in",
+      "Collapse mô tả mặt đất sụp xuống tạo hố.",
+      36.4,
+      43.8
+    ],
+    [
+      "Regional cooperation is the key",
+      "Working together across the region is essential",
+      "The key trong câu nghĩa là yếu tố thiết yếu.",
+      88.1,
+      92.4
+    ],
+    [
+      "there is an obstacle",
+      "there is something blocking progress",
+      "Obstacle là trở ngại đối với việc hợp tác.",
+      93.5,
+      99.3
+    ],
+    [
+      "water diversion",
+      "redirecting water away from its usual course",
+      "Diversion nói về việc chuyển dòng nước.",
+      149.4,
+      157
+    ],
+    [
+      "an all-time high",
+      "a higher level than ever before",
+      "All-time high là mức cao nhất từng được ghi nhận.",
+      177.9,
+      184.5
+    ],
+    [
+      "looking into several solutions",
+      "examining a number of possible ways to address the problem",
+      "Look into là xem xét, tìm hiểu.",
+      202.1,
+      221.1
+    ],
+    [
+      "a joint effort",
+      "work carried out together",
+      "Joint nhấn mạnh cần nhiều bên tham gia.",
+      249.5,
+      255.1
+    ],
+    [
+      "only time will tell",
+      "the outcome will become clear in the future",
+      "Cụm này nói kết quả hiện chưa thể biết chắc.",
+      256.2,
+      264.4
+    ]
+  ],
+  "vocabulary": [
+    [
+      "sinkhole",
+      "hố sụt",
+      "A hole formed when the surface ground collapses."
+    ],
+    [
+      "collapse",
+      "sự sụp đổ",
+      "A sudden falling in or failure of a structure."
+    ],
+    [
+      "obstacle",
+      "trở ngại",
+      "Something that prevents progress."
+    ],
+    [
+      "evaporation",
+      "sự bay hơi",
+      "The change of liquid water into vapour."
+    ],
+    [
+      "waterway",
+      "đường dẫn nước",
+      "A river or channel through which water flows."
+    ],
+    [
+      "diversion",
+      "sự chuyển hướng",
+      "The redirection of something from its usual course."
+    ],
+    [
+      "ecological",
+      "thuộc sinh thái",
+      "Related to organisms and their environment."
+    ],
+    [
+      "desalination",
+      "sự khử mặn",
+      "The removal of salt from water."
+    ],
+    [
+      "canal",
+      "kênh đào",
+      "An artificial channel for water."
+    ],
+    [
+      "joint",
+      "chung; phối hợp",
+      "Involving two or more parties together."
+    ]
+  ],
+  "signals": [
+    "mainly because of…",
+    "As a result,…",
+    "But he added…",
+    "Because of what is happening…"
+  ],
+  "issuesFixed": [
+    "Removed both repeated photo captions and credits",
+    "Separated merged words and restored an unbroken quotation",
+    "Replaced mechanical fragments with complete environmental phrases",
+    "Preserved conditional arguments about water use and cooperation"
+  ]
+}
