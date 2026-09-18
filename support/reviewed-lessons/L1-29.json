@@ -1,0 +1,35 @@
+{
+ "code":"L1-29","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-29.mp3",
+ "evidenceNote":"Compared every paragraph with the complete 407-second recording, including both presenters' sign-offs. Removed the repeated photograph caption. Restored spoken of in a lot of pain and to between the dollar amounts. Preserved the experts' opinions as attributed language-study material.",
+ "removeSpans":[{"start":"![Image 1:","end":"In the United States, you can now visit"}],
+ "textReplacements":[["moreinclined","more inclined"],["confidenceand","confidence and"],["a lot pain","a lot of pain"],["$200-$300","$200 to $300"]],
+ "appendText":"I’m John Russell. And I’m Jill Robbins.",
+ "gaps":["recovering from accidental injuries or surgery","on a regular basis","the best-kept secret in health care","identify possible medical issues","have everything checked out","a patient’s health history","postural issues or unusual body movements","independent as possible","without needing permission","covered by a person’s health insurance","around $150","$200 to $300","in the long run","much more inclined","save a lot of pain and problems down the line","avoid injuries despite running many kilometers","fall prevention","reduce the fear of falling","become more out of shape","flexibility, strength, balance, coordination, and planning","getting up from a lying position","about half of physical therapy patients","the higher the loads are on their joints","motivated for a specific reason","because of a lifestyle change"],
+ "acceptedVariants":{"around $150":["around 150 dollars","around one hundred fifty dollars","around one hundred and fifty dollars"],"$200 to $300":["200 to 300 dollars","two hundred to three hundred dollars","two hundred dollars to three hundred dollars","$200 to 300"],"avoid injuries despite running many kilometers":["avoid injuries despite running many kilometres"]},
+ "paraphrases":[
+  ["on a regular basis","at consistent intervals","Regular basis nghĩa là đều đặn, không phải chỉ một lần khi bị chấn thương.",11.4,23],
+  ["the best-kept secret in health care","a valuable healthcare resource that is not widely recognised","Best-kept secret là cách nhấn mạnh giá trị ít được biết tới.",22.8,33.4],
+  ["have everything checked out","get a comprehensive check","Check out trong lời nói này là kiểm tra tình trạng cơ thể.",90.8,96.4],
+  ["covered by a person’s health insurance","paid for under someone's health insurance plan","Covered by insurance nói về việc bảo hiểm chi trả.",162.2,168.9],
+  ["in the long run","over a longer period","In the long run hướng tới kết quả lâu dài.",193.4,202.6],
+  ["much more inclined to see a physical therapist","far more willing to consult a physical therapist","Inclined to trong ngữ cảnh này nói về xu hướng sẵn lòng thực hiện một việc.",203.4,218.4],
+  ["down the line","at a later stage","Down the line chỉ thời điểm về sau, không phải một vị trí trên đường thẳng.",233.5,249],
+  ["become more out of shape","lose more physical fitness","Out of shape là thể lực kém, không phải thay đổi hình dạng một vật.",303,314.4],
+  ["the higher the loads are on their joints","the greater the pressure placed on their joints","Loads trong câu này chỉ lực đè lên các khớp.",353.5,360.3],
+  ["based on a milestone","in response to an important event in life","Milestone là cột mốc quan trọng như trở thành cha mẹ.",381.1,391.1]
+ ],
+ "vocabulary":[
+  ["physical therapist","chuyên viên vật lý trị liệu","A professional who helps people improve movement and physical function."],
+  ["recover","hồi phục","To regain health or function after illness or injury."],
+  ["practitioner","người hành nghề chuyên môn","A person qualified to practise a profession."],
+  ["postural","thuộc tư thế","Relating to how the body is positioned."],
+  ["wellness","tình trạng khỏe mạnh","Overall physical and mental well-being."],
+  ["inclined","có xu hướng; sẵn lòng","Likely or willing to do something."],
+  ["screen","sàng lọc; kiểm tra ban đầu","To examine for potential problems."],
+  ["flexibility","độ linh hoạt; dẻo dai","The ability to move joints and muscles through a range of motion."],
+  ["coordination","sự phối hợp","The ability to use body parts together smoothly."],
+  ["milestone","cột mốc quan trọng","An important event or stage in life."]
+ ],
+ "signals":["However, medical experts say…","For example…","But both experts said…","Another area…"],
+ "issuesFixed":["Removed a duplicated image caption that had supplied two answers","Corrected merged words and missing spoken words","Restored complete dollar amounts and both presenter sign-offs","Rebuilt 25 coherent gaps and 10 contextual paraphrases"]
+}

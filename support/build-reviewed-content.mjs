@@ -14,6 +14,14 @@ for (const filename of fs.readdirSync(path.join(root, 'support/reviewed-lessons'
   const [, level, number] = reviewed.code.match(/^L([12])-(\d{2})$/);
   const index = (Number(level) - 1) * 50 + Number(number) - 1;
   const lesson = baseline.lessons[index];
+  const replacement = reviewed.replacement ?? {};
+  for (const field of Object.keys(replacement)) assert(['title','kicker','level','category','media'].includes(field), `${reviewed.code}: unexpected replacement field ${field}`);
+  if (replacement.media) {
+    assert(reviewed.replacementApproval, `${reviewed.code}: replacement approval missing`);
+    assert(/^media\/level[12]\/l[12]-\d{2}-r\d{8}\.mp3$/.test(replacement.media.videoSrc));
+    assert(fs.existsSync(path.join(root,'public',replacement.media.videoSrc)));
+    assert(replacement.media.kind === 'audio' && replacement.media.duration > 180);
+  }
   let full = reviewed.transcript ?? lesson.paragraphs.map(p => p.replace(/\[(\d+)\]/g, (_, n) => lesson.answers[Number(n) - 1])).join('\n\n');
   for (const {start, end} of reviewed.removeSpans ?? []) {
     assert.equal(full.split(start).length - 1, 1, `${reviewed.code}: removal start not unique`);
@@ -48,12 +56,12 @@ for (const filename of fs.readdirSync(path.join(root, 'support/reviewed-lessons'
   for (const [phrase, paraphrase, explanation, start, end] of reviewed.paraphrases) {
     assert(full.toLowerCase().includes(phrase.toLowerCase()), `${reviewed.code}: paraphrase source absent: ${phrase}`);
     assert(phrase !== paraphrase && explanation.length > 10);
-    assert(Number.isFinite(start) && end > start && end <= lesson.media.duration + 2, `${reviewed.code}: replay range invalid`);
+    assert(Number.isFinite(start) && end > start && end <= (replacement.media ?? lesson.media).duration + 2, `${reviewed.code}: replay range invalid`);
   }
   assert.equal(reviewed.vocabulary.length, 10);
   const revision = crypto.createHash('sha256').update(JSON.stringify(reviewed)).digest('hex').slice(0, 12);
   const acceptedVariants = reviewed.gaps.map(phrase => reviewed.acceptedVariants?.[phrase] ?? []);
-  result[index] = { paragraphs, answers: reviewed.gaps, acceptedVariants, contentRevision: revision, ...(reviewed.contentNote ? {contentNote: reviewed.contentNote} : {}), paraphrases: reviewed.paraphrases,
+  result[index] = { ...replacement, paragraphs, answers: reviewed.gaps, acceptedVariants, contentRevision: revision, ...(reviewed.contentNote ? {contentNote: reviewed.contentNote} : {}), paraphrases: reviewed.paraphrases,
     vocabulary: reviewed.vocabulary.map(([term, meaning, note]) => ({term, meaning, note})), signals: reviewed.signals ?? [] };
   report.push({code: reviewed.code, status: 'content-reviewed-build-validated', revision, gapCount: reviewed.gaps.length, issuesFixed: reviewed.issuesFixed});
 }

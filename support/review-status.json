@@ -318,8 +318,128 @@
         "Preserved attribution and uncertainty in the debate",
         "Replaced generated fragments with 10 accurate paraphrases and vocabulary"
       ]
+    },
+    {
+      "code": "L1-26",
+      "status": "content-reviewed-build-validated",
+      "revision": "09ffbbc45f0d",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Replaced the exact duplicate of L1-08 with the teacher-approved authentic report",
+        "Kept lesson 26 access tokens and form identity unchanged",
+        "Individually authored 25 chronological gaps and 10 contextual paraphrases",
+        "Verified the complete new MP3 transcript, timings and numerical alternatives"
+      ]
+    },
+    {
+      "code": "L1-27",
+      "status": "content-reviewed-build-validated",
+      "revision": "5f494b6aab5c",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed seven image/caption blocks and written credits",
+        "Corrected merged words and missing to",
+        "Replaced caption-derived and missing-input URL answers",
+        "Rebuilt 25 coherent gaps covering all eight and a half minutes plus 10 paraphrases"
+      ]
+    },
+    {
+      "code": "L1-28",
+      "status": "content-reviewed-build-validated",
+      "revision": "cafc4004b7d5",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed repeated image captions, URL syntax and glossary",
+        "Corrected fused words and restored Caty Weaver's actual sign-off",
+        "Kept entire numerical ranges and coherent 25-gap order",
+        "Rebuilt paraphrases without turning tentative findings into facts"
+      ]
+    },
+    {
+      "code": "L1-29",
+      "status": "content-reviewed-build-validated",
+      "revision": "ffcc300665da",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed a duplicated image caption that had supplied two answers",
+        "Corrected merged words and missing spoken words",
+        "Restored complete dollar amounts and both presenter sign-offs",
+        "Rebuilt 25 coherent gaps and 10 contextual paraphrases"
+      ]
+    },
+    {
+      "code": "L1-30",
+      "status": "content-reviewed-build-validated",
+      "revision": "faa14a2b2a9a",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed the unspoken dictionary footer used in the old final answer",
+        "Separated hormone called and rejoined U.S. Virgin Islands",
+        "Restored the spoken time wording and presenter sign-off",
+        "Rebuilt 25 coherent gaps and 10 faithful paraphrases with numeric alternatives"
+      ]
+    },
+    {
+      "code": "L1-31",
+      "status": "content-reviewed-build-validated",
+      "revision": "a47af4170f96",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed repeated photo caption and unrelated funding disclaimer",
+        "Corrected fused words, omitted article and missing presenter sign-off",
+        "Rebuilt 25 meaningful gaps across the full recording",
+        "Wrote faithful paraphrases retaining attributed and uncertain claims"
+      ]
+    },
+    {
+      "code": "L1-32",
+      "status": "content-reviewed-build-validated",
+      "revision": "d8c7267ffdba",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed an unspoken photo caption and hyperlink syntax",
+        "Corrected four merged-word defects and restored the omitted presenter",
+        "Replaced a broken decimal answer with the full 2.5-micron quantity",
+        "Built 25 chronological meaningful gaps and 10 faithful paraphrases"
+      ]
+    },
+    {
+      "code": "L1-33",
+      "status": "content-reviewed-build-validated",
+      "revision": "ff844e80423b",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed two unspoken image captions used as old answers",
+        "Restored a spoken connective and both presenter sign-offs",
+        "Built 25 gaps covering the full recording and complete quantities",
+        "Preserved negatives and qualifications in 10 contextual paraphrases"
+      ]
+    },
+    {
+      "code": "L1-34",
+      "status": "content-reviewed-build-validated",
+      "revision": "bc2b15843013",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Corrected the fused implant term and university spelling",
+        "Restored the missing presenter sign-off",
+        "Replaced arbitrary fragments with 25 coherent listening gaps",
+        "Preserved limitations, negatives and temporary effects in paraphrase work"
+      ]
+    },
+    {
+      "code": "L1-35",
+      "status": "content-reviewed-build-validated",
+      "revision": "f5405cf7af30",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed duplicated image caption and trailing backslash debris",
+        "Separated an uninterrupted and rejoined the hospital name",
+        "Restored the complete 400000 quantity instead of a truncated answer",
+        "Authored 25 meaningful gaps and 10 contextual paraphrases with number variants"
+      ]
     }
   ],
-  "pending": 75,
+  "pending": 65,
   "note": "Build validation is not proof of deployment. Unlisted lessons have not completed individual review."
 }

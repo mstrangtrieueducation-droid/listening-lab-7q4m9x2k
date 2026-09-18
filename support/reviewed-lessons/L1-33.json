@@ -1,0 +1,35 @@
+{
+ "code":"L1-33","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-33.mp3",
+ "evidenceNote":"Compared all paragraphs with the full 456-second recording. Removed two unrelated product-photo captions and restored the spoken or before six meters and both sign-offs. Kept negation about permanent blue-light damage and the quoted recommendations intact.",
+ "removeSpans":[{"start":"![Image 1:","end":"One reason for the screen-linked"},{"start":"FEil - This is a display","end":"Take a break every 20 minutes"}],
+ "textReplacements":[["20 feet away (6 meters)","20 feet away, or 6 meters,"]],
+ "appendText":"I’m Anna Matteo. And I’m John Russell.",
+ "gaps":["104 million Americans of working age","more than seven hours a day","dry or watery eyes","short times of dizziness or vertigo","has not been shown to cause permanent eye damage","become too tense","hold it over your head for hours","take regular breaks from screen viewing","every 20 minutes","20 feet away","for 20 seconds","eye strain is temporary","lubricating eye drops","18 to 22 times per minute","three to seven times per minute","increase the image size","an arm’s length away","are not very effective","focusing on nearby objects","instead of a tablet","2 hours of play outside every day","track the total number of hours","increase a person’s alertness","one to two hours before going to sleep","lower screen brightness"],
+ "acceptedVariants":{"104 million Americans of working age":["one hundred four million Americans of working age","one hundred and four million Americans of working age"],"more than seven hours a day":["more than 7 hours a day"],"every 20 minutes":["every twenty minutes"],"20 feet away":["twenty feet away"],"for 20 seconds":["for twenty seconds"],"18 to 22 times per minute":["eighteen to twenty-two times per minute"],"three to seven times per minute":["3 to 7 times per minute"],"2 hours of play outside every day":["two hours of play outside every day"],"one to two hours before going to sleep":["1 to 2 hours before going to sleep"]},
+ "paraphrases":[
+  ["myopia, or nearsightedness","difficulty seeing distant objects clearly","Myopia là cận thị, khi vật ở xa khó nhìn rõ.",39.3,48.5],
+  ["has not been shown to cause permanent eye damage","has not been demonstrated to produce lasting injury to the eyes","Giữ sự phủ định về bằng chứng, không biến thành khẳng định gây hại vĩnh viễn.",60.5,73.6],
+  ["become too tense, or tight","contract and remain excessively strained","Tense ở đây mô tả cơ mắt bị căng.",81.7,93.5],
+  ["take regular breaks from screen viewing","stop looking at screens at frequent intervals","Regular breaks là nghỉ đều đặn, không chỉ nghỉ khi đã rất mệt.",149.1,158.6],
+  ["eye strain is temporary","eye fatigue generally lasts for a limited time","Temporary tương phản với vĩnh viễn.",190.2,208.8],
+  ["lubricating eye drops","drops that help keep the eye surface moist","Lubricating diễn tả tác dụng làm ẩm trong ngữ cảnh này.",209.4,223.1],
+  ["an arm’s length away from your screen","at about the distance of an outstretched arm from the display","An arm's length là khoảng cách bằng chiều dài cánh tay.",268.5,282.1],
+  ["can speed development of nearsightedness","may make short-sightedness develop more quickly","Speed development nghĩa là đẩy nhanh quá trình; can giữ ý khả năng.",340.9,357.8],
+  ["track the total number of hours","keep an accurate count of all the time spent","Track ở đây là theo dõi tổng thời lượng sử dụng.",396.4,401.7],
+  ["increase a person’s alertness","make someone feel more awake","Alertness là mức tỉnh táo.",408.1,416.4]
+ ],
+ "vocabulary":[
+  ["vision","thị lực","The ability to see."],
+  ["myopia","cận thị","A condition in which distant objects appear blurred."],
+  ["vertigo","chóng mặt xoay","A sensation of spinning or loss of balance."],
+  ["permanent","vĩnh viễn; lâu dài","Lasting rather than temporary."],
+  ["strain","sự căng mỏi","Excessive effort or stress placed on a body part."],
+  ["optometrist","chuyên viên đo khám thị lực","A professional who examines vision and provides eye care."],
+  ["ophthalmologist","bác sĩ nhãn khoa","A medical doctor specialising in eyes."],
+  ["lubricate","làm ẩm; bôi trơn","To reduce dryness or friction with a fluid."],
+  ["fatigue","sự mệt mỏi","Tiredness following effort or prolonged use."],
+  ["alertness","sự tỉnh táo","The state of being awake and attentive."]
+ ],
+ "signals":["However, exposure…","One reason…","But when looking at a screen…","As a result…"],
+ "issuesFixed":["Removed two unspoken image captions used as old answers","Restored a spoken connective and both presenter sign-offs","Built 25 gaps covering the full recording and complete quantities","Preserved negatives and qualifications in 10 contextual paraphrases"]
+}

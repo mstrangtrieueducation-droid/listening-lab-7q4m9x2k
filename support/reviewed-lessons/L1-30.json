@@ -1,0 +1,35 @@
+{
+ "code":"L1-30","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-30.mp3",
+ "evidenceNote":"Compared every paragraph against the full 430-second recording. Removed the unspoken glossary and restored Caty Weaver's sign-off. Kept dates as spoken in the original report, not as current-year scheduling guidance. Matched the spoken two o'clock wording.",
+ "removeSpans":[{"start":"circadian rhythm– n.","end":null}],
+ "textReplacements":[["hormonecalled","hormone called"],["U.S.\n\nVirgin Islands","U.S. Virgin Islands"],["2:00 in the morning","two o’clock in the morning"],["November 2 when","November 2nd when"]],
+ "appendText":"I’m Caty Weaver.",
+ "gaps":["starting and ending on different dates","heart attacks and strokes","ease the effects","two o’clock in the morning","remain on standard time","two or three nights ahead","seven hours of nightly sleep","exposure to sunlight and darkness","a roughly 24-hour cycle","hard-to-wake teenagers","leading to tiredness","delays the melatonin increase","heart rate, blood pressure","Sleep deprivation","problems with thinking and remembering","the first few days","highest in the morning","for two days afterward","more likely to clot","people already at risk","15 or 20 minutes earlier","early morning sunshine","start getting used to the new conditions","no official changes have been made","human biology and sleep needs"],
+ "acceptedVariants":{"two o’clock in the morning":["2 o'clock in the morning","two oclock in the morning","2:00 in the morning"],"two or three nights ahead":["2 or 3 nights ahead"],"seven hours of nightly sleep":["7 hours of nightly sleep"],"a roughly 24-hour cycle":["a roughly twenty-four-hour cycle"],"for two days afterward":["for 2 days afterward"],"15 or 20 minutes earlier":["fifteen or twenty minutes earlier"]},
+ "paraphrases":[
+  ["ease the effects of the time change","make the impact of changing the clocks less severe","Ease ở đây là làm giảm tác động, không phải loại bỏ hoàn toàn.",46.2,55.8],
+  ["remain on standard time","continue using the usual non-summer clock setting","Remain là tiếp tục dùng giờ tiêu chuẩn thay vì đổi sang giờ mùa hè.",94.4,107.3],
+  ["catching up can be difficult","making up for lost sleep may be hard","Catch up trong câu này nói về ngủ bù cho phần bị thiếu.",121.4,134.8],
+  ["exposure to sunlight and darkness","experiencing periods of natural light and dark","Exposure là sự tiếp xúc với điều kiện ánh sáng và bóng tối.",135.6,144.3],
+  ["on a roughly 24-hour cycle","following a pattern of approximately one day","Roughly là xấp xỉ; cycle là chu kỳ lặp lại.",144.9,154.3],
+  ["delays the melatonin increase","makes the rise in melatonin happen later","Delay chỉ lùi thời điểm diễn ra, không có nghĩa ngăn vĩnh viễn.",190.8,201.1],
+  ["Sleep deprivation","not getting enough sleep","Thuật ngữ được giải thích ngay trong audio là thiếu ngủ.",220.7,234.1],
+  ["people already at risk","individuals who already face a higher chance of harm","Already at risk nhấn mạnh nguy cơ đã có từ trước.",307.3,320.5],
+  ["start getting used to the new conditions","begin adapting to the changed routine","Get used to mang nghĩa dần thích nghi.",367.6,376],
+  ["staying with standard time year-round","keeping standard time throughout the entire year","Year-round nghĩa là cả năm, không chỉ một mùa.",416.5,428.1]
+ ],
+ "vocabulary":[
+  ["daylight saving time","giờ mùa hè","A system of moving clocks forward seasonally to shift daylight into the evening."],
+  ["circadian rhythm","nhịp sinh học ngày đêm","The body's approximately daily pattern of activity and rest."],
+  ["exposure","sự tiếp xúc","The condition of being affected by an influence such as light."],
+  ["wakeful","tỉnh táo; không buồn ngủ","Not asleep or ready to sleep."],
+  ["hormone","hoóc-môn","A chemical messenger produced in the body."],
+  ["melatonin","melatonin","A hormone involved in regulating sleep timing."],
+  ["deprivation","sự thiếu hụt","The lack of something necessary or beneficial."],
+  ["stroke","đột quỵ","A medical event involving disrupted blood flow in the brain."],
+  ["clot","đông lại","To form a thickened mass, as blood can do."],
+  ["year-round","quanh năm","Throughout the whole year."]
+ ],
+ "signals":["However, there are ways…","As a result…","But it is possible…","But so far…"],
+ "issuesFixed":["Removed the unspoken dictionary footer used in the old final answer","Separated hormone called and rejoined U.S. Virgin Islands","Restored the spoken time wording and presenter sign-off","Rebuilt 25 coherent gaps and 10 faithful paraphrases with numeric alternatives"]
+}

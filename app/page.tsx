@@ -551,7 +551,7 @@ const lessonVocabulary: VocabularyNote[][] = [
 for (const [key, content] of Object.entries(reviewedContent)) {
   const index = Number(key);
   const { paraphrases, vocabulary, signals, ...lessonContent } = content;
-  lessons[index] = { ...lessons[index], ...lessonContent };
+  lessons[index] = { ...lessons[index], ...(lessonContent as Partial<Lesson>) };
   academicBridge[index] = { ...academicBridge[index], paraphrases: paraphrases as AcademicNote["paraphrases"], signals };
   lessonVocabulary[index] = vocabulary;
 }

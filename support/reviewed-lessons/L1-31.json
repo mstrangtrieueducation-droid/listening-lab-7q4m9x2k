@@ -1,0 +1,34 @@
+{
+ "code":"L1-31","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-31.mp3",
+ "evidenceNote":"Compared each spoken paragraph with the complete 460-second recording. Removed the duplicated photograph caption and unspoken AP funding disclaimer. Restored Anna Matteo's omitted sign-off and the spoken article in She is a psychologist. Retained the source spelling of names.",
+ "removeSpans":[{"start":"![Image 1:","end":"ADHD has been called"},{"start":"The Associated Press Health and Science Department","end":null}],
+ "textReplacements":[["teenagerhad","teenager had"],["psychologistbased","psychologist based"],["U.S.\n\nhave been diagnosed","U.S. have been diagnosed"],["She is psychologist","She is a psychologist"],["And I'm Jill Robbins.","I’m Anna Matteo, and I’m Jill Robbins."]],
+ "gaps":["uncontrolled emotions","trouble completing work on time","piece together","42 years old","more than 15 million adults","about 1 in 17","have doubled in the last two years","control their behaviors","behavioral therapy","the most commonly diagnosed","continues into adulthood","focusing on immediate responsibilities","their personal relationships","led to severe shortages","especially among women","general diagnostic measures","required for diagnosis","people with less severe cases","more than one area of life","began in early childhood","getting careful histories from patients","a patient’s memory and ability to focus","cost thousands of dollars","prescribe medications","diagnosis and treatment guidelines"],
+ "acceptedVariants":{"42 years old":["forty-two years old"],"more than 15 million adults":["more than fifteen million adults"],"about 1 in 17":["about one in seventeen"],"have doubled in the last two years":["have doubled in the last 2 years"],"control their behaviors":["control their behaviours"],"behavioral therapy":["behavioural therapy"],"more than one area of life":["more than 1 area of life"]},
+ "paraphrases":[
+  ["piece together","understand by connecting different clues","Piece together là kết nối các dấu hiệu để hiểu một vấn đề.",43.3,52.1],
+  ["have increased sharply","have risen steeply","Sharply nhấn mạnh mức tăng mạnh.",67.9,77.5],
+  ["have doubled in the last two years","have become twice as numerous over two years","Doubled là số lượng tăng lên gấp đôi.",114.2,122.7],
+  ["resolved as children became adults","went away as children grew up","Resolved ở đây nói về quan niệm cũ rằng vấn đề sẽ hết khi trưởng thành.",187.8,194.1],
+  ["continues into adulthood","persists after childhood","Continue into adulthood là kéo dài đến giai đoạn trưởng thành.",195.2,205.6],
+  ["led to severe shortages","caused serious supply shortfalls","Shortage là nguồn cung không đáp ứng đủ nhu cầu.",260.4,270.8],
+  ["people with less severe cases","individuals whose condition is milder","Less severe mô tả mức độ nhẹ hơn, không phủ nhận vấn đề tồn tại.",328.8,337.9],
+  ["ongoing problems","persistent difficulties","Ongoing chỉ vấn đề tiếp tục diễn ra, không phải sự cố nhất thời.",356.7,368.8],
+  ["Many people turn to family doctors","Many people seek help from their usual primary-care doctors","Turn to someone nghĩa là tìm đến để được giúp đỡ.",398.8,401.1],
+  ["a wide variability","considerable variation","Variability chỉ sự khác nhau đáng kể trong cách đánh giá được người nói đề cập.",412.1,423.9]
+ ],
+ "vocabulary":[
+  ["diagnose","chẩn đoán","To identify a condition through examination and assessment."],
+  ["assessment","sự đánh giá","A process of examining a situation or ability."],
+  ["behavioral","thuộc hành vi","Relating to how someone acts."],
+  ["therapy","liệu pháp","A method used to treat a condition."],
+  ["adulthood","tuổi trưởng thành","The stage of life after childhood."],
+  ["shortage","sự thiếu hụt nguồn cung","A situation in which not enough of something is available."],
+  ["prescription","đơn thuốc","A medical professional's order for a treatment or medicine."],
+  ["symptom","triệu chứng","A change experienced by someone that may indicate a condition."],
+  ["ongoing","đang tiếp diễn","Continuing over time."],
+  ["guideline","hướng dẫn chuyên môn","A recommended principle for carrying out a task or practice."]
+ ],
+ "signals":["This led to…","But now, experts say…","This is partly because…","But getting an appointment…"],
+ "issuesFixed":["Removed repeated photo caption and unrelated funding disclaimer","Corrected fused words, omitted article and missing presenter sign-off","Rebuilt 25 meaningful gaps across the full recording","Wrote faithful paraphrases retaining attributed and uncertain claims"]
+}

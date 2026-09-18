@@ -1,0 +1,35 @@
+{
+ "code":"L1-32","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-32.mp3",
+ "evidenceNote":"Compared each paragraph with the full recording; independently rechecked 168–182 seconds using small.en, confirming the speaker omits high before blood pressure. Kept that sentence out of gaps. Removed the image caption, repaired merged words and restored both presenter sign-offs.",
+ "removeSpans":[{"start":"FILE -A man cover his face","end":"The American-based Health Effects Institute"}],
+ "unwrapLinks":true,
+ "textReplacements":[["riskfactor","risk factor"],["causeasthma","cause asthma"],["reallyafford","really afford"],["through afilter","through a filter"],["behind high blood pressure","behind blood pressure"],["And I'm Caty Weaver.","I’m John Russell. And I’m Caty Weaver."]],
+ "gaps":["99 percent of the world’s population","does not meet pollution guidelines","about 7 million people each year","can’t guarantee you clean air","clearing operations involving crops or trees","particulate matter","less than 2.5 microns in diameter","travel deep inside human lungs","wind-blown dust","nitrogen dioxide or sulfur dioxide","those with existing medical problems","more than 500 million children","100 children under age 5 every day","affects thinking abilities","6,000 cities in 117 countries","an air quality index","more than 1.5 times higher","limit exposure","staying indoors or wearing a mask","common household activities","cooking or burning incense","they do have limitations","a filter that traps pollutants","small spaces","a certain amount of air"],
+ "acceptedVariants":{"99 percent of the world’s population":["ninety-nine percent of the world's population","99% of the world's population","ninety-nine per cent of the world's population","99 per cent of the world's population"],"about 7 million people each year":["about seven million people each year"],"less than 2.5 microns in diameter":["less than two point five microns in diameter"],"nitrogen dioxide or sulfur dioxide":["nitrogen dioxide or sulphur dioxide"],"more than 500 million children":["more than five hundred million children"],"100 children under age 5 every day":["one hundred children under age five every day","a hundred children under age five every day","100 children under age five every day"],"6,000 cities in 117 countries":["six thousand cities in one hundred seventeen countries","six thousand cities in one hundred and seventeen countries"],"more than 1.5 times higher":["more than one point five times higher"]},
+ "paraphrases":[
+  ["does not meet pollution guidelines","fails to satisfy the recommended pollution limits","Meet guidelines là đạt yêu cầu; ở đây câu mang nghĩa phủ định.",6.7,22.8],
+  ["Blue skies can’t guarantee you clean air","a clear-looking sky does not ensure the air is unpolluted","Không đánh đồng việc bầu trời trong với không khí sạch.",68.8,75.7],
+  ["less than 2.5 microns in diameter","under 2.5 microns across","Diameter chỉ đường kính; less than là nhỏ hơn.",111.4,118.3],
+  ["those with existing medical problems","people who already have health conditions","Existing nhấn mạnh bệnh hoặc vấn đề đã có từ trước.",182.7,197.4],
+  ["Larger numbers on this index mean worse air","a higher index reading indicates poorer air quality","Giữ đúng chiều tương quan: chỉ số cao hơn là chất lượng kém hơn.",290.6,295.5],
+  ["limit exposure","reduce contact with polluted air","Limit exposure ở đây là giảm tiếp xúc với không khí ô nhiễm.",319.9,333.4],
+  ["can’t really afford","cannot readily bear the cost or practical consequences","Afford trong câu bao gồm khả năng kinh tế và điều kiện thực tế để ở trong nhà.",342,351.1],
+  ["common household activities","routine tasks carried out at home","Household activities là hoạt động sinh hoạt trong gia đình.",351.9,363.3],
+  ["a filter that traps pollutants","a device that captures harmful particles from the air","Trap pollutants là giữ chất ô nhiễm lại khi không khí đi qua.",373.8,382.2],
+  ["a certain amount of air","a limited quantity of air","A certain amount ở đây nói về giới hạn công suất làm sạch.",395.3,407.3]
+ ],
+ "vocabulary":[
+  ["pollutant","chất gây ô nhiễm","A substance that contaminates the environment."],
+  ["smoggy","có khói mù","Filled with polluted haze."],
+  ["particulate matter","bụi và hạt lơ lửng","Small solid or liquid particles suspended in air."],
+  ["micron","micromet","One millionth of a metre."],
+  ["diameter","đường kính","The distance across a circle through its centre."],
+  ["exposure","sự phơi nhiễm; tiếp xúc","Contact with an environmental influence or substance."],
+  ["index","chỉ số","A numerical measure used to compare conditions."],
+  ["incense","hương; nhang","A substance burned to produce a fragrant smell."],
+  ["purifier","thiết bị làm sạch","A device that removes unwanted substances."],
+  ["filter","bộ lọc","A material or device that separates particles from a flow."]
+ ],
+ "signals":["The first step…","This is because…","For example…","While air purifiers can help…"],
+ "issuesFixed":["Removed an unspoken photo caption and hyperlink syntax","Corrected four merged-word defects and restored the omitted presenter","Replaced a broken decimal answer with the full 2.5-micron quantity","Built 25 chronological meaningful gaps and 10 faithful paraphrases"]
+}

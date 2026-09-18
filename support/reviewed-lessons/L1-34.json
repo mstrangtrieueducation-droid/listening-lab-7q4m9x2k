@@ -1,0 +1,34 @@
+{
+ "code":"L1-34","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-34.mp3",
+ "evidenceNote":"Compared each paragraph with the complete 324-second recording. Corrected the merged implant description and the university's spelling, restored the sign-off, and kept the study's small size, temporary effect and lack of normal movement clear.",
+ "textReplacements":[["spine-stimulatingimplant","spine-stimulating implant"],["University of Pittsburg,","University of Pittsburgh,"]],
+ "appendText":"I’m Dorothy Gundy.",
+ "gaps":["a spine-stimulating implant","electrical stimulation to their spinal cord","not expecting an improvement","lasted one month","at least temporarily","treat paralysis","slowly destroys motor neurons","breathing and swallowing","a severe form of the disease","low levels of electricity","with assistance","nerves that have stopped reacting","activating the muscles","stimulating sensory nerves","the lower spinal cord","did not return normal movement","a few hours of spinal stimulation a week","muscle strength and function","a progressive disease","in six minutes","because they got less tired","did not disappear","decrease a few months after the study ended","did not last very long","other muscle-degenerating diseases"],
+ "acceptedVariants":{"lasted one month":["lasted 1 month"],"in six minutes":["in 6 minutes"]},
+ "paraphrases":[
+  ["got a little stronger","gained a small amount of strength","A little nêu mức cải thiện nhỏ, không phải hồi phục hoàn toàn.",12.9,21.6],
+  ["at least temporarily","for at least a limited period","Temporarily nhấn mạnh hiệu quả chưa được xác nhận là lâu dài.",61.2,67.7],
+  ["waste away","gradually become weaker and smaller","Waste away mô tả tình trạng cơ teo và suy yếu dần.",102.7,115.8],
+  ["chronic, or long-term, pain","pain that persists over time","Chronic được giải thích trong audio bằng long-term.",135.4,145.7],
+  ["with assistance","with help","Giữ rõ bệnh nhân cần hỗ trợ để cử động trong mô tả này.",146.4,159.1],
+  ["did not return normal movement","did not restore ordinary movement completely","Giữ sự phủ định quan trọng về giới hạn của kết quả.",204.1,222.2],
+  ["a progressive disease","a condition that tends to worsen over time","Progressive trong y học nói về diễn tiến nặng dần, không phải tiến bộ tốt lên.",229.2,243.9],
+  ["walk farther because they got less tired","cover a greater distance because they experienced less fatigue","Giữ đúng mối quan hệ nguyên nhân giữa giảm mệt và tăng quãng đường.",254.1,265.9],
+  ["did not disappear as soon as the stimulator was turned off","remained for some time after stimulation stopped","Câu nói hiệu quả còn duy trì một thời gian, không khẳng định tồn tại vĩnh viễn.",266.5,280.3],
+  ["the new study is small and did not last very long","the research involved few participants over a short period","Đây là hai giới hạn của nghiên cứu: cỡ mẫu và thời gian theo dõi.",293.4,304.7]
+ ],
+ "vocabulary":[
+  ["implant","thiết bị cấy ghép","A device placed inside the body."],
+  ["stimulation","sự kích thích","An input that triggers activity in a nerve or tissue."],
+  ["spinal cord","tủy sống","The main bundle of nerves running along the spine."],
+  ["paralysis","tình trạng liệt","Loss of the ability to move part of the body."],
+  ["motor neuron","nơ-ron vận động","A nerve cell involved in controlling muscles."],
+  ["atrophy","sự teo; suy giảm mô","Wasting or shrinking of a tissue."],
+  ["chronic","mạn tính","Lasting for a long time."],
+  ["sensory","thuộc cảm giác","Relating to receiving information through the senses."],
+  ["electrode","điện cực","A conductor used to transmit an electrical signal."],
+  ["progressive","tiến triển nặng dần","Gradually worsening over time in this medical context."]
+ ],
+ "signals":["at least temporarily…","This new evidence suggests…","but with a few hours…","But they did decrease…"],
+ "issuesFixed":["Corrected the fused implant term and university spelling","Restored the missing presenter sign-off","Replaced arbitrary fragments with 25 coherent listening gaps","Preserved limitations, negatives and temporary effects in paraphrase work"]
+}

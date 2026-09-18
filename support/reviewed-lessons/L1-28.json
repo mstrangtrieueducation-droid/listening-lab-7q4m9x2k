@@ -1,0 +1,36 @@
+{
+ "code":"L1-28","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-28.mp3",
+ "evidenceNote":"Compared all spoken paragraphs with the full 388-second recording. The spoken presenter is Caty Weaver despite the article byline naming Bryan Lynn. Removed two repeated image captions, hyperlink syntax and the unspoken glossary. Kept both studies' different estimated date ranges intact.",
+ "removeSpans":[{"start":"![Image 1:","end":"Researchers estimated the period"},{"start":"![Image 2:","end":"The scientists said their new findings"},{"start":"Bryan Lynn wrote this story","end":null}],
+ "unwrapLinks":true,
+ "textReplacements":[["samplesreally","samples really"],["reallycompellingareas","really compelling areas"]],
+ "appendText":"I’m Caty Weaver.",
+ "gaps":["tens of thousands of years ago","about 45,000 years ago","a major influence on humans’ genetic code","the timing of this contact","three female and three male","the oldest genes","a mountainous area","49,000 to 45,000 years ago","300 present-day and ancient","59 individuals","50,500 to 43,500 years ago","a little more recently","over many generations","molecular and cell biology","paint a picture","the exact nature of the interactions","could not confirm exactly where","most likely somewhere in the Middle East","one to two percent of their DNA","skin color, hair color and even nose shape","Our genetic makeup","a greater ability to deal with climate and diseases","may have been beneficial","scientific investigation","who are we"],
+ "acceptedVariants":{"about 45,000 years ago":["about forty-five thousand years ago"],"three female and three male":["3 female and 3 male"],"49,000 to 45,000 years ago":["forty-nine thousand to forty-five thousand years ago"],"300 present-day and ancient":["three hundred present-day and ancient"],"59 individuals":["fifty-nine individuals"],"50,500 to 43,500 years ago":["fifty thousand five hundred to forty-three thousand five hundred years ago","fifty thousand and five hundred to forty-three thousand and five hundred years ago"],"one to two percent of their DNA":["1 to 2 percent of their DNA","1 to 2% of their DNA","one to two per cent of their DNA","1 to 2 per cent of their DNA"],"skin color, hair color and even nose shape":["skin colour hair colour and even nose shape"]},
+ "paraphrases":[
+  ["a major influence on humans’ genetic code","a substantial effect on human genetic information","Major nhấn mạnh ảnh hưởng đáng kể tới cấu trúc di truyền.",56.6,64.4],
+  ["the timing of this contact","when these encounters took place","Timing chỉ thời điểm các nhóm tiếp xúc.",74.2,84.5],
+  ["at around the same time","at approximately the same period","Around giữ ý mốc thời gian ước tính, không chính xác tuyệt đối.",125.4,138.8],
+  ["a little more recently than thought in the past","slightly later than previously believed","More recently ở đây nghĩa là gần hiện tại hơn so với ước tính cũ.",199.3,213.5],
+  ["continued over many generations","persisted through numerous successive generations","Contact diễn ra qua nhiều thế hệ thay vì chỉ một lần.",214.2,219.4],
+  ["paint a picture in more and more detail","build an increasingly precise understanding","Paint a picture là hình ảnh ẩn dụ cho việc hình thành hiểu biết rõ hơn.",237.8,249.4],
+  ["could not confirm exactly where","were unable to establish the precise location","Giữ ý chưa xác nhận được địa điểm, không kết luận không có sự tiếp xúc.",263.7,273.1],
+  ["accounts for an estimated one to two percent of their DNA","makes up roughly one to two percent of their genetic material","Account for diễn tả tỷ lệ đóng góp; estimated là ước tính.",280.9,295.8],
+  ["may have been beneficial to modern humans","might have helped modern humans","Giữ nguyên may: lợi ích là một khả năng được đề xuất.",339.1,345.6],
+  ["compelling areas of scientific investigation","strongly engaging fields of scientific research","Compelling ở đây nghĩa là rất đáng quan tâm và thu hút nghiên cứu.",374.7,386.3]
+ ],
+ "vocabulary":[
+  ["gene","gen","A unit of inherited biological information."],
+  ["genetic code","mã di truyền","Information in genetic material used to build proteins."],
+  ["sequence","giải trình tự","To determine the order of components in genetic material."],
+  ["generation","thế hệ","A group descended at approximately the same stage in a family or population."],
+  ["molecular","thuộc phân tử","Relating to molecules."],
+  ["interaction","sự tương tác","An influence or contact between two or more things."],
+  ["trait","đặc điểm di truyền","A characteristic that may be inherited."],
+  ["ancestor","tổ tiên","An earlier organism or person from which others descend."],
+  ["beneficial","có lợi","Producing a helpful effect."],
+  ["compelling","hấp dẫn; đáng chú ý","Strongly attracting attention or interest."]
+ ],
+ "signals":["However, scientists do not know…","A second group…","However, they believe…","Some of their genes may…"],
+ "issuesFixed":["Removed repeated image captions, URL syntax and glossary","Corrected fused words and restored Caty Weaver's actual sign-off","Kept entire numerical ranges and coherent 25-gap order","Rebuilt paraphrases without turning tentative findings into facts"]
+}

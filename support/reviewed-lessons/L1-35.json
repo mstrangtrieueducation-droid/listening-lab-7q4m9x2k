@@ -1,0 +1,35 @@
+{
+ "code":"L1-35","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-35.mp3",
+ "evidenceNote":"Compared every paragraph with the complete 297-second recording. Removed the duplicated headquarters-photo caption and trailing backslash debris, restored the presenter sign-off and kept all programme targets and contrasts as reported.",
+ "removeSpans":[{"start":"![Image 1:","end":"El Salvador, Moldova"},{"start":"He added that the issue of children with cancer","end":null}],
+ "textReplacements":[["anuninterrupted","an uninterrupted"],["St.\n\nJude Children's Research Hospital","St. Jude Children's Research Hospital"]],
+ "appendText":"He added that the issue of children with cancer was getting more attention in wealthier countries. \"Childhood cancer is increasingly a leading cause of death for middle- and high-income countries, so governments are increasingly paying attention,\" Ilbawi said. I’m John Russell.",
+ "gaps":["less wealthy nations","low- and middle-income countries","the project's testing","around 5,000 children with cancer","at least 30 hospitals","an uninterrupted supply","quality-assured childhood cancer medicines","at no cost","below 30 percent","around 80 percent","lacked access to life-saving medicines","the next five to seven years","up to 120,000 children","400,000 children worldwide","limited resources","low-quality medicines","an inability to get correct treatments","December 2021","a cooperative deal","$200 million","beyond the pilot phase","over the longer term","bring additional partners on board","regardless of where they live","a leading cause of death"],
+ "acceptedVariants":{"around 5,000 children with cancer":["around five thousand children with cancer"],"at least 30 hospitals":["at least thirty hospitals"],"below 30 percent":["below thirty percent","below 30%","below thirty per cent","below 30 per cent"],"around 80 percent":["around eighty percent","around 80%","around eighty per cent","around 80 per cent"],"the next five to seven years":["the next 5 to 7 years"],"up to 120,000 children":["up to one hundred twenty thousand children","up to one hundred and twenty thousand children"],"400,000 children worldwide":["four hundred thousand children worldwide"],"December 2021":["December twenty twenty-one","December two thousand twenty-one","December two thousand and twenty-one"],"$200 million":["200 million dollars","two hundred million dollars"]},
+ "paraphrases":[
+  ["less wealthy nations","countries with fewer financial resources","Less wealthy là so sánh mức độ giàu có, không khẳng định mọi người dân đều nghèo.",0.4,15.9],
+  ["the project's testing, or pilot period","the initial trial stage of the programme","Pilot period là giai đoạn thử trước khi mở rộng.",30.7,44.2],
+  ["an uninterrupted supply","a continuous flow without breaks","Uninterrupted nhấn mạnh nguồn thuốc được duy trì liên tục.",57.8,73.9],
+  ["at no cost","free of charge","Hai cụm đều nói về việc người nhận không phải trả tiền.",57.8,73.9],
+  ["lacked access to life-saving medicines","had been unable to obtain medicines that could save their lives","Lack access là không tiếp cận được, không phải không muốn dùng thuốc.",93.2,107],
+  ["limited resources","restricted supplies and funding","Resources trong bài bao gồm tiền và phương tiện cung cấp chăm sóc.",151.3,155.6],
+  ["a cooperative deal","an agreement to work together","Cooperative deal là thỏa thuận hợp tác giữa các bên.",184.6,197.5],
+  ["would continue beyond the pilot phase","would carry on after the initial trial stage","Beyond nói về tiếp tục sau giai đoạn thử nghiệm.",221.1,227.7],
+  ["bring additional partners on board","involve more organisations in the project","Bring on board là mời tham gia, không phải lên phương tiện giao thông.",247.2,255.7],
+  ["regardless of where they live, or their ability to pay","without making location or financial means a condition","Regardless of loại bỏ hai điều kiện được nêu: nơi ở và khả năng chi trả.",256.2,271.5]
+ ],
+ "vocabulary":[
+  ["platform","nền tảng; chương trình phối hợp","A system that enables coordinated services or activities."],
+  ["shipment","lô hàng vận chuyển","Goods sent from one place to another."],
+  ["pilot","thí điểm","Carried out initially to test a programme before wider use."],
+  ["uninterrupted","không gián đoạn","Continuing without stopping."],
+  ["quality-assured","được bảo đảm chất lượng","Checked to meet specified quality standards."],
+  ["survival rate","tỷ lệ sống sót","The proportion of people who remain alive over a stated period."],
+  ["resource","nguồn lực","A supply of money, materials or support available for use."],
+  ["cooperative","mang tính hợp tác","Involving people or organisations working together."],
+  ["commitment","sự cam kết","A firm promise to provide support or take action."],
+  ["sustainability","khả năng duy trì lâu dài","The ability to keep an activity operating over time."]
+ ],
+ "signals":["That compares to…","These include…","It added that…","regardless of…"],
+ "issuesFixed":["Removed duplicated image caption and trailing backslash debris","Separated an uninterrupted and rejoined the hospital name","Restored the complete 400000 quantity instead of a truncated answer","Authored 25 meaningful gaps and 10 contextual paraphrases with number variants"]
+}

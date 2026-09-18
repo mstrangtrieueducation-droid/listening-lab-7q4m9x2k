@@ -1,0 +1,35 @@
+{
+ "code":"L1-27","status":"reviewed","reviewDate":"2026-09-18","audioEvidence":"public/media/level1/l1-27.mp3",
+ "evidenceNote":"Compared all spoken paragraphs with the complete 515-second recording. Removed seven unspoken image/caption blocks and the editorial credit. Corrected fused words and the missing spoken to in able to launch.",
+ "removeSpans":[{"start":"![Image 1:","end":"CES is historically"},{"start":"![Image 2:","end":"LG also announced"},{"start":"People walk through the TCL booth","end":"One example is"},{"start":"People view a demonstration of the KATR","end":"Kubota says the vehicle"},{"start":"Xpeng Aero HT Land Aircraft Carrier is displayed","end":"California-based Aptera Motors"},{"start":"The device spoon designed to enhance","end":"French electric sports"},{"start":"This prototype all-terrain electric skateboard","end":"But the snow versions"},{"start":"Bryan Lynn wrote this story","end":null}],
+ "textReplacements":[["autonomouslyimprove","autonomously improve"],["verticallanding","vertical landing"],["be able launch","be able to launch"],["chargingsystem","charging system"],["processer technology","processor technology"]],
+ "appendText":"I’m Bryan Lynn.",
+ "gaps":["targeting consumers","More than 138,000 people","built-in AI tools","picture brightness, sharpness and sound quality","more detailed search","simplify and enrich everyday living","receive immediate information","activate live language translations","many kinds of surfaces or terrain","the vehicle’s four legs independently","secure and level","loads up to 240 kilograms","make smooth movements","security operations","humanoid robots","a combination truck and flying vehicle","fully autonomous","about $300,000","capture energy from the sun","64 kilometers in a single day","a full charge","without increasing the amount of salt","a weak electric current","more than 60 kilometers per hour","move long distances over level land"],
+ "acceptedVariants":{"More than 138,000 people":["more than one hundred thirty-eight thousand people","more than one hundred and thirty-eight thousand people"],"the vehicle’s four legs independently":["the vehicle's 4 legs independently"],"loads up to 240 kilograms":["loads up to two hundred forty kilograms","loads up to two hundred and forty kilograms"],"about $300,000":["about 300000 dollars","about three hundred thousand dollars"],"64 kilometers in a single day":["sixty-four kilometers in a single day","64 kilometres in a single day","sixty-four kilometres in a single day"],"more than 60 kilometers per hour":["more than sixty kilometers per hour","more than 60 kilometres per hour","more than sixty kilometres per hour"]},
+ "paraphrases":[
+  ["targeting consumers","aimed at people who buy and use products","Targeting trong câu mô tả nhóm khách hàng hướng tới.",23.7,31.8],
+  ["autonomously improve picture brightness","adjust image brightness without manual direction","Autonomously nhấn mạnh hệ thống tự thực hiện việc điều chỉnh.",96.2,113.1],
+  ["simplify and enrich everyday living","make daily life easier and more rewarding","Giữ cả hai ý đơn giản hóa và làm trải nghiệm phong phú hơn.",151.3,169.2],
+  ["receive immediate information","get details straight away","Immediate chỉ việc nhận thông tin ngay lập tức.",169.7,182.7],
+  ["secure and level","stable and horizontal","Level ở đây mô tả tư thế cân bằng của robot trên địa hình, không phải cấp độ kỹ năng.",226.4,236.9],
+  ["automatically follow its owner","move after its owner without continual instructions","Automatically mô tả khả năng tự đi theo của robot.",267.6,275.7],
+  ["took its presentation a step further","went beyond what had been shown previously","A step further là phát triển ý tưởng thêm một bước.",316,329.3],
+  ["fully autonomous","able to operate entirely by itself","Fully nhấn mạnh mức tự vận hành hoàn toàn được nhà sản xuất mô tả.",354.2,360.6],
+  ["without being plugged in to a power source","without connecting a cable to an electricity supply","Plugged in chỉ việc nối thiết bị với nguồn điện qua phích cắm.",405.7,419.3],
+  ["enhance, the taste of salt","make food taste saltier","Enhance ở đây là làm cảm giác vị mặn rõ hơn, không phải thêm muối.",428,444.1]
+ ],
+ "vocabulary":[
+  ["consumer","người tiêu dùng","A person who buys or uses goods or services."],
+  ["autonomous","tự vận hành","Able to operate without direct human control."],
+  ["sharpness","độ sắc nét","The clarity of edges and detail in an image."],
+  ["interactive","có tính tương tác","Allowing users and a system to respond to each other."],
+  ["terrain","địa hình","The physical features of an area of land."],
+  ["hydraulics","hệ thống thủy lực","Technology using pressurised liquid to produce movement."],
+  ["sensor","cảm biến","A device that detects changes in its surroundings."],
+  ["humanoid","có hình dạng giống người","Resembling the human body."],
+  ["solar panel","tấm pin mặt trời","A device that converts sunlight into electricity."],
+  ["enhance","tăng cường; làm rõ hơn","To improve or strengthen a quality."]
+ ],
+ "signals":["This year was no different…","One example is…","But this year…","On a full charge…"],
+ "issuesFixed":["Removed seven image/caption blocks and written credits","Corrected merged words and missing to","Replaced caption-derived and missing-input URL answers","Rebuilt 25 coherent gaps covering all eight and a half minutes plus 10 paraphrases"]
+}

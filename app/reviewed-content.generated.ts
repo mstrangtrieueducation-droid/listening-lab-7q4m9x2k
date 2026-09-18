@@ -5236,5 +5236,2119 @@ export const reviewedContent = {
       "One result was…",
       "However, the number…"
     ]
+  },
+  "25": {
+    "title": "The invention that changed home entertainment",
+    "category": "INVENTIONS",
+    "kicker": "How a teenager's idea became an invention that changed everyday life.",
+    "level": "B1+/B2 · 4:47 · REAL HUMAN SPEECH",
+    "media": {
+      "kind": "audio",
+      "videoSrc": "media/level1/l1-26-r20260918.mp3",
+      "posterSrc": "",
+      "duration": 287.8356875,
+      "segments": [
+        [
+          0,
+          287.8356875
+        ]
+      ],
+      "sourceTitle": "The invention that changed home entertainment",
+      "sourceUrl": "",
+      "credit": "The invention that changed home entertainment",
+      "aspectRatio": "64 / 20"
+    },
+    "paragraphs": [
+      "Television has made it possible for people around the world to [1] – sports, music shows, films, and more. Yet many people would find it difficult to name the inventor of the television. They might also be surprised to learn that the inventor [2] when he was just [3]. Today, we explore the life of one of the great inventors of 20th century America: Philo Taylor Farnsworth.",
+      "Philo Farnsworth was born in [4], near Indian Creek in the western state of Utah. The house he lived in for the first few years of his life had no electricity. But Philo read about electricity and quickly [5]. One night, Philo read a magazine story about the idea of [6]. The story said some of the world’s best scientists were working on the idea. It said these scientists were using special machines to try to make a kind of device to send pictures.",
+      "Fourteen-year-old Philo decided these famous scientists were wrong. He decided that [7]. Philo believed such a device would have to be electronic. Philo knew [8]. All he would have to do was find a way to make electrons do the work. Soon, Philo had an idea for such a receiver. It would [9] and send the light on [10]. Philo called it “light in a bottle.”",
+      "Several days later, Philo told his teacher about a device that [11]. He [12] for it and gave it to his teacher. Philo’s drawing seemed very simple. But it still clearly showed the information needed to build the television. Philo’s teacher was Justin Tolman. Many years later, Philo would credit Mr. Tolman with [13] and helping him [14].",
+      "In [15], Philo turned on a device that was [16]. In another room was the first television camera. Philo had invented the special camera tube earlier that year. While the image produced on the receiver was not very clear, the device worked. [17], Philo had found several people who wanted to [18].",
+      "In August 1930, the United States government gave Philo [19]. These documents aimed to [20] by others. Still, he became [21] with a powerful company at the time known as RCA. Philo won the disputes but faced many [22] in his life. He developed [23] that helped make modern television possible. He also developed early radar, invented the first electronic microscope, and worked on developing [24]. Philo Farnsworth died in March 1971. He is considered [25] of the 20th century. I’m John Russell."
+    ],
+    "answers": [
+      "share in many different experiences",
+      "came up with the idea",
+      "fourteen years old",
+      "August 1906",
+      "began to experiment with it",
+      "sending pictures and sound through the air",
+      "mechanical devices would never work",
+      "electrons could be made to move very fast",
+      "trap light in a container",
+      "a line of electrons",
+      "could capture pictures",
+      "drew a plan",
+      "guiding his imagination",
+      "open the doors of science",
+      "September 1927",
+      "the first working television receiver",
+      "Within a few months",
+      "invest money in his invention",
+      "patent documents",
+      "protect his invention from being copied",
+      "involved in legal disputes",
+      "business and financial difficulties",
+      "more than 100 devices",
+      "peaceful uses of atomic energy",
+      "one of the most important inventors"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "14 years old"
+      ],
+      [
+        "August nineteen oh six",
+        "August nineteen hundred six",
+        "August nineteen hundred and six"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "September nineteen twenty-seven"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "more than one hundred devices",
+        "more than a hundred devices"
+      ],
+      [],
+      []
+    ],
+    "contentRevision": "09ffbbc45f0d",
+    "paraphrases": [
+      [
+        "came up with the idea",
+        "thought of the concept",
+        "Come up with là nảy ra ý tưởng.",
+        21,
+        31.7
+      ],
+      [
+        "began to experiment with it",
+        "started testing how it worked",
+        "Experiment with nói về tìm hiểu bằng cách thử nghiệm.",
+        62.2,
+        69
+      ],
+      [
+        "mechanical devices would never work",
+        "machines based on mechanical operation would not succeed",
+        "Giữ nguyên nhận định phủ định của Philo về cách làm lúc đó.",
+        97,
+        107.7
+      ],
+      [
+        "trap light in a container",
+        "hold light inside a vessel",
+        "Trap ở đây mang nghĩa giữ ánh sáng lại trong một vật chứa.",
+        130.7,
+        137.4
+      ],
+      [
+        "capture pictures",
+        "record images",
+        "Capture pictures là thu nhận hình ảnh, không phải bắt một vật thể.",
+        142.3,
+        149.7
+      ],
+      [
+        "credit Mr. Tolman with guiding his imagination",
+        "acknowledge Mr. Tolman's role in directing his creativity",
+        "Credit someone with là công nhận đóng góp của người đó.",
+        169.6,
+        181.4
+      ],
+      [
+        "open the doors of science",
+        "give him access to scientific knowledge and possibilities",
+        "Đây là cách nói hình tượng về cơ hội tìm hiểu khoa học.",
+        169.6,
+        181.4
+      ],
+      [
+        "invest money in his invention",
+        "provide funding to develop his creation",
+        "Invest money nói về bỏ vốn hỗ trợ phát triển phát minh.",
+        208.8,
+        218.2
+      ],
+      [
+        "protect his invention from being copied by others",
+        "prevent others from reproducing his invention without permission",
+        "Các bằng sáng chế nhằm bảo vệ phát minh khỏi việc sao chép trái phép.",
+        219,
+        233.5
+      ],
+      [
+        "business and financial difficulties",
+        "commercial and money-related problems",
+        "Giữ hai mặt khó khăn được nói tới: hoạt động kinh doanh và tài chính.",
+        244.3,
+        251.8
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "inventor",
+        "meaning": "nhà phát minh",
+        "note": "A person who creates a new device or process."
+      },
+      {
+        "term": "experiment",
+        "meaning": "thử nghiệm",
+        "note": "To test ideas in order to learn about them."
+      },
+      {
+        "term": "mechanical",
+        "meaning": "thuộc cơ khí",
+        "note": "Working through physical parts and movement."
+      },
+      {
+        "term": "electron",
+        "meaning": "electron; điện tử",
+        "note": "A negatively charged subatomic particle."
+      },
+      {
+        "term": "receiver",
+        "meaning": "thiết bị thu",
+        "note": "A device that receives transmitted signals."
+      },
+      {
+        "term": "capture",
+        "meaning": "thu nhận; ghi lại",
+        "note": "To record an image or signal."
+      },
+      {
+        "term": "imagination",
+        "meaning": "trí tưởng tượng",
+        "note": "The ability to form new ideas and mental images."
+      },
+      {
+        "term": "patent",
+        "meaning": "bằng sáng chế",
+        "note": "A legal right protecting an invention for a specified period."
+      },
+      {
+        "term": "dispute",
+        "meaning": "tranh chấp",
+        "note": "A disagreement that may require negotiation or legal action."
+      },
+      {
+        "term": "atomic energy",
+        "meaning": "năng lượng nguyên tử",
+        "note": "Energy obtained from changes in atomic nuclei."
+      }
+    ],
+    "signals": [
+      "Yet many people…",
+      "Several days later…",
+      "While the image…",
+      "Still, he became…"
+    ]
+  },
+  "26": {
+    "paragraphs": [
+      "At this year’s CES show in Las Vegas, Nevada, crowds from around the world came to see the latest products built with artificial intelligence (AI). CES is produced by the Virginia-based Consumer Technology Association. It presents the latest electronic product offerings or features, [1]. [2] attended the event which ended last weekend. More than 4,000 companies presented products at CES 2025. Here is a look at some of the top products shown at this year’s 2025 show: CES is historically an event at which large electronics manufacturers introduce their latest and greatest televisions. This year was no different. South Korean TV makers LG and Samsung both announced new smart models with [3]. Others – including Japan’s Panasonic and China’s Hisense and TCL – also released TV models with new AI tools. Korean manufacturer LG said its latest models are equipped with AI technologies designed to autonomously improve [4]. The AI improvements are powered by the company’s own a11 processor technology. LG also announced new updates for its Magic Remote device controller, saying new AI tools were added to provide [5] and interactive possibilities with users. Samsung introduced a system called Samsung Vision AI for its line of OLED and QLED TV models. The company said the AI tools are meant to turn the TVs into more “intelligent” assistive devices and to help “[6]” for its users. One example is a feature that permits users to click on different screen elements to [7] about what they see. The company said another tool makes it possible to [8] on-screen. Several companies at CES introduced robotic transport vehicles designed to travel over [9]. One model was built by Kubota, a Japanese maker of farm and building equipment. The company demonstrated how the KATR four-wheeled robot uses hydraulics to control [10]. This design seeks to keep the robot [11] even when working on hills or in rocky areas.",
+      "Kubota says the vehicle – which is able to carry [12] – is small enough to be transported in most pickup trucks. Chinese developer Unitree Robotics showed off a dog-like robot model called Go2. The robot was designed with a series of cameras, sensors and AI tools. The company says this permits Go2 to [13] and automatically follow its owner. It is able to carry small loads on its back and can also be used in [14] involving businesses or individuals. Demonstrations at CES showed Go2 doing tricks, like standing on two legs, dancing and giving high fives to visitors. The company produces several other dog-like models, as well as [15]. The latest flying car designs are also a yearly favorite at CES. But this year, Chinese automaker XPENG took its presentation a step further by introducing [16]. The company calls the system a Land Aircraft Carrier. It includes a large transport van with enough space to transport a vertical landing flying vehicle inside. The idea is for users to be able to launch the flying vehicle from anywhere the van can go. The flying car is [17] and can carry two people at a time. Chinese media reported the company – which also offers several traditional vehicles on its website – plans to sell the combination for [18].",
+      "XPENG said it will aim to increase production for all its vehicles in the coming year. California-based Aptera Motors demonstrated a new electronic vehicle model with a built-in charging system. The company explains on its website that the vehicle has solar panels on its surface to [19]. When charged this way, Aptera claims the car can travel up to [20] without being plugged in to a power source. On [21], the company says the vehicle can travel up to 640 kilometers. Japanese drink producer Kirin Holdings introduced a new product that aims to strengthen, or enhance, the taste of salt in food products [22]. The spoon-shaped device uses electricity to increase saltiness. The company says the tool – which can be taken anywhere – sends [23] through the top of the device to food. French electric sports equipment maker SQ-Motors presented an all-terrain electric board that can move on roads and snow. The company calls its invention the Sternboard. It is a three-wheeled board with an electric motor in the back. First designed to be an electric skateboard, a version was developed to move on snow. The powered boards have reached speeds of [24] in tests. But the snow versions are not designed for speed. They seek to provide users with the ability to go up hills or [25]. I’m Bryan Lynn."
+    ],
+    "answers": [
+      "targeting consumers",
+      "More than 138,000 people",
+      "built-in AI tools",
+      "picture brightness, sharpness and sound quality",
+      "more detailed search",
+      "simplify and enrich everyday living",
+      "receive immediate information",
+      "activate live language translations",
+      "many kinds of surfaces or terrain",
+      "the vehicle’s four legs independently",
+      "secure and level",
+      "loads up to 240 kilograms",
+      "make smooth movements",
+      "security operations",
+      "humanoid robots",
+      "a combination truck and flying vehicle",
+      "fully autonomous",
+      "about $300,000",
+      "capture energy from the sun",
+      "64 kilometers in a single day",
+      "a full charge",
+      "without increasing the amount of salt",
+      "a weak electric current",
+      "more than 60 kilometers per hour",
+      "move long distances over level land"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "more than one hundred thirty-eight thousand people",
+        "more than one hundred and thirty-eight thousand people"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "the vehicle's 4 legs independently"
+      ],
+      [],
+      [
+        "loads up to two hundred forty kilograms",
+        "loads up to two hundred and forty kilograms"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "about 300000 dollars",
+        "about three hundred thousand dollars"
+      ],
+      [],
+      [
+        "sixty-four kilometers in a single day",
+        "64 kilometres in a single day",
+        "sixty-four kilometres in a single day"
+      ],
+      [],
+      [],
+      [],
+      [
+        "more than sixty kilometers per hour",
+        "more than 60 kilometres per hour",
+        "more than sixty kilometres per hour"
+      ],
+      []
+    ],
+    "contentRevision": "5f494b6aab5c",
+    "paraphrases": [
+      [
+        "targeting consumers",
+        "aimed at people who buy and use products",
+        "Targeting trong câu mô tả nhóm khách hàng hướng tới.",
+        23.7,
+        31.8
+      ],
+      [
+        "autonomously improve picture brightness",
+        "adjust image brightness without manual direction",
+        "Autonomously nhấn mạnh hệ thống tự thực hiện việc điều chỉnh.",
+        96.2,
+        113.1
+      ],
+      [
+        "simplify and enrich everyday living",
+        "make daily life easier and more rewarding",
+        "Giữ cả hai ý đơn giản hóa và làm trải nghiệm phong phú hơn.",
+        151.3,
+        169.2
+      ],
+      [
+        "receive immediate information",
+        "get details straight away",
+        "Immediate chỉ việc nhận thông tin ngay lập tức.",
+        169.7,
+        182.7
+      ],
+      [
+        "secure and level",
+        "stable and horizontal",
+        "Level ở đây mô tả tư thế cân bằng của robot trên địa hình, không phải cấp độ kỹ năng.",
+        226.4,
+        236.9
+      ],
+      [
+        "automatically follow its owner",
+        "move after its owner without continual instructions",
+        "Automatically mô tả khả năng tự đi theo của robot.",
+        267.6,
+        275.7
+      ],
+      [
+        "took its presentation a step further",
+        "went beyond what had been shown previously",
+        "A step further là phát triển ý tưởng thêm một bước.",
+        316,
+        329.3
+      ],
+      [
+        "fully autonomous",
+        "able to operate entirely by itself",
+        "Fully nhấn mạnh mức tự vận hành hoàn toàn được nhà sản xuất mô tả.",
+        354.2,
+        360.6
+      ],
+      [
+        "without being plugged in to a power source",
+        "without connecting a cable to an electricity supply",
+        "Plugged in chỉ việc nối thiết bị với nguồn điện qua phích cắm.",
+        405.7,
+        419.3
+      ],
+      [
+        "enhance, the taste of salt",
+        "make food taste saltier",
+        "Enhance ở đây là làm cảm giác vị mặn rõ hơn, không phải thêm muối.",
+        428,
+        444.1
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "consumer",
+        "meaning": "người tiêu dùng",
+        "note": "A person who buys or uses goods or services."
+      },
+      {
+        "term": "autonomous",
+        "meaning": "tự vận hành",
+        "note": "Able to operate without direct human control."
+      },
+      {
+        "term": "sharpness",
+        "meaning": "độ sắc nét",
+        "note": "The clarity of edges and detail in an image."
+      },
+      {
+        "term": "interactive",
+        "meaning": "có tính tương tác",
+        "note": "Allowing users and a system to respond to each other."
+      },
+      {
+        "term": "terrain",
+        "meaning": "địa hình",
+        "note": "The physical features of an area of land."
+      },
+      {
+        "term": "hydraulics",
+        "meaning": "hệ thống thủy lực",
+        "note": "Technology using pressurised liquid to produce movement."
+      },
+      {
+        "term": "sensor",
+        "meaning": "cảm biến",
+        "note": "A device that detects changes in its surroundings."
+      },
+      {
+        "term": "humanoid",
+        "meaning": "có hình dạng giống người",
+        "note": "Resembling the human body."
+      },
+      {
+        "term": "solar panel",
+        "meaning": "tấm pin mặt trời",
+        "note": "A device that converts sunlight into electricity."
+      },
+      {
+        "term": "enhance",
+        "meaning": "tăng cường; làm rõ hơn",
+        "note": "To improve or strengthen a quality."
+      }
+    ],
+    "signals": [
+      "This year was no different…",
+      "One example is…",
+      "But this year…",
+      "On a full charge…"
+    ]
+  },
+  "27": {
+    "paragraphs": [
+      "Scientists have used ancient genes to learn more details about contact between Neanderthals and humans [1]. Results of two recent studies estimate the two groups likely met and began mating [2]. Modern humans – also known as Homo sapiens – began in Africa hundreds of thousands of years ago and later started spreading to Europe, Asia and other places. Scientists believe that at some point, they met and mated with Neanderthals. The mixing of these groups had [3]. However, scientists do not know exactly when or how the two groups interacted. But the two new studies provide some additional details about [4]. One group of scientists examined genetic material from [5] Homo sapiens individuals who lived around 45,000 years ago. Reuters news agency reported that research involved [6] from Homo sapiens ever examined, or sequenced. Some of the genes came from bones found in a cave in the central German village of Ranis. Other material came from a woman believed to have lived at around the same time in a cave in [7] of what is now the Czech Republic.",
+      "Researchers estimated the period of mixing between Neanderthals and humans at about [8]. The findings were recently published in a study in Nature. A second group of researchers examined genetic material from [9] Homo sapiens. This included [10] who lived between 2,000 and 45,000 years ago. That study, published in the journal Science, estimated the period of mixing at about [11].",
+      "The scientists said their new findings on the mixing and mating of the groups suggested the activities happened [12] than thought in the past. They believe the contact continued [13]. Priya Moorjani was co-writer of the study appearing in Science. She is an assistant professor of [14] at the University of California, Berkeley. She told Reuters, “Genetic data from these samples really helps us [15] in more and more detail.” The team noted that it is difficult to know [16] between Homo sapiens and Neanderthals based on the examined data.",
+      "The researchers also [17] the mixing and mating happened. However, they believe it was [18]. The researchers noted most modern humans still have genetic material from Neanderthals that accounts for an estimated [19]. They said modern-day genetic traits linked to [20] can relate back to the Neanderthals. [21] also includes links to another group of human ancestors called Denisovans. Moorjani noted that the history of Neanderthals living outside Africa for thousands of years likely gave them [22] in new environments. “Some of their genes [23] to modern humans,” she added. Rick Potts is director of the Smithsonian Institution’s Human Origins program. He was not involved in the new research. Potts told The Associated Press he hopes future genetic studies can help scientists learn even more details about the interactions of Neanderthals and modern humans. He said, “Out of many really compelling areas of [24], one of them is: well, [25]?” I’m Caty Weaver."
+    ],
+    "answers": [
+      "tens of thousands of years ago",
+      "about 45,000 years ago",
+      "a major influence on humans’ genetic code",
+      "the timing of this contact",
+      "three female and three male",
+      "the oldest genes",
+      "a mountainous area",
+      "49,000 to 45,000 years ago",
+      "300 present-day and ancient",
+      "59 individuals",
+      "50,500 to 43,500 years ago",
+      "a little more recently",
+      "over many generations",
+      "molecular and cell biology",
+      "paint a picture",
+      "the exact nature of the interactions",
+      "could not confirm exactly where",
+      "most likely somewhere in the Middle East",
+      "one to two percent of their DNA",
+      "skin color, hair color and even nose shape",
+      "Our genetic makeup",
+      "a greater ability to deal with climate and diseases",
+      "may have been beneficial",
+      "scientific investigation",
+      "who are we"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "about forty-five thousand years ago"
+      ],
+      [],
+      [],
+      [
+        "3 female and 3 male"
+      ],
+      [],
+      [],
+      [
+        "forty-nine thousand to forty-five thousand years ago"
+      ],
+      [
+        "three hundred present-day and ancient"
+      ],
+      [
+        "fifty-nine individuals"
+      ],
+      [
+        "fifty thousand five hundred to forty-three thousand five hundred years ago",
+        "fifty thousand and five hundred to forty-three thousand and five hundred years ago"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "1 to 2 percent of their DNA",
+        "1 to 2% of their DNA",
+        "one to two per cent of their DNA",
+        "1 to 2 per cent of their DNA"
+      ],
+      [
+        "skin colour hair colour and even nose shape"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "cafc4004b7d5",
+    "paraphrases": [
+      [
+        "a major influence on humans’ genetic code",
+        "a substantial effect on human genetic information",
+        "Major nhấn mạnh ảnh hưởng đáng kể tới cấu trúc di truyền.",
+        56.6,
+        64.4
+      ],
+      [
+        "the timing of this contact",
+        "when these encounters took place",
+        "Timing chỉ thời điểm các nhóm tiếp xúc.",
+        74.2,
+        84.5
+      ],
+      [
+        "at around the same time",
+        "at approximately the same period",
+        "Around giữ ý mốc thời gian ước tính, không chính xác tuyệt đối.",
+        125.4,
+        138.8
+      ],
+      [
+        "a little more recently than thought in the past",
+        "slightly later than previously believed",
+        "More recently ở đây nghĩa là gần hiện tại hơn so với ước tính cũ.",
+        199.3,
+        213.5
+      ],
+      [
+        "continued over many generations",
+        "persisted through numerous successive generations",
+        "Contact diễn ra qua nhiều thế hệ thay vì chỉ một lần.",
+        214.2,
+        219.4
+      ],
+      [
+        "paint a picture in more and more detail",
+        "build an increasingly precise understanding",
+        "Paint a picture là hình ảnh ẩn dụ cho việc hình thành hiểu biết rõ hơn.",
+        237.8,
+        249.4
+      ],
+      [
+        "could not confirm exactly where",
+        "were unable to establish the precise location",
+        "Giữ ý chưa xác nhận được địa điểm, không kết luận không có sự tiếp xúc.",
+        263.7,
+        273.1
+      ],
+      [
+        "accounts for an estimated one to two percent of their DNA",
+        "makes up roughly one to two percent of their genetic material",
+        "Account for diễn tả tỷ lệ đóng góp; estimated là ước tính.",
+        280.9,
+        295.8
+      ],
+      [
+        "may have been beneficial to modern humans",
+        "might have helped modern humans",
+        "Giữ nguyên may: lợi ích là một khả năng được đề xuất.",
+        339.1,
+        345.6
+      ],
+      [
+        "compelling areas of scientific investigation",
+        "strongly engaging fields of scientific research",
+        "Compelling ở đây nghĩa là rất đáng quan tâm và thu hút nghiên cứu.",
+        374.7,
+        386.3
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "gene",
+        "meaning": "gen",
+        "note": "A unit of inherited biological information."
+      },
+      {
+        "term": "genetic code",
+        "meaning": "mã di truyền",
+        "note": "Information in genetic material used to build proteins."
+      },
+      {
+        "term": "sequence",
+        "meaning": "giải trình tự",
+        "note": "To determine the order of components in genetic material."
+      },
+      {
+        "term": "generation",
+        "meaning": "thế hệ",
+        "note": "A group descended at approximately the same stage in a family or population."
+      },
+      {
+        "term": "molecular",
+        "meaning": "thuộc phân tử",
+        "note": "Relating to molecules."
+      },
+      {
+        "term": "interaction",
+        "meaning": "sự tương tác",
+        "note": "An influence or contact between two or more things."
+      },
+      {
+        "term": "trait",
+        "meaning": "đặc điểm di truyền",
+        "note": "A characteristic that may be inherited."
+      },
+      {
+        "term": "ancestor",
+        "meaning": "tổ tiên",
+        "note": "An earlier organism or person from which others descend."
+      },
+      {
+        "term": "beneficial",
+        "meaning": "có lợi",
+        "note": "Producing a helpful effect."
+      },
+      {
+        "term": "compelling",
+        "meaning": "hấp dẫn; đáng chú ý",
+        "note": "Strongly attracting attention or interest."
+      }
+    ],
+    "signals": [
+      "However, scientists do not know…",
+      "A second group…",
+      "However, they believe…",
+      "Some of their genes may…"
+    ]
+  },
+  "28": {
+    "paragraphs": [
+      "Many of us might only seek out physical therapists if we are [1]. However, medical experts say these specialists can also help prevent many health problems if they are seen [2]. One leader in the industry, Sharon Dunn, even calls physical therapists “[3].” Dunn is the past president of the American Physical Therapy Association (APTA). She recently told The Associated Press she thinks people need to look at physical therapists in a new way – as health practitioners who can help [4] before they appear. Other health experts share this opinion. They include Roger Herr, the current president of the APTA, and Gammon Earhart of Washington University in St. Louis. They both shared Dunn’s prevention message in separate discussions with the AP. Earhart urges people to think about physical therapists just as they do dentists.",
+      "“Even if you’re not having any problem, you go in and [5].” She noted that such examinations could help find and deal with problems early. For example, an exam could include [6] and current health – things like physical activity, sleep, nutrition, and so on. This could be followed by a look at how a person is moving. Exams might uncover things like [7]. Herr is a big supporter of yearly wellness visits. He told the AP he believes physical therapists can be helpful for all kinds of people – the young, athletes, or anyone who wants to be as “[8].” In the United States, you can now visit a physical therapist in all 50 states [9] from a doctor or surgeon.",
+      "However, a yearly exam might not be [10]. This could prevent some from seeking out care. Earhart estimated such a visit in areas across the U.S. Midwest might cost [11]. Herr suggested a cost of [12] in more costly areas. But both experts said that [13], such exams might save money and can add healthy years. “I think if people understood more that the way they move might be setting them up for a problem down the line, they’d be [14] to see a physical therapist,” Earhart said. We are all built differently. So, it might be useful to examine children early to see what sports or activities might be good for them. Physical therapists can carry out such early exams. Earhart said, “If we screened kids as they were choosing sports and said this sport is probably not the right kind of stress for the way you are put together, it could [15].” She added about children, “Maybe they don’t have the hips for ballet.” Distance runners could also think this way.",
+      "Some are built to [16] while others are not. Exams by physical therapists could help identify future problems. Another area where physical therapists can help is with [17]. Falling – and the fear of falling – can be major issues, especially for the aging population. “You want to show people they can get back up if they fall,” Herr said. “And once they know they can do it, it gives them confidence and it can help [18].\" He added, “One of the risks of falling is that people don’t do anything, so you don’t move and therefore you [19]...” Herr said one example could be to introduce exercises involving “floor to stand” movements. These can help improve [20]. “It sounds simple [21] on the floor to stand,” Herr said. “But it’s a great exercise for all age groups.” Earhart estimated [22] seek help to deal with issues related to being overweight.",
+      "“The more weight somebody is carrying [23],” she said. Herr said he had watched extremely overweight patients successfully lose large amounts of weight. He noted that some of these individuals are [24]. But for others, it is not always that clear and easy. “I have seen people change based on a milestone, like having a kid and they really want to be a good parent,” Herr said. “They want to be a fit parent, and the same thing with a grandparent. So that motivates people to engage [25].” I’m John Russell. And I’m Jill Robbins."
+    ],
+    "answers": [
+      "recovering from accidental injuries or surgery",
+      "on a regular basis",
+      "the best-kept secret in health care",
+      "identify possible medical issues",
+      "have everything checked out",
+      "a patient’s health history",
+      "postural issues or unusual body movements",
+      "independent as possible",
+      "without needing permission",
+      "covered by a person’s health insurance",
+      "around $150",
+      "$200 to $300",
+      "in the long run",
+      "much more inclined",
+      "save a lot of pain and problems down the line",
+      "avoid injuries despite running many kilometers",
+      "fall prevention",
+      "reduce the fear of falling",
+      "become more out of shape",
+      "flexibility, strength, balance, coordination, and planning",
+      "getting up from a lying position",
+      "about half of physical therapy patients",
+      "the higher the loads are on their joints",
+      "motivated for a specific reason",
+      "because of a lifestyle change"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "around 150 dollars",
+        "around one hundred fifty dollars",
+        "around one hundred and fifty dollars"
+      ],
+      [
+        "200 to 300 dollars",
+        "two hundred to three hundred dollars",
+        "two hundred dollars to three hundred dollars",
+        "$200 to 300"
+      ],
+      [],
+      [],
+      [],
+      [
+        "avoid injuries despite running many kilometres"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "ffcc300665da",
+    "paraphrases": [
+      [
+        "on a regular basis",
+        "at consistent intervals",
+        "Regular basis nghĩa là đều đặn, không phải chỉ một lần khi bị chấn thương.",
+        11.4,
+        23
+      ],
+      [
+        "the best-kept secret in health care",
+        "a valuable healthcare resource that is not widely recognised",
+        "Best-kept secret là cách nhấn mạnh giá trị ít được biết tới.",
+        22.8,
+        33.4
+      ],
+      [
+        "have everything checked out",
+        "get a comprehensive check",
+        "Check out trong lời nói này là kiểm tra tình trạng cơ thể.",
+        90.8,
+        96.4
+      ],
+      [
+        "covered by a person’s health insurance",
+        "paid for under someone's health insurance plan",
+        "Covered by insurance nói về việc bảo hiểm chi trả.",
+        162.2,
+        168.9
+      ],
+      [
+        "in the long run",
+        "over a longer period",
+        "In the long run hướng tới kết quả lâu dài.",
+        193.4,
+        202.6
+      ],
+      [
+        "much more inclined to see a physical therapist",
+        "far more willing to consult a physical therapist",
+        "Inclined to trong ngữ cảnh này nói về xu hướng sẵn lòng thực hiện một việc.",
+        203.4,
+        218.4
+      ],
+      [
+        "down the line",
+        "at a later stage",
+        "Down the line chỉ thời điểm về sau, không phải một vị trí trên đường thẳng.",
+        233.5,
+        249
+      ],
+      [
+        "become more out of shape",
+        "lose more physical fitness",
+        "Out of shape là thể lực kém, không phải thay đổi hình dạng một vật.",
+        303,
+        314.4
+      ],
+      [
+        "the higher the loads are on their joints",
+        "the greater the pressure placed on their joints",
+        "Loads trong câu này chỉ lực đè lên các khớp.",
+        353.5,
+        360.3
+      ],
+      [
+        "based on a milestone",
+        "in response to an important event in life",
+        "Milestone là cột mốc quan trọng như trở thành cha mẹ.",
+        381.1,
+        391.1
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "physical therapist",
+        "meaning": "chuyên viên vật lý trị liệu",
+        "note": "A professional who helps people improve movement and physical function."
+      },
+      {
+        "term": "recover",
+        "meaning": "hồi phục",
+        "note": "To regain health or function after illness or injury."
+      },
+      {
+        "term": "practitioner",
+        "meaning": "người hành nghề chuyên môn",
+        "note": "A person qualified to practise a profession."
+      },
+      {
+        "term": "postural",
+        "meaning": "thuộc tư thế",
+        "note": "Relating to how the body is positioned."
+      },
+      {
+        "term": "wellness",
+        "meaning": "tình trạng khỏe mạnh",
+        "note": "Overall physical and mental well-being."
+      },
+      {
+        "term": "inclined",
+        "meaning": "có xu hướng; sẵn lòng",
+        "note": "Likely or willing to do something."
+      },
+      {
+        "term": "screen",
+        "meaning": "sàng lọc; kiểm tra ban đầu",
+        "note": "To examine for potential problems."
+      },
+      {
+        "term": "flexibility",
+        "meaning": "độ linh hoạt; dẻo dai",
+        "note": "The ability to move joints and muscles through a range of motion."
+      },
+      {
+        "term": "coordination",
+        "meaning": "sự phối hợp",
+        "note": "The ability to use body parts together smoothly."
+      },
+      {
+        "term": "milestone",
+        "meaning": "cột mốc quan trọng",
+        "note": "An important event or stage in life."
+      }
+    ],
+    "signals": [
+      "However, medical experts say…",
+      "For example…",
+      "But both experts said…",
+      "Another area…"
+    ]
+  },
+  "29": {
+    "paragraphs": [
+      "Much of the United States “springs forward” on Sunday, March 9th, for daylight saving time. Worldwide, many other countries also observe daylight saving time, [1]. The time change can leave people tired and perhaps unhappy the next day. But it also might even harm health. Some studies have found an increase in [2] right after the March time change. However, there are ways to [3] of the time change, including getting more sunshine. The light helps reset your circadian rhythm for healthful sleep. In the U.S., daylight saving time begins Sunday at [4]. The time change will reverse on November 2nd when clocks “fall back” as daylight saving time ends. The state of Hawaii and most of the state of Arizona do not make the spring change. Those areas [5] along with Puerto Rico, American Samoa, Guam and the U.S. Virgin Islands. Some people try to prepare for the change to daylight saving time by going to bed a little earlier [6]. But with a third of American adults already not getting the suggested [7], catching up can be difficult. The brain has a kind of clock that is set by [8]. This clock, known as the circadian rhythm, is on [9]. It governs when we become sleepy and when we are more wakeful. The rhythms change with age. This is one reason that early-to-rise young children turn into [10]. Morning light resets the rhythm. By evening, levels of a hormone called melatonin begin to increase, [11]. Too much light in the evening — that extra hour from daylight saving time — [12]. As a result, the cycle gets delayed. The circadian rhythm affects more than sleep. It also influences [13], hormone releases and other systems.",
+      "[14], or lack of sleep, is linked to heart disease, weight conditions, [15], and more. Deadly car crash numbers increase [16] after the spring time change, a study of U.S. traffic deaths says. The risk of crashes is [17], it found. Researchers suggested sleep deprivation might be responsible. The time change also has a link to the heart. The American Heart Association points to studies that suggest an increase in heart attacks on the Monday after daylight saving time begins, and in strokes [18]. Doctors already know that heart attacks, especially severe ones, are a bit more common on Mondays generally — and in the morning, when blood is [19]. Researchers do not know why the time change would add to that Monday connection. But it is possible the sudden circadian change influences other issues such as high blood pressure in [20].",
+      "To prepare for daylight saving time, experts offer some advice. Slowly move bedtimes about [21] for several nights before the time change. Try to rise earlier the next morning, too. Go outside for [22] the first week of daylight saving time. This is another way to help reset your body’s clock. Start daily activities, like dinner or exercise, a little earlier. This may help tell your body to [23], sleep experts suggest. Daytime sleeping, the drug caffeine and light from phones and other electronic devices can make an earlier bedtime even harder. Americans have discussed ending daylight saving time. But so far, [24]. Health groups such as the American Medical Association and American Academy of Sleep Medicine believe it is time to end time changes. The groups suggest that staying with standard time year-round works better for [25].",
+      "I’m Caty Weaver."
+    ],
+    "answers": [
+      "starting and ending on different dates",
+      "heart attacks and strokes",
+      "ease the effects",
+      "two o’clock in the morning",
+      "remain on standard time",
+      "two or three nights ahead",
+      "seven hours of nightly sleep",
+      "exposure to sunlight and darkness",
+      "a roughly 24-hour cycle",
+      "hard-to-wake teenagers",
+      "leading to tiredness",
+      "delays the melatonin increase",
+      "heart rate, blood pressure",
+      "Sleep deprivation",
+      "problems with thinking and remembering",
+      "the first few days",
+      "highest in the morning",
+      "for two days afterward",
+      "more likely to clot",
+      "people already at risk",
+      "15 or 20 minutes earlier",
+      "early morning sunshine",
+      "start getting used to the new conditions",
+      "no official changes have been made",
+      "human biology and sleep needs"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [
+        "2 o'clock in the morning",
+        "two oclock in the morning",
+        "2:00 in the morning"
+      ],
+      [],
+      [
+        "2 or 3 nights ahead"
+      ],
+      [
+        "7 hours of nightly sleep"
+      ],
+      [],
+      [
+        "a roughly twenty-four-hour cycle"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "for 2 days afterward"
+      ],
+      [],
+      [],
+      [
+        "fifteen or twenty minutes earlier"
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "faa14a2b2a9a",
+    "paraphrases": [
+      [
+        "ease the effects of the time change",
+        "make the impact of changing the clocks less severe",
+        "Ease ở đây là làm giảm tác động, không phải loại bỏ hoàn toàn.",
+        46.2,
+        55.8
+      ],
+      [
+        "remain on standard time",
+        "continue using the usual non-summer clock setting",
+        "Remain là tiếp tục dùng giờ tiêu chuẩn thay vì đổi sang giờ mùa hè.",
+        94.4,
+        107.3
+      ],
+      [
+        "catching up can be difficult",
+        "making up for lost sleep may be hard",
+        "Catch up trong câu này nói về ngủ bù cho phần bị thiếu.",
+        121.4,
+        134.8
+      ],
+      [
+        "exposure to sunlight and darkness",
+        "experiencing periods of natural light and dark",
+        "Exposure là sự tiếp xúc với điều kiện ánh sáng và bóng tối.",
+        135.6,
+        144.3
+      ],
+      [
+        "on a roughly 24-hour cycle",
+        "following a pattern of approximately one day",
+        "Roughly là xấp xỉ; cycle là chu kỳ lặp lại.",
+        144.9,
+        154.3
+      ],
+      [
+        "delays the melatonin increase",
+        "makes the rise in melatonin happen later",
+        "Delay chỉ lùi thời điểm diễn ra, không có nghĩa ngăn vĩnh viễn.",
+        190.8,
+        201.1
+      ],
+      [
+        "Sleep deprivation",
+        "not getting enough sleep",
+        "Thuật ngữ được giải thích ngay trong audio là thiếu ngủ.",
+        220.7,
+        234.1
+      ],
+      [
+        "people already at risk",
+        "individuals who already face a higher chance of harm",
+        "Already at risk nhấn mạnh nguy cơ đã có từ trước.",
+        307.3,
+        320.5
+      ],
+      [
+        "start getting used to the new conditions",
+        "begin adapting to the changed routine",
+        "Get used to mang nghĩa dần thích nghi.",
+        367.6,
+        376
+      ],
+      [
+        "staying with standard time year-round",
+        "keeping standard time throughout the entire year",
+        "Year-round nghĩa là cả năm, không chỉ một mùa.",
+        416.5,
+        428.1
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "daylight saving time",
+        "meaning": "giờ mùa hè",
+        "note": "A system of moving clocks forward seasonally to shift daylight into the evening."
+      },
+      {
+        "term": "circadian rhythm",
+        "meaning": "nhịp sinh học ngày đêm",
+        "note": "The body's approximately daily pattern of activity and rest."
+      },
+      {
+        "term": "exposure",
+        "meaning": "sự tiếp xúc",
+        "note": "The condition of being affected by an influence such as light."
+      },
+      {
+        "term": "wakeful",
+        "meaning": "tỉnh táo; không buồn ngủ",
+        "note": "Not asleep or ready to sleep."
+      },
+      {
+        "term": "hormone",
+        "meaning": "hoóc-môn",
+        "note": "A chemical messenger produced in the body."
+      },
+      {
+        "term": "melatonin",
+        "meaning": "melatonin",
+        "note": "A hormone involved in regulating sleep timing."
+      },
+      {
+        "term": "deprivation",
+        "meaning": "sự thiếu hụt",
+        "note": "The lack of something necessary or beneficial."
+      },
+      {
+        "term": "stroke",
+        "meaning": "đột quỵ",
+        "note": "A medical event involving disrupted blood flow in the brain."
+      },
+      {
+        "term": "clot",
+        "meaning": "đông lại",
+        "note": "To form a thickened mass, as blood can do."
+      },
+      {
+        "term": "year-round",
+        "meaning": "quanh năm",
+        "note": "Throughout the whole year."
+      }
+    ],
+    "signals": [
+      "However, there are ways…",
+      "As a result…",
+      "But it is possible…",
+      "But so far…"
+    ]
+  },
+  "30": {
+    "paragraphs": [
+      "Allison Burk’s daughter was struggling. The American teenager had [1], a decreased ability to pay attention and [2]. A family doctor suggested testing for attention-deficit/hyperactivity disorder, or ADHD. This led to an unexpected discovery: The teen had ADHD, and her mother, Allison Burk, did too. During her daughter’s testing, Burk thought, “Wait a minute. This sounds familiar.” “I was able to [3] that this might be something I was experiencing,” said Burk, who lives in Columbus, Ohio. She sought testing for herself and was diagnosed with ADHD — at [4]. More adults are being diagnosed with ADHD. Diagnoses have been rising for at least 20 years but seem to have increased sharply in the last few years. A recent government study suggested that [5] in the United States — [6] — have been diagnosed with ADHD. The condition starts in childhood, but about half of adults with ADHD are diagnosed when they are 18 or older. Some doctors say the number of people seeking ADHD testing is sharply increasing.",
+      "“Just in our clinic, requests for assessments [7],” said Justin Barterian. He is a psychologist based at Ohio State University. ADHD makes it hard for people to pay attention and [8]. The disorder can be genetic. Doctors often treat the disorder with drugs, [9], or both. Judy Sandler is 62 years old and lives in the U.S. state of Maine. She was diagnosed in her 50s. Sandler describes what ADHD feels like for her. “It’s like there’s an engine in you and you feel like it’s always running, and you can’t turn it off except with medication,” Sandler said. ADHD has been called [10] mental health disorder in American children. More than 7 million children in the U.S. have been diagnosed. The disorder was once thought to be something that resolved as children became adults. But now, experts say they believe that many people are not diagnosed as kids and that the disorder [11]. Adults with the condition talk about having trouble [12] and planning their time. Some say the disorder has led to problems in [13]. Diagnoses have been increasing in both kids and adults. The recent government report also found adult ADHD was more common than earlier estimates had suggested. “We haven’t had (federal) adult ADHD data in a long time,” said Angelika Claussen. The U.S. Centers for Disease Control and Prevention researcher was one of the study’s writers. There were signs of the rise, she added. Increasing demand for ADHD medication [14] after the COVID-19 pandemic hit in March 2020. A 2023 study showed the rise in prescriptions, or doctors’ orders for such medication, was notable in adults — [15]. ADHD diagnoses and medication were increasing before the pandemic. This is partly because of a change in [16] in 2013.",
+      "Those changes expanded the definition of ADHD and reduced the number of signs, or symptoms, [17]. But cases really seemed to increase in 2020, when schools closed and many adults were forced to work from home. “It’s very difficult to focus when you are home and you have kids,” Claussen said. She said such conditions may have worsened ADHD symptoms in [18]. Experts say that it was long believed that ADHD was underdiagnosed in adults. Now, experts debate about whether it has become over-diagnosed. There is no blood or brain test for the disorder. Experts say it is diagnosed when symptoms cause ongoing problems in [19], and when those symptoms [20]. Experts say the best way professionals diagnose ADHD is by [21] and from people who know them. They also might test [22]. But getting an appointment with a mental health professional can take months. And assessments can [23]. Many people turn to family doctors.",
+      "People also take online diagnostic tests, some of which are linked to health companies that [24]. “There is a wide variability in this country in how people diagnose, how strict they are, and who they diagnose,” said Margaret Sibley. She is a psychologist at University of Washington. The American Professional Society of ADHD and Related Disorders is preparing a set of [25] for American health professionals who treat adults. Sibley is leading the work on the guidelines, which the organization expects to release later this year. I’m Anna Matteo, and I’m Jill Robbins."
+    ],
+    "answers": [
+      "uncontrolled emotions",
+      "trouble completing work on time",
+      "piece together",
+      "42 years old",
+      "more than 15 million adults",
+      "about 1 in 17",
+      "have doubled in the last two years",
+      "control their behaviors",
+      "behavioral therapy",
+      "the most commonly diagnosed",
+      "continues into adulthood",
+      "focusing on immediate responsibilities",
+      "their personal relationships",
+      "led to severe shortages",
+      "especially among women",
+      "general diagnostic measures",
+      "required for diagnosis",
+      "people with less severe cases",
+      "more than one area of life",
+      "began in early childhood",
+      "getting careful histories from patients",
+      "a patient’s memory and ability to focus",
+      "cost thousands of dollars",
+      "prescribe medications",
+      "diagnosis and treatment guidelines"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [
+        "forty-two years old"
+      ],
+      [
+        "more than fifteen million adults"
+      ],
+      [
+        "about one in seventeen"
+      ],
+      [
+        "have doubled in the last 2 years"
+      ],
+      [
+        "control their behaviours"
+      ],
+      [
+        "behavioural therapy"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "more than 1 area of life"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "a47af4170f96",
+    "paraphrases": [
+      [
+        "piece together",
+        "understand by connecting different clues",
+        "Piece together là kết nối các dấu hiệu để hiểu một vấn đề.",
+        43.3,
+        52.1
+      ],
+      [
+        "have increased sharply",
+        "have risen steeply",
+        "Sharply nhấn mạnh mức tăng mạnh.",
+        67.9,
+        77.5
+      ],
+      [
+        "have doubled in the last two years",
+        "have become twice as numerous over two years",
+        "Doubled là số lượng tăng lên gấp đôi.",
+        114.2,
+        122.7
+      ],
+      [
+        "resolved as children became adults",
+        "went away as children grew up",
+        "Resolved ở đây nói về quan niệm cũ rằng vấn đề sẽ hết khi trưởng thành.",
+        187.8,
+        194.1
+      ],
+      [
+        "continues into adulthood",
+        "persists after childhood",
+        "Continue into adulthood là kéo dài đến giai đoạn trưởng thành.",
+        195.2,
+        205.6
+      ],
+      [
+        "led to severe shortages",
+        "caused serious supply shortfalls",
+        "Shortage là nguồn cung không đáp ứng đủ nhu cầu.",
+        260.4,
+        270.8
+      ],
+      [
+        "people with less severe cases",
+        "individuals whose condition is milder",
+        "Less severe mô tả mức độ nhẹ hơn, không phủ nhận vấn đề tồn tại.",
+        328.8,
+        337.9
+      ],
+      [
+        "ongoing problems",
+        "persistent difficulties",
+        "Ongoing chỉ vấn đề tiếp tục diễn ra, không phải sự cố nhất thời.",
+        356.7,
+        368.8
+      ],
+      [
+        "Many people turn to family doctors",
+        "Many people seek help from their usual primary-care doctors",
+        "Turn to someone nghĩa là tìm đến để được giúp đỡ.",
+        398.8,
+        401.1
+      ],
+      [
+        "a wide variability",
+        "considerable variation",
+        "Variability chỉ sự khác nhau đáng kể trong cách đánh giá được người nói đề cập.",
+        412.1,
+        423.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "diagnose",
+        "meaning": "chẩn đoán",
+        "note": "To identify a condition through examination and assessment."
+      },
+      {
+        "term": "assessment",
+        "meaning": "sự đánh giá",
+        "note": "A process of examining a situation or ability."
+      },
+      {
+        "term": "behavioral",
+        "meaning": "thuộc hành vi",
+        "note": "Relating to how someone acts."
+      },
+      {
+        "term": "therapy",
+        "meaning": "liệu pháp",
+        "note": "A method used to treat a condition."
+      },
+      {
+        "term": "adulthood",
+        "meaning": "tuổi trưởng thành",
+        "note": "The stage of life after childhood."
+      },
+      {
+        "term": "shortage",
+        "meaning": "sự thiếu hụt nguồn cung",
+        "note": "A situation in which not enough of something is available."
+      },
+      {
+        "term": "prescription",
+        "meaning": "đơn thuốc",
+        "note": "A medical professional's order for a treatment or medicine."
+      },
+      {
+        "term": "symptom",
+        "meaning": "triệu chứng",
+        "note": "A change experienced by someone that may indicate a condition."
+      },
+      {
+        "term": "ongoing",
+        "meaning": "đang tiếp diễn",
+        "note": "Continuing over time."
+      },
+      {
+        "term": "guideline",
+        "meaning": "hướng dẫn chuyên môn",
+        "note": "A recommended principle for carrying out a task or practice."
+      }
+    ],
+    "signals": [
+      "This led to…",
+      "But now, experts say…",
+      "This is partly because…",
+      "But getting an appointment…"
+    ]
+  },
+  "31": {
+    "paragraphs": [
+      "Air quality differs from place to place and day to day. But about [1] breathes air at some point that [2] set by the World Health Organization (WHO). Different forms of air pollution kill [3], the U.N. health agency estimates. But health experts say there are some actions individuals can take to protect themselves, even in the world’s most polluted cities. The first step is to start with the understanding that air is not only polluted when it looks smoky or smoggy, said Tanushree Ganguly. She is an air quality expert with the Energy Policy Institute of Chicago’s India program. “Blue skies [4],” Ganguly told The Associated Press. Air pollutants often come from people burning things. Examples include fuels as well as [5]. Pollutants can also be released from wildfires.",
+      "Among the most dangerous particles we can breathe in are called [6]. The smallest of these are known as PM 2.5. This is because they are [7]. These particles can [8] and are mostly created by burning fuels. Larger particles, known as PM 10, are linked to agriculture, roadways, mining or [9]. Other dangerous pollutants include gases like [10], which are also produced from burning fuels. This information comes from Anumita Roychowdhury, an air pollution expert at the Center for Science and Environment in New Delhi. The American-based Health Effects Institute says air pollution is the second-largest risk factor for early death worldwide, behind blood pressure. Short-term exposure can cause asthma attacks and increase the risk of heart attacks and stroke, especially in older people and [11]. Long-term exposure can cause serious heart and lung problems that can lead to death. A recent study by the U.N. children’s agency UNICEF found that [12] in East Asia and Pacific countries breathe unhealthy air. The pollution is linked to the deaths of [13]. June Kunugi, UNICEF’s Regional Director for East Asia, said the polluted air limits growth, harms lungs and [14]. “Every breath matters, but for too many children every breath can bring harm,” she said.",
+      "Over [15] now record and follow air quality levels. Many mobile apps include air quality information as well. But it can be difficult to know how bad the air is by looking at these numbers. To help people better understand air quality levels, many countries have established [16], or AQI. Larger numbers on this index mean worse air. Different countries have different air quality standards. For example, India’s daily PM 2.5 limit is [17] than in Thailand and 4 times higher than WHO standards. For individuals, experts say the goal should be to [18] when air quality is bad, by [19]. This is not always possible, though. Danny Djarum is with the World Resources Institute. He told the AP there are many people who live or work outside and “can’t really afford” to stay indoors. People also need to watch indoor air pollution that can be caused by [20] like [21].",
+      "While air purifiers can help reduce indoor air pollution, experts say [22]. The devices work by pulling air from a room and then pushing it through [23]. The filtered air is then sent back into the room. Air purifiers work best when used in [24] and when people are nearby. This is because they can only clean [25], said Rajasekhar Balasubramanian of the National University of Singapore. He added, “If we have a tiny air purifier in a large room, it won’t be effective.” I’m John Russell. And I’m Caty Weaver."
+    ],
+    "answers": [
+      "99 percent of the world’s population",
+      "does not meet pollution guidelines",
+      "about 7 million people each year",
+      "can’t guarantee you clean air",
+      "clearing operations involving crops or trees",
+      "particulate matter",
+      "less than 2.5 microns in diameter",
+      "travel deep inside human lungs",
+      "wind-blown dust",
+      "nitrogen dioxide or sulfur dioxide",
+      "those with existing medical problems",
+      "more than 500 million children",
+      "100 children under age 5 every day",
+      "affects thinking abilities",
+      "6,000 cities in 117 countries",
+      "an air quality index",
+      "more than 1.5 times higher",
+      "limit exposure",
+      "staying indoors or wearing a mask",
+      "common household activities",
+      "cooking or burning incense",
+      "they do have limitations",
+      "a filter that traps pollutants",
+      "small spaces",
+      "a certain amount of air"
+    ],
+    "acceptedVariants": [
+      [
+        "ninety-nine percent of the world's population",
+        "99% of the world's population",
+        "ninety-nine per cent of the world's population",
+        "99 per cent of the world's population"
+      ],
+      [],
+      [
+        "about seven million people each year"
+      ],
+      [],
+      [],
+      [],
+      [
+        "less than two point five microns in diameter"
+      ],
+      [],
+      [],
+      [
+        "nitrogen dioxide or sulphur dioxide"
+      ],
+      [],
+      [
+        "more than five hundred million children"
+      ],
+      [
+        "one hundred children under age five every day",
+        "a hundred children under age five every day",
+        "100 children under age five every day"
+      ],
+      [],
+      [
+        "six thousand cities in one hundred seventeen countries",
+        "six thousand cities in one hundred and seventeen countries"
+      ],
+      [],
+      [
+        "more than one point five times higher"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "d8c7267ffdba",
+    "paraphrases": [
+      [
+        "does not meet pollution guidelines",
+        "fails to satisfy the recommended pollution limits",
+        "Meet guidelines là đạt yêu cầu; ở đây câu mang nghĩa phủ định.",
+        6.7,
+        22.8
+      ],
+      [
+        "Blue skies can’t guarantee you clean air",
+        "a clear-looking sky does not ensure the air is unpolluted",
+        "Không đánh đồng việc bầu trời trong với không khí sạch.",
+        68.8,
+        75.7
+      ],
+      [
+        "less than 2.5 microns in diameter",
+        "under 2.5 microns across",
+        "Diameter chỉ đường kính; less than là nhỏ hơn.",
+        111.4,
+        118.3
+      ],
+      [
+        "those with existing medical problems",
+        "people who already have health conditions",
+        "Existing nhấn mạnh bệnh hoặc vấn đề đã có từ trước.",
+        182.7,
+        197.4
+      ],
+      [
+        "Larger numbers on this index mean worse air",
+        "a higher index reading indicates poorer air quality",
+        "Giữ đúng chiều tương quan: chỉ số cao hơn là chất lượng kém hơn.",
+        290.6,
+        295.5
+      ],
+      [
+        "limit exposure",
+        "reduce contact with polluted air",
+        "Limit exposure ở đây là giảm tiếp xúc với không khí ô nhiễm.",
+        319.9,
+        333.4
+      ],
+      [
+        "can’t really afford",
+        "cannot readily bear the cost or practical consequences",
+        "Afford trong câu bao gồm khả năng kinh tế và điều kiện thực tế để ở trong nhà.",
+        342,
+        351.1
+      ],
+      [
+        "common household activities",
+        "routine tasks carried out at home",
+        "Household activities là hoạt động sinh hoạt trong gia đình.",
+        351.9,
+        363.3
+      ],
+      [
+        "a filter that traps pollutants",
+        "a device that captures harmful particles from the air",
+        "Trap pollutants là giữ chất ô nhiễm lại khi không khí đi qua.",
+        373.8,
+        382.2
+      ],
+      [
+        "a certain amount of air",
+        "a limited quantity of air",
+        "A certain amount ở đây nói về giới hạn công suất làm sạch.",
+        395.3,
+        407.3
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "pollutant",
+        "meaning": "chất gây ô nhiễm",
+        "note": "A substance that contaminates the environment."
+      },
+      {
+        "term": "smoggy",
+        "meaning": "có khói mù",
+        "note": "Filled with polluted haze."
+      },
+      {
+        "term": "particulate matter",
+        "meaning": "bụi và hạt lơ lửng",
+        "note": "Small solid or liquid particles suspended in air."
+      },
+      {
+        "term": "micron",
+        "meaning": "micromet",
+        "note": "One millionth of a metre."
+      },
+      {
+        "term": "diameter",
+        "meaning": "đường kính",
+        "note": "The distance across a circle through its centre."
+      },
+      {
+        "term": "exposure",
+        "meaning": "sự phơi nhiễm; tiếp xúc",
+        "note": "Contact with an environmental influence or substance."
+      },
+      {
+        "term": "index",
+        "meaning": "chỉ số",
+        "note": "A numerical measure used to compare conditions."
+      },
+      {
+        "term": "incense",
+        "meaning": "hương; nhang",
+        "note": "A substance burned to produce a fragrant smell."
+      },
+      {
+        "term": "purifier",
+        "meaning": "thiết bị làm sạch",
+        "note": "A device that removes unwanted substances."
+      },
+      {
+        "term": "filter",
+        "meaning": "bộ lọc",
+        "note": "A material or device that separates particles from a flow."
+      }
+    ],
+    "signals": [
+      "The first step…",
+      "This is because…",
+      "For example…",
+      "While air purifiers can help…"
+    ]
+  },
+  "32": {
+    "paragraphs": [
+      "Computer, or digital, screens are common at work, homes, schools, and stores. An estimated [1] spend [2] in front of screens, the American Optometric Association says. All that screen time can cause harm. Too much screen viewing can lead to [3], unclear vision and headaches. It can also lead to vision conditions including myopia, or nearsightedness, especially in children. Some technology workers even describe [4] when they look at screens for too long. However, exposure to blue light from digital screens [5], the American Academy of Ophthalmology says. One reason for the screen-linked vision problems lies in the eye muscles.",
+      "Staring closely at screens for long amounts of time can cause the muscle used for eye focus to [6], or tight. “That muscle's not supposed to stay tight all day long. And if it does, it's like picking up a light weight and trying to [7],” American Optometric Association President Steven Reed told the Associated Press (AP). It is not hard to lift, he said, “But after a while, even though it’s not a heavy lift, your body just gets tired,” he added. The vision problems can affect work, family time and rest. As an optometrist in Mississippi, Reed sees people who are experiencing eye pain, headaches and unclear vision linked with computer use. He suggests that people with such problems get an eye examination and [8]. Here are some more tips from eye health professionals to reduce eye strain caused by devices. Take a break [9] from looking at a computer. During the break, focus your eyes on something that is about [10], or 6 meters, [11]. This will help ease tired, tight eye muscles. “Luckily, [12],” said Raj Maturi, an eye doctor, or ophthalmologist, at Midwest Eye Institute in Indianapolis and spokesperson for the American Academy of Ophthalmology. “The best way to avoid these symptoms is by taking breaks from our screens or near work activities and using [13], if needed,” he said. People normally close their eyes very briefly about [14]. This helps lubricate the eye naturally. But when looking at a screen, people might close their eyes only [15], the Cleveland Clinic says. That is when use of eye drops might be considered. Some people find that using a larger computer screen helps reduce eye tiredness, or fatigue. You can also [16] on your laptop, monitor or smartphone screen. Sitting [17] from your screen and looking down at it also can help reduce eye strain, the American Academy of Ophthalmology says.",
+      "Some products for computer users, such as blue light glasses, are marketed with claims that they will reduce eye strain, improve sleep and prevent eye disease. But several studies have found the glasses [18], says the American Academy of Ophthalmology. The group says it is how people use digital devices that causes problems, not the blue light coming from screens. Even after stepping away from work on larger computers, many adults find themselves using smaller digital devices for reading or watching shows. And many children use small digital devices such as laptops, tablets, and smartphones in school. Ayesha Malik of the Children’s Hospital of Philadelphia said that too much screen time or [19] can speed development of nearsightedness, especially in children. She added that anyone watching shows should do so on a television, [20], to help avoid eye strain. Children should follow the 20-20-20-2 rule, she said. The added “2” stands for [21], which helps with eye development, Malik said. “The reality is that most children are engaging with screens throughout the day at school and home.",
+      "It becomes difficult to [22],” she said. “Aim for not more than 20 minutes during any one session.” The blue light that digital screens release can [23], experts say. As a result, their use might make it difficult to fall asleep or sleep well. To give your eyes and brain the rest they need, doctors suggest turning off screens [24]. You can also change the setting on digital devices to [25]. If you are used to watching videos at night, try listening to an audiobook or podcast instead. I’m Anna Matteo. And I’m John Russell."
+    ],
+    "answers": [
+      "104 million Americans of working age",
+      "more than seven hours a day",
+      "dry or watery eyes",
+      "short times of dizziness or vertigo",
+      "has not been shown to cause permanent eye damage",
+      "become too tense",
+      "hold it over your head for hours",
+      "take regular breaks from screen viewing",
+      "every 20 minutes",
+      "20 feet away",
+      "for 20 seconds",
+      "eye strain is temporary",
+      "lubricating eye drops",
+      "18 to 22 times per minute",
+      "three to seven times per minute",
+      "increase the image size",
+      "an arm’s length away",
+      "are not very effective",
+      "focusing on nearby objects",
+      "instead of a tablet",
+      "2 hours of play outside every day",
+      "track the total number of hours",
+      "increase a person’s alertness",
+      "one to two hours before going to sleep",
+      "lower screen brightness"
+    ],
+    "acceptedVariants": [
+      [
+        "one hundred four million Americans of working age",
+        "one hundred and four million Americans of working age"
+      ],
+      [
+        "more than 7 hours a day"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "every twenty minutes"
+      ],
+      [
+        "twenty feet away"
+      ],
+      [
+        "for twenty seconds"
+      ],
+      [],
+      [],
+      [
+        "eighteen to twenty-two times per minute"
+      ],
+      [
+        "3 to 7 times per minute"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "two hours of play outside every day"
+      ],
+      [],
+      [],
+      [
+        "1 to 2 hours before going to sleep"
+      ],
+      []
+    ],
+    "contentRevision": "ff844e80423b",
+    "paraphrases": [
+      [
+        "myopia, or nearsightedness",
+        "difficulty seeing distant objects clearly",
+        "Myopia là cận thị, khi vật ở xa khó nhìn rõ.",
+        39.3,
+        48.5
+      ],
+      [
+        "has not been shown to cause permanent eye damage",
+        "has not been demonstrated to produce lasting injury to the eyes",
+        "Giữ sự phủ định về bằng chứng, không biến thành khẳng định gây hại vĩnh viễn.",
+        60.5,
+        73.6
+      ],
+      [
+        "become too tense, or tight",
+        "contract and remain excessively strained",
+        "Tense ở đây mô tả cơ mắt bị căng.",
+        81.7,
+        93.5
+      ],
+      [
+        "take regular breaks from screen viewing",
+        "stop looking at screens at frequent intervals",
+        "Regular breaks là nghỉ đều đặn, không chỉ nghỉ khi đã rất mệt.",
+        149.1,
+        158.6
+      ],
+      [
+        "eye strain is temporary",
+        "eye fatigue generally lasts for a limited time",
+        "Temporary tương phản với vĩnh viễn.",
+        190.2,
+        208.8
+      ],
+      [
+        "lubricating eye drops",
+        "drops that help keep the eye surface moist",
+        "Lubricating diễn tả tác dụng làm ẩm trong ngữ cảnh này.",
+        209.4,
+        223.1
+      ],
+      [
+        "an arm’s length away from your screen",
+        "at about the distance of an outstretched arm from the display",
+        "An arm's length là khoảng cách bằng chiều dài cánh tay.",
+        268.5,
+        282.1
+      ],
+      [
+        "can speed development of nearsightedness",
+        "may make short-sightedness develop more quickly",
+        "Speed development nghĩa là đẩy nhanh quá trình; can giữ ý khả năng.",
+        340.9,
+        357.8
+      ],
+      [
+        "track the total number of hours",
+        "keep an accurate count of all the time spent",
+        "Track ở đây là theo dõi tổng thời lượng sử dụng.",
+        396.4,
+        401.7
+      ],
+      [
+        "increase a person’s alertness",
+        "make someone feel more awake",
+        "Alertness là mức tỉnh táo.",
+        408.1,
+        416.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "vision",
+        "meaning": "thị lực",
+        "note": "The ability to see."
+      },
+      {
+        "term": "myopia",
+        "meaning": "cận thị",
+        "note": "A condition in which distant objects appear blurred."
+      },
+      {
+        "term": "vertigo",
+        "meaning": "chóng mặt xoay",
+        "note": "A sensation of spinning or loss of balance."
+      },
+      {
+        "term": "permanent",
+        "meaning": "vĩnh viễn; lâu dài",
+        "note": "Lasting rather than temporary."
+      },
+      {
+        "term": "strain",
+        "meaning": "sự căng mỏi",
+        "note": "Excessive effort or stress placed on a body part."
+      },
+      {
+        "term": "optometrist",
+        "meaning": "chuyên viên đo khám thị lực",
+        "note": "A professional who examines vision and provides eye care."
+      },
+      {
+        "term": "ophthalmologist",
+        "meaning": "bác sĩ nhãn khoa",
+        "note": "A medical doctor specialising in eyes."
+      },
+      {
+        "term": "lubricate",
+        "meaning": "làm ẩm; bôi trơn",
+        "note": "To reduce dryness or friction with a fluid."
+      },
+      {
+        "term": "fatigue",
+        "meaning": "sự mệt mỏi",
+        "note": "Tiredness following effort or prolonged use."
+      },
+      {
+        "term": "alertness",
+        "meaning": "sự tỉnh táo",
+        "note": "The state of being awake and attentive."
+      }
+    ],
+    "signals": [
+      "However, exposure…",
+      "One reason…",
+      "But when looking at a screen…",
+      "As a result…"
+    ]
+  },
+  "33": {
+    "paragraphs": [
+      "Researchers recently reported new evidence from a study of a medical device placed inside the body, [1]. Three people with a muscle-destroying disease got a little stronger after using the implant. They were able to stand and walk more easily because of [2]. Marco Capogrosso is an assistant professor at the University of Pittsburgh, or Pitt, who led the research. \"These people were definitely [3],\" he said. Capogrosso said, \"They were getting better and better,\" over the study that [4]. The implant was able to return some muscle function, [5].",
+      "The implant was already being tested to [6] in other patients. This new evidence suggests it might also aid diseases of the nervous system like spinal muscle atrophy, or SMA. SMA is a genetic disease that [7], nerve cells in the spinal cord that control muscles. That leads muscles to waste away, especially in the legs, hips, and shoulders and sometimes those involved with [8]. There is no cure. A gene therapy can save the lives of very young children with [9], and there are some medicines to slow the disease in older patients. Stimulating the spinal cord with [10] has long been used to treat chronic, or long-term, pain.",
+      "Capogrosso's team also has tested it to help people paralyzed by strokes or spinal cord injury move their arms and legs [11]. The system sends electrical signals to [12]. This has the effect of [13]. Capogrosso wondered if that same technology might help patients with SMA by [14] to signal damaged muscle cells causing them to move. The researchers at the University of Pittsburgh published their study in Nature Medicine. They implanted electrodes over [15] of the three adults with SMA. Using the device [16] but with [17], all soon experienced improvements in [18], the researchers wrote.",
+      "Fifty-seven-year-old Doug McCullough took part in the study. \"With [19] you never get any better,\" he said, adding, “So having any improvement is just a really surreal and very exciting benefit.\" All three subjects increased how far they could walk [20] by the study's end. Capogrosso said they could walk farther [21] and “even a person this many years into the disease can improve.\" Researchers found the improvements [22] as soon as the stimulator was turned off. But they did [23]. Neuroscientist Susan Harkema led similar studies of stimulation for spinal cord injuries while at the University of Louisville.",
+      "She warned that the new study is small and [24] but said it was an important test of the device. She said it should be tested next with [25]. Capogrosso said some small but longer studies are beginning. I’m Dorothy Gundy."
+    ],
+    "answers": [
+      "a spine-stimulating implant",
+      "electrical stimulation to their spinal cord",
+      "not expecting an improvement",
+      "lasted one month",
+      "at least temporarily",
+      "treat paralysis",
+      "slowly destroys motor neurons",
+      "breathing and swallowing",
+      "a severe form of the disease",
+      "low levels of electricity",
+      "with assistance",
+      "nerves that have stopped reacting",
+      "activating the muscles",
+      "stimulating sensory nerves",
+      "the lower spinal cord",
+      "did not return normal movement",
+      "a few hours of spinal stimulation a week",
+      "muscle strength and function",
+      "a progressive disease",
+      "in six minutes",
+      "because they got less tired",
+      "did not disappear",
+      "decrease a few months after the study ended",
+      "did not last very long",
+      "other muscle-degenerating diseases"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [
+        "lasted 1 month"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "in 6 minutes"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "bc2b15843013",
+    "paraphrases": [
+      [
+        "got a little stronger",
+        "gained a small amount of strength",
+        "A little nêu mức cải thiện nhỏ, không phải hồi phục hoàn toàn.",
+        12.9,
+        21.6
+      ],
+      [
+        "at least temporarily",
+        "for at least a limited period",
+        "Temporarily nhấn mạnh hiệu quả chưa được xác nhận là lâu dài.",
+        61.2,
+        67.7
+      ],
+      [
+        "waste away",
+        "gradually become weaker and smaller",
+        "Waste away mô tả tình trạng cơ teo và suy yếu dần.",
+        102.7,
+        115.8
+      ],
+      [
+        "chronic, or long-term, pain",
+        "pain that persists over time",
+        "Chronic được giải thích trong audio bằng long-term.",
+        135.4,
+        145.7
+      ],
+      [
+        "with assistance",
+        "with help",
+        "Giữ rõ bệnh nhân cần hỗ trợ để cử động trong mô tả này.",
+        146.4,
+        159.1
+      ],
+      [
+        "did not return normal movement",
+        "did not restore ordinary movement completely",
+        "Giữ sự phủ định quan trọng về giới hạn của kết quả.",
+        204.1,
+        222.2
+      ],
+      [
+        "a progressive disease",
+        "a condition that tends to worsen over time",
+        "Progressive trong y học nói về diễn tiến nặng dần, không phải tiến bộ tốt lên.",
+        229.2,
+        243.9
+      ],
+      [
+        "walk farther because they got less tired",
+        "cover a greater distance because they experienced less fatigue",
+        "Giữ đúng mối quan hệ nguyên nhân giữa giảm mệt và tăng quãng đường.",
+        254.1,
+        265.9
+      ],
+      [
+        "did not disappear as soon as the stimulator was turned off",
+        "remained for some time after stimulation stopped",
+        "Câu nói hiệu quả còn duy trì một thời gian, không khẳng định tồn tại vĩnh viễn.",
+        266.5,
+        280.3
+      ],
+      [
+        "the new study is small and did not last very long",
+        "the research involved few participants over a short period",
+        "Đây là hai giới hạn của nghiên cứu: cỡ mẫu và thời gian theo dõi.",
+        293.4,
+        304.7
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "implant",
+        "meaning": "thiết bị cấy ghép",
+        "note": "A device placed inside the body."
+      },
+      {
+        "term": "stimulation",
+        "meaning": "sự kích thích",
+        "note": "An input that triggers activity in a nerve or tissue."
+      },
+      {
+        "term": "spinal cord",
+        "meaning": "tủy sống",
+        "note": "The main bundle of nerves running along the spine."
+      },
+      {
+        "term": "paralysis",
+        "meaning": "tình trạng liệt",
+        "note": "Loss of the ability to move part of the body."
+      },
+      {
+        "term": "motor neuron",
+        "meaning": "nơ-ron vận động",
+        "note": "A nerve cell involved in controlling muscles."
+      },
+      {
+        "term": "atrophy",
+        "meaning": "sự teo; suy giảm mô",
+        "note": "Wasting or shrinking of a tissue."
+      },
+      {
+        "term": "chronic",
+        "meaning": "mạn tính",
+        "note": "Lasting for a long time."
+      },
+      {
+        "term": "sensory",
+        "meaning": "thuộc cảm giác",
+        "note": "Relating to receiving information through the senses."
+      },
+      {
+        "term": "electrode",
+        "meaning": "điện cực",
+        "note": "A conductor used to transmit an electrical signal."
+      },
+      {
+        "term": "progressive",
+        "meaning": "tiến triển nặng dần",
+        "note": "Gradually worsening over time in this medical context."
+      }
+    ],
+    "signals": [
+      "at least temporarily…",
+      "This new evidence suggests…",
+      "but with a few hours…",
+      "But they did decrease…"
+    ]
+  },
+  "34": {
+    "paragraphs": [
+      "The World Health Organization (WHO) has launched a new service, or platform, to provide free cancer medicines to thousands of children in [1]. The WHO defines these as [2]. The first medicines were to be provided to Mongolia and Uzbekistan. The next shipments would go to Ecuador, Jordan, Nepal and Zambia, as part of [3], or pilot period, the WHO said. The drug treatments are expected to reach [4] this year across [5] in the six countries. \"Countries in the pilot phase will receive [6] of [7] [8],\" the U.N. health agency said in a statement.",
+      "The WHO said childhood cancer survival rates in low- and middle-income countries were often [9]. That compares to survival rates of [10] in wealthy nations. The agency’s Director-General, Tedros Adhanom Ghebreyesus, said in a statement, \"For too long, children with cancer have [11].\" He added that the new platform aims to bring \"health and hope to children around the world.\" El Salvador, Moldova, Senegal, Ghana, Pakistan and Sri Lanka are expected to join the program very soon. The platform hopes to reach 50 countries in [12], providing medicines for [13]. The WHO estimates about [14] develop cancer every year. Most of the children live in places with [15]. The agency says about 70 percent of children in those settings die for several reasons. These include the use of [16], [17], or problems with the supply of treatments. The plan to establish the platform was first announced in [18]. It is [19] between the WHO and St. Jude Children's Research Hospital in Memphis, Tennessee in the United States. The U.S. non-profit treatment and research organization provided [20] for its launch, the WHO said. The WHO called the financial commitment the largest ever made for childhood cancer medicines worldwide. It added that the cost-free service would continue [21]. The platform is working on developing its sustainability – or ability to continue to provide the service - [22]. Andre Ilbawi is with the WHO's cancer control program. He told reporters the program seeks to widen the platform and [23]. \"This marks the beginning of a global movement to provide children with cancer the medicines that they need, [24], or their ability to pay,\" Ilbawi said.",
+      "He added that the issue of children with cancer was getting more attention in wealthier countries. \"Childhood cancer is increasingly [25] for middle- and high-income countries, so governments are increasingly paying attention,\" Ilbawi said. I’m John Russell."
+    ],
+    "answers": [
+      "less wealthy nations",
+      "low- and middle-income countries",
+      "the project's testing",
+      "around 5,000 children with cancer",
+      "at least 30 hospitals",
+      "an uninterrupted supply",
+      "quality-assured childhood cancer medicines",
+      "at no cost",
+      "below 30 percent",
+      "around 80 percent",
+      "lacked access to life-saving medicines",
+      "the next five to seven years",
+      "up to 120,000 children",
+      "400,000 children worldwide",
+      "limited resources",
+      "low-quality medicines",
+      "an inability to get correct treatments",
+      "December 2021",
+      "a cooperative deal",
+      "$200 million",
+      "beyond the pilot phase",
+      "over the longer term",
+      "bring additional partners on board",
+      "regardless of where they live",
+      "a leading cause of death"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [
+        "around five thousand children with cancer"
+      ],
+      [
+        "at least thirty hospitals"
+      ],
+      [],
+      [],
+      [],
+      [
+        "below thirty percent",
+        "below 30%",
+        "below thirty per cent",
+        "below 30 per cent"
+      ],
+      [
+        "around eighty percent",
+        "around 80%",
+        "around eighty per cent",
+        "around 80 per cent"
+      ],
+      [],
+      [
+        "the next 5 to 7 years"
+      ],
+      [
+        "up to one hundred twenty thousand children",
+        "up to one hundred and twenty thousand children"
+      ],
+      [
+        "four hundred thousand children worldwide"
+      ],
+      [],
+      [],
+      [],
+      [
+        "December twenty twenty-one",
+        "December two thousand twenty-one",
+        "December two thousand and twenty-one"
+      ],
+      [],
+      [
+        "200 million dollars",
+        "two hundred million dollars"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "f5405cf7af30",
+    "paraphrases": [
+      [
+        "less wealthy nations",
+        "countries with fewer financial resources",
+        "Less wealthy là so sánh mức độ giàu có, không khẳng định mọi người dân đều nghèo.",
+        0.4,
+        15.9
+      ],
+      [
+        "the project's testing, or pilot period",
+        "the initial trial stage of the programme",
+        "Pilot period là giai đoạn thử trước khi mở rộng.",
+        30.7,
+        44.2
+      ],
+      [
+        "an uninterrupted supply",
+        "a continuous flow without breaks",
+        "Uninterrupted nhấn mạnh nguồn thuốc được duy trì liên tục.",
+        57.8,
+        73.9
+      ],
+      [
+        "at no cost",
+        "free of charge",
+        "Hai cụm đều nói về việc người nhận không phải trả tiền.",
+        57.8,
+        73.9
+      ],
+      [
+        "lacked access to life-saving medicines",
+        "had been unable to obtain medicines that could save their lives",
+        "Lack access là không tiếp cận được, không phải không muốn dùng thuốc.",
+        93.2,
+        107
+      ],
+      [
+        "limited resources",
+        "restricted supplies and funding",
+        "Resources trong bài bao gồm tiền và phương tiện cung cấp chăm sóc.",
+        151.3,
+        155.6
+      ],
+      [
+        "a cooperative deal",
+        "an agreement to work together",
+        "Cooperative deal là thỏa thuận hợp tác giữa các bên.",
+        184.6,
+        197.5
+      ],
+      [
+        "would continue beyond the pilot phase",
+        "would carry on after the initial trial stage",
+        "Beyond nói về tiếp tục sau giai đoạn thử nghiệm.",
+        221.1,
+        227.7
+      ],
+      [
+        "bring additional partners on board",
+        "involve more organisations in the project",
+        "Bring on board là mời tham gia, không phải lên phương tiện giao thông.",
+        247.2,
+        255.7
+      ],
+      [
+        "regardless of where they live, or their ability to pay",
+        "without making location or financial means a condition",
+        "Regardless of loại bỏ hai điều kiện được nêu: nơi ở và khả năng chi trả.",
+        256.2,
+        271.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "platform",
+        "meaning": "nền tảng; chương trình phối hợp",
+        "note": "A system that enables coordinated services or activities."
+      },
+      {
+        "term": "shipment",
+        "meaning": "lô hàng vận chuyển",
+        "note": "Goods sent from one place to another."
+      },
+      {
+        "term": "pilot",
+        "meaning": "thí điểm",
+        "note": "Carried out initially to test a programme before wider use."
+      },
+      {
+        "term": "uninterrupted",
+        "meaning": "không gián đoạn",
+        "note": "Continuing without stopping."
+      },
+      {
+        "term": "quality-assured",
+        "meaning": "được bảo đảm chất lượng",
+        "note": "Checked to meet specified quality standards."
+      },
+      {
+        "term": "survival rate",
+        "meaning": "tỷ lệ sống sót",
+        "note": "The proportion of people who remain alive over a stated period."
+      },
+      {
+        "term": "resource",
+        "meaning": "nguồn lực",
+        "note": "A supply of money, materials or support available for use."
+      },
+      {
+        "term": "cooperative",
+        "meaning": "mang tính hợp tác",
+        "note": "Involving people or organisations working together."
+      },
+      {
+        "term": "commitment",
+        "meaning": "sự cam kết",
+        "note": "A firm promise to provide support or take action."
+      },
+      {
+        "term": "sustainability",
+        "meaning": "khả năng duy trì lâu dài",
+        "note": "The ability to keep an activity operating over time."
+      }
+    ],
+    "signals": [
+      "That compares to…",
+      "These include…",
+      "It added that…",
+      "regardless of…"
+    ]
   }
 };
