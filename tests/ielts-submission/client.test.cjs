@@ -1,6 +1,6 @@
 const fs=require('fs'),path=require('path'),assert=require('node:assert/strict');
 const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
-const client=fs.readFileSync(path.resolve(__dirname,'../../submission-client.1608db39982c.js'),'utf8');
+const client=fs.readFileSync(path.resolve(__dirname,'../../submission-client.7169f5bb336c.js'),'utf8');
 const payload={source:'ielts-listening-submit',version:1,action:'submitListening',submissionId:'listen-regression-0123456789abcdef',student:{name:'Regression Test',className:'IELTS 1'},week:'TEST 1',scores:[20,10,20,10]};
 let browser;const results=[];
 async function fixture(options={}){
