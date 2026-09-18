@@ -1,0 +1,210 @@
+{
+  "code": "L1-38",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-38.mp3",
+  "evidenceNote": "Compared the complete 262-second MP3 ASR against the source. Removed the repeated candy-photo caption, repaired the split Red No. 3 name and supplied spoken or FDA and the final presenter sign-off. Preserved the report’s actual wording rather than silently rewriting its claims.",
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "The FDA said food manufacturers"
+    }
+  ],
+  "textReplacements": [
+    [
+      "Administration (FDA)",
+      "Administration, or FDA,"
+    ],
+    [
+      "Red No.\n\n3 causes",
+      "Red No. 3 causes"
+    ]
+  ],
+  "appendText": "I’m Jill Robbins.",
+  "gaps": [
+    "widely used to color",
+    "nearly 35 years",
+    "a possible cancer risk",
+    "issued a petition in 2022",
+    "high levels of the chemical",
+    "drugs taken by mouth",
+    "expand the ban",
+    "nearly two dozen members of Congress",
+    "gummy vitamins and medications",
+    "until January 2027",
+    "imported products",
+    "meet the new U.S. requirement",
+    "except in certain kinds of cherries",
+    "proposed limits on certain dyes",
+    "foods offered in public schools",
+    "does not occur in humans",
+    "the Delaney Clause",
+    "any additive",
+    "long overdue",
+    "levels usually taken in by humans",
+    "scientific experts",
+    "released in 2018",
+    "food colors and flavorings",
+    "beet juice",
+    "a dye made from insects"
+  ],
+  "acceptedVariants": {
+    "nearly 35 years": [
+      "nearly thirty-five years"
+    ],
+    "issued a petition in 2022": [
+      "issued a petition in twenty twenty-two",
+      "issued a petition in two thousand twenty-two",
+      "issued a petition in two thousand and twenty-two"
+    ],
+    "until January 2027": [
+      "until January twenty twenty-seven",
+      "until January two thousand twenty-seven",
+      "until January two thousand and twenty-seven"
+    ],
+    "released in 2018": [
+      "released in twenty eighteen",
+      "released in two thousand eighteen",
+      "released in two thousand and eighteen"
+    ],
+    "food colors and flavorings": [
+      "food colours and flavourings"
+    ]
+  },
+  "paraphrases": [
+    [
+      "a possible cancer risk",
+      "a potential danger of causing cancer",
+      "Possible chỉ khả năng, không khẳng định mọi trường hợp đều mắc bệnh.",
+      11,
+      22.6
+    ],
+    [
+      "issued a petition",
+      "made a formal written request",
+      "Petition là văn bản đề nghị hành động.",
+      23.3,
+      35.2
+    ],
+    [
+      "drugs taken by mouth",
+      "medicines swallowed orally",
+      "Taken by mouth mô tả cách dùng thuốc.",
+      48.5,
+      59
+    ],
+    [
+      "expand the ban to food products",
+      "extend the prohibition to include food",
+      "Expand the ban là mở rộng phạm vi lệnh cấm.",
+      60.3,
+      67.1
+    ],
+    [
+      "permit certain uses",
+      "allow particular applications",
+      "Permit đồng nghĩa allow; certain giới hạn ở một số cách dùng.",
+      106.6,
+      116.3
+    ],
+    [
+      "except in certain kinds of cherries",
+      "with an exception for some types of cherries",
+      "Except nêu ngoại lệ, không phải một lệnh cấm tuyệt đối.",
+      117.2,
+      126.8
+    ],
+    [
+      "does not occur in humans",
+      "does not happen in people",
+      "Câu chỉ cơ chế được mô tả; cần giữ ý phủ định.",
+      151.6,
+      164
+    ],
+    [
+      "long overdue",
+      "something that should have happened much earlier",
+      "Overdue thể hiện việc diễn ra muộn hơn đáng lẽ.",
+      198.2,
+      205.2
+    ],
+    [
+      "levels usually taken in by humans",
+      "amounts that people normally consume",
+      "Levels trong câu là lượng chất được tiêu thụ.",
+      205.2,
+      217
+    ],
+    [
+      "In its place",
+      "As a replacement for it",
+      "Cụm này giới thiệu chất được dùng thay thuốc nhuộm.",
+      251.8,
+      259.3
+    ]
+  ],
+  "vocabulary": [
+    [
+      "dye",
+      "chất nhuộm màu",
+      "A substance used to change the colour of something."
+    ],
+    [
+      "ban",
+      "lệnh cấm",
+      "An official prohibition."
+    ],
+    [
+      "petition",
+      "đơn kiến nghị",
+      "A formal written request for action."
+    ],
+    [
+      "activist",
+      "người vận động",
+      "A person actively campaigning for change."
+    ],
+    [
+      "manufacturer",
+      "nhà sản xuất",
+      "A company that makes goods."
+    ],
+    [
+      "import",
+      "nhập khẩu",
+      "To bring products into a country from abroad."
+    ],
+    [
+      "requirement",
+      "yêu cầu bắt buộc",
+      "A condition that must be satisfied."
+    ],
+    [
+      "additive",
+      "chất phụ gia",
+      "A substance added to a product."
+    ],
+    [
+      "overdue",
+      "đáng lẽ phải có từ lâu",
+      "Not happening until later than expected or appropriate."
+    ],
+    [
+      "flavoring",
+      "chất tạo hương vị",
+      "A substance added to give food a particular taste."
+    ]
+  ],
+  "signals": [
+    "At the time, however,…",
+    "But any imported products…",
+    "even though…",
+    "In its place,…"
+  ],
+  "issuesFixed": [
+    "Removed repeated image caption wrongly used as two answers",
+    "Repaired split chemical name and acronym expansion",
+    "Restored spoken ending",
+    "Rebuilt gaps and contextual pairs with precise quantities and negation"
+  ]
+}

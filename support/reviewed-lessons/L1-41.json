@@ -1,0 +1,217 @@
+{
+  "code": "L1-41",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-41.mp3",
+  "evidenceNote": "Compared the whole 300-second recording through timestamped ASR with the source, including the three temperature/energy contrasts. Removed an ITER photograph caption and a written adaptation credit that is not read; restored the spoken presenter sign-off.",
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "Teams from multiple countries"
+    },
+    {
+      "start": "Andrew Smith adapted this story",
+      "end": null
+    }
+  ],
+  "textReplacements": [
+    [
+      "Commission (CEA)",
+      "Commission, or CEA,"
+    ],
+    [
+      "fundamentalresearch",
+      "fundamental research"
+    ]
+  ],
+  "appendText": "I’m Andrew Smith.",
+  "gaps": [
+    "a new record of 22 minutes",
+    "massive amounts of clean energy",
+    "1,337 seconds",
+    "25 percent longer",
+    "the same kind of nuclear reaction",
+    "join together",
+    "a heavier nucleus",
+    "almost limitless energy",
+    "very high temperatures",
+    "a circular ring",
+    "resist intense heat",
+    "about 50 million degrees Celsius",
+    "powerful magnets",
+    "fundamental research",
+    "technological barriers",
+    "produce more energy than it consumes",
+    "more than 100 million degrees Celsius",
+    "unstable and difficult to control",
+    "energy loss",
+    "up to several hours combined",
+    "higher temperatures",
+    "Teams from multiple countries",
+    "maintaining plasma",
+    "repeated delays and increasing costs",
+    "until at least 2033"
+  ],
+  "acceptedVariants": {
+    "a new record of 22 minutes": [
+      "a new record of twenty-two minutes"
+    ],
+    "1,337 seconds": [
+      "one thousand three hundred thirty-seven seconds",
+      "one thousand three hundred and thirty-seven seconds"
+    ],
+    "25 percent longer": [
+      "twenty-five percent longer",
+      "25% longer",
+      "twenty-five per cent longer"
+    ],
+    "about 50 million degrees Celsius": [
+      "about fifty million degrees Celsius"
+    ],
+    "more than 100 million degrees Celsius": [
+      "more than one hundred million degrees Celsius",
+      "more than a hundred million degrees Celsius"
+    ],
+    "until at least 2033": [
+      "until at least twenty thirty-three",
+      "until at least two thousand thirty-three",
+      "until at least two thousand and thirty-three"
+    ]
+  },
+  "paraphrases": [
+    [
+      "massive amounts",
+      "very large quantities",
+      "Massive nhấn mạnh lượng rất lớn.",
+      20.1,
+      27.5
+    ],
+    [
+      "kept, or maintained, a state of plasma",
+      "sustained the plasma condition",
+      "Maintained là giữ cho trạng thái tiếp tục.",
+      39.2,
+      48.2
+    ],
+    [
+      "fuse, or join together",
+      "combine into one",
+      "Fuse nói về kết hợp hai hạt nhân.",
+      70.2,
+      88.9
+    ],
+    [
+      "almost limitless energy",
+      "energy with virtually no limit to its supply",
+      "Almost cần được giữ; bài không khẳng định vô hạn tuyệt đối.",
+      90.2,
+      107
+    ],
+    [
+      "resist intense heat",
+      "withstand extremely high temperatures",
+      "Resist heat là chịu được nhiệt.",
+      115.7,
+      134.6
+    ],
+    [
+      "held together by powerful magnets",
+      "kept in place using strong magnetic forces",
+      "Cụm giải thích cách plasma được giữ trong máy.",
+      134.6,
+      142.7
+    ],
+    [
+      "technological barriers",
+      "technical obstacles",
+      "Barrier là trở ngại cần vượt qua.",
+      169.6,
+      179.3
+    ],
+    [
+      "produce more energy than it consumes",
+      "generate more energy than it uses",
+      "So sánh năng lượng tạo ra với năng lượng tiêu thụ.",
+      169.6,
+      179.3
+    ],
+    [
+      "can become unstable",
+      "may stop remaining steady",
+      "Can thể hiện khả năng, không phải điều luôn xảy ra.",
+      188.8,
+      208.9
+    ],
+    [
+      "have postponed operations",
+      "have delayed the start of work",
+      "Postpone là dời thời điểm hoạt động sang muộn hơn.",
+      282.3,
+      299.9
+    ]
+  ],
+  "vocabulary": [
+    [
+      "fusion",
+      "sự nhiệt hạch",
+      "A process in which atomic nuclei combine."
+    ],
+    [
+      "plasma",
+      "plasma",
+      "A highly energised state of matter containing charged particles."
+    ],
+    [
+      "maintain",
+      "duy trì",
+      "To keep something in a particular state."
+    ],
+    [
+      "nucleus",
+      "hạt nhân",
+      "The central part of an atom."
+    ],
+    [
+      "limitless",
+      "không có giới hạn",
+      "Without a limit or boundary."
+    ],
+    [
+      "resist",
+      "chịu được",
+      "To withstand a force or condition."
+    ],
+    [
+      "magnet",
+      "nam châm",
+      "An object that produces a magnetic field."
+    ],
+    [
+      "barrier",
+      "rào cản",
+      "An obstacle that prevents progress."
+    ],
+    [
+      "consume",
+      "tiêu thụ",
+      "To use up a resource."
+    ],
+    [
+      "unstable",
+      "không ổn định",
+      "Likely to change or become difficult to control."
+    ]
+  ],
+  "signals": [
+    "The aim of…",
+    "However, because…",
+    "This can lead to…",
+    "In the coming months,…"
+  ],
+  "issuesFixed": [
+    "Removed image caption and non-spoken adaptation credit",
+    "Split fundamental research correctly",
+    "Rebuilt 25 phrase gaps with complete numbers",
+    "Kept achieved results separate from future fusion targets"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "code": "L1-40",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-40.mp3",
+  "evidenceNote": "Compared complete 313-second audio transcription with every source paragraph. Removed both photograph captions, separated precipitation patterns, restored spoken sign-off and kept the dated report wording. Chose whole resource, climate and shipping phrases rather than proper-name fragments.",
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "Greenland also serves as"
+    },
+    {
+      "start": "![Image 2:",
+      "end": "As more ice melts, Greenland is also changing"
+    }
+  ],
+  "textReplacements": [
+    [
+      "precipitationpatterns",
+      "precipitation patterns"
+    ],
+    [
+      "collapse . . .as",
+      "collapse, as"
+    ]
+  ],
+  "appendText": "I’m Andrew Smith.",
+  "gaps": [
+    "a self-governed territory",
+    "About 57,000 people",
+    "under thick sheets of ice",
+    "billions of people every day",
+    "a large military base",
+    "oil and natural gas",
+    "communication technologies",
+    "trapped under Greenland’s ice",
+    "easier to reach",
+    "more than half",
+    "169 billion metric tons of ice",
+    "444 billion metric tons in 2019",
+    "a central issue",
+    "rising sea levels",
+    "an important ocean current",
+    "including storm activity",
+    "more fresh water",
+    "long-term freezes",
+    "slow substantially or even collapse",
+    "normal temperature and precipitation patterns",
+    "very damaging effects",
+    "farming and ecosystems",
+    "hold more heat from the sun",
+    "increase the speed of warming",
+    "more ships pass through the area"
+  ],
+  "acceptedVariants": {
+    "About 57,000 people": [
+      "about fifty-seven thousand people"
+    ],
+    "169 billion metric tons of ice": [
+      "one hundred sixty-nine billion metric tons of ice",
+      "one hundred and sixty-nine billion metric tons of ice",
+      "169 billion metric tonnes of ice"
+    ],
+    "444 billion metric tons in 2019": [
+      "four hundred forty-four billion metric tons in twenty nineteen",
+      "four hundred and forty-four billion metric tons in twenty nineteen",
+      "444 billion metric tonnes in 2019"
+    ]
+  },
+  "paraphrases": [
+    [
+      "a self-governed territory",
+      "an area that manages its own internal affairs",
+      "Self-governed không đồng nghĩa một quốc gia hoàn toàn độc lập.",
+      0.8,
+      8.3
+    ],
+    [
+      "trapped under Greenland’s ice",
+      "inaccessible beneath Greenland’s frozen covering",
+      "Trapped diễn tả tài nguyên đang bị lớp băng giữ bên dưới.",
+      86.7,
+      91
+    ],
+    [
+      "easier to reach",
+      "more accessible",
+      "Reach trong bài nói về khả năng tiếp cận tài nguyên.",
+      100,
+      106.4
+    ],
+    [
+      "more than half",
+      "over fifty percent",
+      "More than half nghĩa là lớn hơn một nửa.",
+      120.9,
+      128.3
+    ],
+    [
+      "a central issue",
+      "a matter of major importance",
+      "Central chỉ tầm quan trọng chứ không phải vị trí địa lý.",
+      159.3,
+      175.1
+    ],
+    [
+      "adds to rising sea levels",
+      "contributes to the increase in ocean levels",
+      "Adds to chỉ việc góp phần làm tăng.",
+      159.3,
+      175.1
+    ],
+    [
+      "serves as the engine",
+      "acts as the driving force",
+      "Engine được dùng theo nghĩa vai trò thúc đẩy.",
+      183.3,
+      200.7
+    ],
+    [
+      "slow substantially or even collapse",
+      "become much weaker or stop functioning altogether",
+      "Substantially là đáng kể; collapse là ngừng vận hành hệ thống.",
+      227.2,
+      252.7
+    ],
+    [
+      "would change drastically",
+      "would become very different",
+      "Drastically nhấn mạnh quy mô thay đổi.",
+      227.2,
+      252.7
+    ],
+    [
+      "increase the speed of warming",
+      "make temperatures rise faster",
+      "Speed of warming nói về tốc độ, không chỉ mức nhiệt hiện tại.",
+      281,
+      289.2
+    ]
+  ],
+  "vocabulary": [
+    [
+      "territory",
+      "lãnh thổ",
+      "An area of land under a particular government’s authority."
+    ],
+    [
+      "coast",
+      "bờ biển",
+      "Land next to the sea."
+    ],
+    [
+      "geologist",
+      "nhà địa chất học",
+      "A scientist who studies rocks and the Earth."
+    ],
+    [
+      "mineral",
+      "khoáng sản",
+      "A naturally occurring substance found in the Earth."
+    ],
+    [
+      "resource",
+      "tài nguyên",
+      "A useful supply of materials or energy."
+    ],
+    [
+      "current",
+      "dòng hải lưu",
+      "A continuous movement of ocean water."
+    ],
+    [
+      "circulation",
+      "sự lưu thông",
+      "Movement around a connected system."
+    ],
+    [
+      "collapse",
+      "sụp đổ; ngừng vận hành",
+      "To fail completely or stop functioning."
+    ],
+    [
+      "precipitation",
+      "giáng thủy",
+      "Water falling from clouds as rain, snow or other forms."
+    ],
+    [
+      "ecosystem",
+      "hệ sinh thái",
+      "Living organisms and their physical environment interacting together."
+    ]
+  ],
+  "signals": [
+    "However,…",
+    "As more ice melts,…",
+    "That is because…",
+    "If this global current system…"
+  ],
+  "issuesFixed": [
+    "Removed two duplicated photo captions and photographer credit",
+    "Fixed a merged weather term",
+    "Rebuilt 25 complete phrase gaps and number variants",
+    "Restored presenter and 10 timestamped contextual pairs"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "code": "L1-36",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-36.mp3",
+  "evidenceNote": "Compared the entire written transcript with complete timestamped ASR of the 362-second MP3, including the closing presenter identification. Retained distinctions between lifetime risk and age-specific risk, and the negative statement that dementia is not normal ageing.",
+  "unwrapLinks": true,
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "There are some health risks people cannot control."
+    }
+  ],
+  "appendText": "I’m Jill Robbins.",
+  "gaps": [
+    "over a lifetime",
+    "one million Americans",
+    "by 2060",
+    "a large study",
+    "up to a 42 percent chance",
+    "controlling high blood pressure",
+    "in middle age",
+    "what you do in midlife",
+    "a normal part of aging",
+    "a progressive loss of memory",
+    "silent changes in the brain",
+    "limit blood flow",
+    "worsen existing dementia",
+    "not a guarantee",
+    "23 percent of women",
+    "about 15,000 older adults",
+    "35 percent for men",
+    "additional years of life",
+    "an important 20-year window",
+    "common health threats",
+    "a slightly higher risk",
+    "inherit a gene version",
+    "delay, or possibly even prevent",
+    "socially and cognitively active",
+    "social isolation"
+  ],
+  "acceptedVariants": {
+    "one million Americans": [
+      "1 million Americans",
+      "1,000,000 Americans"
+    ],
+    "by 2060": [
+      "by twenty sixty",
+      "by two thousand sixty",
+      "by two thousand and sixty"
+    ],
+    "up to a 42 percent chance": [
+      "up to a forty-two percent chance",
+      "up to a 42% chance",
+      "up to a forty-two per cent chance"
+    ],
+    "23 percent of women": [
+      "twenty-three percent of women",
+      "23% of women",
+      "twenty-three per cent of women"
+    ],
+    "about 15,000 older adults": [
+      "about fifteen thousand older adults"
+    ],
+    "35 percent for men": [
+      "thirty-five percent for men",
+      "35% for men",
+      "thirty-five per cent for men"
+    ],
+    "an important 20-year window": [
+      "an important twenty-year window"
+    ]
+  },
+  "paraphrases": [
+    [
+      "over a lifetime",
+      "throughout a person’s entire life",
+      "Lifetime nói về cả cuộc đời, không phải nguy cơ trong một năm.",
+      0,
+      15.9
+    ],
+    [
+      "about twice the number",
+      "approximately double the figure",
+      "Twice chỉ gấp hai lần số lượng.",
+      15.9,
+      32.4
+    ],
+    [
+      "take steps to avoid such problems",
+      "act to prevent these health difficulties",
+      "Take steps nghĩa là thực hiện biện pháp.",
+      68,
+      85
+    ],
+    [
+      "not a normal part of aging",
+      "not an ordinary consequence of getting older",
+      "Phải giữ từ phủ định not khi diễn đạt lại.",
+      104,
+      117.6
+    ],
+    [
+      "a progressive loss",
+      "a decline that develops over time",
+      "Progressive trong bài chỉ tình trạng suy giảm dần.",
+      119,
+      126.6
+    ],
+    [
+      "limit blood flow to the brain",
+      "restrict the supply of blood reaching the brain",
+      "Limit blood flow là làm giảm lưu lượng máu.",
+      154,
+      170
+    ],
+    [
+      "not a guarantee that someone will develop dementia",
+      "does not mean a person will definitely get dementia",
+      "Câu không phủ nhận nguy cơ tăng theo tuổi; nó phủ nhận sự chắc chắn.",
+      175,
+      193
+    ],
+    [
+      "an important 20-year window",
+      "a significant two-decade opportunity",
+      "Window là khoảng thời gian có thể hành động.",
+      257.1,
+      264.4
+    ],
+    [
+      "can inherit a gene version",
+      "may receive a particular form of a gene from their parents",
+      "Inherit nói về tính di truyền.",
+      290,
+      306
+    ],
+    [
+      "social isolation",
+      "having little contact with other people",
+      "Isolation nhấn mạnh sự thiếu kết nối xã hội.",
+      338.5,
+      346.7
+    ]
+  ],
+  "vocabulary": [
+    [
+      "dementia",
+      "sa sút trí tuệ",
+      "A condition involving a serious decline in cognitive abilities."
+    ],
+    [
+      "lifetime",
+      "cuộc đời",
+      "The entire period during which someone is alive."
+    ],
+    [
+      "midlife",
+      "tuổi trung niên",
+      "The middle period of a person’s life."
+    ],
+    [
+      "progressive",
+      "tiến triển dần",
+      "Developing or increasing over time."
+    ],
+    [
+      "cognitive",
+      "thuộc nhận thức",
+      "Related to thinking, learning and remembering."
+    ],
+    [
+      "vascular",
+      "thuộc mạch máu",
+      "Related to blood vessels."
+    ],
+    [
+      "guarantee",
+      "sự bảo đảm",
+      "Something that makes an outcome certain."
+    ],
+    [
+      "variant",
+      "biến thể",
+      "A particular form of something."
+    ],
+    [
+      "inherit",
+      "thừa hưởng do di truyền",
+      "To receive a characteristic genetically from parents."
+    ],
+    [
+      "isolation",
+      "sự cô lập",
+      "A state of having little contact with others."
+    ]
+  ],
+  "signals": [
+    "But the good news is…",
+    "Rather,…",
+    "One reason for…",
+    "Besides age,…"
+  ],
+  "issuesFixed": [
+    "Removed linked-source markup and duplicated photo caption",
+    "Replaced arbitrary fragments with 25 complete phrases and quantities",
+    "Preserved negation and age-related comparisons",
+    "Restored spoken sign-off and rebuilt 10 paraphrases"
+  ]
+}

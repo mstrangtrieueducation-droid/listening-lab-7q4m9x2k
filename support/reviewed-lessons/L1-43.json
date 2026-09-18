@@ -1,0 +1,228 @@
+{
+  "code": "L1-43",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-43.mp3",
+  "evidenceNote": "Compared the complete 239-second recording with source. Removed two repeated photo descriptions and the written author credit. Kept full 9000 area, negative temperatures and 4500 bison count; restored I’m Andrew Smith.",
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "Yellowstone Canyon is about"
+    },
+    {
+      "start": "![Image 2:",
+      "end": "Yellowstone is home to the largest"
+    },
+    {
+      "start": "Andrew Smith wrote this story.",
+      "end": null
+    }
+  ],
+  "appendText": "I’m Andrew Smith.",
+  "gaps": [
+    "the world’s first national park",
+    "Established in 1872",
+    "its geothermal activity",
+    "almost 9,000 square kilometers",
+    "an ancient super volcano",
+    "an active volcano",
+    "hot liquid rock",
+    "under huge amounts of pressure",
+    "shoot hot water out of the ground",
+    "more than 300 geysers",
+    "hot springs",
+    "about every 90 minutes",
+    "a high plateau",
+    "2,400 meters above sea level",
+    "-18 degrees and -7 degrees Celsius",
+    "throughout the year",
+    "about 365 meters deep",
+    "drops 93 meters",
+    "the top of the falls",
+    "forest fires",
+    "covered with plants and young trees",
+    "the lower 48 United States",
+    "park officials estimated",
+    "about 4,500 animals",
+    "the largest group of wild bison"
+  ],
+  "acceptedVariants": {
+    "Established in 1872": [
+      "established in eighteen seventy-two"
+    ],
+    "almost 9,000 square kilometers": [
+      "almost nine thousand square kilometers",
+      "almost nine thousand square kilometres",
+      "almost 9,000 square kilometres"
+    ],
+    "an ancient super volcano": [
+      "an ancient supervolcano"
+    ],
+    "more than 300 geysers": [
+      "more than three hundred geysers"
+    ],
+    "about every 90 minutes": [
+      "about every ninety minutes"
+    ],
+    "2,400 meters above sea level": [
+      "two thousand four hundred meters above sea level",
+      "two thousand four hundred metres above sea level",
+      "2400 metres above sea level"
+    ],
+    "-18 degrees and -7 degrees Celsius": [
+      "minus eighteen degrees and minus seven degrees Celsius"
+    ],
+    "about 365 meters deep": [
+      "about three hundred sixty-five meters deep",
+      "about three hundred and sixty-five meters deep",
+      "about 365 metres deep"
+    ],
+    "drops 93 meters": [
+      "drops ninety-three meters",
+      "drops ninety-three metres",
+      "drops 93 metres"
+    ],
+    "the lower 48 United States": [
+      "the lower forty-eight United States"
+    ],
+    "about 4,500 animals": [
+      "about four thousand five hundred animals"
+    ]
+  },
+  "paraphrases": [
+    [
+      "Established in 1872",
+      "officially created in eighteen seventy-two",
+      "Established chỉ năm công viên được thành lập.",
+      10.8,
+      20.6
+    ],
+    [
+      "It takes up almost 9,000 square kilometers",
+      "It occupies nearly nine thousand square kilometres",
+      "Take up ở đây là chiếm diện tích.",
+      37.2,
+      41.2
+    ],
+    [
+      "what lies underneath it",
+      "what is located below it",
+      "Underneath là ở phía dưới.",
+      48.8,
+      54.7
+    ],
+    [
+      "remains an active volcano",
+      "continues to be a volcano that can erupt",
+      "Remains nói về trạng thái vẫn tiếp tục.",
+      63.8,
+      67
+    ],
+    [
+      "is home to more than 300 geysers",
+      "contains over three hundred natural hot-water fountains",
+      "Is home to trong mô tả địa lý có nghĩa là nơi có.",
+      92.6,
+      104.8
+    ],
+    [
+      "erupts about every 90 minutes",
+      "releases hot water roughly once an hour and a half",
+      "About giữ ý xấp xỉ của chu kỳ phun.",
+      105.8,
+      115.6
+    ],
+    [
+      "above sea level",
+      "higher than the surface of the sea",
+      "Sea level là mốc đo độ cao.",
+      116.9,
+      125.8
+    ],
+    [
+      "throughout the year",
+      "during every part of the year",
+      "Throughout bao trùm cả năm.",
+      141.8,
+      148.6
+    ],
+    [
+      "covered with plants and young trees",
+      "having vegetation growing across them",
+      "Covered with mô tả cây cối đã mọc lại.",
+      183.1,
+      188.3
+    ],
+    [
+      "estimated the bison population",
+      "calculated an approximate number of bison",
+      "Estimate là ước tính, không khẳng định con số đếm tuyệt đối.",
+      210.3,
+      221.4
+    ]
+  ],
+  "vocabulary": [
+    [
+      "geothermal",
+      "thuộc địa nhiệt",
+      "Related to heat from within the Earth."
+    ],
+    [
+      "canyon",
+      "hẻm núi",
+      "A deep valley with steep sides."
+    ],
+    [
+      "caldera",
+      "miệng chảo núi lửa",
+      "A large depression formed by volcanic activity."
+    ],
+    [
+      "pressure",
+      "áp suất",
+      "The force exerted on an area."
+    ],
+    [
+      "geyser",
+      "mạch nước phun",
+      "A hot spring that periodically sends water into the air."
+    ],
+    [
+      "erupt",
+      "phun trào",
+      "To release material suddenly and forcefully."
+    ],
+    [
+      "plateau",
+      "cao nguyên",
+      "An area of high, relatively flat land."
+    ],
+    [
+      "waterfall",
+      "thác nước",
+      "Water falling from a height in a river."
+    ],
+    [
+      "bison",
+      "bò rừng bison",
+      "A large wild animal of the cattle family."
+    ],
+    [
+      "estimate",
+      "ước tính",
+      "To judge an amount approximately."
+    ]
+  ],
+  "signals": [
+    "because of…",
+    "However,…",
+    "In summer of…",
+    "That makes it…"
+  ],
+  "issuesFixed": [
+    "Removed two repeated captions and unspoken author credit",
+    "Replaced truncated 9 with full 9000 quantity",
+    "Preserved negative signs in temperature answers",
+    "Rebuilt all gaps and 10 replay pairs from actual speech"
+  ]
+}

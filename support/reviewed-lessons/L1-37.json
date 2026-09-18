@@ -1,0 +1,212 @@
+{
+  "code": "L1-37",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-37.mp3",
+  "evidenceNote": "Compared all paragraphs with timestamped ASR across the complete 415-second audio. The article text follows the recording; fixes address a merged word, trailing backslashes and missing sign-off, with emphasis on the contrast between proposed clinical and pre-clinical categories.",
+  "removeSpans": [
+    {
+      "start": "FILE - A closeup",
+      "end": "Dr. David Cummings"
+    },
+    {
+      "start": "“The public likes and needs simple messages.",
+      "end": null
+    }
+  ],
+  "textReplacements": [
+    [
+      "somepractical issues",
+      "some practical issues"
+    ],
+    [
+      "precisedefinition",
+      "precise definition"
+    ]
+  ],
+  "appendText": "“The public likes and needs simple messages. I don’t think this differentiation is going to change anything,” she said. Dr. Robert Kushner, of the Northwestern Feinberg School of Medicine, said changing the definition of obesity will take some time. Kushner, a co-writer of the report, said, “This is the first step in the process. I think it’s going to begin the conversation.” I’m John Russell.",
+  "gaps": [
+    "define and identify obesity",
+    "a highly debated method",
+    "a person’s height and weight",
+    "other measurements",
+    "more than 1 billion people worldwide",
+    "about 40 percent of adults",
+    "a more precise definition",
+    "clinical obesity and pre-clinical obesity",
+    "organ, tissue or other problems",
+    "diet and exercise programs",
+    "no ongoing illness",
+    "a weak measure",
+    "a BMI of 30 or more",
+    "a high level of muscle mass",
+    "normal fat mass",
+    "about 20 percent of people",
+    "serious health effects",
+    "clinically excess fat",
+    "More than 75 medical organizations",
+    "major effects on the workforce",
+    "waist circumference",
+    "a full health examination",
+    "extremely quick, inexpensive, and reliable",
+    "understand or carry out",
+    "the first step in the process"
+  ],
+  "acceptedVariants": {
+    "more than 1 billion people worldwide": [
+      "more than one billion people worldwide"
+    ],
+    "about 40 percent of adults": [
+      "about forty percent of adults",
+      "about 40% of adults"
+    ],
+    "a BMI of 30 or more": [
+      "a BMI of thirty or more"
+    ],
+    "about 20 percent of people": [
+      "about twenty percent of people",
+      "about 20% of people"
+    ],
+    "More than 75 medical organizations": [
+      "more than seventy-five medical organizations",
+      "more than seventy-five medical organisations",
+      "more than 75 medical organisations"
+    ]
+  },
+  "paraphrases": [
+    [
+      "a highly debated method",
+      "an approach that people strongly disagree about",
+      "Debated chỉ việc có nhiều tranh luận về phương pháp.",
+      23.4,
+      32.7
+    ],
+    [
+      "would no longer be the only way",
+      "would cease to be the sole method",
+      "No longer the only không có nghĩa là bỏ hẳn phương pháp.",
+      40,
+      46.7
+    ],
+    [
+      "a more precise definition",
+      "a more exact description of what the condition is",
+      "Precise nhấn mạnh độ chính xác của định nghĩa.",
+      100.5,
+      113.1
+    ],
+    [
+      "at risk for the same conditions",
+      "in danger of developing those same health problems",
+      "At risk khác với đã mắc bệnh.",
+      171.7,
+      182.6
+    ],
+    [
+      "no ongoing illness",
+      "no illness currently affecting them",
+      "Ongoing là đang diễn ra, không nói về cả đời.",
+      171.7,
+      182.6
+    ],
+    [
+      "would no longer meet that definition",
+      "would stop qualifying under that description",
+      "Meet a definition là đáp ứng các tiêu chí được nêu.",
+      224.4,
+      237.6
+    ],
+    [
+      "would not greatly change the percentage",
+      "would leave the overall proportion largely similar",
+      "Giữ nguyên ý phủ định: thay đổi tổng tỷ lệ không lớn.",
+      250.9,
+      259.2
+    ],
+    [
+      "carry big costs",
+      "involve considerable expense",
+      "Carry costs nghĩa là kéo theo chi phí.",
+      287.1,
+      295.1
+    ],
+    [
+      "measurement methods differ",
+      "the ways of measuring are not the same",
+      "Differ nói về sự khác nhau giữa phương pháp.",
+      321.5,
+      328.3
+    ],
+    [
+      "understand or carry out",
+      "comprehend or put into practice",
+      "Carry out trong ngữ cảnh là thực hiện.",
+      366.1,
+      378
+    ]
+  ],
+  "vocabulary": [
+    [
+      "obesity",
+      "béo phì",
+      "A medical condition involving excessive body fat."
+    ],
+    [
+      "define",
+      "định nghĩa",
+      "To specify the meaning or boundaries of something."
+    ],
+    [
+      "measurement",
+      "phép đo",
+      "The process or result of measuring."
+    ],
+    [
+      "precise",
+      "chính xác",
+      "Exact and clearly specified."
+    ],
+    [
+      "clinical",
+      "thuộc lâm sàng",
+      "Related to examining and treating patients."
+    ],
+    [
+      "diagnose",
+      "chẩn đoán",
+      "To identify a medical condition."
+    ],
+    [
+      "tissue",
+      "mô",
+      "A group of cells forming part of an organism."
+    ],
+    [
+      "circumference",
+      "chu vi",
+      "The distance around a circular shape or body part."
+    ],
+    [
+      "reliable",
+      "đáng tin cậy",
+      "Consistently dependable or accurate."
+    ],
+    [
+      "differentiation",
+      "sự phân biệt",
+      "The recognition of differences between categories."
+    ]
+  ],
+  "signals": [
+    "The change would mean…",
+    "In some cases,…",
+    "Under the new definitions,…",
+    "In addition,…"
+  ],
+  "issuesFixed": [
+    "Removed trailing non-speech backslashes",
+    "Separated some practical and restored final spoken sentences",
+    "Built 25 meaningful gaps rather than mechanical six-word fragments",
+    "Kept proposed definitions and uncertain approval clearly distinguished"
+  ]
+}

@@ -7350,5 +7350,2122 @@ export const reviewedContent = {
       "It added that…",
       "regardless of…"
     ]
+  },
+  "35": {
+    "paragraphs": [
+      "New research suggests the risk of Americans developing dementia [1] may be much higher than once thought. A new study predicts about [2] will likely develop the disease each year [3]. That is about twice the number of people estimated in earlier studies. The new finding is based on [4] involving a team from major U.S. medical centers and other research organizations. It recently appeared in the publication Nature Medicine. The study found that after age 55, people face [5] of developing dementia, if they live long enough. The research showed the risk of dementia is highest after age 75. But the good news is that there are steps people can take to reduce the risks. One of them is [6] and other conditions, such as diabetes or being severely overweight, meaning obese. Health experts advise everyone, even those [7], to take steps to avoid such problems.",
+      "Dr. Josef Coresh of NYU Langone Health was a lead writer of the study. He told The Associated Press, \"All of our research suggests [8] really matters.” It can be quite common for older people to take longer to remember a name or where they placed certain objects. But research on dementia suggests it is not [9]. Rather, the disease is [10], language and other cognitive abilities over time. Getting older is currently the biggest risk and the U.S. population is aging at a fast rate. Dementia has many forms, the most common being Alzheimer's. Because the disease is linked to [11], signs or symptoms of dementia might not start showing until many years later. Other kinds include vascular dementia, when heart disease or small strokes [12] to the brain.",
+      "Many people also have mixed causes, meaning vascular problems could [13]. Dr. James Galvin is an Alzheimer's specialist at the University of Miami. He noted that aging by itself is \"[14] that someone will develop dementia.\" Galvin was not involved in the new study. But he said the latest findings on that support previous research. Earlier studies estimated about 14 percent of men and [15] would develop some form of dementia during their lifetime. Since women live longer than men, they are more likely to get it. But the latest research examined more recent data from a U.S. study that followed the heart health and cognitive abilities of [16] from 1987 until 2020. In that group, the risk for dementia averaged [17] and 48 percent for women. One reason for the different rates is that the group of people studied lived longer. The study shows how the risk changes with [18]. Only 4 percent of people developed dementia between the ages of 55 and 75.",
+      "Coresh describes this difference as [19] for protecting brain health. For people surviving [20] until 75, the dementia risk then jumped — to 20 percent by age 85 and 42 percent between the ages of 85 and 95. Black Americans had [21], 44 percent, than white individuals at 41 percent. There are some health risks people cannot control. Besides age, people can [22], or variant, called APOE4. This can raise the risk of getting Alzheimer's later in life. But medical researchers have identified some things people can do to [23] developing dementia.",
+      "The University of Miami’s Galvin advises people to exercise, avoid obesity and control blood pressure. He noted that, \"What's good for your heart is good for your brain.” Stay [24], too, Galvin said. He urges people to try hearing aids if age brings hearing loss, which can create [25]. He added, \"There are things that we have control over, and those things I think would be really, really important to build a better brain as we age.\" I’m Jill Robbins."
+    ],
+    "answers": [
+      "over a lifetime",
+      "one million Americans",
+      "by 2060",
+      "a large study",
+      "up to a 42 percent chance",
+      "controlling high blood pressure",
+      "in middle age",
+      "what you do in midlife",
+      "a normal part of aging",
+      "a progressive loss of memory",
+      "silent changes in the brain",
+      "limit blood flow",
+      "worsen existing dementia",
+      "not a guarantee",
+      "23 percent of women",
+      "about 15,000 older adults",
+      "35 percent for men",
+      "additional years of life",
+      "an important 20-year window",
+      "common health threats",
+      "a slightly higher risk",
+      "inherit a gene version",
+      "delay, or possibly even prevent",
+      "socially and cognitively active",
+      "social isolation"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "1 million Americans",
+        "1,000,000 Americans"
+      ],
+      [
+        "by twenty sixty",
+        "by two thousand sixty",
+        "by two thousand and sixty"
+      ],
+      [],
+      [
+        "up to a forty-two percent chance",
+        "up to a 42% chance",
+        "up to a forty-two per cent chance"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "twenty-three percent of women",
+        "23% of women",
+        "twenty-three per cent of women"
+      ],
+      [
+        "about fifteen thousand older adults"
+      ],
+      [
+        "thirty-five percent for men",
+        "35% for men",
+        "thirty-five per cent for men"
+      ],
+      [],
+      [
+        "an important twenty-year window"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "b105adeadbfd",
+    "paraphrases": [
+      [
+        "over a lifetime",
+        "throughout a person’s entire life",
+        "Lifetime nói về cả cuộc đời, không phải nguy cơ trong một năm.",
+        0,
+        15.9
+      ],
+      [
+        "about twice the number",
+        "approximately double the figure",
+        "Twice chỉ gấp hai lần số lượng.",
+        15.9,
+        32.4
+      ],
+      [
+        "take steps to avoid such problems",
+        "act to prevent these health difficulties",
+        "Take steps nghĩa là thực hiện biện pháp.",
+        68,
+        85
+      ],
+      [
+        "not a normal part of aging",
+        "not an ordinary consequence of getting older",
+        "Phải giữ từ phủ định not khi diễn đạt lại.",
+        104,
+        117.6
+      ],
+      [
+        "a progressive loss",
+        "a decline that develops over time",
+        "Progressive trong bài chỉ tình trạng suy giảm dần.",
+        119,
+        126.6
+      ],
+      [
+        "limit blood flow to the brain",
+        "restrict the supply of blood reaching the brain",
+        "Limit blood flow là làm giảm lưu lượng máu.",
+        154,
+        170
+      ],
+      [
+        "not a guarantee that someone will develop dementia",
+        "does not mean a person will definitely get dementia",
+        "Câu không phủ nhận nguy cơ tăng theo tuổi; nó phủ nhận sự chắc chắn.",
+        175,
+        193
+      ],
+      [
+        "an important 20-year window",
+        "a significant two-decade opportunity",
+        "Window là khoảng thời gian có thể hành động.",
+        257.1,
+        264.4
+      ],
+      [
+        "can inherit a gene version",
+        "may receive a particular form of a gene from their parents",
+        "Inherit nói về tính di truyền.",
+        290,
+        306
+      ],
+      [
+        "social isolation",
+        "having little contact with other people",
+        "Isolation nhấn mạnh sự thiếu kết nối xã hội.",
+        338.5,
+        346.7
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "dementia",
+        "meaning": "sa sút trí tuệ",
+        "note": "A condition involving a serious decline in cognitive abilities."
+      },
+      {
+        "term": "lifetime",
+        "meaning": "cuộc đời",
+        "note": "The entire period during which someone is alive."
+      },
+      {
+        "term": "midlife",
+        "meaning": "tuổi trung niên",
+        "note": "The middle period of a person’s life."
+      },
+      {
+        "term": "progressive",
+        "meaning": "tiến triển dần",
+        "note": "Developing or increasing over time."
+      },
+      {
+        "term": "cognitive",
+        "meaning": "thuộc nhận thức",
+        "note": "Related to thinking, learning and remembering."
+      },
+      {
+        "term": "vascular",
+        "meaning": "thuộc mạch máu",
+        "note": "Related to blood vessels."
+      },
+      {
+        "term": "guarantee",
+        "meaning": "sự bảo đảm",
+        "note": "Something that makes an outcome certain."
+      },
+      {
+        "term": "variant",
+        "meaning": "biến thể",
+        "note": "A particular form of something."
+      },
+      {
+        "term": "inherit",
+        "meaning": "thừa hưởng do di truyền",
+        "note": "To receive a characteristic genetically from parents."
+      },
+      {
+        "term": "isolation",
+        "meaning": "sự cô lập",
+        "note": "A state of having little contact with others."
+      }
+    ],
+    "signals": [
+      "But the good news is…",
+      "Rather,…",
+      "One reason for…",
+      "Besides age,…"
+    ]
+  },
+  "36": {
+    "paragraphs": [
+      "A group of international experts is proposing a new way to [1] – a medical condition linked to having too much body fat. The change aims to help doctors better identify and treat affected individuals. The new proposal shifts attention from [2] called the body mass index (BMI). BMI is a calculation of [3]. The change would mean BMI would no longer be the only way to define obesity. The method would be expanded to include [4], such as waist size, and other evidence of health problems linked to being overweight. Obesity is estimated to affect [5]. In the U.S., [6] are considered obese, the U.S. Centers for Disease Control and Prevention says. Dr. David Cummings of the University of Washington was one of 58 writers of a report calling for a new obesity definition. The report recently appeared in the publication The Lancet Diabetes & Endocrinology. “The whole goal of this is to get [7] so that we are targeting the people who actually need the help most,” Cummings told The Associated Press. The report introduces two new groups, called categories, to help doctors identify, or diagnose, obese individuals. These are [8]. People with clinical obesity meet BMI and other markers of obesity. They also have evidence of [9] caused by too much weight. Such evidence could include heart disease, high blood pressure, liver or kidney disease or ongoing knee or hip pain. People identified as having clinical obesity would be able to get treatments, including [10], as well as obesity medications. People with pre-clinical obesity are at risk for the same conditions, but they have [11], the report states.",
+      "BMI has long been considered [12] for obesity. In some cases, it can incorrectly diagnose obesity, which is currently defined as [13]. But people with too much body fat do not always have a BMI above 30, the report notes. And people with [14] — such as American football players or other athletes — may have a high BMI even with [15]. Under the new definitions, [16] who used to be identified as obese would no longer meet that definition, early data suggests. And about 20 percent of people with [17] – but a lower BMI – would now be considered clinically obese. Cummings said the new definition would not greatly change the percentage of people defined as having obesity. But, he explained, the new categories “would better diagnose the people who really have [18].” [19] around the world have supported the new definitions. But it is not clear how widely or quickly the definitions could be approved.",
+      "The report predicts such changes would carry big costs and have [20]. Dr. Katherine Saunders is an obesity expert at Weill Cornell Medicine in New York City. She also co-founded the obesity treatment company FlyteHealth. She told the AP there are some practical issues to consider in order to make the proposed changes work effectively. Saunders noted that [21] sounds simple, but measurement methods differ. In addition, doctors are trained differently, and standard medical measuring devices are not big enough for many obese people. Also, a decision about the difference between clinical and pre-clinical obesity would require [22] and lab tests, Saunders said. She added that for a new system to be widely accepted, “it would also need to be [23].\" The new definitions could also be difficult for people to [24], said Kate Bauer of the University of Michigan School of Public Health.",
+      "“The public likes and needs simple messages. I don’t think this differentiation is going to change anything,” she said. Dr. Robert Kushner, of the Northwestern Feinberg School of Medicine, said changing the definition of obesity will take some time. Kushner, a co-writer of the report, said, “This is [25]. I think it’s going to begin the conversation.” I’m John Russell."
+    ],
+    "answers": [
+      "define and identify obesity",
+      "a highly debated method",
+      "a person’s height and weight",
+      "other measurements",
+      "more than 1 billion people worldwide",
+      "about 40 percent of adults",
+      "a more precise definition",
+      "clinical obesity and pre-clinical obesity",
+      "organ, tissue or other problems",
+      "diet and exercise programs",
+      "no ongoing illness",
+      "a weak measure",
+      "a BMI of 30 or more",
+      "a high level of muscle mass",
+      "normal fat mass",
+      "about 20 percent of people",
+      "serious health effects",
+      "clinically excess fat",
+      "More than 75 medical organizations",
+      "major effects on the workforce",
+      "waist circumference",
+      "a full health examination",
+      "extremely quick, inexpensive, and reliable",
+      "understand or carry out",
+      "the first step in the process"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "more than one billion people worldwide"
+      ],
+      [
+        "about forty percent of adults",
+        "about 40% of adults"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a BMI of thirty or more"
+      ],
+      [],
+      [],
+      [
+        "about twenty percent of people",
+        "about 20% of people"
+      ],
+      [],
+      [],
+      [
+        "more than seventy-five medical organizations",
+        "more than seventy-five medical organisations",
+        "more than 75 medical organisations"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "e40f8c8b4496",
+    "paraphrases": [
+      [
+        "a highly debated method",
+        "an approach that people strongly disagree about",
+        "Debated chỉ việc có nhiều tranh luận về phương pháp.",
+        23.4,
+        32.7
+      ],
+      [
+        "would no longer be the only way",
+        "would cease to be the sole method",
+        "No longer the only không có nghĩa là bỏ hẳn phương pháp.",
+        40,
+        46.7
+      ],
+      [
+        "a more precise definition",
+        "a more exact description of what the condition is",
+        "Precise nhấn mạnh độ chính xác của định nghĩa.",
+        100.5,
+        113.1
+      ],
+      [
+        "at risk for the same conditions",
+        "in danger of developing those same health problems",
+        "At risk khác với đã mắc bệnh.",
+        171.7,
+        182.6
+      ],
+      [
+        "no ongoing illness",
+        "no illness currently affecting them",
+        "Ongoing là đang diễn ra, không nói về cả đời.",
+        171.7,
+        182.6
+      ],
+      [
+        "would no longer meet that definition",
+        "would stop qualifying under that description",
+        "Meet a definition là đáp ứng các tiêu chí được nêu.",
+        224.4,
+        237.6
+      ],
+      [
+        "would not greatly change the percentage",
+        "would leave the overall proportion largely similar",
+        "Giữ nguyên ý phủ định: thay đổi tổng tỷ lệ không lớn.",
+        250.9,
+        259.2
+      ],
+      [
+        "carry big costs",
+        "involve considerable expense",
+        "Carry costs nghĩa là kéo theo chi phí.",
+        287.1,
+        295.1
+      ],
+      [
+        "measurement methods differ",
+        "the ways of measuring are not the same",
+        "Differ nói về sự khác nhau giữa phương pháp.",
+        321.5,
+        328.3
+      ],
+      [
+        "understand or carry out",
+        "comprehend or put into practice",
+        "Carry out trong ngữ cảnh là thực hiện.",
+        366.1,
+        378
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "obesity",
+        "meaning": "béo phì",
+        "note": "A medical condition involving excessive body fat."
+      },
+      {
+        "term": "define",
+        "meaning": "định nghĩa",
+        "note": "To specify the meaning or boundaries of something."
+      },
+      {
+        "term": "measurement",
+        "meaning": "phép đo",
+        "note": "The process or result of measuring."
+      },
+      {
+        "term": "precise",
+        "meaning": "chính xác",
+        "note": "Exact and clearly specified."
+      },
+      {
+        "term": "clinical",
+        "meaning": "thuộc lâm sàng",
+        "note": "Related to examining and treating patients."
+      },
+      {
+        "term": "diagnose",
+        "meaning": "chẩn đoán",
+        "note": "To identify a medical condition."
+      },
+      {
+        "term": "tissue",
+        "meaning": "mô",
+        "note": "A group of cells forming part of an organism."
+      },
+      {
+        "term": "circumference",
+        "meaning": "chu vi",
+        "note": "The distance around a circular shape or body part."
+      },
+      {
+        "term": "reliable",
+        "meaning": "đáng tin cậy",
+        "note": "Consistently dependable or accurate."
+      },
+      {
+        "term": "differentiation",
+        "meaning": "sự phân biệt",
+        "note": "The recognition of differences between categories."
+      }
+    ],
+    "signals": [
+      "The change would mean…",
+      "In some cases,…",
+      "Under the new definitions,…",
+      "In addition,…"
+    ]
+  },
+  "37": {
+    "paragraphs": [
+      "The U.S. Food and Drug Administration, or FDA, has banned a chemical [1] some food products red. The ban of the coloring chemical, called dye, came [2] after it was removed from skin products because of [3]. A group of food safety and health supporters [4] seeking to have the FDA ban Red No. 3 in food. The earlier ban was ordered in 1990, after two studies showed Red No. 3 caused cancer in male rats eating [5]. At the time, however, the FDA only acted to ban the coloring mixture in products put on the skin or in [6]. Health activists had long sought FDA approval to [7] to food products.",
+      "In November, [8] sent a letter demanding that FDA officials ban Red No. 3. Some of the most common products containing Red No. 3 include sweets, icing, strawberry milk, maraschino cherries, strawberry protein drinks, as well as some [9]. The FDA said food manufacturers will have [10] to remove the dye from their products.",
+      "Other countries still permit certain uses of the dye. But any [11] will still have to [12]. Red No. 3 is already banned for food use in Europe, Australia and New Zealand, [13]. The dye will be banned in California starting in January 2027. And lawmakers in Tennessee, Arkansas and Indiana have also [14], especially from [15]. Jim Jones is the FDA's deputy commissioner for human foods. He noted that even though the agency had established the new ban, “the way that FD&C Red No. 3 causes cancer in male rats [16].\" FDA officials said the ban was enacted because of a U.S. rule called [17]. This legal policy requires the FDA to ban [18] found to cause cancer in people or animals. Dr. Peter Lurie is director of the consumer activist group the Center for Science in the Public Interest. He helped lead the latest effort to remove Red No. 3 from food products. Lurie told The Associated Press, \"This is a welcome, but [19], action from the FDA.” The International Association of Color Manufacturers has repeatedly said Red No. 3 is safe in [20]. The group pointed to research carried out by [21] from the United Nations and the World Health Organization.",
+      "One study, [22], confirmed the safety of Red 3 in food. Some food manufacturers have already changed their products to remove Red No. 3. One example is Sensient Food Colors, a St. Louis-based supplier of [23]. In its place, the company uses [24], [25] and other coloring mixtures. I’m Jill Robbins."
+    ],
+    "answers": [
+      "widely used to color",
+      "nearly 35 years",
+      "a possible cancer risk",
+      "issued a petition in 2022",
+      "high levels of the chemical",
+      "drugs taken by mouth",
+      "expand the ban",
+      "nearly two dozen members of Congress",
+      "gummy vitamins and medications",
+      "until January 2027",
+      "imported products",
+      "meet the new U.S. requirement",
+      "except in certain kinds of cherries",
+      "proposed limits on certain dyes",
+      "foods offered in public schools",
+      "does not occur in humans",
+      "the Delaney Clause",
+      "any additive",
+      "long overdue",
+      "levels usually taken in by humans",
+      "scientific experts",
+      "released in 2018",
+      "food colors and flavorings",
+      "beet juice",
+      "a dye made from insects"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "nearly thirty-five years"
+      ],
+      [],
+      [
+        "issued a petition in twenty twenty-two",
+        "issued a petition in two thousand twenty-two",
+        "issued a petition in two thousand and twenty-two"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "until January twenty twenty-seven",
+        "until January two thousand twenty-seven",
+        "until January two thousand and twenty-seven"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "released in twenty eighteen",
+        "released in two thousand eighteen",
+        "released in two thousand and eighteen"
+      ],
+      [
+        "food colours and flavourings"
+      ],
+      [],
+      []
+    ],
+    "contentRevision": "a58172a0d782",
+    "paraphrases": [
+      [
+        "a possible cancer risk",
+        "a potential danger of causing cancer",
+        "Possible chỉ khả năng, không khẳng định mọi trường hợp đều mắc bệnh.",
+        11,
+        22.6
+      ],
+      [
+        "issued a petition",
+        "made a formal written request",
+        "Petition là văn bản đề nghị hành động.",
+        23.3,
+        35.2
+      ],
+      [
+        "drugs taken by mouth",
+        "medicines swallowed orally",
+        "Taken by mouth mô tả cách dùng thuốc.",
+        48.5,
+        59
+      ],
+      [
+        "expand the ban to food products",
+        "extend the prohibition to include food",
+        "Expand the ban là mở rộng phạm vi lệnh cấm.",
+        60.3,
+        67.1
+      ],
+      [
+        "permit certain uses",
+        "allow particular applications",
+        "Permit đồng nghĩa allow; certain giới hạn ở một số cách dùng.",
+        106.6,
+        116.3
+      ],
+      [
+        "except in certain kinds of cherries",
+        "with an exception for some types of cherries",
+        "Except nêu ngoại lệ, không phải một lệnh cấm tuyệt đối.",
+        117.2,
+        126.8
+      ],
+      [
+        "does not occur in humans",
+        "does not happen in people",
+        "Câu chỉ cơ chế được mô tả; cần giữ ý phủ định.",
+        151.6,
+        164
+      ],
+      [
+        "long overdue",
+        "something that should have happened much earlier",
+        "Overdue thể hiện việc diễn ra muộn hơn đáng lẽ.",
+        198.2,
+        205.2
+      ],
+      [
+        "levels usually taken in by humans",
+        "amounts that people normally consume",
+        "Levels trong câu là lượng chất được tiêu thụ.",
+        205.2,
+        217
+      ],
+      [
+        "In its place",
+        "As a replacement for it",
+        "Cụm này giới thiệu chất được dùng thay thuốc nhuộm.",
+        251.8,
+        259.3
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "dye",
+        "meaning": "chất nhuộm màu",
+        "note": "A substance used to change the colour of something."
+      },
+      {
+        "term": "ban",
+        "meaning": "lệnh cấm",
+        "note": "An official prohibition."
+      },
+      {
+        "term": "petition",
+        "meaning": "đơn kiến nghị",
+        "note": "A formal written request for action."
+      },
+      {
+        "term": "activist",
+        "meaning": "người vận động",
+        "note": "A person actively campaigning for change."
+      },
+      {
+        "term": "manufacturer",
+        "meaning": "nhà sản xuất",
+        "note": "A company that makes goods."
+      },
+      {
+        "term": "import",
+        "meaning": "nhập khẩu",
+        "note": "To bring products into a country from abroad."
+      },
+      {
+        "term": "requirement",
+        "meaning": "yêu cầu bắt buộc",
+        "note": "A condition that must be satisfied."
+      },
+      {
+        "term": "additive",
+        "meaning": "chất phụ gia",
+        "note": "A substance added to a product."
+      },
+      {
+        "term": "overdue",
+        "meaning": "đáng lẽ phải có từ lâu",
+        "note": "Not happening until later than expected or appropriate."
+      },
+      {
+        "term": "flavoring",
+        "meaning": "chất tạo hương vị",
+        "note": "A substance added to give food a particular taste."
+      }
+    ],
+    "signals": [
+      "At the time, however,…",
+      "But any imported products…",
+      "even though…",
+      "In its place,…"
+    ]
+  },
+  "38": {
+    "paragraphs": [
+      "In 2024, the number of babies born in South Korea increased [1]. The change is welcome news for a country that is dealing with [2]. South Korea’s statistics agency said recently that [3] were born last year, [4] from a year earlier. The agency said the country’s fertility rate — the average number of babies born to each woman in [5] — was [6], up from [7]. The data represents the first time that the yearly number of births has increased since 2015. Choi Yoon Kyung is an expert with the Korea Institute of Child Care and Education. Choi told the Associated Press that researchers must wait for more data over the next few years to see if increased births were driven by “[8].” Park Hyun Jung is with the government agency Statistics Korea. Park said the agency believes the rise is partly due to [9] following [10] during the COVID-19 pandemic. Park said another reason for the increase is that [11] entered their early 30s. She also noted a government study that shows a small increase in the number of young people hoping to have children [12].",
+      "Official data shows South Korea’s fertility rate has been [13] in recent years. In 2022, South Korea was the only country with [14], among members of the Paris-based Organization for Economic Cooperation and Development. The low fertility rate could [15]. The country, Asia’s fourth largest economy, could face [16] and greater spending on [17]. South Korea’s central and local governments have been increasingly offering several support programs to those who give birth to children. But experts say that it will be difficult to solve the country’s population problems.",
+      "Many young people say they do not want to have babies. Their reasons include [18], low levels of [19], the high costs of [20], and a culture that requires women to do more of the childcare. Park said that the fertility rate will likely stay [21] at least for another year. But observers say it [22] whether the rate will go back down [23]. The country’s population structure will also change, with a drop in the number of people in their early 30s. Some experts argue that the government should pay more attention to [24] who want to have babies.",
+      "“There are still people with solid wills to have a family and babies. When we help them realize their hopes, our fertility rate won’t suffer [25],” Choi said. I’m John Russell."
+    ],
+    "answers": [
+      "for the first time in nine years",
+      "serious population problems",
+      "238,300 babies",
+      "an increase of 8,300",
+      "her reproductive years",
+      "0.75 in 2024",
+      "0.72 in 2023",
+      "structural changes",
+      "an increase in marriages",
+      "postponements of such plans",
+      "a growing number of people",
+      "after marriage",
+      "the lowest in the developed world",
+      "a fertility rate below one",
+      "threaten South Korea’s economic health",
+      "labor shortages",
+      "public assistance programs",
+      "costly housing",
+      "upward social movement",
+      "raising and educating children",
+      "on an upward movement",
+      "remains to be seen",
+      "as post-pandemic marriages even out",
+      "supporting young couples",
+      "a steep, 45-degree drop"
+    ],
+    "acceptedVariants": [
+      [
+        "for the first time in 9 years"
+      ],
+      [],
+      [
+        "two hundred thirty-eight thousand three hundred babies",
+        "two hundred and thirty-eight thousand three hundred babies"
+      ],
+      [
+        "an increase of eight thousand three hundred"
+      ],
+      [],
+      [
+        "point seven five in twenty twenty-four",
+        "zero point seven five in twenty twenty-four",
+        "0.75 in twenty twenty-four"
+      ],
+      [
+        "point seven two in twenty twenty-three",
+        "zero point seven two in twenty twenty-three",
+        "0.72 in twenty twenty-three"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a fertility rate below 1"
+      ],
+      [],
+      [
+        "labour shortages"
+      ],
+      [
+        "public assistance programmes"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a steep forty-five-degree drop"
+      ]
+    ],
+    "contentRevision": "92769ff7631c",
+    "paraphrases": [
+      [
+        "her reproductive years",
+        "the period of her life when she can have children",
+        "Reproductive years nói về độ tuổi có khả năng sinh sản.",
+        40.9,
+        47.4
+      ],
+      [
+        "structural changes",
+        "changes in the underlying organisation of society",
+        "Structural nói về cơ cấu; bài vẫn chờ dữ liệu để xác nhận nguyên nhân.",
+        73.4,
+        89.9
+      ],
+      [
+        "partly due to",
+        "caused in part by",
+        "Partly không khẳng định đây là nguyên nhân duy nhất.",
+        97.4,
+        115.1
+      ],
+      [
+        "postponements of such plans",
+        "delays in carrying out those intentions",
+        "Postpone nghĩa là hoãn, khác với hủy.",
+        97.4,
+        115.1
+      ],
+      [
+        "labor shortages",
+        "a lack of enough workers",
+        "Labor nói về nguồn lao động.",
+        165.3,
+        179.8
+      ],
+      [
+        "public assistance programs",
+        "government schemes that provide support",
+        "Public assistance là hỗ trợ do khu vực công cung cấp.",
+        165.3,
+        179.8
+      ],
+      [
+        "costly housing",
+        "expensive places to live",
+        "Costly đồng nghĩa expensive.",
+        196.3,
+        204
+      ],
+      [
+        "upward social movement",
+        "improvement in a person’s position in society",
+        "Upward social movement nói về thăng tiến vị thế xã hội.",
+        204.6,
+        211.6
+      ],
+      [
+        "it remains to be seen",
+        "it is still uncertain",
+        "Cụm này giữ nguyên sự chưa chắc chắn về tương lai.",
+        229.7,
+        237.1
+      ],
+      [
+        "a steep, 45-degree drop",
+        "a sharp decline",
+        "Steep drop nói về mức giảm mạnh, không phải tăng.",
+        259.1,
+        274.3
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "fertility rate",
+        "meaning": "tỷ suất sinh",
+        "note": "The average number of children born per woman."
+      },
+      {
+        "term": "reproductive",
+        "meaning": "thuộc sinh sản",
+        "note": "Related to producing offspring."
+      },
+      {
+        "term": "structural",
+        "meaning": "thuộc cơ cấu",
+        "note": "Related to the underlying arrangement of a system."
+      },
+      {
+        "term": "postponement",
+        "meaning": "sự trì hoãn",
+        "note": "The act of moving an event to a later time."
+      },
+      {
+        "term": "shortage",
+        "meaning": "sự thiếu hụt",
+        "note": "A situation in which there is not enough of something."
+      },
+      {
+        "term": "assistance",
+        "meaning": "sự hỗ trợ",
+        "note": "Help given to someone."
+      },
+      {
+        "term": "costly",
+        "meaning": "tốn kém",
+        "note": "Requiring a large amount of money."
+      },
+      {
+        "term": "upward",
+        "meaning": "hướng lên",
+        "note": "Moving towards a higher level."
+      },
+      {
+        "term": "observer",
+        "meaning": "người theo dõi và nhận xét",
+        "note": "Someone who watches and comments on developments."
+      },
+      {
+        "term": "steep",
+        "meaning": "mạnh; đột ngột",
+        "note": "Sharp or rapid when describing a rise or fall."
+      }
+    ],
+    "signals": [
+      "up from…",
+      "partly due to…",
+      "But observers say…",
+      "When we help them…"
+    ]
+  },
+  "39": {
+    "paragraphs": [
+      "Greenland is the world’s largest island and [1] of Denmark. [2] live there, mainly along its coasts. Most of Greenland lies north of the Arctic Circle, [3]. The island plays a large part in the weather experienced by [4] and in climate changes around the planet, experts say. American President-elect Donald Trump is expressing interest in buying Greenland from Denmark. He said something similar during his first term in office as well. The United States has [5] on the island. Geologists say Greenland has huge amounts of [6] below the ice and valuable elements known as rare earth minerals. Rare earth minerals are needed in [7], including phones.",
+      "Most of these resources are [8]. However, warming temperatures in recent years have increased melting on the island. As more ice melts, some of these resources may become [9]. Geoff Dabelko is a security and environment professor at Ohio University. He thinks other countries are becoming interested in Greenland because China is currently the supplier of [10] of the world’s rare Earth minerals. From 1992 to 2020, Greenland lost an average of [11] each year, with losses reaching [12]. Mark Serreze is director of the National Snow and Ice Data Center in Boulder, Colorado. He told The Associated Press that melting from Greenland will be [13] through the 21st century. That is because melting ice adds to [14]. Serreze noted that the amount of melting will likely increase in the future.",
+      "Greenland also serves as the engine for [15] that influences Earth's climate in many ways, [16]. The current is called the Atlantic Meridional Overturning Circulation, or AMOC. The current is slowing down because [17] from Greenland’s melting ice is entering the ocean, Serreze said. A shutdown of the current could lead to [18] in Europe and parts of North America.",
+      "“If this global current system were to [19], as we know it has done in the past — [20] around the globe would change drastically,” said climate scientist Jennifer Francis of the Woodwell Climate Research Center, a non-profit based in the American state of Massachusetts. She added that the changes would have [21] on [22]. As more ice melts, Greenland is also changing color from the white of ice to the blue and green of water and land. These darker colors [23] and can [24]. Greenland lies in between northern Canada, northern Europe, and Russia. That area may become more valuable to countries if melting in the Arctic Ocean continues to increase and [25]. I’m Andrew Smith."
+    ],
+    "answers": [
+      "a self-governed territory",
+      "About 57,000 people",
+      "under thick sheets of ice",
+      "billions of people every day",
+      "a large military base",
+      "oil and natural gas",
+      "communication technologies",
+      "trapped under Greenland’s ice",
+      "easier to reach",
+      "more than half",
+      "169 billion metric tons of ice",
+      "444 billion metric tons in 2019",
+      "a central issue",
+      "rising sea levels",
+      "an important ocean current",
+      "including storm activity",
+      "more fresh water",
+      "long-term freezes",
+      "slow substantially or even collapse",
+      "normal temperature and precipitation patterns",
+      "very damaging effects",
+      "farming and ecosystems",
+      "hold more heat from the sun",
+      "increase the speed of warming",
+      "more ships pass through the area"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "about fifty-seven thousand people"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "one hundred sixty-nine billion metric tons of ice",
+        "one hundred and sixty-nine billion metric tons of ice",
+        "169 billion metric tonnes of ice"
+      ],
+      [
+        "four hundred forty-four billion metric tons in twenty nineteen",
+        "four hundred and forty-four billion metric tons in twenty nineteen",
+        "444 billion metric tonnes in 2019"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "7e911e01b9de",
+    "paraphrases": [
+      [
+        "a self-governed territory",
+        "an area that manages its own internal affairs",
+        "Self-governed không đồng nghĩa một quốc gia hoàn toàn độc lập.",
+        0.8,
+        8.3
+      ],
+      [
+        "trapped under Greenland’s ice",
+        "inaccessible beneath Greenland’s frozen covering",
+        "Trapped diễn tả tài nguyên đang bị lớp băng giữ bên dưới.",
+        86.7,
+        91
+      ],
+      [
+        "easier to reach",
+        "more accessible",
+        "Reach trong bài nói về khả năng tiếp cận tài nguyên.",
+        100,
+        106.4
+      ],
+      [
+        "more than half",
+        "over fifty percent",
+        "More than half nghĩa là lớn hơn một nửa.",
+        120.9,
+        128.3
+      ],
+      [
+        "a central issue",
+        "a matter of major importance",
+        "Central chỉ tầm quan trọng chứ không phải vị trí địa lý.",
+        159.3,
+        175.1
+      ],
+      [
+        "adds to rising sea levels",
+        "contributes to the increase in ocean levels",
+        "Adds to chỉ việc góp phần làm tăng.",
+        159.3,
+        175.1
+      ],
+      [
+        "serves as the engine",
+        "acts as the driving force",
+        "Engine được dùng theo nghĩa vai trò thúc đẩy.",
+        183.3,
+        200.7
+      ],
+      [
+        "slow substantially or even collapse",
+        "become much weaker or stop functioning altogether",
+        "Substantially là đáng kể; collapse là ngừng vận hành hệ thống.",
+        227.2,
+        252.7
+      ],
+      [
+        "would change drastically",
+        "would become very different",
+        "Drastically nhấn mạnh quy mô thay đổi.",
+        227.2,
+        252.7
+      ],
+      [
+        "increase the speed of warming",
+        "make temperatures rise faster",
+        "Speed of warming nói về tốc độ, không chỉ mức nhiệt hiện tại.",
+        281,
+        289.2
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "territory",
+        "meaning": "lãnh thổ",
+        "note": "An area of land under a particular government’s authority."
+      },
+      {
+        "term": "coast",
+        "meaning": "bờ biển",
+        "note": "Land next to the sea."
+      },
+      {
+        "term": "geologist",
+        "meaning": "nhà địa chất học",
+        "note": "A scientist who studies rocks and the Earth."
+      },
+      {
+        "term": "mineral",
+        "meaning": "khoáng sản",
+        "note": "A naturally occurring substance found in the Earth."
+      },
+      {
+        "term": "resource",
+        "meaning": "tài nguyên",
+        "note": "A useful supply of materials or energy."
+      },
+      {
+        "term": "current",
+        "meaning": "dòng hải lưu",
+        "note": "A continuous movement of ocean water."
+      },
+      {
+        "term": "circulation",
+        "meaning": "sự lưu thông",
+        "note": "Movement around a connected system."
+      },
+      {
+        "term": "collapse",
+        "meaning": "sụp đổ; ngừng vận hành",
+        "note": "To fail completely or stop functioning."
+      },
+      {
+        "term": "precipitation",
+        "meaning": "giáng thủy",
+        "note": "Water falling from clouds as rain, snow or other forms."
+      },
+      {
+        "term": "ecosystem",
+        "meaning": "hệ sinh thái",
+        "note": "Living organisms and their physical environment interacting together."
+      }
+    ],
+    "signals": [
+      "However,…",
+      "As more ice melts,…",
+      "That is because…",
+      "If this global current system…"
+    ]
+  },
+  "40": {
+    "paragraphs": [
+      "French scientists have announced they set [1] for keeping hydrogen atoms in a state called plasma. The team said their work marks an important step in the search for nuclear fusion methods that could produce [2] in the future. France’s Atomic Energy Commission, or CEA, said the experiment – carried out February 12 – showed the process kept, or maintained, a state of plasma for [3]. The CEA added that the new record was [4] than the previous one, set in China last month. The aim of fusion research is to create [5] that happens in the center of the sun. In a fusion reaction, the centers of two atoms fuse, or [6], to form a new atom with [7], or center.",
+      "This process releases large amounts of energy. Some experts say this means fusion could be a major source of clean, safe, and [8] in the future. However, because fusion happens at [9], it is difficult to control. The scientists in France used a machine called a tokamak to do their research. The machine is [10] with strong walls to [11]. Inside the ring, hydrogen atoms are heated to temperatures up to [12]. The process creates plasma that is held together by [13]. Anne-Isabelle Etienvre is the CEA's head of [14]. She told the French news agency AFP the new record for making plasma shows \"that we control its production, but also its maintenance.\" However, Etienvre noted that there are still many \"[15]\" to overcome before fusion can \"[16].\" Scientists say that for nuclear fusion to succeed, hydrogen atoms will need to be heated up to [17].",
+      "At this extreme temperature, plasma can become [18]. This can lead to [19] and limit how well a possible future nuclear fusion reactor could work. In the coming months, the research team will look to increase the time they can keep the atoms in a plasma state. They hope to bring the total time \"[20].\" The CEA noted that in future experiments, scientists will also aim to heat the plasma to [21] and examine the effects the hot plasma has on their testing machine. [22] are working together in southern France to build the world’s largest tokamak and fusion research center, called ITER. The effort includes scientists from the United States, China, the European Union, India, Japan, South Korea, and Russia. The teams hope the current research on [23] will be useful for future projects at ITER. However, AFP reports that [24] have postponed operations at ITER [25]. I’m Andrew Smith."
+    ],
+    "answers": [
+      "a new record of 22 minutes",
+      "massive amounts of clean energy",
+      "1,337 seconds",
+      "25 percent longer",
+      "the same kind of nuclear reaction",
+      "join together",
+      "a heavier nucleus",
+      "almost limitless energy",
+      "very high temperatures",
+      "a circular ring",
+      "resist intense heat",
+      "about 50 million degrees Celsius",
+      "powerful magnets",
+      "fundamental research",
+      "technological barriers",
+      "produce more energy than it consumes",
+      "more than 100 million degrees Celsius",
+      "unstable and difficult to control",
+      "energy loss",
+      "up to several hours combined",
+      "higher temperatures",
+      "Teams from multiple countries",
+      "maintaining plasma",
+      "repeated delays and increasing costs",
+      "until at least 2033"
+    ],
+    "acceptedVariants": [
+      [
+        "a new record of twenty-two minutes"
+      ],
+      [],
+      [
+        "one thousand three hundred thirty-seven seconds",
+        "one thousand three hundred and thirty-seven seconds"
+      ],
+      [
+        "twenty-five percent longer",
+        "25% longer",
+        "twenty-five per cent longer"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "about fifty million degrees Celsius"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "more than one hundred million degrees Celsius",
+        "more than a hundred million degrees Celsius"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "until at least twenty thirty-three",
+        "until at least two thousand thirty-three",
+        "until at least two thousand and thirty-three"
+      ]
+    ],
+    "contentRevision": "ce8abb86bd61",
+    "paraphrases": [
+      [
+        "massive amounts",
+        "very large quantities",
+        "Massive nhấn mạnh lượng rất lớn.",
+        20.1,
+        27.5
+      ],
+      [
+        "kept, or maintained, a state of plasma",
+        "sustained the plasma condition",
+        "Maintained là giữ cho trạng thái tiếp tục.",
+        39.2,
+        48.2
+      ],
+      [
+        "fuse, or join together",
+        "combine into one",
+        "Fuse nói về kết hợp hai hạt nhân.",
+        70.2,
+        88.9
+      ],
+      [
+        "almost limitless energy",
+        "energy with virtually no limit to its supply",
+        "Almost cần được giữ; bài không khẳng định vô hạn tuyệt đối.",
+        90.2,
+        107
+      ],
+      [
+        "resist intense heat",
+        "withstand extremely high temperatures",
+        "Resist heat là chịu được nhiệt.",
+        115.7,
+        134.6
+      ],
+      [
+        "held together by powerful magnets",
+        "kept in place using strong magnetic forces",
+        "Cụm giải thích cách plasma được giữ trong máy.",
+        134.6,
+        142.7
+      ],
+      [
+        "technological barriers",
+        "technical obstacles",
+        "Barrier là trở ngại cần vượt qua.",
+        169.6,
+        179.3
+      ],
+      [
+        "produce more energy than it consumes",
+        "generate more energy than it uses",
+        "So sánh năng lượng tạo ra với năng lượng tiêu thụ.",
+        169.6,
+        179.3
+      ],
+      [
+        "can become unstable",
+        "may stop remaining steady",
+        "Can thể hiện khả năng, không phải điều luôn xảy ra.",
+        188.8,
+        208.9
+      ],
+      [
+        "have postponed operations",
+        "have delayed the start of work",
+        "Postpone là dời thời điểm hoạt động sang muộn hơn.",
+        282.3,
+        299.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "fusion",
+        "meaning": "sự nhiệt hạch",
+        "note": "A process in which atomic nuclei combine."
+      },
+      {
+        "term": "plasma",
+        "meaning": "plasma",
+        "note": "A highly energised state of matter containing charged particles."
+      },
+      {
+        "term": "maintain",
+        "meaning": "duy trì",
+        "note": "To keep something in a particular state."
+      },
+      {
+        "term": "nucleus",
+        "meaning": "hạt nhân",
+        "note": "The central part of an atom."
+      },
+      {
+        "term": "limitless",
+        "meaning": "không có giới hạn",
+        "note": "Without a limit or boundary."
+      },
+      {
+        "term": "resist",
+        "meaning": "chịu được",
+        "note": "To withstand a force or condition."
+      },
+      {
+        "term": "magnet",
+        "meaning": "nam châm",
+        "note": "An object that produces a magnetic field."
+      },
+      {
+        "term": "barrier",
+        "meaning": "rào cản",
+        "note": "An obstacle that prevents progress."
+      },
+      {
+        "term": "consume",
+        "meaning": "tiêu thụ",
+        "note": "To use up a resource."
+      },
+      {
+        "term": "unstable",
+        "meaning": "không ổn định",
+        "note": "Likely to change or become difficult to control."
+      }
+    ],
+    "signals": [
+      "The aim of…",
+      "However, because…",
+      "This can lead to…",
+      "In the coming months,…"
+    ]
+  },
+  "41": {
+    "paragraphs": [
+      "In Senegal, educators are starting to teach English to younger children in an effort to better prepare them to succeed in [1]. The preschool students also learn French – [2] – as well as Arabic and the nation’s national languages, the French news agency AFP reports. Senegalese children who attend preschool – also known as nursery school, are generally under five. Since mid-January, the education ministry has been testing a program that teaches English in [3]. It is part of a plan to better connect Senegal [4]. At one nursery school visited by AFP reporters near central Dakar, five-year-old students were heard singing, \"Good morning, teacher!\" The teacher, Absa Ndiaye, said, \"They're interested in the lesson, and they start a conversation with 'How are you?'\" Senegal recently became an oil and gas producer and has seen [5].",
+      "However, many young people have been leaving the country [6]. In Senegal, French is used in public schools and in [7]. Until recently, English was only taught in public high schools and universities, and sometimes in private nursery schools. Aissatou Sarr Cisse is in charge of the education ministry's English program. She told AFP that even after some students had studied English for [8], they “[9] in English.\" \"We're starting from a younger age so that they can [10]. The aim is to shape people who are open to the world,” she said. She added that improving their English will give them access to [11] “with Senegal’s partners.” In March, President Bassirou Diomaye Faye was elected after running a nationalist campaign. After many years of strong ties with the former colonial power, he is trying to reset Senegal's relationship with France, [12].",
+      "In the schools testing the program, English is taught [13]. On both days, [14] are taught in nursery schools and two 30-minute lessons in primary schools. The subjects taught center on family, colors, [15], the environment and the weather. In Dakar's working-class Medina neighborhood, teacher Mamadou Kama listens to a conversation in English between two 13-year-olds in his primary school class of [16]. \"I can see that the students are motivated. Some of them are asking for English lessons to be (taught) every day,\" said Kama, who has a degree in English. The ministry has invested in teachers who have high English levels. However, most of them have [17] the ministry aims to provide. \"We haven't had the time to create handbooks,” said the education ministry’s Cisse. “Computers have been ordered, and [18], we have provided students with printed documents with fun pictures.\" The project has been praised by Ousmane Sene, director of the Dakar-based West African Research Centre, or WARC,.",
+      "WARC handles [19] between the United States and west African universities. \"English is the most common language at an international level. And it's the most used language in [20], so it's [21],\" Sene told AFP. Additionally, most scientific material worldwide is written in English, said Mathiam Thiam. He helped create the English program. Thiam added that if people in Senegal do not adapt and improve their English, they will [22]. But Sene noted that something needs to happen first: The project needs “… to [23].” Some critics of the program point to a lack of teachers. Samba Dioulde Thiam is a former member of parliament and retired teacher. In an opinion article, he wrote, \"On these grounds alone, introducing English at nursery and primary school levels is [24].",
+      "It's impossible.\" He noted that intellectuals have been demanding the introduction of Senegal's national languages in education for many years. The program involving English [25]. But one 13-year-old student, Aissatou Barry, seems far removed from such debates. She told AFP that she \"can't wait to study English in sixth grade.\" I’m Andrew Smith."
+    ],
+    "answers": [
+      "future educational and professional activities",
+      "the country’s official language",
+      "more than 600 nursery and primary school classes",
+      "with the rest of the world",
+      "large population growth",
+      "searching for opportunities elsewhere",
+      "government administration",
+      "up to seven years",
+      "can barely communicate properly",
+      "improve their language skills",
+      "more opportunities to cooperate",
+      "without breaking away completely",
+      "every Tuesday and Thursday",
+      "two 25-minute lessons",
+      "everyday greetings",
+      "around 60 students",
+      "not yet received the teaching materials",
+      "in the meantime",
+      "educational exchanges",
+      "diplomacy and international cooperation",
+      "an additional asset",
+      "run into many barriers",
+      "train and equip the teachers well",
+      "a pipe dream",
+      "could further delay that goal"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "more than six hundred nursery and primary school classes"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "up to 7 years"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "two twenty-five-minute lessons",
+        "2 25-minute lessons"
+      ],
+      [],
+      [
+        "around sixty students"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "66fff3f60592",
+    "paraphrases": [
+      [
+        "in an effort to better prepare them",
+        "with the aim of making them more ready",
+        "In an effort to nêu mục đích thực hiện.",
+        0.8,
+        16.9
+      ],
+      [
+        "searching for opportunities elsewhere",
+        "looking for chances in other places",
+        "Elsewhere là ở nơi khác.",
+        105,
+        112.6
+      ],
+      [
+        "can barely communicate properly",
+        "are hardly able to express themselves effectively",
+        "Barely mang nghĩa gần như không thể.",
+        142.9,
+        156.3
+      ],
+      [
+        "open to the world",
+        "willing to engage with people beyond their own country",
+        "Open trong bài nói về thái độ tiếp nhận và giao tiếp.",
+        157.3,
+        170.9
+      ],
+      [
+        "without breaking away completely",
+        "while not cutting all ties",
+        "Without giữ đúng ý không đoạn tuyệt hoàn toàn.",
+        193.3,
+        207.8
+      ],
+      [
+        "in the meantime",
+        "during the period of waiting",
+        "In the meantime chỉ thời gian chờ giải pháp khác.",
+        298.5,
+        308.4
+      ],
+      [
+        "an additional asset",
+        "another valuable advantage",
+        "Asset trong bài là lợi thế ngôn ngữ.",
+        333.9,
+        351.6
+      ],
+      [
+        "run into many barriers",
+        "encounter numerous obstacles",
+        "Run into là gặp phải khó khăn.",
+        367.6,
+        376.8
+      ],
+      [
+        "a pipe dream",
+        "an unrealistic hope",
+        "Pipe dream là điều người nói cho rằng khó thành hiện thực.",
+        402.6,
+        417.3
+      ],
+      [
+        "far removed from such debates",
+        "not involved in those arguments",
+        "Far removed from diễn tả sự tách biệt với cuộc tranh luận.",
+        436.4,
+        452
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "preschool",
+        "meaning": "trường mầm non",
+        "note": "A school for children below primary-school age."
+      },
+      {
+        "term": "educator",
+        "meaning": "người làm giáo dục",
+        "note": "A person involved in teaching or education."
+      },
+      {
+        "term": "ministry",
+        "meaning": "bộ",
+        "note": "A government department responsible for a particular area."
+      },
+      {
+        "term": "administration",
+        "meaning": "sự quản lý",
+        "note": "The organisation and running of public affairs."
+      },
+      {
+        "term": "cooperate",
+        "meaning": "hợp tác",
+        "note": "To work together towards a goal."
+      },
+      {
+        "term": "colonial",
+        "meaning": "thuộc thuộc địa",
+        "note": "Related to a territory controlled by another country."
+      },
+      {
+        "term": "motivated",
+        "meaning": "có động lực",
+        "note": "Eager and willing to act or learn."
+      },
+      {
+        "term": "diplomacy",
+        "meaning": "ngoại giao",
+        "note": "The management of relations between countries."
+      },
+      {
+        "term": "equip",
+        "meaning": "trang bị",
+        "note": "To provide the tools or resources needed."
+      },
+      {
+        "term": "pipe dream",
+        "meaning": "ước vọng viển vông",
+        "note": "A hope considered unlikely to be achieved."
+      }
+    ],
+    "signals": [
+      "in an effort to…",
+      "Until recently,…",
+      "In the meantime,…",
+      "But Sene noted…"
+    ]
+  },
+  "42": {
+    "paragraphs": [
+      "Yellowstone National Park in the western United States was [1]. [2], it is famous for [3] and wild animals. It includes beautiful mountains, deep canyons, lakes and rivers. Yellowstone is still one of the largest national parks in the U.S. It takes up [4]. Most of the park lies within the western state of Wyoming. The park is unusual because of what lies underneath it. It sits on top of [5], known as the Yellowstone Caldera. The caldera remains [6]. A lake of [7] is about six kilometers under the park.",
+      "Experts say this lake is [8]. The pressure and heat cause geysers to [9] and mud to boil at Yellowstone. The park is home to [10]. There are more geysers and [11] in Yellowstone than any other place on Earth. “Old Faithful” is the name of the park’s most famous geyser because it erupts [12]. Yellowstone is on [13] with an average height of [14]. This makes the weather very cold in winter, with January temperatures averaging between [15].",
+      "However, some areas of the park remain open to visitors [16]. Yellowstone Canyon is [17]. The Yellowstone River runs through it and [18] in the Lower Falls. Visitors can walk on a path that brings them very close to [19]. There, they can see and hear the powerful falls.",
+      "In summer of 1988, [20] burned large areas of the park. Most of those areas are now [21]. Yellowstone is home to the largest group of wild animals in [22]. These include bison, grizzly bear, elk, deer, moose, fox, beaver, coyote and wolves.",
+      "In 2024, [23] the bison population to be [24]. That makes it [25] in the world. There is still a wild west in America…and its name is Yellowstone. I’m Andrew Smith."
+    ],
+    "answers": [
+      "the world’s first national park",
+      "Established in 1872",
+      "its geothermal activity",
+      "almost 9,000 square kilometers",
+      "an ancient super volcano",
+      "an active volcano",
+      "hot liquid rock",
+      "under huge amounts of pressure",
+      "shoot hot water out of the ground",
+      "more than 300 geysers",
+      "hot springs",
+      "about every 90 minutes",
+      "a high plateau",
+      "2,400 meters above sea level",
+      "-18 degrees and -7 degrees Celsius",
+      "throughout the year",
+      "about 365 meters deep",
+      "drops 93 meters",
+      "the top of the falls",
+      "forest fires",
+      "covered with plants and young trees",
+      "the lower 48 United States",
+      "park officials estimated",
+      "about 4,500 animals",
+      "the largest group of wild bison"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "established in eighteen seventy-two"
+      ],
+      [],
+      [
+        "almost nine thousand square kilometers",
+        "almost nine thousand square kilometres",
+        "almost 9,000 square kilometres"
+      ],
+      [
+        "an ancient supervolcano"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "more than three hundred geysers"
+      ],
+      [],
+      [
+        "about every ninety minutes"
+      ],
+      [],
+      [
+        "two thousand four hundred meters above sea level",
+        "two thousand four hundred metres above sea level",
+        "2400 metres above sea level"
+      ],
+      [
+        "minus eighteen degrees and minus seven degrees Celsius"
+      ],
+      [],
+      [
+        "about three hundred sixty-five meters deep",
+        "about three hundred and sixty-five meters deep",
+        "about 365 metres deep"
+      ],
+      [
+        "drops ninety-three meters",
+        "drops ninety-three metres",
+        "drops 93 metres"
+      ],
+      [],
+      [],
+      [],
+      [
+        "the lower forty-eight United States"
+      ],
+      [],
+      [
+        "about four thousand five hundred animals"
+      ],
+      []
+    ],
+    "contentRevision": "aff532c277df",
+    "paraphrases": [
+      [
+        "Established in 1872",
+        "officially created in eighteen seventy-two",
+        "Established chỉ năm công viên được thành lập.",
+        10.8,
+        20.6
+      ],
+      [
+        "It takes up almost 9,000 square kilometers",
+        "It occupies nearly nine thousand square kilometres",
+        "Take up ở đây là chiếm diện tích.",
+        37.2,
+        41.2
+      ],
+      [
+        "what lies underneath it",
+        "what is located below it",
+        "Underneath là ở phía dưới.",
+        48.8,
+        54.7
+      ],
+      [
+        "remains an active volcano",
+        "continues to be a volcano that can erupt",
+        "Remains nói về trạng thái vẫn tiếp tục.",
+        63.8,
+        67
+      ],
+      [
+        "is home to more than 300 geysers",
+        "contains over three hundred natural hot-water fountains",
+        "Is home to trong mô tả địa lý có nghĩa là nơi có.",
+        92.6,
+        104.8
+      ],
+      [
+        "erupts about every 90 minutes",
+        "releases hot water roughly once an hour and a half",
+        "About giữ ý xấp xỉ của chu kỳ phun.",
+        105.8,
+        115.6
+      ],
+      [
+        "above sea level",
+        "higher than the surface of the sea",
+        "Sea level là mốc đo độ cao.",
+        116.9,
+        125.8
+      ],
+      [
+        "throughout the year",
+        "during every part of the year",
+        "Throughout bao trùm cả năm.",
+        141.8,
+        148.6
+      ],
+      [
+        "covered with plants and young trees",
+        "having vegetation growing across them",
+        "Covered with mô tả cây cối đã mọc lại.",
+        183.1,
+        188.3
+      ],
+      [
+        "estimated the bison population",
+        "calculated an approximate number of bison",
+        "Estimate là ước tính, không khẳng định con số đếm tuyệt đối.",
+        210.3,
+        221.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "geothermal",
+        "meaning": "thuộc địa nhiệt",
+        "note": "Related to heat from within the Earth."
+      },
+      {
+        "term": "canyon",
+        "meaning": "hẻm núi",
+        "note": "A deep valley with steep sides."
+      },
+      {
+        "term": "caldera",
+        "meaning": "miệng chảo núi lửa",
+        "note": "A large depression formed by volcanic activity."
+      },
+      {
+        "term": "pressure",
+        "meaning": "áp suất",
+        "note": "The force exerted on an area."
+      },
+      {
+        "term": "geyser",
+        "meaning": "mạch nước phun",
+        "note": "A hot spring that periodically sends water into the air."
+      },
+      {
+        "term": "erupt",
+        "meaning": "phun trào",
+        "note": "To release material suddenly and forcefully."
+      },
+      {
+        "term": "plateau",
+        "meaning": "cao nguyên",
+        "note": "An area of high, relatively flat land."
+      },
+      {
+        "term": "waterfall",
+        "meaning": "thác nước",
+        "note": "Water falling from a height in a river."
+      },
+      {
+        "term": "bison",
+        "meaning": "bò rừng bison",
+        "note": "A large wild animal of the cattle family."
+      },
+      {
+        "term": "estimate",
+        "meaning": "ước tính",
+        "note": "To judge an amount approximately."
+      }
+    ],
+    "signals": [
+      "because of…",
+      "However,…",
+      "In summer of…",
+      "That makes it…"
+    ]
+  },
+  "43": {
+    "paragraphs": [
+      "An American nonprofit group says the number of monarch butterflies spending the winter in the western United States has dropped to [1] in nearly 30 years. The Xerces Society for Invertebrate Conservation, based in Oregon, said the causes for this include the use of chemicals to kill insects, known as pesticides. The group also blames [2] and climate change. Monarch butterflies are known for their [3]. They live across North America. Monarchs in the eastern United States spend the winter in Mexico. The World Wildlife Fund, a non-profit based in Switzerland, counts them there but has not yet released data for this year. Monarchs west of the Rocky Mountains usually spend the winter [4]. The Xerces Society for Invertebrate Conservation has been counting western overwinter populations in California and Arizona for [5].",
+      "The highest number recorded was [6]. The organization announced Friday that it counted just 9,119 monarchs in 2024, [7] from 233,394 in 2023. The total was the second lowest since the survey began in 1997. The record-low count was 1,901 monarchs in 2020. The survey noted that a place in Santa Barbara that saw 33,200 monarchs last winter had only 198 butterflies this year. Monarchs across North America [8]. One is the supply of a plant, milkweed, which they [9]. Monarch Joint Venture is a nonprofit group based in Minnesota that aims to protect monarchs. The group said milkweed has been disappearing because of dry weather, wildfires, [10]. The Xerces Society said pesticides might be on [11].",
+      "Emma Pelton is a biologist with the Xerces Society. She said it is unclear what caused [12] in the western population in just one year. The monarch population is already small, she said, and heat [13] in the western states last year might have [14]. Monarchs suffer when the temperature gets up to 37.7 degrees Celsius and any temperatures above 42.2 degrees Celsius will kill the insects, Pelton said. The western states saw [15] with temperatures in some areas well past 37.7 degrees. Palm Springs, for example, reportedly reached [16] on July 5. Another heat wave hit northern California in early October, with several cities [17]. Pelton said that it is [18] what long-term effect the sharp drop might have on the overall western monarch population. Insects can [19], Pelton said. After a low point of 1,901 butterflies in 2020, the population recovered to 247,246 insects the following year, an increase of [20]. The year after that the survey recorded 335,479 monarchs. \"This is bad news,\" Pelton said of the 2024 population drop. \"But we have seen [21]. This doesn't mean we're not going to have western monarchs.” The U.S. Fish and Wildlife Service announced in December 2024 that it wanted to [22]. Such a move would ban people from [23]. The proposed change would also ban property owners from making changes to their property that would make it [24].",
+      "For example, removing all milkweed from a property would be banned by law. Earthjustice is an environmental nonprofit legal group based in San Francisco. It asked the Environmental Protection Agency in December 2024 to require [25] on insects such as bees, moths and butterflies. I’m Jill Robbins."
+    ],
+    "answers": [
+      "its second-lowest mark",
+      "reductions in habitat",
+      "clear orange-and-black markings",
+      "along the California coast",
+      "the last 28 years",
+      "1.2 million in 1997",
+      "a decrease of 96 percent",
+      "face increasing threats",
+      "feed on as caterpillars",
+      "agriculture and urban development",
+      "the remaining plants",
+      "such a sharp decrease",
+      "above 37.7 degrees Celsius",
+      "slowed breeding",
+      "a heat wave in July",
+      "a record 51.1 degrees Celsius",
+      "breaking heat records",
+      "too early to tell",
+      "reproduce very quickly",
+      "nearly 13,000 percent",
+      "incredible recovery",
+      "list monarchs as threatened",
+      "killing or transporting them",
+      "unusable to the butterflies",
+      "testing of pesticides’ effects"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "the last twenty-eight years"
+      ],
+      [
+        "one point two million in nineteen ninety-seven",
+        "1.2 million in nineteen ninety-seven"
+      ],
+      [
+        "a decrease of ninety-six percent",
+        "a decrease of 96%"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "above thirty-seven point seven degrees Celsius"
+      ],
+      [],
+      [],
+      [
+        "a record fifty-one point one degrees Celsius"
+      ],
+      [],
+      [],
+      [],
+      [
+        "nearly thirteen thousand percent",
+        "nearly 13000%"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "e9e6ad394a7e",
+    "paraphrases": [
+      [
+        "reductions in habitat",
+        "losses of suitable natural living areas",
+        "Habitat là môi trường sống của loài.",
+        32.9,
+        37.4
+      ],
+      [
+        "has not yet released data",
+        "has still not published the figures",
+        "Not yet giữ ý chưa công bố tính đến thời điểm bản tin.",
+        53.7,
+        63.2
+      ],
+      [
+        "face increasing threats",
+        "encounter growing dangers",
+        "Increasing mô tả nguy cơ đang tăng.",
+        138.7,
+        148.3
+      ],
+      [
+        "such a sharp decrease",
+        "such a sudden and substantial fall",
+        "Sharp decrease là sụt giảm mạnh.",
+        177.9,
+        185.4
+      ],
+      [
+        "might have slowed breeding",
+        "may have reduced the rate of reproduction",
+        "Might giữ nguyên sự chưa chắc chắn về nguyên nhân.",
+        186.3,
+        198.4
+      ],
+      [
+        "breaking heat records",
+        "reaching higher temperatures than previously recorded",
+        "Break records trong câu là vượt mức nhiệt cao nhất trước đó.",
+        235.4,
+        242.3
+      ],
+      [
+        "too early to tell",
+        "not yet possible to determine",
+        "Cụm này nói chưa thể kết luận tác động lâu dài.",
+        243.8,
+        253.9
+      ],
+      [
+        "reproduce very quickly",
+        "produce new generations at a rapid rate",
+        "Reproduce trong sinh học là sinh sản.",
+        255.8,
+        259.2
+      ],
+      [
+        "incredible recovery",
+        "a remarkable return towards earlier numbers",
+        "Recovery nói về sự phục hồi số lượng.",
+        287.1,
+        299.5
+      ],
+      [
+        "list monarchs as threatened",
+        "officially classify monarch butterflies as facing danger",
+        "List as threatened là xếp loài vào nhóm cần bảo vệ.",
+        300.5,
+        308.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "monarch",
+        "meaning": "bướm vua",
+        "note": "An orange-and-black butterfly known for migration."
+      },
+      {
+        "term": "pesticide",
+        "meaning": "thuốc trừ sinh vật gây hại",
+        "note": "A chemical used to kill pests."
+      },
+      {
+        "term": "habitat",
+        "meaning": "môi trường sống",
+        "note": "The natural place where an organism lives."
+      },
+      {
+        "term": "caterpillar",
+        "meaning": "sâu bướm",
+        "note": "The larval stage of a butterfly or moth."
+      },
+      {
+        "term": "milkweed",
+        "meaning": "cây bông tai",
+        "note": "A plant that monarch caterpillars feed on."
+      },
+      {
+        "term": "breeding",
+        "meaning": "sự sinh sản",
+        "note": "The production of offspring."
+      },
+      {
+        "term": "heat wave",
+        "meaning": "đợt nắng nóng",
+        "note": "A prolonged period of unusually hot weather."
+      },
+      {
+        "term": "reproduce",
+        "meaning": "sinh sản",
+        "note": "To produce offspring."
+      },
+      {
+        "term": "recovery",
+        "meaning": "sự phục hồi",
+        "note": "A return to a better or previous condition."
+      },
+      {
+        "term": "threatened",
+        "meaning": "bị đe dọa",
+        "note": "At risk of serious harm or decline."
+      }
+    ],
+    "signals": [
+      "One is…",
+      "for example,…",
+      "It is too early to tell…",
+      "Such a move would…"
+    ]
+  },
+  "44": {
+    "paragraphs": [
+      "The government of Nepal has increased the cost of a permit to climb Mount Everest [1]. Officials say the price increase aims to help [2] on the world’s highest mountain. The director of Nepal’s tourism department is Narayan Prasad Regmi. He told the French news agency AFP the cost for a permit in [3] will increase from [4]. Regmi noted the price had [5] for [6], so the government decided it was time to make a change. The costs, or fees, for climbing during less popular and more difficult times of year -- such as during winter or [7] -- have also increased. This includes an increase from [8] during [9].",
+      "Thousands of climbers come to Nepal each year. The country is home to [10] of the world’s tallest mountains [11]. Everest is 8,849-meters tall and sits [12]. Foreign climbers spend [13] on their efforts to climb Everest. [14] bought climbing permits for Everest last year. This brought in [15] to the government. Nepal uses the money to [16] and to finance [17]. Some mountain climbing companies worry the higher price could [18] wanting to climb Everest from the Nepalese side. The companies warn that some climbers might decide to climb Everest through China. \"Some climbers might shift to Tibet where [19],\" said Mingma G Sherpa. He runs the Imagine Nepal mountaineering company and says Nepal must use the money to [20]. \"Our government just increases the royalty, but doesn't do much. It needs to also [21],\" he added. Some groups have criticized Nepal for [22] on Everest while not doing enough to keep the mountain clean. Last year, Nepal’s government ordered all Everest climbers to [23] to remove [24]. The government approved the fee increase in January, but it was [25].",
+      "I’m Andrew Smith."
+    ],
+    "answers": [
+      "by about one-third",
+      "reduce pollution and increase safety",
+      "the popular spring climbing season",
+      "$11,000 to $15,000",
+      "remained the same",
+      "about 10 years",
+      "the summer monsoon rains",
+      "$5,500 to $7,500",
+      "the autumn climbing season",
+      "eight of 14",
+      "over 8,000 meters",
+      "on the border between Nepal and China",
+      "tens of thousands of dollars",
+      "More than 400 people",
+      "around $4 million",
+      "remove waste from the mountain",
+      "search and rescue operations",
+      "lower the number of climbers",
+      "the facilities are much better",
+      "improve conditions",
+      "provide support to the climbers and guides",
+      "permitting too many climbers",
+      "carry trackers and bags",
+      "their human waste",
+      "first published on February 3"
+    ],
+    "acceptedVariants": [
+      [
+        "by about one third",
+        "by about 1/3"
+      ],
+      [],
+      [],
+      [
+        "eleven thousand to fifteen thousand dollars",
+        "11,000 to 15,000 dollars",
+        "eleven thousand dollars to fifteen thousand dollars"
+      ],
+      [],
+      [
+        "about ten years"
+      ],
+      [],
+      [
+        "five thousand five hundred to seven thousand five hundred dollars",
+        "5500 to 7500 dollars",
+        "five thousand five hundred dollars to seven thousand five hundred dollars"
+      ],
+      [],
+      [
+        "eight of fourteen",
+        "8 of 14"
+      ],
+      [
+        "over eight thousand meters",
+        "over eight thousand metres",
+        "over 8000 metres"
+      ],
+      [],
+      [],
+      [
+        "more than four hundred people"
+      ],
+      [
+        "around four million dollars",
+        "around 4 million dollars"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "first published on February third",
+        "first published on February 3rd"
+      ]
+    ],
+    "contentRevision": "bb1f5cce563c",
+    "paraphrases": [
+      [
+        "a permit to climb Mount Everest",
+        "official permission to ascend Everest",
+        "Permit là giấy phép chính thức.",
+        1.1,
+        11.3
+      ],
+      [
+        "reduce pollution and increase safety",
+        "make the mountain cleaner and less dangerous",
+        "Hai mục đích được nêu song song.",
+        12.5,
+        22.8
+      ],
+      [
+        "remained the same",
+        "did not change",
+        "Remained the same nói giá không đổi trong thời gian được nêu.",
+        49.2,
+        61
+      ],
+      [
+        "less popular and more difficult times of year",
+        "seasons that attract fewer people and pose greater challenges",
+        "Giữ cả hai đặc điểm: ít được chọn và khó leo hơn.",
+        62,
+        77.9
+      ],
+      [
+        "is home to eight of 14",
+        "contains eight out of fourteen",
+        "Is home to trong câu địa lý là nơi có.",
+        97,
+        105.5
+      ],
+      [
+        "brought in around $4 million",
+        "generated approximately four million dollars in revenue",
+        "Brought in nói về khoản tiền thu được.",
+        132.9,
+        137.6
+      ],
+      [
+        "finance search and rescue operations",
+        "pay for efforts to find and save people",
+        "Finance là cấp tiền cho hoạt động.",
+        139.2,
+        147.6
+      ],
+      [
+        "could lower the number of climbers",
+        "might reduce how many people choose to climb",
+        "Could biểu thị nguy cơ có thể xảy ra.",
+        148.8,
+        160.8
+      ],
+      [
+        "might shift to Tibet",
+        "may choose Tibet instead",
+        "Shift to nói về chuyển lựa chọn địa điểm.",
+        170.2,
+        179.2
+      ],
+      [
+        "not doing enough to keep the mountain clean",
+        "taking insufficient action to prevent waste on the mountain",
+        "Not enough là chưa đủ, không có nghĩa hoàn toàn không làm gì.",
+        206.6,
+        217.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "permit",
+        "meaning": "giấy phép",
+        "note": "An official document giving permission."
+      },
+      {
+        "term": "pollution",
+        "meaning": "ô nhiễm",
+        "note": "Harmful waste or substances in the environment."
+      },
+      {
+        "term": "fee",
+        "meaning": "lệ phí",
+        "note": "An amount paid for permission or a service."
+      },
+      {
+        "term": "monsoon",
+        "meaning": "gió mùa; mùa mưa",
+        "note": "A seasonal weather pattern often bringing heavy rain."
+      },
+      {
+        "term": "border",
+        "meaning": "biên giới",
+        "note": "A dividing line between countries."
+      },
+      {
+        "term": "finance",
+        "meaning": "tài trợ",
+        "note": "To provide money for an activity."
+      },
+      {
+        "term": "rescue",
+        "meaning": "cứu hộ",
+        "note": "The act of saving someone from danger."
+      },
+      {
+        "term": "facility",
+        "meaning": "cơ sở vật chất",
+        "note": "A place or equipment provided for a purpose."
+      },
+      {
+        "term": "guide",
+        "meaning": "người hướng dẫn",
+        "note": "A person who leads others along a route."
+      },
+      {
+        "term": "tracker",
+        "meaning": "thiết bị định vị",
+        "note": "A device used to follow someone’s location."
+      }
+    ],
+    "signals": [
+      "The price increase aims to…",
+      "This includes…",
+      "The companies warn…",
+      "while not doing enough…"
+    ]
   }
 };

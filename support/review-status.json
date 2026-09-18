@@ -438,8 +438,128 @@
         "Restored the complete 400000 quantity instead of a truncated answer",
         "Authored 25 meaningful gaps and 10 contextual paraphrases with number variants"
       ]
+    },
+    {
+      "code": "L1-36",
+      "status": "content-reviewed-build-validated",
+      "revision": "b105adeadbfd",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed linked-source markup and duplicated photo caption",
+        "Replaced arbitrary fragments with 25 complete phrases and quantities",
+        "Preserved negation and age-related comparisons",
+        "Restored spoken sign-off and rebuilt 10 paraphrases"
+      ]
+    },
+    {
+      "code": "L1-37",
+      "status": "content-reviewed-build-validated",
+      "revision": "e40f8c8b4496",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed trailing non-speech backslashes",
+        "Separated some practical and restored final spoken sentences",
+        "Built 25 meaningful gaps rather than mechanical six-word fragments",
+        "Kept proposed definitions and uncertain approval clearly distinguished"
+      ]
+    },
+    {
+      "code": "L1-38",
+      "status": "content-reviewed-build-validated",
+      "revision": "a58172a0d782",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed repeated image caption wrongly used as two answers",
+        "Repaired split chemical name and acronym expansion",
+        "Restored spoken ending",
+        "Rebuilt gaps and contextual pairs with precise quantities and negation"
+      ]
+    },
+    {
+      "code": "L1-39",
+      "status": "content-reviewed-build-validated",
+      "revision": "92769ff7631c",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed duplicated hospital-photo caption",
+        "Kept decimal quantities intact with spoken-number alternatives",
+        "Balanced 25 gaps across the whole report",
+        "Preserved uncertainty and causal limits in 10 paraphrase pairs"
+      ]
+    },
+    {
+      "code": "L1-40",
+      "status": "content-reviewed-build-validated",
+      "revision": "7e911e01b9de",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed two duplicated photo captions and photographer credit",
+        "Fixed a merged weather term",
+        "Rebuilt 25 complete phrase gaps and number variants",
+        "Restored presenter and 10 timestamped contextual pairs"
+      ]
+    },
+    {
+      "code": "L1-41",
+      "status": "content-reviewed-build-validated",
+      "revision": "ce8abb86bd61",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed image caption and non-spoken adaptation credit",
+        "Split fundamental research correctly",
+        "Rebuilt 25 phrase gaps with complete numbers",
+        "Kept achieved results separate from future fusion targets"
+      ]
+    },
+    {
+      "code": "L1-42",
+      "status": "content-reviewed-build-validated",
+      "revision": "66fff3f60592",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed link syntax and URL-derived answer 23",
+        "Restored exactly 25 sequential inputs",
+        "Fixed merged words and spoken attribution",
+        "Selected whole phrases including lesson lengths and student counts"
+      ]
+    },
+    {
+      "code": "L1-43",
+      "status": "content-reviewed-build-validated",
+      "revision": "aff532c277df",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed two repeated captions and unspoken author credit",
+        "Replaced truncated 9 with full 9000 quantity",
+        "Preserved negative signs in temperature answers",
+        "Rebuilt all gaps and 10 replay pairs from actual speech"
+      ]
+    },
+    {
+      "code": "L1-44",
+      "status": "content-reviewed-build-validated",
+      "revision": "e9e6ad394a7e",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed sanctuary photo caption duplicated as answers",
+        "Kept decimal numbers intact rather than splitting 37.7",
+        "Verified rebound sentence omitted by first ASR pass",
+        "Preserved uncertainty and proposed protection status"
+      ]
+    },
+    {
+      "code": "L1-45",
+      "status": "content-reviewed-build-validated",
+      "revision": "bb1f5cce563c",
+      "gapCount": 25,
+      "issuesFixed": [
+        "Removed both photo captions and written adaptation credit",
+        "Rebuilt complete price ranges instead of truncated $5",
+        "Restored speech-only ending",
+        "Replaced arbitrary fragments with 25 meaningful targets and 10 paraphrases"
+      ]
     }
   ],
-  "pending": 65,
+  "pending": 55,
   "note": "Build validation is not proof of deployment. Unlisted lessons have not completed individual review."
 }

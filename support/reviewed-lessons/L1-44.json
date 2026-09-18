@@ -1,0 +1,206 @@
+{
+  "code": "L1-44",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-44.mp3",
+  "evidenceNote": "Compared all source paragraphs with full timestamped ASR. Rechecked 253–279 seconds using independent small.en transcription because base.en omitted the 1901-to-247246 rebound; the focused pass confirms the source. Removed photo caption and repaired by banned to be banned.",
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "Pelton said that it is too early"
+    }
+  ],
+  "textReplacements": [
+    [
+      "would by banned by law",
+      "would be banned by law"
+    ]
+  ],
+  "appendText": "I’m Jill Robbins.",
+  "gaps": [
+    "its second-lowest mark",
+    "reductions in habitat",
+    "clear orange-and-black markings",
+    "along the California coast",
+    "the last 28 years",
+    "1.2 million in 1997",
+    "a decrease of 96 percent",
+    "face increasing threats",
+    "feed on as caterpillars",
+    "agriculture and urban development",
+    "the remaining plants",
+    "such a sharp decrease",
+    "above 37.7 degrees Celsius",
+    "slowed breeding",
+    "a heat wave in July",
+    "a record 51.1 degrees Celsius",
+    "breaking heat records",
+    "too early to tell",
+    "reproduce very quickly",
+    "nearly 13,000 percent",
+    "incredible recovery",
+    "list monarchs as threatened",
+    "killing or transporting them",
+    "unusable to the butterflies",
+    "testing of pesticides’ effects"
+  ],
+  "acceptedVariants": {
+    "the last 28 years": [
+      "the last twenty-eight years"
+    ],
+    "1.2 million in 1997": [
+      "one point two million in nineteen ninety-seven",
+      "1.2 million in nineteen ninety-seven"
+    ],
+    "a decrease of 96 percent": [
+      "a decrease of ninety-six percent",
+      "a decrease of 96%"
+    ],
+    "above 37.7 degrees Celsius": [
+      "above thirty-seven point seven degrees Celsius"
+    ],
+    "a record 51.1 degrees Celsius": [
+      "a record fifty-one point one degrees Celsius"
+    ],
+    "nearly 13,000 percent": [
+      "nearly thirteen thousand percent",
+      "nearly 13000%"
+    ]
+  },
+  "paraphrases": [
+    [
+      "reductions in habitat",
+      "losses of suitable natural living areas",
+      "Habitat là môi trường sống của loài.",
+      32.9,
+      37.4
+    ],
+    [
+      "has not yet released data",
+      "has still not published the figures",
+      "Not yet giữ ý chưa công bố tính đến thời điểm bản tin.",
+      53.7,
+      63.2
+    ],
+    [
+      "face increasing threats",
+      "encounter growing dangers",
+      "Increasing mô tả nguy cơ đang tăng.",
+      138.7,
+      148.3
+    ],
+    [
+      "such a sharp decrease",
+      "such a sudden and substantial fall",
+      "Sharp decrease là sụt giảm mạnh.",
+      177.9,
+      185.4
+    ],
+    [
+      "might have slowed breeding",
+      "may have reduced the rate of reproduction",
+      "Might giữ nguyên sự chưa chắc chắn về nguyên nhân.",
+      186.3,
+      198.4
+    ],
+    [
+      "breaking heat records",
+      "reaching higher temperatures than previously recorded",
+      "Break records trong câu là vượt mức nhiệt cao nhất trước đó.",
+      235.4,
+      242.3
+    ],
+    [
+      "too early to tell",
+      "not yet possible to determine",
+      "Cụm này nói chưa thể kết luận tác động lâu dài.",
+      243.8,
+      253.9
+    ],
+    [
+      "reproduce very quickly",
+      "produce new generations at a rapid rate",
+      "Reproduce trong sinh học là sinh sản.",
+      255.8,
+      259.2
+    ],
+    [
+      "incredible recovery",
+      "a remarkable return towards earlier numbers",
+      "Recovery nói về sự phục hồi số lượng.",
+      287.1,
+      299.5
+    ],
+    [
+      "list monarchs as threatened",
+      "officially classify monarch butterflies as facing danger",
+      "List as threatened là xếp loài vào nhóm cần bảo vệ.",
+      300.5,
+      308.9
+    ]
+  ],
+  "vocabulary": [
+    [
+      "monarch",
+      "bướm vua",
+      "An orange-and-black butterfly known for migration."
+    ],
+    [
+      "pesticide",
+      "thuốc trừ sinh vật gây hại",
+      "A chemical used to kill pests."
+    ],
+    [
+      "habitat",
+      "môi trường sống",
+      "The natural place where an organism lives."
+    ],
+    [
+      "caterpillar",
+      "sâu bướm",
+      "The larval stage of a butterfly or moth."
+    ],
+    [
+      "milkweed",
+      "cây bông tai",
+      "A plant that monarch caterpillars feed on."
+    ],
+    [
+      "breeding",
+      "sự sinh sản",
+      "The production of offspring."
+    ],
+    [
+      "heat wave",
+      "đợt nắng nóng",
+      "A prolonged period of unusually hot weather."
+    ],
+    [
+      "reproduce",
+      "sinh sản",
+      "To produce offspring."
+    ],
+    [
+      "recovery",
+      "sự phục hồi",
+      "A return to a better or previous condition."
+    ],
+    [
+      "threatened",
+      "bị đe dọa",
+      "At risk of serious harm or decline."
+    ]
+  ],
+  "signals": [
+    "One is…",
+    "for example,…",
+    "It is too early to tell…",
+    "Such a move would…"
+  ],
+  "issuesFixed": [
+    "Removed sanctuary photo caption duplicated as answers",
+    "Kept decimal numbers intact rather than splitting 37.7",
+    "Verified rebound sentence omitted by first ASR pass",
+    "Preserved uncertainty and proposed protection status"
+  ]
+}

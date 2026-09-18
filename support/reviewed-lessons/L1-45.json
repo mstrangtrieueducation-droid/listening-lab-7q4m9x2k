@@ -1,0 +1,224 @@
+{
+  "code": "L1-45",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-45.mp3",
+  "evidenceNote": "Compared the complete 243-second MP3 ASR with the source, including permit prices and final date. Removed both non-spoken photographs, their credits and adaptation text; restored the presenter sign-off. Kept full currency quantities and conditional warnings.",
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "Some mountain climbing companies"
+    },
+    {
+      "start": "![Image 2:",
+      "end": "\"Some climbers might shift"
+    },
+    {
+      "start": "Andrew Smith adapted this story",
+      "end": null
+    }
+  ],
+  "appendText": "I’m Andrew Smith.",
+  "gaps": [
+    "by about one-third",
+    "reduce pollution and increase safety",
+    "the popular spring climbing season",
+    "$11,000 to $15,000",
+    "remained the same",
+    "about 10 years",
+    "the summer monsoon rains",
+    "$5,500 to $7,500",
+    "the autumn climbing season",
+    "eight of 14",
+    "over 8,000 meters",
+    "on the border between Nepal and China",
+    "tens of thousands of dollars",
+    "More than 400 people",
+    "around $4 million",
+    "remove waste from the mountain",
+    "search and rescue operations",
+    "lower the number of climbers",
+    "the facilities are much better",
+    "improve conditions",
+    "provide support to the climbers and guides",
+    "permitting too many climbers",
+    "carry trackers and bags",
+    "their human waste",
+    "first published on February 3"
+  ],
+  "acceptedVariants": {
+    "by about one-third": [
+      "by about one third",
+      "by about 1/3"
+    ],
+    "$11,000 to $15,000": [
+      "eleven thousand to fifteen thousand dollars",
+      "11,000 to 15,000 dollars",
+      "eleven thousand dollars to fifteen thousand dollars"
+    ],
+    "about 10 years": [
+      "about ten years"
+    ],
+    "$5,500 to $7,500": [
+      "five thousand five hundred to seven thousand five hundred dollars",
+      "5500 to 7500 dollars",
+      "five thousand five hundred dollars to seven thousand five hundred dollars"
+    ],
+    "eight of 14": [
+      "eight of fourteen",
+      "8 of 14"
+    ],
+    "over 8,000 meters": [
+      "over eight thousand meters",
+      "over eight thousand metres",
+      "over 8000 metres"
+    ],
+    "More than 400 people": [
+      "more than four hundred people"
+    ],
+    "around $4 million": [
+      "around four million dollars",
+      "around 4 million dollars"
+    ],
+    "first published on February 3": [
+      "first published on February third",
+      "first published on February 3rd"
+    ]
+  },
+  "paraphrases": [
+    [
+      "a permit to climb Mount Everest",
+      "official permission to ascend Everest",
+      "Permit là giấy phép chính thức.",
+      1.1,
+      11.3
+    ],
+    [
+      "reduce pollution and increase safety",
+      "make the mountain cleaner and less dangerous",
+      "Hai mục đích được nêu song song.",
+      12.5,
+      22.8
+    ],
+    [
+      "remained the same",
+      "did not change",
+      "Remained the same nói giá không đổi trong thời gian được nêu.",
+      49.2,
+      61
+    ],
+    [
+      "less popular and more difficult times of year",
+      "seasons that attract fewer people and pose greater challenges",
+      "Giữ cả hai đặc điểm: ít được chọn và khó leo hơn.",
+      62,
+      77.9
+    ],
+    [
+      "is home to eight of 14",
+      "contains eight out of fourteen",
+      "Is home to trong câu địa lý là nơi có.",
+      97,
+      105.5
+    ],
+    [
+      "brought in around $4 million",
+      "generated approximately four million dollars in revenue",
+      "Brought in nói về khoản tiền thu được.",
+      132.9,
+      137.6
+    ],
+    [
+      "finance search and rescue operations",
+      "pay for efforts to find and save people",
+      "Finance là cấp tiền cho hoạt động.",
+      139.2,
+      147.6
+    ],
+    [
+      "could lower the number of climbers",
+      "might reduce how many people choose to climb",
+      "Could biểu thị nguy cơ có thể xảy ra.",
+      148.8,
+      160.8
+    ],
+    [
+      "might shift to Tibet",
+      "may choose Tibet instead",
+      "Shift to nói về chuyển lựa chọn địa điểm.",
+      170.2,
+      179.2
+    ],
+    [
+      "not doing enough to keep the mountain clean",
+      "taking insufficient action to prevent waste on the mountain",
+      "Not enough là chưa đủ, không có nghĩa hoàn toàn không làm gì.",
+      206.6,
+      217.4
+    ]
+  ],
+  "vocabulary": [
+    [
+      "permit",
+      "giấy phép",
+      "An official document giving permission."
+    ],
+    [
+      "pollution",
+      "ô nhiễm",
+      "Harmful waste or substances in the environment."
+    ],
+    [
+      "fee",
+      "lệ phí",
+      "An amount paid for permission or a service."
+    ],
+    [
+      "monsoon",
+      "gió mùa; mùa mưa",
+      "A seasonal weather pattern often bringing heavy rain."
+    ],
+    [
+      "border",
+      "biên giới",
+      "A dividing line between countries."
+    ],
+    [
+      "finance",
+      "tài trợ",
+      "To provide money for an activity."
+    ],
+    [
+      "rescue",
+      "cứu hộ",
+      "The act of saving someone from danger."
+    ],
+    [
+      "facility",
+      "cơ sở vật chất",
+      "A place or equipment provided for a purpose."
+    ],
+    [
+      "guide",
+      "người hướng dẫn",
+      "A person who leads others along a route."
+    ],
+    [
+      "tracker",
+      "thiết bị định vị",
+      "A device used to follow someone’s location."
+    ]
+  ],
+  "signals": [
+    "The price increase aims to…",
+    "This includes…",
+    "The companies warn…",
+    "while not doing enough…"
+  ],
+  "issuesFixed": [
+    "Removed both photo captions and written adaptation credit",
+    "Rebuilt complete price ranges instead of truncated $5",
+    "Restored speech-only ending",
+    "Replaced arbitrary fragments with 25 meaningful targets and 10 paraphrases"
+  ]
+}

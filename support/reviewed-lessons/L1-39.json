@@ -1,0 +1,217 @@
+{
+  "code": "L1-39",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-39.mp3",
+  "evidenceNote": "Compared all 274 seconds of timestamped audio transcription with the article. Preserved 0.75 and 0.72 as decimals, all reported birth counts and the conditional interpretation of the rise. Removed the hospital photo caption and restored final presenter identification.",
+  "removeSpans": [
+    {
+      "start": "![Image 1:",
+      "end": "Park Hyun Jung is with"
+    }
+  ],
+  "textReplacements": [
+    [
+      "Official data show South Korea",
+      "Official data shows South Korea"
+    ]
+  ],
+  "appendText": "I’m John Russell.",
+  "gaps": [
+    "for the first time in nine years",
+    "serious population problems",
+    "238,300 babies",
+    "an increase of 8,300",
+    "her reproductive years",
+    "0.75 in 2024",
+    "0.72 in 2023",
+    "structural changes",
+    "an increase in marriages",
+    "postponements of such plans",
+    "a growing number of people",
+    "after marriage",
+    "the lowest in the developed world",
+    "a fertility rate below one",
+    "threaten South Korea’s economic health",
+    "labor shortages",
+    "public assistance programs",
+    "costly housing",
+    "upward social movement",
+    "raising and educating children",
+    "on an upward movement",
+    "remains to be seen",
+    "as post-pandemic marriages even out",
+    "supporting young couples",
+    "a steep, 45-degree drop"
+  ],
+  "acceptedVariants": {
+    "for the first time in nine years": [
+      "for the first time in 9 years"
+    ],
+    "238,300 babies": [
+      "two hundred thirty-eight thousand three hundred babies",
+      "two hundred and thirty-eight thousand three hundred babies"
+    ],
+    "an increase of 8,300": [
+      "an increase of eight thousand three hundred"
+    ],
+    "0.75 in 2024": [
+      "point seven five in twenty twenty-four",
+      "zero point seven five in twenty twenty-four",
+      "0.75 in twenty twenty-four"
+    ],
+    "0.72 in 2023": [
+      "point seven two in twenty twenty-three",
+      "zero point seven two in twenty twenty-three",
+      "0.72 in twenty twenty-three"
+    ],
+    "a fertility rate below one": [
+      "a fertility rate below 1"
+    ],
+    "labor shortages": [
+      "labour shortages"
+    ],
+    "public assistance programs": [
+      "public assistance programmes"
+    ],
+    "a steep, 45-degree drop": [
+      "a steep forty-five-degree drop"
+    ]
+  },
+  "paraphrases": [
+    [
+      "her reproductive years",
+      "the period of her life when she can have children",
+      "Reproductive years nói về độ tuổi có khả năng sinh sản.",
+      40.9,
+      47.4
+    ],
+    [
+      "structural changes",
+      "changes in the underlying organisation of society",
+      "Structural nói về cơ cấu; bài vẫn chờ dữ liệu để xác nhận nguyên nhân.",
+      73.4,
+      89.9
+    ],
+    [
+      "partly due to",
+      "caused in part by",
+      "Partly không khẳng định đây là nguyên nhân duy nhất.",
+      97.4,
+      115.1
+    ],
+    [
+      "postponements of such plans",
+      "delays in carrying out those intentions",
+      "Postpone nghĩa là hoãn, khác với hủy.",
+      97.4,
+      115.1
+    ],
+    [
+      "labor shortages",
+      "a lack of enough workers",
+      "Labor nói về nguồn lao động.",
+      165.3,
+      179.8
+    ],
+    [
+      "public assistance programs",
+      "government schemes that provide support",
+      "Public assistance là hỗ trợ do khu vực công cung cấp.",
+      165.3,
+      179.8
+    ],
+    [
+      "costly housing",
+      "expensive places to live",
+      "Costly đồng nghĩa expensive.",
+      196.3,
+      204
+    ],
+    [
+      "upward social movement",
+      "improvement in a person’s position in society",
+      "Upward social movement nói về thăng tiến vị thế xã hội.",
+      204.6,
+      211.6
+    ],
+    [
+      "it remains to be seen",
+      "it is still uncertain",
+      "Cụm này giữ nguyên sự chưa chắc chắn về tương lai.",
+      229.7,
+      237.1
+    ],
+    [
+      "a steep, 45-degree drop",
+      "a sharp decline",
+      "Steep drop nói về mức giảm mạnh, không phải tăng.",
+      259.1,
+      274.3
+    ]
+  ],
+  "vocabulary": [
+    [
+      "fertility rate",
+      "tỷ suất sinh",
+      "The average number of children born per woman."
+    ],
+    [
+      "reproductive",
+      "thuộc sinh sản",
+      "Related to producing offspring."
+    ],
+    [
+      "structural",
+      "thuộc cơ cấu",
+      "Related to the underlying arrangement of a system."
+    ],
+    [
+      "postponement",
+      "sự trì hoãn",
+      "The act of moving an event to a later time."
+    ],
+    [
+      "shortage",
+      "sự thiếu hụt",
+      "A situation in which there is not enough of something."
+    ],
+    [
+      "assistance",
+      "sự hỗ trợ",
+      "Help given to someone."
+    ],
+    [
+      "costly",
+      "tốn kém",
+      "Requiring a large amount of money."
+    ],
+    [
+      "upward",
+      "hướng lên",
+      "Moving towards a higher level."
+    ],
+    [
+      "observer",
+      "người theo dõi và nhận xét",
+      "Someone who watches and comments on developments."
+    ],
+    [
+      "steep",
+      "mạnh; đột ngột",
+      "Sharp or rapid when describing a rise or fall."
+    ]
+  ],
+  "signals": [
+    "up from…",
+    "partly due to…",
+    "But observers say…",
+    "When we help them…"
+  ],
+  "issuesFixed": [
+    "Removed duplicated hospital-photo caption",
+    "Kept decimal quantities intact with spoken-number alternatives",
+    "Balanced 25 gaps across the whole report",
+    "Preserved uncertainty and causal limits in 10 paraphrase pairs"
+  ]
+}

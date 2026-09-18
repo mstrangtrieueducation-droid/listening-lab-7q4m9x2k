@@ -1,0 +1,201 @@
+{
+  "code": "L1-42",
+  "status": "reviewed",
+  "reviewDate": "2026-09-18",
+  "audioEvidence": "public/media/level1/l1-42.mp3",
+  "evidenceNote": "Compared all 455 seconds of timestamped ASR with the source. The corrupted hyperlink had generated a bogus answer 23; rebuilt 25 ordered gaps from the actual speech. Corrected merged conversation with, the spoken she said and WARC expansion, and restored sign-off.",
+  "unwrapLinks": true,
+  "textReplacements": [
+    [
+      "conversationwith",
+      "conversation with"
+    ],
+    [
+      "world,” Cisse said.",
+      "world,” she said."
+    ],
+    [
+      "Centre (WARC)",
+      "Centre, or WARC,"
+    ]
+  ],
+  "appendText": "I’m Andrew Smith.",
+  "gaps": [
+    "future educational and professional activities",
+    "the country’s official language",
+    "more than 600 nursery and primary school classes",
+    "with the rest of the world",
+    "large population growth",
+    "searching for opportunities elsewhere",
+    "government administration",
+    "up to seven years",
+    "can barely communicate properly",
+    "improve their language skills",
+    "more opportunities to cooperate",
+    "without breaking away completely",
+    "every Tuesday and Thursday",
+    "two 25-minute lessons",
+    "everyday greetings",
+    "around 60 students",
+    "not yet received the teaching materials",
+    "in the meantime",
+    "educational exchanges",
+    "diplomacy and international cooperation",
+    "an additional asset",
+    "run into many barriers",
+    "train and equip the teachers well",
+    "a pipe dream",
+    "could further delay that goal"
+  ],
+  "acceptedVariants": {
+    "more than 600 nursery and primary school classes": [
+      "more than six hundred nursery and primary school classes"
+    ],
+    "up to seven years": [
+      "up to 7 years"
+    ],
+    "two 25-minute lessons": [
+      "two twenty-five-minute lessons",
+      "2 25-minute lessons"
+    ],
+    "around 60 students": [
+      "around sixty students"
+    ]
+  },
+  "paraphrases": [
+    [
+      "in an effort to better prepare them",
+      "with the aim of making them more ready",
+      "In an effort to nêu mục đích thực hiện.",
+      0.8,
+      16.9
+    ],
+    [
+      "searching for opportunities elsewhere",
+      "looking for chances in other places",
+      "Elsewhere là ở nơi khác.",
+      105,
+      112.6
+    ],
+    [
+      "can barely communicate properly",
+      "are hardly able to express themselves effectively",
+      "Barely mang nghĩa gần như không thể.",
+      142.9,
+      156.3
+    ],
+    [
+      "open to the world",
+      "willing to engage with people beyond their own country",
+      "Open trong bài nói về thái độ tiếp nhận và giao tiếp.",
+      157.3,
+      170.9
+    ],
+    [
+      "without breaking away completely",
+      "while not cutting all ties",
+      "Without giữ đúng ý không đoạn tuyệt hoàn toàn.",
+      193.3,
+      207.8
+    ],
+    [
+      "in the meantime",
+      "during the period of waiting",
+      "In the meantime chỉ thời gian chờ giải pháp khác.",
+      298.5,
+      308.4
+    ],
+    [
+      "an additional asset",
+      "another valuable advantage",
+      "Asset trong bài là lợi thế ngôn ngữ.",
+      333.9,
+      351.6
+    ],
+    [
+      "run into many barriers",
+      "encounter numerous obstacles",
+      "Run into là gặp phải khó khăn.",
+      367.6,
+      376.8
+    ],
+    [
+      "a pipe dream",
+      "an unrealistic hope",
+      "Pipe dream là điều người nói cho rằng khó thành hiện thực.",
+      402.6,
+      417.3
+    ],
+    [
+      "far removed from such debates",
+      "not involved in those arguments",
+      "Far removed from diễn tả sự tách biệt với cuộc tranh luận.",
+      436.4,
+      452
+    ]
+  ],
+  "vocabulary": [
+    [
+      "preschool",
+      "trường mầm non",
+      "A school for children below primary-school age."
+    ],
+    [
+      "educator",
+      "người làm giáo dục",
+      "A person involved in teaching or education."
+    ],
+    [
+      "ministry",
+      "bộ",
+      "A government department responsible for a particular area."
+    ],
+    [
+      "administration",
+      "sự quản lý",
+      "The organisation and running of public affairs."
+    ],
+    [
+      "cooperate",
+      "hợp tác",
+      "To work together towards a goal."
+    ],
+    [
+      "colonial",
+      "thuộc thuộc địa",
+      "Related to a territory controlled by another country."
+    ],
+    [
+      "motivated",
+      "có động lực",
+      "Eager and willing to act or learn."
+    ],
+    [
+      "diplomacy",
+      "ngoại giao",
+      "The management of relations between countries."
+    ],
+    [
+      "equip",
+      "trang bị",
+      "To provide the tools or resources needed."
+    ],
+    [
+      "pipe dream",
+      "ước vọng viển vông",
+      "A hope considered unlikely to be achieved."
+    ]
+  ],
+  "signals": [
+    "in an effort to…",
+    "Until recently,…",
+    "In the meantime,…",
+    "But Sene noted…"
+  ],
+  "issuesFixed": [
+    "Removed link syntax and URL-derived answer 23",
+    "Restored exactly 25 sequential inputs",
+    "Fixed merged words and spoken attribution",
+    "Selected whole phrases including lesson lengths and student counts"
+  ]
+}
