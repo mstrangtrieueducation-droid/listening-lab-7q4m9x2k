@@ -1,0 +1,183 @@
+{
+  "code": "L2-14",
+  "status": "reviewed",
+  "reviewDate": "2026-09-19",
+  "audioEvidence": "media/level2/l2-14.mp3",
+  "evidenceNote": "Full restored old script and full timestamped audio recognition compared individually; manual corrections, selected meaningful gaps and authored equivalents. Restored source names and eye-contact recap; corrected ASR proper names using the original transcript. Negative statement separately checked.",
+  "transcript": "Hello, this is 6 Minute English from BBC Learning English, I'm Phil. And I'm Pippa. Here at 6 Minute English we love discussing new tech. One of the most controversial technologies of recent years is driverless cars, also known as self-driving cars, autonomous cars or robotaxis. Many people say they wouldn't feel safe in a car without a human driver, but there are concerns from other road users too. Pedestrians, runners and cyclists, how will driverless cars interact with them? It's a problem Professor Stephen Brewster from Glasgow University has been working on. He explained more to BBC World Service programme Tech Life. If you're outside the vehicle right now, you can see the driver inside the vehicle, you can wave to them, they can see you, you can make eye contact.\n\nBut when you come to an autonomous vehicle, there's no person in the driving seat. So how do you negotiate, whether they're going to go, whether they're going to let you go? On my walk to work I need to cross the road. Usually a driver makes eye contact with me. They look directly into my eyes and then wave me across. To wave means to raise your hand and move it from side to side. It's a gesture for saying hello or a way of telling a person to do something. Luckily Phil, you usually arrive safely at work and as yet there aren't no driverless cars in London. But Phil, how would you feel about crossing that road in front of a robotaxi? Well maybe a little bit nervous, I might wait for it to go and go behind it or something.\n\nMmm yeah, I get that. I think maybe as we get more used to these technologies we'll get more used to how to deal with them and when to cross. But in this episode we investigate the tech helping driverless cars communicate on the roads. We'll learn some useful new words and phrases and as usual you'll find all the vocabulary on our website bbclearningenglish.com. But first I have a question for you, Pippa. As you mentioned we don't have self-driving cars here in London yet. So which was the first city to have fully driverless robotaxis on the streets? Was it a Philadelphia, B Phoenix or C San Francisco? I'm going to say B Phoenix because I think it's quite a car friendly city. Okay well we will find out the answer but at the end of the programme.\n\nBecause accidents are often caused by not seeing the oncoming danger, Professor Brewster wants to make driverless cars more visible. He discussed his work with BBC Tech Life's presenter Chris Vallance. What kind of signals worked in terms of alerting pedestrians and runners and cyclists to the intentions of the vehicle? We tested two things. We tested animations and fixed coloured light rings. The animations they work well for pedestrians but when it came to runners and cyclists they have much less time to make their decisions. So if you do a quick glance at a vehicle you don't really see the animation. It's important to alert people to driverless cars. To alert somebody means to warn them about a potential danger.\n\nSome cars do this with animations, displays of moving images, for example a green man walking to signal it's safe to cross. Animations alert pedestrians but are not suitable for runners and cyclists who are travelling too fast to react. They only have time for a glance. A glance at something means a quick look. So instead Stephen's team used coloured light rings similar to traffic lights to warn cyclists and runners. Culture is another problem. The meaning of body language can change. For example hand waving can mean please proceed in one culture. But thank you in another. Ammar Al-Taie is a researcher at the Advanced Institute of Science and Technology in South Korea. Here Ammar tells BBC World Service's tech life why Korean culture is especially suited to self-driving cars.\n\nIn South Korea for example jaywalking is illegal whereas in the UK we tend to jaywalk a lot. jaywalking is an American English word. It means crossing the road at a place where crossing is not allowed or without taking care. Unlike Britain jaywalking is rare in South Korea making the country safer for autonomous cars. We've heard a lot about making driverless cars safer and with plans to introduce them to London later this year. We'll soon see how safe they really are. Now isn't it time to reveal the answer to your question Phil? I asked you which city was the first to have self-driving cars on the road and you said it was Phoenix and that is the correct answer. Phoenix Arizona was the first city in the world to have self-driving cars operating on public roads without a human safety driver and that was in 2017.\n\nLet's recap the vocabulary we've learnt starting with eye contact looking directly into someone's eyes. To wave at someone is a way of saying hi by raising your hand and waving it from side to side. If you alert someone you warn them of potential danger. An animation is a display made up of moving images. A glance is a quick brief look at something. And finally the American English term jaywalking means crossing the road where you're not supposed to. Once again our six minutes are up if you'd like to hear more programs about technology you'll find plenty on our tech topic page all on our website and there you'll also find a quiz and worksheet for this episode. Visit bbclearningenglish.com. We'll see you again soon but for now it's goodbye.\n\nGoodbye.",
+  "gaps": [
+    "controversial technologies",
+    "driverless cars",
+    "self-driving cars",
+    "autonomous cars",
+    "without a human driver",
+    "other road users",
+    "Pedestrians, runners and cyclists",
+    "make eye contact",
+    "in the driving seat",
+    "negotiate",
+    "cross the road",
+    "look directly into my eyes",
+    "from side to side",
+    "a gesture for saying hello",
+    "a little bit nervous",
+    "get more used to these technologies",
+    "communicate on the roads",
+    "fully driverless robotaxis",
+    "a car friendly city",
+    "the oncoming danger",
+    "more visible",
+    "alerting pedestrians",
+    "the intentions of the vehicle",
+    "fixed coloured light rings",
+    "much less time",
+    "a quick glance",
+    "a potential danger",
+    "displays of moving images",
+    "safe to cross",
+    "too fast to react",
+    "similar to traffic lights",
+    "body language",
+    "please proceed",
+    "especially suited to self-driving cars",
+    "jaywalking is illegal",
+    "crossing is not allowed",
+    "without taking care",
+    "safer for autonomous cars",
+    "operating on public roads",
+    "without a human safety driver"
+  ],
+  "acceptedVariants": {},
+  "paraphrases": [
+    [
+      "controversial",
+      "causing disagreement",
+      "gây tranh cãi",
+      18.2,
+      28.9
+    ],
+    [
+      "make eye contact",
+      "look directly into another person's eyes",
+      "giao tiếp bằng mắt",
+      52.4,
+      58.6
+    ],
+    [
+      "negotiate",
+      "work out an arrangement with another party",
+      "thỏa thuận cách xử lý với bên kia",
+      59.0,
+      68.4
+    ],
+    [
+      "wave",
+      "move your hand to give a greeting or signal",
+      "vẫy tay chào hoặc ra hiệu",
+      78.0,
+      86.9
+    ],
+    [
+      "oncoming danger",
+      "a threat approaching you",
+      "mối nguy đang tiến tới",
+      160.3,
+      169.2
+    ],
+    [
+      "alert somebody",
+      "warn someone about a possible danger",
+      "cảnh báo ai về nguy hiểm có thể xảy ra",
+      199.4,
+      207.4
+    ],
+    [
+      "animations",
+      "displays of images that appear to move",
+      "hình ảnh chuyển động",
+      207.7,
+      215.8
+    ],
+    [
+      "a glance",
+      "a quick look",
+      "một cái nhìn lướt nhanh",
+      223.5,
+      229.0
+    ],
+    [
+      "body language",
+      "meaning expressed through physical movements",
+      "ngôn ngữ cơ thể",
+      236.4,
+      247.6
+    ],
+    [
+      "jaywalking",
+      "crossing a road where it is not permitted or without care",
+      "băng qua đường sai chỗ hoặc bất cẩn",
+      268.2,
+      276.9
+    ]
+  ],
+  "vocabulary": [
+    [
+      "controversial",
+      "gây tranh cãi",
+      "causing disagreement"
+    ],
+    [
+      "make eye contact",
+      "giao tiếp bằng mắt",
+      "look directly into another person's eyes"
+    ],
+    [
+      "negotiate",
+      "thỏa thuận cách xử lý với bên kia",
+      "work out an arrangement with another party"
+    ],
+    [
+      "wave",
+      "vẫy tay chào hoặc ra hiệu",
+      "move your hand to give a greeting or signal"
+    ],
+    [
+      "oncoming danger",
+      "mối nguy đang tiến tới",
+      "a threat approaching you"
+    ],
+    [
+      "alert somebody",
+      "cảnh báo ai về nguy hiểm có thể xảy ra",
+      "warn someone about a possible danger"
+    ],
+    [
+      "animations",
+      "hình ảnh chuyển động",
+      "displays of images that appear to move"
+    ],
+    [
+      "a glance",
+      "một cái nhìn lướt nhanh",
+      "a quick look"
+    ],
+    [
+      "body language",
+      "ngôn ngữ cơ thể",
+      "meaning expressed through physical movements"
+    ],
+    [
+      "jaywalking",
+      "băng qua đường sai chỗ hoặc bất cẩn",
+      "crossing a road where it is not permitted or without care"
+    ]
+  ],
+  "signals": [],
+  "issuesFixed": [
+    "Restored spoken introductions, source names, transitions and closing lines",
+    "Replaced forty arbitrary word windows with individually selected complete phrases",
+    "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+    "Used original-audio segment evidence for replay intervals",
+    "Scoped saved answers to this content revision"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "code": "L2-12",
+  "status": "reviewed",
+  "reviewDate": "2026-09-19",
+  "audioEvidence": "media/level2/l2-12.mp3",
+  "evidenceNote": "Full restored old script and full timestamped audio recognition compared individually; manual corrections, selected meaningful gaps and authored equivalents. Re-transcribed the entire 0–82-second section without VAD to restore the omitted weather/climate explanation. Complete decimal choices retained; speaker labels removed.",
+  "transcript": "Hello. This is 6 Minute English from BBC Learning English. I'm Phil. It seems that we're hearing about more and more terrible weather events, but how exactly is climate change affecting extreme weather? I'm lucky today to be joined by BBC weather forecaster, meteorologist and presenter Sarah Keith-Lucas. Hi, Sarah. Hi, Phil. It's great to be here. Sarah's here to help us understand what's happening with extreme weather. She'll also help explain some of the words and expressions used in a new series of BBC Learning English videos all about weather and climate and the language we use to talk about them. You can find the link to them on our web page or in the show notes for this podcast. Sarah, let's start with a really important question.\n\nWhat's the difference between climate and weather? That's a great question Phil. Well, the weather is what you see and feel every day. Climate is more long-term – today I'll explain how a change in the climate over the long-term can be seen in the weather that we experience. As always, we'll also be learning some key vocabulary to talk about the topic. And Sarah, it's traditional for us to set a quiz question Have you got one for us? Yes, I have. By how much has the Earth's temperature increased since 1970? Is it? A. Around 0.5 Celsius. B. Around 1 Celsius. Or C. Around 2 Celsius. Around 2 Celsius. I'll give you the answer at the end of the programme. So listen to the end to find out. Now we're going to talk about tropical storms.\n\nWhat do we mean by tropical storms Sarah? Well those are hurricanes, cyclones and typhoons. They’re large rotating storms formed over warm tropical waters. They're actually the same. We just use different names depending on where in the world they form. Hurricanes in the Atlantic, cyclones in the Indian Ocean and typhoons in the West Pacific. As the world warms, climate scientists think that these storms will get more destructive. In one of our new learning English for weather videos, meteorologist Darren Bett tells us about another worrying change. Scientists also think storms are slowing down. They're not moving across as quickly. And that means if a storm is in the same area for longer, the winds will be stronger for longer and the rain will last for longer, producing more flooding and more likelihood of flooding and landslides and also mudslides.\n\nDarren said that if a storm moves more slowly, there will be more likelihood of flooding. Likelihood is the noun that we use to say how probable or how likely something is to happen. Darren also told us about landslides and mudslides. Yes, landslides are where a large amount of earth or rock moves down a slope quickly. Mudslides tend to be faster and more liquid. Both of these things can happen after particularly heavy rain and can cause damage to buildings. People can also be killed or injured by them. What else causes loss of life in a hurricane, typhoon or cyclone? Well something else that is very dangerous is a storm surge. Let's hear again from my colleague Darren Bett. Storm surge. That's that body of water that gets swept inland and produces widespread flooding.\n\nClimate change is warming our seas and the sea levels are rising. That potentially could mean that it's a storm surge which is one element of a storm that produces more casualties than any other. Those storm surges could become even more dangerous. So we had the word casualty and this is used to talk about people killed or injured by an accident, a military attack or in this case an extreme weather event. Darren talked about storm surges. A storm surge is where the sea level rises quickly, pushed by strong winds caused by a storm. This water comes on to land with an enormous amount of force and storm surges can be up to 10 metres high. Buildings get destroyed and people can drown. We heard about the storm sweeping in land.\n\nSomething sweeping in is moving quickly and powerfully and you can hear more from Darren in the videos on our website. Sarah, how about the answer to the quiz question you asked earlier? Okay Phil. So I asked by how much has the world's average temperature increased since 1970? And I thought it was around two Celsius. It's actually around one degree Celsius. One Celsius is just an average across all of Earth's land and ocean surface. Some places are warming much quicker than this, such as the Arctic that's warming three times faster than the average rate. Just a small increase in average temperature can lead to a much bigger increase in extreme events such as heat waves, wildfires and floods. Wow, so that is an important difference.\n\nOkay, let's recap the vocabulary we've learnt, starting with likelihood, which is a noun that we use to talk about how probable or how likely something is to happen. Landslides and mudslides, which can occur after heavy rainfall, make Earth or mud move downhill very fast. A storm surge is a sudden rise in the sea level that can move inland causing destruction. If something sweeps in, it moves in very fast and very powerfully. And finally, a casualty is someone who is injured or killed by an accident, attack or something like an extreme weather event. Once again, our six minutes are up. Goodbye. Thanks for joining us today Sarah. Bye.",
+  "gaps": [
+    "terrible weather events",
+    "extreme weather",
+    "weather forecaster",
+    "words and expressions",
+    "weather and climate",
+    "show notes",
+    "the difference between climate and weather",
+    "what you see and feel every day",
+    "more long-term",
+    "key vocabulary",
+    "the Earth's temperature",
+    "0.5 Celsius",
+    "tropical storms",
+    "hurricanes, cyclones and typhoons",
+    "warm tropical waters",
+    "different names",
+    "the Indian Ocean",
+    "the West Pacific",
+    "more destructive",
+    "slowing down",
+    "the same area",
+    "the winds will be stronger",
+    "more likelihood of flooding",
+    "landslides and mudslides",
+    "a large amount of earth",
+    "down a slope",
+    "faster and more liquid",
+    "particularly heavy rain",
+    "damage to buildings",
+    "loss of life",
+    "a storm surge",
+    "swept inland",
+    "widespread flooding",
+    "the sea levels are rising",
+    "more casualties",
+    "killed or injured",
+    "an enormous amount of force",
+    "up to 10 metres high",
+    "moving quickly and powerfully",
+    "three times faster"
+  ],
+  "acceptedVariants": {
+    "0.5 Celsius": [
+      "0.5 degrees Celsius",
+      "zero point five Celsius",
+      "nought point five Celsius",
+      "half a degree Celsius"
+    ],
+    "up to 10 metres high": [
+      "up to ten metres high",
+      "up to 10 meters high"
+    ],
+    "three times faster": [
+      "3 times faster"
+    ]
+  },
+  "paraphrases": [
+    [
+      "extreme weather",
+      "unusually severe weather conditions",
+      "thời tiết cực đoan",
+      13.2,
+      24.8
+    ],
+    [
+      "climate",
+      "weather patterns over a long period",
+      "khí hậu xét trong thời gian dài",
+      54.2,
+      68.3
+    ],
+    [
+      "slowing down",
+      "moving less quickly",
+      "di chuyển chậm lại",
+      140.3,
+      152.0
+    ],
+    [
+      "likelihood",
+      "how probable something is",
+      "khả năng một việc xảy ra",
+      165.0,
+      177.0
+    ],
+    [
+      "landslides",
+      "large amounts of earth or rock moving downhill",
+      "sạt lở đất đá",
+      177.3,
+      186.0
+    ],
+    [
+      "mudslides",
+      "rapid downhill movements of wet mud",
+      "dòng bùn trượt nhanh xuống dốc",
+      185.0,
+      199.5
+    ],
+    [
+      "storm surge",
+      "a sudden storm-driven rise in sea level",
+      "nước dâng do bão",
+      247.5,
+      260.8
+    ],
+    [
+      "widespread flooding",
+      "flooding across a large area",
+      "ngập lụt trên diện rộng",
+      214.8,
+      222.0
+    ],
+    [
+      "casualty",
+      "a person killed or injured in an event",
+      "người thiệt mạng hoặc bị thương",
+      240.6,
+      248.0
+    ],
+    [
+      "sweeping in",
+      "moving in quickly and powerfully",
+      "tràn vào nhanh và mạnh",
+      270.6,
+      278.0
+    ]
+  ],
+  "vocabulary": [
+    [
+      "extreme weather",
+      "thời tiết cực đoan",
+      "unusually severe weather conditions"
+    ],
+    [
+      "climate",
+      "khí hậu xét trong thời gian dài",
+      "weather patterns over a long period"
+    ],
+    [
+      "slowing down",
+      "di chuyển chậm lại",
+      "moving less quickly"
+    ],
+    [
+      "likelihood",
+      "khả năng một việc xảy ra",
+      "how probable something is"
+    ],
+    [
+      "landslides",
+      "sạt lở đất đá",
+      "large amounts of earth or rock moving downhill"
+    ],
+    [
+      "mudslides",
+      "dòng bùn trượt nhanh xuống dốc",
+      "rapid downhill movements of wet mud"
+    ],
+    [
+      "storm surge",
+      "nước dâng do bão",
+      "a sudden storm-driven rise in sea level"
+    ],
+    [
+      "widespread flooding",
+      "ngập lụt trên diện rộng",
+      "flooding across a large area"
+    ],
+    [
+      "casualty",
+      "người thiệt mạng hoặc bị thương",
+      "a person killed or injured in an event"
+    ],
+    [
+      "sweeping in",
+      "tràn vào nhanh và mạnh",
+      "moving in quickly and powerfully"
+    ]
+  ],
+  "signals": [],
+  "issuesFixed": [
+    "Restored spoken introductions, source names, transitions and closing lines",
+    "Replaced forty arbitrary word windows with individually selected complete phrases",
+    "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+    "Used original-audio segment evidence for replay intervals",
+    "Scoped saved answers to this content revision"
+  ]
+}

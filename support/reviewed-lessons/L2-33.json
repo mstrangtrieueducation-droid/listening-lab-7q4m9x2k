@@ -1,0 +1,208 @@
+{
+  "code": "L2-33",
+  "status": "reviewed",
+  "reviewDate": "2026-09-19",
+  "audioEvidence": "media/level2/l2-33.mp3",
+  "evidenceNote": "Full restored old script and full timestamped audio recognition compared individually; manual corrections, selected meaningful gaps and authored equivalents. Preserves the distinction between observational evidence and controlled trials; no causal guarantee added.",
+  "transcript": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Georgie. In winter, people find different ways of keeping warm, like wearing extra clothes or staying indoors. But in some countries, there's another way of keeping the cold out, going for a sauna. Yes, Nordic countries, like Sweden and Finland, have a long history of taking saunas, but now they're popping up in Britain too. Have you ever been for a sauna, Georgie? I have, yes, and if I'm honest, I'm not a huge fan. I don't really like being too hot. It's uncomfortable. What about you, Neil? Oh, really? I quite like a sauna. You feel really refreshed afterwards. So, what is a sauna? Well, a typical sauna is a small wooden room heated with steam to around 80 degrees Celsius.\n\nIt's hot enough to make anyone sweat. But are saunas good for your health as well? That's what James Gallagher wanted to find out for BBC Radio 4 programme Inside Health. We're seeing what saunas do to the human body. They're popping up all over the country with claims that high temperatures boost your health and wellbeing. But are they all they're cracked up to be? James wants to find out if saunas are all they're cracked up to be. He means, are they as good as people say? And that's exactly what we'll be finding out in this episode, along with some useful new words and phrases. And remember, you can practice all the new vocabulary from this episode with the quiz and worksheet on our website, bbclearningenglish.com.\n\nBut now I have a question for you, Georgie. The word sauna comes from the Finnish language, but what does it mean? Does it mean a, sweat, b, hot water, or c, bathhouse? Oh, I'm going to guess c, bathhouse. OK, well, we'll find out if you're right at the end of the programme. In recent winters, saunas have grown in popularity in the UK. BBC reporter James Gallagher met some people going to Môr A Sawna, a beach sauna in South Wales. He asked them why they love saunas so much. Hello, everyone. Who loves a sauna? Me? Me? Me? Me? Me? Yeah. Tell me why. Oh, it's just so relaxing. It just makes you feel at ease. It's also great for relaxing muscles and if you're tense or anything like that at all. Yeah, I always love coming down here when I'm a bit stressed out.\n\nAnd by the time that I'm finished, I feel like I've completely reset. It's wonderful. The first speaker says saunas make her feel at ease, a phrase meaning comfortable and relaxed. And the next speaker thinks saunas are great if you feel tense, an adjective meaning worried and unable to relax. Saunas make the final speaker feel like she's reset. You might already know the word reset to mean turning a computer off and on again when it's not working. But used in connection with a person, reset means to start again after a rest so that you feel better about life. So it seems saunas do help people feel better, but is there actual medical evidence that it's good for us? Here's James Gallagher again speaking with Professor Damian Bailey, an expert in human physiology for BBC Radio 4 programme Inside Health.\n\nWhen we start to connect this to the arguments around health benefits, is there a health benefit to going in a sauna? Yeah, I mean, I looked at the research really closely. I was fascinated by the evidence. Huge benefits, I mean, really huge benefits. And it's cultural, of course, 5 million people in Finland, 90% of them use saunas. Maybe we should be copying what the Finns do because there's a 40% reduction in all cause mortality with the sauna-goers. Now, this is what we would call observational data, but it's based on thousands and thousands of sauna-goers. These are observational data sets. So we really do need what we call RCTs, randomized controlled trials. So everything, just as you've mentioned there, everything is absolutely controlled.\n\nBut we can't turn our noses up at the current data, the observational data. Damian discusses the evidence from Finland, a country where 90% of the population are regular sauna-goers. And it's impressive, a 40% reduction in deaths from all causes. But it's important to remember that this is based on observational data, information collected from watching people's natural behavior and not from controlled medical trials. Nevertheless, this observational data is based on evidence from thousands and thousands of Finns over many years. That's why Damian thinks we shouldn't turn our noses up at it. We shouldn't reject it simply because we think it's not good enough for us. Well, all this talk about saunas has made me want to give it another try.\n\nBut not before you reveal the answer to your question, Neil. I asked you what the Finnish word sauna means. Is it A, sweat, B, hot water, or C, bathhouse? And I said bathhouse, am I right? You are absolutely correct. Well done. Yay. Okay, let's recap the vocabulary we've learned in this episode. If something is not all it's cracked up to be, it isn't as good as people say. When someone's at ease, they feel comfortable and unstressed. Whereas a tense person is worried and unable to relax. When someone resets, they start again after a rest, which has made them feel better about life. Observational data is information collected from watching people's natural behavior without interfering in it. And finally, if you turn your nose up at something, you reject it because you think it's not good enough for you.\n\nOnce again, our six minutes are up. But if you want to improve your English with more trending topics and useful vocabulary, you'll find plenty on our website, bbclearningenglish.com. See you again soon. But for now, it's goodbye. Goodbye.",
+  "gaps": [
+    "keeping warm",
+    "keeping the cold out",
+    "Nordic countries",
+    "popping up",
+    "a huge fan",
+    "really refreshed",
+    "a small wooden room",
+    "80 degrees Celsius",
+    "high temperatures",
+    "health and wellbeing",
+    "all they're cracked up to be",
+    "the Finnish language",
+    "bathhouse",
+    "grown in popularity",
+    "a beach sauna",
+    "feel at ease",
+    "relaxing muscles",
+    "stressed out",
+    "completely reset",
+    "comfortable and relaxed",
+    "worried and unable to relax",
+    "turning a computer off and on again",
+    "start again after a rest",
+    "actual medical evidence",
+    "human physiology",
+    "health benefits",
+    "fascinated by the evidence",
+    "5 million people",
+    "90%",
+    "40% reduction",
+    "all cause mortality",
+    "observational data",
+    "thousands and thousands",
+    "randomized controlled trials",
+    "absolutely controlled",
+    "turn our noses up",
+    "people's natural behavior",
+    "controlled medical trials",
+    "not good enough for us",
+    "give it another try"
+  ],
+  "acceptedVariants": {
+    "80 degrees Celsius": [
+      "eighty degrees Celsius"
+    ],
+    "5 million people": [
+      "five million people"
+    ],
+    "90%": [
+      "ninety percent",
+      "ninety per cent",
+      "90 percent",
+      "90 per cent"
+    ],
+    "40% reduction": [
+      "forty percent reduction",
+      "forty per cent reduction",
+      "40 percent reduction",
+      "40 per cent reduction"
+    ],
+    "randomized controlled trials": [
+      "randomised controlled trials"
+    ],
+    "people's natural behavior": [
+      "people's natural behaviour"
+    ]
+  },
+  "paraphrases": [
+    [
+      "popping up",
+      "appearing in more places",
+      "xuất hiện ở ngày càng nhiều nơi",
+      22.8,
+      32.0
+    ],
+    [
+      "refreshed",
+      "feeling rested and full of renewed energy",
+      "cảm thấy tỉnh táo, khỏe khoắn trở lại",
+      42.1,
+      45.8
+    ],
+    [
+      "all they're cracked up to be",
+      "as good as people claim they are",
+      "tốt như người ta ca ngợi",
+      75.5,
+      84.4
+    ],
+    [
+      "at ease",
+      "comfortable and relaxed",
+      "thoải mái, không căng thẳng",
+      162.2,
+      167.5
+    ],
+    [
+      "tense",
+      "worried and unable to relax",
+      "lo lắng và không thể thư giãn",
+      168.3,
+      178.0
+    ],
+    [
+      "reset",
+      "start again after resting and feeling better",
+      "nghỉ ngơi lấy lại trạng thái tốt rồi bắt đầu lại",
+      179.0,
+      191.5
+    ],
+    [
+      "all cause mortality",
+      "deaths from every cause combined",
+      "tử vong do tất cả các nguyên nhân",
+      222.6,
+      235.1
+    ],
+    [
+      "observational data",
+      "information gathered by watching natural behaviour",
+      "dữ liệu thu được qua quan sát hành vi tự nhiên",
+      266.9,
+      283.1
+    ],
+    [
+      "turn our noses up",
+      "reject something as not good enough for us",
+      "chê và từ chối vì cho là không đủ tốt",
+      283.1,
+      294.2
+    ],
+    [
+      "give it another try",
+      "try doing it again",
+      "thử làm điều đó thêm lần nữa",
+      294.2,
+      299.1
+    ]
+  ],
+  "vocabulary": [
+    [
+      "popping up",
+      "xuất hiện ở ngày càng nhiều nơi",
+      "appearing in more places"
+    ],
+    [
+      "refreshed",
+      "cảm thấy tỉnh táo, khỏe khoắn trở lại",
+      "feeling rested and full of renewed energy"
+    ],
+    [
+      "all they're cracked up to be",
+      "tốt như người ta ca ngợi",
+      "as good as people claim they are"
+    ],
+    [
+      "at ease",
+      "thoải mái, không căng thẳng",
+      "comfortable and relaxed"
+    ],
+    [
+      "tense",
+      "lo lắng và không thể thư giãn",
+      "worried and unable to relax"
+    ],
+    [
+      "reset",
+      "nghỉ ngơi lấy lại trạng thái tốt rồi bắt đầu lại",
+      "start again after resting and feeling better"
+    ],
+    [
+      "all cause mortality",
+      "tử vong do tất cả các nguyên nhân",
+      "deaths from every cause combined"
+    ],
+    [
+      "observational data",
+      "dữ liệu thu được qua quan sát hành vi tự nhiên",
+      "information gathered by watching natural behaviour"
+    ],
+    [
+      "turn our noses up",
+      "chê và từ chối vì cho là không đủ tốt",
+      "reject something as not good enough for us"
+    ],
+    [
+      "give it another try",
+      "thử làm điều đó thêm lần nữa",
+      "try doing it again"
+    ]
+  ],
+  "signals": [],
+  "issuesFixed": [
+    "Restored spoken introductions, source names, transitions and closing lines",
+    "Replaced forty arbitrary word windows with individually selected complete phrases",
+    "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+    "Used original-audio segment evidence for replay intervals",
+    "Scoped saved answers to this content revision"
+  ]
+}

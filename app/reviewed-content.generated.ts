@@ -12907,5 +12907,9182 @@ export const reviewedContent = {
       "Some studies suggest…",
       "In reality,…"
     ]
+  },
+  "60": {
+    "paragraphs": [
+      "Hello and welcome to 6 Minute English from BBC Learning English, I'm Neil. And I'm Pippa, apps like Duolingo, Babbel and Busuu all aim to help you [1]. But do they really help? We'll be trying to answer that question in today's episode of 6 Minute English and as usual we'll be learning some useful new vocabulary too. Yes and don't forget to head to our website for a transcript of this episode and a free worksheet to test what you've learnt. It's all at bbclearningenglish.com. Okay Neil, let's start with [2]. Which of these is not a language you can learn using Duolingo? Is it A, Latin, B, Klingon or C, Elvish? I'm going to say C, Elvish. Well, we'll find out at the end of the programme.",
+      "Now, people might [3] the app Duolingo and then there are other apps which say they can help you learn a language quickly. Busuu and Babbel, for example. And listeners might be familiar with how they tend to work. You get short lessons which test you on [4]. Right and many of these apps say they focus on teaching language for situations and implicit learning rather than directly [5] such as grammar. If something is implicit, it's suggested but [6]. Yes, so if you think about how children learn to speak [7], it's mostly implicit. They don't have lessons. But can this work for adults? BBC Radio 4 programme Sliced Bread has been [8] behind language learning apps. presenter Greg Foot spoke to [9] Professor Elizabeth Wonnacott or Liz about implicit learning.",
+      "There is a very big difference between being a child who gets [10] to this world of language compared with trying to learn a language in [11]. There is quite a bit of evidence that some [12] of, for example, grammar and vocabulary is helpful. Got you, so it would be helpful to try to mimic what children do, which is [13]. But realistically, you're not going to get to those levels. Liz says that while children learn their first language implicitly by being [14] by the language, adults are often learning for only a few hours a week. Yes, so for adults trying to learn a new language, research has shown that some explicit teaching is helpful.",
+      "Explicit is [15], so for example, explicit grammar teaching would be somebody [16] to you. Right, so adults can't [17] full immersion in a language like children do. Immersion means being [18]. Okay, so [19] of the implicit teaching of the apps and some explicit teaching, for example, learning grammar rules is useful. But Neil, there's [20] about just [21] at teaching you a language. Indeed, Liz Wonnacott has seen [22] she thinks could be interesting though, which compares [23] learning English, one using an app and one attending classes for [24].",
+      "She explains more to BBC Radio 4 programme, Sliced Bread. The key finding was that in some of the tests, [25], the Duolingo learners actually [26], while actually in a test where they were looking at listening, the classroom learners [27]. So it's really promising, but of course it's one particular language in one particular app against [28]. Liz says the key finding from the research is that the app users improved more on written tests, but the classroom learners improved more on listening tests. A key finding is [29] of a piece of research. Liz says the study is promising, which means it [30].",
+      "Yes, however Liz points out [31]. It's only looking at one particular language, one particular app and one particular language school. The repetition of one particular here means [32], and Liz would like to see research on more apps, more types of teaching and also [33]. Apps can help us learn some parts of a language, but in this study they weren't as successful at [34]. And so Liz concludes that [35] with some other ways of studying is the best way to try to improve your language skills. Probably moving forwards some combination of [36], and these platforms to [37] is probably going to be the right direction.",
+      "As teachers, we'd also suggest doing things that help you improve different skills, speaking, listening, reading and writing. So listening to podcasts or trying to practice speaking with [38] could be things to combine with learning in apps, [39]. I think it's time to find out the answer to the quiz question, Neil. I asked you which language you can't learn on Duolingo, and you were right, it's C, Elvish, but you can learn Latin and Klingon, [40] from the TV series Star Trek on Duolingo. And if you did want to improve your Elvish, we did find an app specifically for that. Right, let's recap the vocabulary we learned in this episode. Implicit means suggested but not communicated directly.",
+      "Explicit is the opposite of implicit. It means something is communicated directly. Immersion is the state of being fully surrounded by something. The key finding of a research study is the most important conclusion of the research. And the phrase one particular means specific or individual. Once again, our six minutes are up. Test what you've learned with the worksheet on our website. And if you're interested to hear the full episode of Sliced Bread about language learning apps and the science behind them, there's a link in the notes below this episode. Try listening on 0.5 speed or in short sections if you find it too difficult to keep up. Bye for now. Goodbye."
+    ],
+    "answers": [
+      "learn a language",
+      "a quiz question",
+      "be familiar with",
+      "a repeated set of words",
+      "teaching language rules",
+      "not communicated directly",
+      "their first language",
+      "investigating the evidence",
+      "language learning expert",
+      "constantly exposed",
+      "a few hours a week",
+      "explicit teaching",
+      "full immersion",
+      "constantly surrounded",
+      "the opposite of implicit",
+      "explaining a grammar rule",
+      "realistically achieve",
+      "completely surrounded by something",
+      "a mixture",
+      "limited research",
+      "how effective these apps can be",
+      "one study",
+      "two groups of Spanish speakers",
+      "a similar amount of time",
+      "written grammar tests",
+      "improved a bit more",
+      "appeared to improve more",
+      "one particular school",
+      "the most important conclusion",
+      "shows signs of being positive",
+      "the limits of the study",
+      "specific or individual",
+      "more different languages",
+      "improving listening skills",
+      "combining learning in apps",
+      "human teaching",
+      "give us that repetition",
+      "a language exchange partner",
+      "find what works for you",
+      "the fictional language"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "43cb5b81226f",
+    "paraphrases": [
+      [
+        "a repeated set of words",
+        "the same collection of words used again",
+        "một nhóm từ được lặp lại",
+        68,
+        72
+      ],
+      [
+        "implicit",
+        "suggested rather than directly stated",
+        "hàm ý, không nói trực tiếp",
+        77,
+        86.2
+      ],
+      [
+        "explicit teaching",
+        "instruction that explains things directly",
+        "việc giảng dạy giải thích trực tiếp",
+        145.4,
+        157.1
+      ],
+      [
+        "full immersion",
+        "being completely surrounded by the language",
+        "sự đắm mình hoàn toàn trong ngôn ngữ",
+        124.5,
+        135.3
+      ],
+      [
+        "limited research",
+        "only a small amount of investigation",
+        "nghiên cứu còn hạn chế",
+        173.4,
+        181.8
+      ],
+      [
+        "a similar amount of time",
+        "roughly the same length of time",
+        "khoảng thời gian tương đương",
+        186.8,
+        195.5
+      ],
+      [
+        "The key finding",
+        "the most important result",
+        "phát hiện quan trọng nhất",
+        199.6,
+        207.9
+      ],
+      [
+        "promising",
+        "showing signs of future success",
+        "có triển vọng",
+        233.3,
+        237.8
+      ],
+      [
+        "one particular",
+        "one specific",
+        "một trường hợp cụ thể",
+        247,
+        251.3
+      ],
+      [
+        "combining learning in apps",
+        "using app-based learning together with other study methods",
+        "kết hợp việc học qua ứng dụng với cách học khác",
+        264.4,
+        273
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "a repeated set of words",
+        "meaning": "một nhóm từ được lặp lại",
+        "note": "the same collection of words used again"
+      },
+      {
+        "term": "implicit",
+        "meaning": "hàm ý, không nói trực tiếp",
+        "note": "suggested rather than directly stated"
+      },
+      {
+        "term": "explicit teaching",
+        "meaning": "việc giảng dạy giải thích trực tiếp",
+        "note": "instruction that explains things directly"
+      },
+      {
+        "term": "full immersion",
+        "meaning": "sự đắm mình hoàn toàn trong ngôn ngữ",
+        "note": "being completely surrounded by the language"
+      },
+      {
+        "term": "limited research",
+        "meaning": "nghiên cứu còn hạn chế",
+        "note": "only a small amount of investigation"
+      },
+      {
+        "term": "a similar amount of time",
+        "meaning": "khoảng thời gian tương đương",
+        "note": "roughly the same length of time"
+      },
+      {
+        "term": "The key finding",
+        "meaning": "phát hiện quan trọng nhất",
+        "note": "the most important result"
+      },
+      {
+        "term": "promising",
+        "meaning": "có triển vọng",
+        "note": "showing signs of future success"
+      },
+      {
+        "term": "one particular",
+        "meaning": "một trường hợp cụ thể",
+        "note": "one specific"
+      },
+      {
+        "term": "combining learning in apps",
+        "meaning": "kết hợp việc học qua ứng dụng với cách học khác",
+        "note": "using app-based learning together with other study methods"
+      }
+    ],
+    "signals": []
+  },
+  "61": {
+    "paragraphs": [
+      "Hello. This is 6 Minute English from BBC Learning English. I'm Phil. It seems that we're hearing about more and more [1], but how exactly is climate change affecting [2]? I'm lucky today to be joined by BBC [3], meteorologist and presenter Sarah Keith-Lucas. Hi, Sarah. Hi, Phil. It's great to be here. Sarah's here to help us understand what's happening with extreme weather. She'll also help explain some of the [4] used in a new series of BBC Learning English videos all about [5] and the language we use to talk about them. You can find the link to them on our web page or in the [6] for this podcast. Sarah, let's start with a really important question.",
+      "What's [7]? That's a great question Phil. Well, the weather is [8]. Climate is [9] – today I'll explain how a change in the climate over the long-term can be seen in the weather that we experience. As always, we'll also be learning some [10] to talk about the topic. And Sarah, it's traditional for us to set a quiz question Have you got one for us? Yes, I have. By how much has [11] increased since 1970? Is it? A. Around [12]. B. Around 1 Celsius. Or C. Around 2 Celsius. Around 2 Celsius. I'll give you the answer at the end of the programme. So listen to the end to find out. Now we're going to talk about [13].",
+      "What do we mean by tropical storms Sarah? Well those are [14]. They’re large rotating storms formed over [15]. They're actually the same. We just use [16] depending on where in the world they form. Hurricanes in the Atlantic, cyclones in [17] and typhoons in [18]. As the world warms, climate scientists think that these storms will get [19]. In one of our new learning English for weather videos, meteorologist Darren Bett tells us about another worrying change. Scientists also think storms are [20]. They're not moving across as quickly. And that means if a storm is in [21] for longer, [22] for longer and the rain will last for longer, producing more flooding and [23] and landslides and also mudslides.",
+      "Darren said that if a storm moves more slowly, there will be more likelihood of flooding. Likelihood is the noun that we use to say how probable or how likely something is to happen. Darren also told us about [24]. Yes, landslides are where [25] or rock moves [26] quickly. Mudslides tend to be [27]. Both of these things can happen after [28] and can cause [29]. People can also be killed or injured by them. What else causes [30] in a hurricane, typhoon or cyclone? Well something else that is very dangerous is [31]. Let's hear again from my colleague Darren Bett. Storm surge. That's that body of water that gets [32] and produces [33].",
+      "Climate change is warming our seas and [34]. That potentially could mean that it's a storm surge which is one element of a storm that produces [35] than any other. Those storm surges could become even more dangerous. So we had the word casualty and this is used to talk about people [36] by an accident, a military attack or in this case an extreme weather event. Darren talked about storm surges. A storm surge is where the sea level rises quickly, pushed by strong winds caused by a storm. This water comes on to land with [37] and storm surges can be [38]. Buildings get destroyed and people can drown. We heard about the storm sweeping in land.",
+      "Something sweeping in is [39] and you can hear more from Darren in the videos on our website. Sarah, how about the answer to the quiz question you asked earlier? Okay Phil. So I asked by how much has the world's average temperature increased since 1970? And I thought it was around two Celsius. It's actually around one degree Celsius. One Celsius is just an average across all of Earth's land and ocean surface. Some places are warming much quicker than this, such as the Arctic that's warming [40] than the average rate. Just a small increase in average temperature can lead to a much bigger increase in extreme events such as heat waves, wildfires and floods. Wow, so that is an important difference.",
+      "Okay, let's recap the vocabulary we've learnt, starting with likelihood, which is a noun that we use to talk about how probable or how likely something is to happen. Landslides and mudslides, which can occur after heavy rainfall, make Earth or mud move downhill very fast. A storm surge is a sudden rise in the sea level that can move inland causing destruction. If something sweeps in, it moves in very fast and very powerfully. And finally, a casualty is someone who is injured or killed by an accident, attack or something like an extreme weather event. Once again, our six minutes are up. Goodbye. Thanks for joining us today Sarah. Bye."
+    ],
+    "answers": [
+      "terrible weather events",
+      "extreme weather",
+      "weather forecaster",
+      "words and expressions",
+      "weather and climate",
+      "show notes",
+      "the difference between climate and weather",
+      "what you see and feel every day",
+      "more long-term",
+      "key vocabulary",
+      "the Earth's temperature",
+      "0.5 Celsius",
+      "tropical storms",
+      "hurricanes, cyclones and typhoons",
+      "warm tropical waters",
+      "different names",
+      "the Indian Ocean",
+      "the West Pacific",
+      "more destructive",
+      "slowing down",
+      "the same area",
+      "the winds will be stronger",
+      "more likelihood of flooding",
+      "landslides and mudslides",
+      "a large amount of earth",
+      "down a slope",
+      "faster and more liquid",
+      "particularly heavy rain",
+      "damage to buildings",
+      "loss of life",
+      "a storm surge",
+      "swept inland",
+      "widespread flooding",
+      "the sea levels are rising",
+      "more casualties",
+      "killed or injured",
+      "an enormous amount of force",
+      "up to 10 metres high",
+      "moving quickly and powerfully",
+      "three times faster"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "0.5 degrees Celsius",
+        "zero point five Celsius",
+        "nought point five Celsius",
+        "half a degree Celsius"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "up to ten metres high",
+        "up to 10 meters high"
+      ],
+      [],
+      [
+        "3 times faster"
+      ]
+    ],
+    "contentRevision": "b4826e13ec54",
+    "paraphrases": [
+      [
+        "extreme weather",
+        "unusually severe weather conditions",
+        "thời tiết cực đoan",
+        13.2,
+        24.8
+      ],
+      [
+        "climate",
+        "weather patterns over a long period",
+        "khí hậu xét trong thời gian dài",
+        54.2,
+        68.3
+      ],
+      [
+        "slowing down",
+        "moving less quickly",
+        "di chuyển chậm lại",
+        140.3,
+        152
+      ],
+      [
+        "likelihood",
+        "how probable something is",
+        "khả năng một việc xảy ra",
+        165,
+        177
+      ],
+      [
+        "landslides",
+        "large amounts of earth or rock moving downhill",
+        "sạt lở đất đá",
+        177.3,
+        186
+      ],
+      [
+        "mudslides",
+        "rapid downhill movements of wet mud",
+        "dòng bùn trượt nhanh xuống dốc",
+        185,
+        199.5
+      ],
+      [
+        "storm surge",
+        "a sudden storm-driven rise in sea level",
+        "nước dâng do bão",
+        247.5,
+        260.8
+      ],
+      [
+        "widespread flooding",
+        "flooding across a large area",
+        "ngập lụt trên diện rộng",
+        214.8,
+        222
+      ],
+      [
+        "casualty",
+        "a person killed or injured in an event",
+        "người thiệt mạng hoặc bị thương",
+        240.6,
+        248
+      ],
+      [
+        "sweeping in",
+        "moving in quickly and powerfully",
+        "tràn vào nhanh và mạnh",
+        270.6,
+        278
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "extreme weather",
+        "meaning": "thời tiết cực đoan",
+        "note": "unusually severe weather conditions"
+      },
+      {
+        "term": "climate",
+        "meaning": "khí hậu xét trong thời gian dài",
+        "note": "weather patterns over a long period"
+      },
+      {
+        "term": "slowing down",
+        "meaning": "di chuyển chậm lại",
+        "note": "moving less quickly"
+      },
+      {
+        "term": "likelihood",
+        "meaning": "khả năng một việc xảy ra",
+        "note": "how probable something is"
+      },
+      {
+        "term": "landslides",
+        "meaning": "sạt lở đất đá",
+        "note": "large amounts of earth or rock moving downhill"
+      },
+      {
+        "term": "mudslides",
+        "meaning": "dòng bùn trượt nhanh xuống dốc",
+        "note": "rapid downhill movements of wet mud"
+      },
+      {
+        "term": "storm surge",
+        "meaning": "nước dâng do bão",
+        "note": "a sudden storm-driven rise in sea level"
+      },
+      {
+        "term": "widespread flooding",
+        "meaning": "ngập lụt trên diện rộng",
+        "note": "flooding across a large area"
+      },
+      {
+        "term": "casualty",
+        "meaning": "người thiệt mạng hoặc bị thương",
+        "note": "a person killed or injured in an event"
+      },
+      {
+        "term": "sweeping in",
+        "meaning": "tràn vào nhanh và mạnh",
+        "note": "moving in quickly and powerfully"
+      }
+    ],
+    "signals": []
+  },
+  "62": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Georgie. In English, there are many ways to [1]. Poet Michael Rosen wanted to find words describing bad smells, and asked listeners of his BBC Radio 4 programme Word of Mouth for some suggestions. Fusty, reeking, toiking, honking, humming, funky. Smells are everywhere, whether they're bad smells, like [2] and sweaty feet, or pleasant ones like lavender and [3]. What smells do you especially like or dislike, Georgie? Well, I really enjoy [4], but something I really love is [5], which has a name, do you know it, Neil? Erm, I don't think I do, actually. It's called petrichor, it's that smell of [6].",
+      "Neil, what about you, which smells do you like? Well, I don't think you can beat the smell of [7]. Ooh, that's a good one. In this episode, we'll be learning [8] using some useful new words and phrases, and remember you can find all the vocabulary plus a quiz and worksheet on our website, bbclearningenglish.com. But first, I have a question for you, Georgie. One smell many people love is [9] and [10] it gives them for [11]. In fact, there's even a word for it, but what is it? Is it A, vellichor, B, petrichor, or C, nidor? Well, we already know that petrichor is the smell of the ground after rain.",
+      "I'm going to go with A, vellichor. Well, we'll find out at the end of the programme. Listening to Michael Rosen's list, funky, reeking, humming, and the rest, you might think English is good at describing smells. But in fact, all those words really mean is bad smelling. In English, we often describe smells by [12]. For example, something nice might smell like a rose, while something bad might smell like rotten eggs. But there are few words to describe [13]. Oxford University psychologist, Asifa Majid, has [14]. Here she tells Michael Rosen a little of what she's found out on BBC Radio 4 programme, Word of Mouth. So if we think about things like [15], they're definitely telling us that something is good or bad.",
+      "But [16], it doesn't really seem to be about the object it's describing. It seems to be [17]. I could say, Oh, this perfume you think is really fragrant, I think is stinky. And [18]. Describing smell is not like [19]. I might think a perfume is stinky, an adjective meaning [20], while Neil might find the same perfume fragrant, meaning [21]. Both can be true. The point is that neither stinky nor fragrant say [22] about the perfume's actual smell. With [23], it's different. Words like spicy, sweet or salty create [24] that we can all agree on. But that's not the case for smells. Asifa thinks this is because, unlike tastes and colours, smell words are subjective.",
+      "They're based on [25] rather than [26]. This might explain why our attitude to talking about smells is so different. Here's Asifa again, sharing some examples of how we talk about smells with BBC Radio 4. So if we compare how often people talk about [27] or [28] or taste or smells, what we find is we talk a lot about what we see and [29] about what we smell. Young children in the UK are often interested in [30] and they'll remark on it and the parent will [31] and they'll say, that's disgusting, put it down. Asifa's research shows that here in the UK at least, people talk about visual or auditory things much more than they talk about smells.",
+      "The adjective visual means [32]. And auditory means [33]. The adjective for things related to smelling is [34]. Maybe this is because of how we're [35]. When children start talking about smells, especially unpleasant ones, parents often react by [36]. The phrase to shut something down means to stop it. Along with other European languages, English doesn't have much vocabulary dedicated to the [37]. There are many ways of talking about smells, especially unpleasant ones, but only a few words which describe actual smells themselves. A good example of a word which does this is [38]. [39] you might find in an old bookshop, and Neil, that reminds me of your question.",
+      "That's right, I asked you what the word is which means the smell of old books. I said it was vellichor. Well, Georgie, you are absolutely right. Yay. Petrichor, as you said earlier, is the smell of the earth after rain, and nidor is [40]. Okay, it's time for a recap of the vocabulary we've learned. The adjective stinky means foul smelling, while the adjective fragrant means pleasant smelling. Subjective things are based on your own personal opinions and feelings rather than objective facts. The adjective visual describes things related to seeing, while auditory means related to hearing. Things related to smelling are called olfactory. And finally, the phrasal verb to shut something down means to stop it.",
+      "Once again, our six minutes are up, but there's still time to head over to our website, bbclearningenglish.com for a quiz and worksheet containing all the vocabulary we've discussed. See you again soon, but for now, it's goodbye. Goodbye. 6 Minute English, from bbclearningenglish.com"
+    ],
+    "answers": [
+      "describe smells",
+      "rotten eggs",
+      "freshly baked bread",
+      "the smell of leather",
+      "the smell of rain",
+      "the ground just after it's rained",
+      "a freshly opened packet of ground coffee",
+      "the language of smells",
+      "the smell of old books",
+      "the sentimental feeling",
+      "second-hand bookshops",
+      "comparing them to other objects",
+      "the actual smell itself",
+      "researched the subject of smell extensively",
+      "stinky or fragrant",
+      "unlike colour terms",
+      "a subjective thing",
+      "both can be true",
+      "describing other senses",
+      "bad smelling",
+      "pleasant smelling",
+      "anything specific",
+      "our sense of taste",
+      "a common idea",
+      "personal opinions and feelings",
+      "objective truth",
+      "visual things",
+      "auditory things",
+      "very rarely",
+      "the sense of smell",
+      "shut it down",
+      "related to seeing",
+      "related to hearing",
+      "olfactory",
+      "raised by our parents",
+      "shutting the conversation down",
+      "different qualities of actual smells",
+      "musty",
+      "A damp stale smell",
+      "the smell of cooking meat and fat"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "unlike color terms"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "5945ffb3a513",
+    "paraphrases": [
+      [
+        "freshly baked bread",
+        "bread that has just been baked",
+        "bánh mì vừa nướng xong",
+        28.5,
+        37.3
+      ],
+      [
+        "sentimental feeling",
+        "an emotion linked to fond memories",
+        "cảm xúc gắn với kỷ niệm",
+        82.3,
+        89.6
+      ],
+      [
+        "stinky",
+        "having an unpleasant smell",
+        "có mùi hôi khó chịu",
+        174,
+        178.3
+      ],
+      [
+        "fragrant",
+        "having a pleasant smell",
+        "có hương thơm dễ chịu",
+        178.4,
+        183.2
+      ],
+      [
+        "subjective",
+        "based on personal opinions and feelings",
+        "mang tính chủ quan",
+        201,
+        211
+      ],
+      [
+        "visual",
+        "connected with seeing",
+        "thuộc thị giác",
+        254,
+        257
+      ],
+      [
+        "auditory",
+        "connected with hearing",
+        "thuộc thính giác",
+        257.2,
+        259.6
+      ],
+      [
+        "olfactory",
+        "connected with the sense of smell",
+        "thuộc khứu giác",
+        259.7,
+        263.3
+      ],
+      [
+        "shut something down",
+        "bring something to a stop",
+        "chấm dứt một việc hoặc cuộc trò chuyện",
+        274.5,
+        277.7
+      ],
+      [
+        "musty",
+        "having a damp and stale smell",
+        "có mùi ẩm mốc",
+        292.4,
+        303.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "freshly baked bread",
+        "meaning": "bánh mì vừa nướng xong",
+        "note": "bread that has just been baked"
+      },
+      {
+        "term": "sentimental feeling",
+        "meaning": "cảm xúc gắn với kỷ niệm",
+        "note": "an emotion linked to fond memories"
+      },
+      {
+        "term": "stinky",
+        "meaning": "có mùi hôi khó chịu",
+        "note": "having an unpleasant smell"
+      },
+      {
+        "term": "fragrant",
+        "meaning": "có hương thơm dễ chịu",
+        "note": "having a pleasant smell"
+      },
+      {
+        "term": "subjective",
+        "meaning": "mang tính chủ quan",
+        "note": "based on personal opinions and feelings"
+      },
+      {
+        "term": "visual",
+        "meaning": "thuộc thị giác",
+        "note": "connected with seeing"
+      },
+      {
+        "term": "auditory",
+        "meaning": "thuộc thính giác",
+        "note": "connected with hearing"
+      },
+      {
+        "term": "olfactory",
+        "meaning": "thuộc khứu giác",
+        "note": "connected with the sense of smell"
+      },
+      {
+        "term": "shut something down",
+        "meaning": "chấm dứt một việc hoặc cuộc trò chuyện",
+        "note": "bring something to a stop"
+      },
+      {
+        "term": "musty",
+        "meaning": "có mùi ẩm mốc",
+        "note": "having a damp and stale smell"
+      }
+    ],
+    "signals": []
+  },
+  "63": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Phil. And I'm Pippa. Here at 6 Minute English we love discussing new tech. One of the most [1] of recent years is [2], also known as [3], [4] or robotaxis. Many people say they wouldn't feel safe in a car [5], but there are concerns from [6] too. [7], how will driverless cars interact with them? It's a problem Professor Stephen Brewster from Glasgow University has been working on. He explained more to BBC World Service programme Tech Life. If you're outside the vehicle right now, you can see the driver inside the vehicle, you can wave to them, they can see you, you can [8].",
+      "But when you come to an autonomous vehicle, there's no person [9]. So how do you [10], whether they're going to go, whether they're going to let you go? On my walk to work I need to [11]. Usually a driver makes eye contact with me. They [12] and then wave me across. To wave means to raise your hand and move it [13]. It's [14] or a way of telling a person to do something. Luckily Phil, you usually arrive safely at work and as yet there aren't no driverless cars in London. But Phil, how would you feel about crossing that road in front of a robotaxi? Well maybe [15], I might wait for it to go and go behind it or something.",
+      "Mmm yeah, I get that. I think maybe as we [16] we'll get more used to how to deal with them and when to cross. But in this episode we investigate the tech helping driverless cars [17]. We'll learn some useful new words and phrases and as usual you'll find all the vocabulary on our website bbclearningenglish.com. But first I have a question for you, Pippa. As you mentioned we don't have self-driving cars here in London yet. So which was the first city to have [18] on the streets? Was it a Philadelphia, B Phoenix or C San Francisco? I'm going to say B Phoenix because I think it's quite [19]. Okay well we will find out the answer but at the end of the programme.",
+      "Because accidents are often caused by not seeing [20], Professor Brewster wants to make driverless cars [21]. He discussed his work with BBC Tech Life's presenter Chris Vallance. What kind of signals worked in terms of [22] and runners and cyclists to [23]? We tested two things. We tested animations and [24]. The animations they work well for pedestrians but when it came to runners and cyclists they have [25] to make their decisions. So if you do [26] at a vehicle you don't really see the animation. It's important to alert people to driverless cars. To alert somebody means to warn them about [27].",
+      "Some cars do this with animations, [28], for example a green man walking to signal it's [29]. Animations alert pedestrians but are not suitable for runners and cyclists who are travelling [30]. They only have time for a glance. A glance at something means a quick look. So instead Stephen's team used coloured light rings [31] to warn cyclists and runners. Culture is another problem. The meaning of [32] can change. For example hand waving can mean [33] in one culture. But thank you in another. Ammar Al-Taie is a researcher at the Advanced Institute of Science and Technology in South Korea. Here Ammar tells BBC World Service's tech life why Korean culture is [34].",
+      "In South Korea for example [35] whereas in the UK we tend to jaywalk a lot. jaywalking is an American English word. It means crossing the road at a place where [36] or [37]. Unlike Britain jaywalking is rare in South Korea making the country [38]. We've heard a lot about making driverless cars safer and with plans to introduce them to London later this year. We'll soon see how safe they really are. Now isn't it time to reveal the answer to your question Phil? I asked you which city was the first to have self-driving cars on the road and you said it was Phoenix and that is the correct answer. Phoenix Arizona was the first city in the world to have self-driving cars [39] [40] and that was in 2017.",
+      "Let's recap the vocabulary we've learnt starting with eye contact looking directly into someone's eyes. To wave at someone is a way of saying hi by raising your hand and waving it from side to side. If you alert someone you warn them of potential danger. An animation is a display made up of moving images. A glance is a quick brief look at something. And finally the American English term jaywalking means crossing the road where you're not supposed to. Once again our six minutes are up if you'd like to hear more programs about technology you'll find plenty on our tech topic page all on our website and there you'll also find a quiz and worksheet for this episode. Visit bbclearningenglish.com. We'll see you again soon but for now it's goodbye.",
+      "Goodbye."
+    ],
+    "answers": [
+      "controversial technologies",
+      "driverless cars",
+      "self-driving cars",
+      "autonomous cars",
+      "without a human driver",
+      "other road users",
+      "Pedestrians, runners and cyclists",
+      "make eye contact",
+      "in the driving seat",
+      "negotiate",
+      "cross the road",
+      "look directly into my eyes",
+      "from side to side",
+      "a gesture for saying hello",
+      "a little bit nervous",
+      "get more used to these technologies",
+      "communicate on the roads",
+      "fully driverless robotaxis",
+      "a car friendly city",
+      "the oncoming danger",
+      "more visible",
+      "alerting pedestrians",
+      "the intentions of the vehicle",
+      "fixed coloured light rings",
+      "much less time",
+      "a quick glance",
+      "a potential danger",
+      "displays of moving images",
+      "safe to cross",
+      "too fast to react",
+      "similar to traffic lights",
+      "body language",
+      "please proceed",
+      "especially suited to self-driving cars",
+      "jaywalking is illegal",
+      "crossing is not allowed",
+      "without taking care",
+      "safer for autonomous cars",
+      "operating on public roads",
+      "without a human safety driver"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "490d17b352a2",
+    "paraphrases": [
+      [
+        "controversial",
+        "causing disagreement",
+        "gây tranh cãi",
+        18.2,
+        28.9
+      ],
+      [
+        "make eye contact",
+        "look directly into another person's eyes",
+        "giao tiếp bằng mắt",
+        52.4,
+        58.6
+      ],
+      [
+        "negotiate",
+        "work out an arrangement with another party",
+        "thỏa thuận cách xử lý với bên kia",
+        59,
+        68.4
+      ],
+      [
+        "wave",
+        "move your hand to give a greeting or signal",
+        "vẫy tay chào hoặc ra hiệu",
+        78,
+        86.9
+      ],
+      [
+        "oncoming danger",
+        "a threat approaching you",
+        "mối nguy đang tiến tới",
+        160.3,
+        169.2
+      ],
+      [
+        "alert somebody",
+        "warn someone about a possible danger",
+        "cảnh báo ai về nguy hiểm có thể xảy ra",
+        199.4,
+        207.4
+      ],
+      [
+        "animations",
+        "displays of images that appear to move",
+        "hình ảnh chuyển động",
+        207.7,
+        215.8
+      ],
+      [
+        "a glance",
+        "a quick look",
+        "một cái nhìn lướt nhanh",
+        223.5,
+        229
+      ],
+      [
+        "body language",
+        "meaning expressed through physical movements",
+        "ngôn ngữ cơ thể",
+        236.4,
+        247.6
+      ],
+      [
+        "jaywalking",
+        "crossing a road where it is not permitted or without care",
+        "băng qua đường sai chỗ hoặc bất cẩn",
+        268.2,
+        276.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "controversial",
+        "meaning": "gây tranh cãi",
+        "note": "causing disagreement"
+      },
+      {
+        "term": "make eye contact",
+        "meaning": "giao tiếp bằng mắt",
+        "note": "look directly into another person's eyes"
+      },
+      {
+        "term": "negotiate",
+        "meaning": "thỏa thuận cách xử lý với bên kia",
+        "note": "work out an arrangement with another party"
+      },
+      {
+        "term": "wave",
+        "meaning": "vẫy tay chào hoặc ra hiệu",
+        "note": "move your hand to give a greeting or signal"
+      },
+      {
+        "term": "oncoming danger",
+        "meaning": "mối nguy đang tiến tới",
+        "note": "a threat approaching you"
+      },
+      {
+        "term": "alert somebody",
+        "meaning": "cảnh báo ai về nguy hiểm có thể xảy ra",
+        "note": "warn someone about a possible danger"
+      },
+      {
+        "term": "animations",
+        "meaning": "hình ảnh chuyển động",
+        "note": "displays of images that appear to move"
+      },
+      {
+        "term": "a glance",
+        "meaning": "một cái nhìn lướt nhanh",
+        "note": "a quick look"
+      },
+      {
+        "term": "body language",
+        "meaning": "ngôn ngữ cơ thể",
+        "note": "meaning expressed through physical movements"
+      },
+      {
+        "term": "jaywalking",
+        "meaning": "băng qua đường sai chỗ hoặc bất cẩn",
+        "note": "crossing a road where it is not permitted or without care"
+      }
+    ],
+    "signals": []
+  },
+  "64": {
+    "paragraphs": [
+      "Hello, this is Six Minute English from BBC Learning English, I'm Neil. And I'm Pippa. When it comes to [1], jobs like cleaning, washing clothes or [2], it's often women who do most of the work. Here, two female listeners of BBC World Service programme People Fixing the World [3]. Do they sound familiar to you? I do everything. I do all the house chores. I do [4]. I do all the cooking. I clean the bathroom. Are the chores [5] between me and my husband? No, they're not done equally. I do most of the chores. So, you're a family man, Neil. Do you do [6] of household chores? I think so. My wife works [7] and I work [8].",
+      "So, when I'm not working, I do things and when she's not working, she does things. Yeah, it's similar in my house. So, me and my husband try to split things. But it's difficult, isn't it? It is. Of course, no one enjoys cleaning the toilet or [9]. But there is a serious side to the issue. Figures from UN Women, an organisation promoting [10] suggest that every day, women around the world spend [11] on [12]. So, in this episode, we'll be hearing about two projects helping husbands and wives [13]. And as usual, you'll find a quiz and a worksheet to go with this episode on our website, bbclearningenglish.com.",
+      "But now, I have a question for you, Pippa. According to [14] conducted by Good Housekeeping Magazine earlier this year, what is the most hated household chore in Britain? Is it a, [15], b, [16], or c, [17]? I'm going to say deep cleaning the oven because I really hate that job I hardly ever do it. I don't like any of those, but we'll find out the answer at the end of the programme. Now, the first project we're going to look at is on [18] of Rote. Here, men traditionally work as [19] while women look after the home, the children and older people. But with few washing machines and [20], these domestic chores take a long time.",
+      "The NGO ARUNGI runs a project trying to [21] about the role of the island's women. They work alongside [22] like Mama Shilpa, who spoke with BBC World Service reporter Ade Mardiyati. It is expected that the tasks done in the house, like holding the child, [23], washing dishes, cooking, will all be done by the mother. Shilpa tells me these are all considered [24]. And you might be thinking, well, the man is busy in the fields, so it's just [25]. But Shilpa tells me women also [26]. On Rote, cleaning, cooking and sweeping are considered women's work, a negative term for [27] which are traditionally done by women.",
+      "Many cultures have a division of labour, a way of organising work where different tasks are done by [28]. But on Rote, this means women work even harder, helping out with the farming and fishing too. You might think this only happens in [29], but research suggests that women in [30] also spend much more time on unpaid care work than men. One such country is Croatia, where the NGO status M run their Superdads project. Project worker Anamarija Sočo [31] encouraging dads and sons to [32]. Here, she explains the benefits of this to the BBC World Service. Mothers have, you know, of course, [33], for hobbies, or just simply to rest, I mean, just to [34].",
+      "Women tend to especially appreciate men who do these kinds of chores. And when they start [35], then they jokingly say that, yeah, women tend to nag less. Sometimes mums need to take a breather, an informal way of saying [36]. Anamarija also thinks women appreciate it when their husbands pull their weight. If you pull your weight, you [37]. Both these NGO projects agree about one thing. Men doing more to help around the house results in [38], even if that means cleaning the toilet now and then. And speaking of cleaning the toilet, what was the answer to your quiz question, Neil? I asked you what chore is the most hated in Britain. I thought it was cleaning the oven.",
+      "Well, I'm afraid that's not the right answer. People hate cleaning the windows even more than scrubbing the oven. Apparently [39] of the people who did the survey said cleaning the windows. Okay, let's recap the vocabulary we've learned starting with chores. Household tasks like cleaning, washing and ironing that have to be done regularly. If you do your fair share of work, you do [40]. Women's work is a negative term for the boring and repetitive tasks which are stereotypically done by women. The division of labour is a way of organising work where different tasks are done by different groups of people. The idiom take a breather means to stop what you're doing for a short time and rest.",
+      "And finally, if you pull your weight, you work as hard as everyone else doing the same job. Once again, our six minutes are up. But remember, you can find a free transcript including all the vocabulary on our website at bbclearningenglish.com. Goodbye for now. Goodbye."
+    ],
+    "answers": [
+      "household chores",
+      "looking after the kids",
+      "share their experiences",
+      "the food shopping",
+      "done equally",
+      "your fair share",
+      "part time",
+      "full time",
+      "taking out the bins",
+      "gender equality",
+      "three hours more than men",
+      "unpaid care and domestic work",
+      "share the housework more fairly",
+      "a survey",
+      "deep cleaning the oven",
+      "scrubbing the toilet",
+      "cleaning the windows",
+      "the remote Indonesian island",
+      "rice farmers or fishermen",
+      "no running water",
+      "change attitudes",
+      "community leaders",
+      "feeding the child",
+      "women's work",
+      "a fair division of labour",
+      "help out in the fields",
+      "boring and repetitive tasks",
+      "different groups of people",
+      "traditional societies",
+      "wealthy countries",
+      "leads workshops",
+      "take some of the pressure off mums",
+      "more space for their careers",
+      "take a breather",
+      "pulling their weight",
+      "stop and rest a while",
+      "work as hard as everyone else",
+      "happier homes",
+      "23%",
+      "a reasonable amount"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "3 hours more than men"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "23 percent",
+        "twenty-three percent",
+        "twenty three per cent"
+      ],
+      []
+    ],
+    "contentRevision": "be815fb142ad",
+    "paraphrases": [
+      [
+        "household chores",
+        "routine tasks around the home",
+        "việc nhà thường ngày",
+        11.7,
+        23.4
+      ],
+      [
+        "your fair share",
+        "the reasonable portion of work you should do",
+        "phần công việc hợp lý của mình",
+        47.4,
+        55.3
+      ],
+      [
+        "gender equality",
+        "equal treatment and opportunities for women and men",
+        "bình đẳng giới",
+        78.2,
+        89.8
+      ],
+      [
+        "no running water",
+        "no water supplied through household pipes",
+        "không có nước máy",
+        139,
+        151
+      ],
+      [
+        "change attitudes",
+        "alter the way people think about something",
+        "thay đổi quan niệm",
+        151.2,
+        162.5
+      ],
+      [
+        "women's work",
+        "tasks stereotypically expected of women",
+        "những việc bị mặc định là của phụ nữ",
+        193.6,
+        203.6
+      ],
+      [
+        "division of labour",
+        "the allocation of different tasks to different people",
+        "sự phân công lao động",
+        203.6,
+        214.4
+      ],
+      [
+        "take some of the pressure off",
+        "reduce some of the burden on someone",
+        "giảm bớt gánh nặng cho ai",
+        235,
+        246.4
+      ],
+      [
+        "take a breather",
+        "stop briefly to rest",
+        "nghỉ lấy sức một lát",
+        269,
+        275.9
+      ],
+      [
+        "pull your weight",
+        "work as hard as the other people involved",
+        "làm tròn phần việc của mình",
+        281,
+        284.3
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "household chores",
+        "meaning": "việc nhà thường ngày",
+        "note": "routine tasks around the home"
+      },
+      {
+        "term": "your fair share",
+        "meaning": "phần công việc hợp lý của mình",
+        "note": "the reasonable portion of work you should do"
+      },
+      {
+        "term": "gender equality",
+        "meaning": "bình đẳng giới",
+        "note": "equal treatment and opportunities for women and men"
+      },
+      {
+        "term": "no running water",
+        "meaning": "không có nước máy",
+        "note": "no water supplied through household pipes"
+      },
+      {
+        "term": "change attitudes",
+        "meaning": "thay đổi quan niệm",
+        "note": "alter the way people think about something"
+      },
+      {
+        "term": "women's work",
+        "meaning": "những việc bị mặc định là của phụ nữ",
+        "note": "tasks stereotypically expected of women"
+      },
+      {
+        "term": "division of labour",
+        "meaning": "sự phân công lao động",
+        "note": "the allocation of different tasks to different people"
+      },
+      {
+        "term": "take some of the pressure off",
+        "meaning": "giảm bớt gánh nặng cho ai",
+        "note": "reduce some of the burden on someone"
+      },
+      {
+        "term": "take a breather",
+        "meaning": "nghỉ lấy sức một lát",
+        "note": "stop briefly to rest"
+      },
+      {
+        "term": "pull your weight",
+        "meaning": "làm tròn phần việc của mình",
+        "note": "work as hard as the other people involved"
+      }
+    ],
+    "signals": []
+  },
+  "65": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Phil. And I'm Pippa. This summer is becoming one of the hottest ever, with [1] across Europe. Here in the UK, [2] for the highest June temperature was set at a sweltering [3]. It seems that [4], temperatures are going up. In 2015, the COP21 summit agreed to [5] to [6]. But since then, research shows temperatures exceeding that, leading to warnings of [7] to Earth's [8]. In this episode, we'll be discussing how hot the planet could get using some useful new vocabulary. And remember, you'll find a free transcript to read along with on our website, bbclearningenglish.com.",
+      "But first, I have a question for you Phil. Scientists monitor climate change using [9]. The difference between [10] entering [11] and the [12] going back out into space. But which unit do scientists use for this? Is it A, Fahrenheit, B, [13], or C, joules? Oh, I know joules is something to do with energy, so I'm going to go with C. Well, we'll find out the answer at the end of the programme, although careful listeners might hear the answer sooner. Yes, exciting. So, how do scientists [14] of climate change in the first place? The answer is with models. Huge amounts of [15] are fed into [16], which then paint pictures of [17].",
+      "But as NASA climate scientist Kate Marvel explained to BBC World Service programme, the climate question, [18]. Climate models don't make predictions, they [19]. Predictions are saying this is what will happen. And a projection is [20]. A projection is, if we do this, then this will happen. Climate models don't make predictions, those are statements about what's likely to happen. Instead, they make projections about different possible futures. And these depend on many things. In other words, climate models are conditional, meaning that they [21]. The main factor in climate change, of course, is [22], especially [23]. Another influence on climate models is clouds.",
+      "We usually associate hot summers with [24]. But in fact, clouds play a big part in the climate, as Kate Marvel explained to the BBC World Service. So the thing about clouds is that they have this [25]. They both cool the planet by [26], and they warm the planet because they have their own [27]. Right now, the unit that scientists use to measure the energy imbalance of the planet, how much it's [28], is watts like in a light bulb per square metre. Kate starts by saying, \"The thing about clouds is...\" She uses the expression the thing about to introduce [29] about something. Here, that detail is that clouds both cool the planet by blocking sunlight, but also warm it by [30].",
+      "So, climate models monitor clouds to accurately measure how much the earth is out of whack. If something is out of whack, it's [31] and not working properly. Climate models sound very complicated to me, Pippa. For one thing, how can you monitor clouds which are [32]? Yeah, and how much information from around the world would the supercomputers need to [33]? It's a concern that BBC presenter Graihagh Jackson raised with Kate Marvel for BBC World Service programme, The Climate Question. Surely we need to know [34] we're heading in [35]? Oh, absolutely. I am very [36]. I am very pro-doing science because no climate change is unfortunately [37].",
+      "Kate is very pro-science. If you're pro-something, it means you're [38]. Models are complex, but they're necessary because unfortunately, no climate change at all is not on the table. And that's an idiom meaning it's not an option. If all this sounds a bit depressing, Kate's final message is more hopeful. Climate models prove [39] that the problem of global warming is created by humans. So we know beyond doubt that the solution is also [40]. Now, Pippa, careful listeners might already know, but go ahead and reveal the correct answer to your question. Yes, I asked you which unit do scientists use to measure the earth's energy imbalance? And the answer was watts per square metre?",
+      "And I didn't know that, Phil. Right, it's time to recap the vocabulary we heard during this programme. A prediction is a statement about what you think will happen in the future. The adjective conditional means depending on other factors. You can use the informal expression the thing about to introduce the most important feature or detail of something. The phrase out of whack means out of balance and not working properly. If you're pro-something, you're in favour of it. And if something is not on the table, it's not an option. It's not available to us. That's the end of this episode of 6 Minute English. Find a worksheet and quiz on our website to test what you've learned. We'll be back next week with another episode, so make sure you don't miss it.",
+      "Bye for now. Bye."
+    ],
+    "answers": [
+      "heat waves",
+      "a new record",
+      "37.7 degrees Celsius",
+      "year after year",
+      "limit global warming",
+      "1.5 degrees Celsius",
+      "catastrophic damage",
+      "life support systems",
+      "the Earth's energy imbalance",
+      "the solar energy",
+      "the Earth's atmosphere",
+      "radiation",
+      "watts per square metre",
+      "calculate the effects",
+      "physical and chemical data",
+      "supercomputers",
+      "possible futures on Earth",
+      "nothing is certain",
+      "make projections",
+      "conditional",
+      "depend on other factors",
+      "human activity",
+      "greenhouse gas emissions",
+      "cloudless blue skies",
+      "dual effect",
+      "blocking sunlight",
+      "greenhouse effect",
+      "out of whack",
+      "the most important detail",
+      "trapping heat",
+      "out of balance",
+      "constantly moving and changing",
+      "make accurate projections",
+      "the trajectory",
+      "in order to adapt",
+      "pro-science",
+      "not on the table",
+      "in favour of it",
+      "beyond doubt",
+      "in our hands"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "thirty-seven point seven degrees Celsius",
+        "thirty seven point seven degrees Celsius",
+        "37.7°C"
+      ],
+      [],
+      [],
+      [
+        "one point five degrees Celsius",
+        "1.5°C"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "865d32e0f2a9",
+    "paraphrases": [
+      [
+        "catastrophic damage",
+        "extremely serious destruction",
+        "thiệt hại thảm khốc",
+        41.6,
+        50.7
+      ],
+      [
+        "possible futures",
+        "different ways events might develop",
+        "những kịch bản tương lai có thể xảy ra",
+        109.4,
+        117.5
+      ],
+      [
+        "projections",
+        "conditional estimates of what may happen",
+        "dự tính dựa trên điều kiện",
+        125.4,
+        138.5
+      ],
+      [
+        "conditional",
+        "dependent on other factors",
+        "phụ thuộc vào các điều kiện khác",
+        151,
+        156.6
+      ],
+      [
+        "dual effect",
+        "two different effects",
+        "tác động kép",
+        177,
+        188.5
+      ],
+      [
+        "out of whack",
+        "out of balance or not functioning properly",
+        "mất cân bằng hoặc hoạt động không ổn",
+        225.2,
+        229.5
+      ],
+      [
+        "the trajectory",
+        "the course of development",
+        "chiều hướng phát triển",
+        254,
+        259.9
+      ],
+      [
+        "pro-science",
+        "in favour of scientific investigation",
+        "ủng hộ khoa học",
+        260,
+        269.9
+      ],
+      [
+        "not on the table",
+        "not available as an option",
+        "không phải một lựa chọn có thể cân nhắc",
+        277.2,
+        288.7
+      ],
+      [
+        "beyond doubt",
+        "without uncertainty",
+        "không còn nghi ngờ",
+        294.2,
+        303.8
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "catastrophic damage",
+        "meaning": "thiệt hại thảm khốc",
+        "note": "extremely serious destruction"
+      },
+      {
+        "term": "possible futures",
+        "meaning": "những kịch bản tương lai có thể xảy ra",
+        "note": "different ways events might develop"
+      },
+      {
+        "term": "projections",
+        "meaning": "dự tính dựa trên điều kiện",
+        "note": "conditional estimates of what may happen"
+      },
+      {
+        "term": "conditional",
+        "meaning": "phụ thuộc vào các điều kiện khác",
+        "note": "dependent on other factors"
+      },
+      {
+        "term": "dual effect",
+        "meaning": "tác động kép",
+        "note": "two different effects"
+      },
+      {
+        "term": "out of whack",
+        "meaning": "mất cân bằng hoặc hoạt động không ổn",
+        "note": "out of balance or not functioning properly"
+      },
+      {
+        "term": "the trajectory",
+        "meaning": "chiều hướng phát triển",
+        "note": "the course of development"
+      },
+      {
+        "term": "pro-science",
+        "meaning": "ủng hộ khoa học",
+        "note": "in favour of scientific investigation"
+      },
+      {
+        "term": "not on the table",
+        "meaning": "không phải một lựa chọn có thể cân nhắc",
+        "note": "not available as an option"
+      },
+      {
+        "term": "beyond doubt",
+        "meaning": "không còn nghi ngờ",
+        "note": "without uncertainty"
+      }
+    ],
+    "signals": []
+  },
+  "66": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Pippa. Sharing your Netflix password, [1] or not paying the bus fare, are a few examples of [2]. But there's one place where cheating is usually considered wrong, and that's sport. Cheating in sport through the use of [3], informally called doping, is normally considered wrong. Just ask American cycling legend Lance Armstrong, who was thrown out of the sport for using [4]. But earlier this year, a sporting event took place, which turned the debate about drugs in sport [5]. Here's Asma Khalid from BBC World Service’s The Global Story to explain.",
+      "This weekend, [6] from around the world are descending on Las Vegas, Nevada, for the [7] sporting competition known as the Enhanced Games. It's kinda like the Olympics, but only for swimming, sprinting, and weightlifting. The aim is to [8]. In fact, some of these competitors are [9], medalists battling it out for [10]. But there's one big difference. The big difference is that the Enhanced Games allow athletes to use performance-enhancing drugs that are [11]. In these games, Nicknamed the Doping Olympics, [12] are all okay. You're a big sports fan, Neil. Would you enjoy watching a sport where the athletes have taken drugs?",
+      "No, I wouldn't. I really don't think that's fair. I think we need to know that all the athletes start and [13]. Yeah, I guess that makes sense. I don't really watch that many sports, so I guess I wouldn't notice the difference. But if you're really into sport, you [14], right? Yes, absolutely. And in this episode, we'll dive into the controversial world of the Enhanced Games, learning some useful new words and phrases along the way. And remember, you'll find all the vocabulary plus a quiz and a worksheet on our website, bbclearningenglish.com. But now I have a question for you, Neil. You mentioned the famous sporting cheat Lance Armstrong, but how many times did Lance Armstrong win the famous race of the Tour de France before he was finally [15]?",
+      "Was it a) five, b) six, or c) seven? Oh, well, it was a lot, so I think I'll go for c) seven. Well, we'll find out the answer at the end of the programme. Now, it's [16] to say that the Enhanced Games are controversial. After all, organisations like the World Anti-Doping Agency have [17] fighting performance enhancing drugs in sport. Here's BBC Sports editor Dan Roan on World Service programme, The Global Story. I think [18] it's one of the most [19] that the world of sport has seen for a long time. It's an event where performance enhancing drugs, banned elsewhere in [20], of course, are actually allowed to be taken by the competitors [21].",
+      "Dan Roan says it's fair to say the Enhanced Games are controversial. He uses the phrase, it's fair to say, to introduce a statement that he considers to be [22] that the games are controversial. Dan also describes the games as divisive, an adjective that means [23] between people. Much of this disagreement is about the use of performance enhancing drugs themselves. The games organisers point out that all drugs are approved by the US Food and Drug Agency and [24] under medical supervision, which they say makes them safer than when they are [25] at competitions elsewhere. But there are [26] too, as Dan Roan outlined to BBC World Service's The Global Story.",
+      "But the critics, of course, say that this [27], that it [28] because it risks [29]. It could [30] therefore of sport and it could be [31] of those taking part. For the games critics, doping crosses an ethical line. The phrase to cross the line means to start behaving in a way that's [32]. These critics say the games [33], meaning that they encourage others to [34] as well. Why is that Pippa? Well, it's because critics argue the games normalise the use of performance drugs in sport. If you normalise something, you treat it as [35] when previously it wasn't. But with [36] on both sides, the debate is [37].",
+      "So Neil, have you changed your opinion after hearing [38]? No, I haven't. I think it's just not fair. And I think if you're not fair in sport, what's the point? Well, let's hear the answer to my quiz question, Neil. I asked you how many times Lance Armstrong won the Tour de France and it was c) seven times [39]. Of course, we now know that there were performance enhancing drugs involved. Okay, so now it's time to recap the vocabulary we've learned starting with doping, using banned drugs to [40] in sporting competitions. You can use the phrase, it's fair to say, to introduce a statement you consider to be balanced, reasonable or true. If something is divisive, it causes disagreement between people.",
+      "The idiom cross the line means to start behaving in an unacceptable way. If you set a bad example, you behave in a way that encourages others to behave badly. And finally, to normalise something means to treat it as normal or acceptable when previously it wasn't. Okay, once again our six minutes are up, but if you'd like to practice more, you'll find a quiz and worksheet on our website bbclearningenglish.com. See you again soon, but for now it's goodbye. Bye."
+    ],
+    "answers": [
+      "lying about your age",
+      "cheating in daily life",
+      "performance-enhancing drugs",
+      "banned substances",
+      "upside down",
+      "elite athletes",
+      "first-of-its-kind",
+      "break world records",
+      "former Olympians",
+      "money and glory",
+      "banned in professional sports",
+      "steroids, growth hormones, and stimulants",
+      "compete from the same level",
+      "care about the rules",
+      "caught out",
+      "no exaggeration",
+      "spent decades",
+      "it's fair to say",
+      "divisive and controversial events",
+      "mainstream sport",
+      "under medical supervision",
+      "balanced and reasonable",
+      "causing a lot of disagreement",
+      "taken openly",
+      "taken secretly",
+      "many critics",
+      "crosses an ethical line",
+      "sets a dreadful example",
+      "normalising doping",
+      "harm the integrity",
+      "dangerous to the health",
+      "not socially acceptable",
+      "set a bad example",
+      "behave badly",
+      "normal or acceptable",
+      "arguments strongly held",
+      "far from over",
+      "both sides of the story",
+      "consecutively between 1999 and 2005",
+      "perform better"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "consecutively between nineteen ninety-nine and two thousand and five",
+        "consecutively between nineteen ninety nine and two thousand five"
+      ],
+      []
+    ],
+    "contentRevision": "77083f259730",
+    "paraphrases": [
+      [
+        "banned substances",
+        "drugs or materials that are prohibited",
+        "các chất bị cấm",
+        32,
+        43.8
+      ],
+      [
+        "upside down",
+        "completely changed",
+        "bị đảo lộn hoàn toàn",
+        43.5,
+        51.7
+      ],
+      [
+        "elite athletes",
+        "competitors at the highest level",
+        "vận động viên hàng đầu",
+        51.8,
+        58
+      ],
+      [
+        "break world records",
+        "achieve results beyond previous world bests",
+        "phá kỷ lục thế giới",
+        63.5,
+        73.9
+      ],
+      [
+        "it's fair to say",
+        "it is reasonable to state",
+        "có thể nói một cách hợp lý rằng",
+        194.2,
+        211.2
+      ],
+      [
+        "divisive",
+        "causing strong disagreement",
+        "gây chia rẽ",
+        211.6,
+        218
+      ],
+      [
+        "under medical supervision",
+        "while being monitored by medical professionals",
+        "dưới sự giám sát y tế",
+        190,
+        201.5
+      ],
+      [
+        "cross the line",
+        "begin behaving in an unacceptable way",
+        "vượt quá giới hạn chấp nhận được",
+        255,
+        266.5
+      ],
+      [
+        "set a bad example",
+        "behave in a way that encourages others to behave badly",
+        "làm gương xấu",
+        266.2,
+        271.6
+      ],
+      [
+        "normalise",
+        "make something seem normal or acceptable",
+        "bình thường hóa",
+        276.3,
+        283
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "banned substances",
+        "meaning": "các chất bị cấm",
+        "note": "drugs or materials that are prohibited"
+      },
+      {
+        "term": "upside down",
+        "meaning": "bị đảo lộn hoàn toàn",
+        "note": "completely changed"
+      },
+      {
+        "term": "elite athletes",
+        "meaning": "vận động viên hàng đầu",
+        "note": "competitors at the highest level"
+      },
+      {
+        "term": "break world records",
+        "meaning": "phá kỷ lục thế giới",
+        "note": "achieve results beyond previous world bests"
+      },
+      {
+        "term": "it's fair to say",
+        "meaning": "có thể nói một cách hợp lý rằng",
+        "note": "it is reasonable to state"
+      },
+      {
+        "term": "divisive",
+        "meaning": "gây chia rẽ",
+        "note": "causing strong disagreement"
+      },
+      {
+        "term": "under medical supervision",
+        "meaning": "dưới sự giám sát y tế",
+        "note": "while being monitored by medical professionals"
+      },
+      {
+        "term": "cross the line",
+        "meaning": "vượt quá giới hạn chấp nhận được",
+        "note": "begin behaving in an unacceptable way"
+      },
+      {
+        "term": "set a bad example",
+        "meaning": "làm gương xấu",
+        "note": "behave in a way that encourages others to behave badly"
+      },
+      {
+        "term": "normalise",
+        "meaning": "bình thường hóa",
+        "note": "make something seem normal or acceptable"
+      }
+    ],
+    "signals": []
+  },
+  "67": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Becca. Now, today we're going to be talking about the very serious topic of war and how it affects children. Some of the discussions you hear will mention [1]. We won't go into detail, but if you think you may [2], you can check the transcript for this episode before listening to it on our website, bbclearningenglish.com. And remember, you'll find all this episode's vocabulary along with the free worksheet and many other 6 Minute English episodes on our website, bbclearningenglish.com. The most recent figure from 2024 says that [3] are living in conflict zones. That's about [4] worldwide.",
+      "In this episode, we'll hear from Fergal Keane on the BBC World Service programme, The Global Story. Fergal is a BBC reporter, best known for reporting from [5] around the world. And as a result, he developed PTSD, which is [6]. We'll be finding out what PTSD stands for at the end of the programme. Now, in the clips we'll hear Asma Khalid ask Fergal Keane about his own experience with [7]. Fergal grew up in a home with [8]. Asma wanted to know how Fergal's own childhood trauma affected his reporting on the experiences of children in war zones. I was [9] from the very earliest age. Obviously [10], you know, am I under a threat?",
+      "Is there a danger to me here? Fergal mentions that he was hyper-vigilant because he was in [11] as a child. The adjective vigilant means to always be careful to notice things, particularly when there's [12]. Yes, and the prefix hyper expresses that there is a lot of, or even too much of something, though neutral, it is often used in [13]. So hyper-vigilant means very, very careful, sometimes too careful and thoughtful. Hyper-vigilance, the noun, is a state of [14] and [15], possibly because of [16]. Now let's hear from Fergal as he talks about research on the experiences of children in war zones.",
+      "I mean, they disagree about a few things, but on this they're absolutely [17]. Fergal mentions that they, the researchers, disagree about their findings, but they're absolutely of one mind when considering the [18]. If you are of one mind, you are of a group of people that [19], desire or [20] on a matter. Researchers may disagree on whether the experiences of children in war zones is improving, but on the point of recovery, they are of one mind, in that you can't recover from war trauma if you [21]. Fergal goes on to talk about some of the ways in which these children might be helped. So there's [22], well, I mean, relatively new field of theory, which encourages children to [23] try to confront, obviously not death and massacre again, but things like learning to [24], not having to sleep with a parent, because that's what they did during the war, because they were so [25].",
+      "Now it sounds like a simple thing, but as anybody who's tried to put a child to sleep, who's [26], a child who [27] will know, it's very difficult. Fergal says that children should be encouraged to slowly and carefully try to [28], to confront something is to meet with it or [29]. For the children to confront their [30], they must start with more simple things like learning to sleep alone. Sleeping alone seems simple enough, but Fergal compares the experiences of children in war zones to that of children who might have nightmares. Yes, and a nightmare is [31]. It can also be used [32] to describe [33].",
+      "Now let's hear Fergal talking about what he's learned from reporting on children in war zones. The big lesson is that [34], the human spirit and especially children are [35]. Fergal describes the children as being phenomenally resilient. The noun phenomenon, or phenomena in its plural form, refers to [36] that can be experienced [37]. The adverb, phenomenally, describes something being done or felt in [38]. To be resilient is to be able to recover from and come back from something difficult or bad that's happened. So Fergal says that children can be [39] despite the negative things happening around them.",
+      "They are phenomenally resilient. A result of these negative things could be PTSD. Earlier we mentioned PTSD and it stands for [40]. Yes and the P in PTSD stands for post as we've just heard and the prefix post expresses something that happens after or as a result of the event it's attached to. Now let's recap the vocabulary. We first had hyper-vigilant. That is to be very careful or maybe almost too careful to notice things, particularly when there is a possibility of danger. To be of one mind is to be part of a group of people that share the same opinion, desire or viewpoint on a matter. We had confront something that is to meet with it or deal with it. A nightmare is a scary or upsetting dream.",
+      "To do something phenomenally is to do it in an extreme or surprising way. And to be resilient is to be able to recover and come back from something difficult or bad that's happened. Once again our six minutes are up. You'll find a quiz and a worksheet to practice the vocabulary we've learned from this episode on our website bbclearningenglish.com. Goodbye for now. Bye."
+    ],
+    "answers": [
+      "death and trauma",
+      "feel uncomfortable",
+      "520 million children",
+      "one in every five children",
+      "war zones",
+      "a type of stress disorder",
+      "childhood trauma",
+      "an alcoholic father",
+      "hyper-vigilant",
+      "watching out",
+      "dangerous situations",
+      "a possibility of danger",
+      "negative or critical contexts",
+      "extreme alertness",
+      "sensitivity to surroundings",
+      "extreme anxiety",
+      "of one mind",
+      "recovery from war trauma",
+      "share the same opinion",
+      "viewpoint",
+      "continue living with it",
+      "a new field of theory",
+      "slowly and carefully",
+      "sleep alone",
+      "consistently terrified",
+      "had a nightmare",
+      "hasn't been traumatized",
+      "confront their experiences",
+      "deal with it",
+      "terrifying experiences",
+      "a very scary or upsetting dream",
+      "metaphorically",
+      "unpleasant events or experiences",
+      "given a chance",
+      "phenomenally resilient",
+      "an observable fact or event",
+      "through the senses",
+      "an extreme or surprising way",
+      "surprisingly positive",
+      "post-traumatic stress disorder"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "five hundred and twenty million children",
+        "five hundred twenty million children"
+      ],
+      [
+        "1 in every 5 children"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "ba260f6d135d",
+    "paraphrases": [
+      [
+        "childhood trauma",
+        "deep distress caused by experiences when young",
+        "sang chấn thời thơ ấu",
+        72.3,
+        90.9
+      ],
+      [
+        "hyper-vigilant",
+        "extremely alert to possible danger",
+        "cảnh giác cao độ trước nguy cơ",
+        99.6,
+        112.9
+      ],
+      [
+        "extreme alertness",
+        "a very heightened state of watchfulness",
+        "trạng thái cảnh giác cao độ",
+        130.2,
+        138.6
+      ],
+      [
+        "of one mind",
+        "in agreement about something",
+        "cùng chung quan điểm",
+        150.2,
+        168.8
+      ],
+      [
+        "confront",
+        "face and deal with something",
+        "đối mặt và xử lý",
+        223.3,
+        233
+      ],
+      [
+        "terrified",
+        "extremely frightened",
+        "vô cùng sợ hãi",
+        198.5,
+        210.3
+      ],
+      [
+        "nightmare",
+        "a frightening or upsetting dream",
+        "cơn ác mộng",
+        250,
+        258.9
+      ],
+      [
+        "phenomenally",
+        "to an extraordinary degree",
+        "ở mức độ phi thường",
+        278,
+        294.8
+      ],
+      [
+        "resilient",
+        "able to recover after difficulties",
+        "có khả năng phục hồi sau khó khăn",
+        295.2,
+        307.6
+      ],
+      [
+        "post-traumatic",
+        "occurring after a traumatic experience",
+        "xảy ra sau một trải nghiệm gây sang chấn",
+        311.5,
+        333.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "childhood trauma",
+        "meaning": "sang chấn thời thơ ấu",
+        "note": "deep distress caused by experiences when young"
+      },
+      {
+        "term": "hyper-vigilant",
+        "meaning": "cảnh giác cao độ trước nguy cơ",
+        "note": "extremely alert to possible danger"
+      },
+      {
+        "term": "extreme alertness",
+        "meaning": "trạng thái cảnh giác cao độ",
+        "note": "a very heightened state of watchfulness"
+      },
+      {
+        "term": "of one mind",
+        "meaning": "cùng chung quan điểm",
+        "note": "in agreement about something"
+      },
+      {
+        "term": "confront",
+        "meaning": "đối mặt và xử lý",
+        "note": "face and deal with something"
+      },
+      {
+        "term": "terrified",
+        "meaning": "vô cùng sợ hãi",
+        "note": "extremely frightened"
+      },
+      {
+        "term": "nightmare",
+        "meaning": "cơn ác mộng",
+        "note": "a frightening or upsetting dream"
+      },
+      {
+        "term": "phenomenally",
+        "meaning": "ở mức độ phi thường",
+        "note": "to an extraordinary degree"
+      },
+      {
+        "term": "resilient",
+        "meaning": "có khả năng phục hồi sau khó khăn",
+        "note": "able to recover after difficulties"
+      },
+      {
+        "term": "post-traumatic",
+        "meaning": "xảy ra sau một trải nghiệm gây sang chấn",
+        "note": "occurring after a traumatic experience"
+      }
+    ],
+    "signals": []
+  },
+  "68": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Georgie. And I'm Neil. Neil, I'm not [1], but I know you are. So why do you love it so much? Oh, where can I start? I think it's the combination of [2] and also the [3] of the players. They call it the beautiful game for a reason. Now, football players are faster than ever before, but the game is also about [4]. Yes, to be [5], some football clubs have started [6] to the brain. Here's Tom Cooke, academy psychologist for Nottingham Forest Football Club, talking to the BBC World Service. We're watching these athletes make decisions in split instincts under [7] and the highest intensities.",
+      "It made a lot of sense to go, well, neurologically or cognitively, [8]. There's something going on in the brain when the athletes are making quick decisions. If there's something going on, something unknown and interesting is happening. So what's happening inside the brains of football players? And could [9] help win more games? That's what we'll be hearing about in this programme. And don't forget to find a free transcript at bbclearningenglish.com. But first, Neil, I have a question for you. As we've heard, football players have to make decisions in [10], and their performance may be influenced by their [11] and [12]. But which part of the brain is best known for its role in [13] and [14]?",
+      "Is it A, the brain stem, B, [15], or C, the cerebellum? Well, I don't know, but I'm going to guess B, the amygdala, because I like the sound of the word. Okay, well, I'll reveal the answer later in the programme. In 2014, a group of [16] studied the brain of Brazilian football star Neymar. They found that his brain was [17] than the brains of his peers when he [18]. Here's Holly Bridge, Professor of Neuroscience at the University of Oxford, talking about this research to the BBC World Service. Now, reduction in activity in Neymar's cortex reflects that he has [19] in moving his feet, and it's essentially done with very, [20].",
+      "Holly said Neymar has absolute expertise in moving his feet. Expertise means a high level of skill or knowledge [21]. Neymar's expertise is shown without much conscious effort. Conscious describes something [22], [23]. So, if Neymar kicks the ball without much conscious effort, he plays [24]. Decades after this research, football clubs are becoming more interested in [25], even exploring whether a player's brain can be trained. Here's Tom Cooke, Academy psychologist for Nottingham Forest Football Club. What we're doing is trying to [26] but with cognition and or neuroscience at the centre of it. So, it could be something like they're not great at [27], so we're trying to [28] in [29] like training.",
+      "That's the way the [30] can happen to hopefully affect when they go out into games or cup competitions. Training can help players [31] of the game. Here's Holly Bridge again talking about how emotions can affect a player's game. A lot of performance is also [32] your emotional state. And that is something you can learn to control. How well a player performs is driven by their emotional state. Here, driven by means influenced by or pushed forward by. Holly says that too many emotions can lead to [33]. In a football match, high pressure scenarios like penalties, corners and free kicks offer [34]. Here's Niklas Häusler, founder and CEO of Neuro11, talking to the BBC World Service.",
+      "He measures players' [35] before these important kicks and teaches them how to [36]. If you don't focus right in those moments and let's say mentally you're [37], then it becomes more difficult to have [38] and to try to win the game. And when we talk about margins, those are the little margins that can [39]. If you're mentally all over the place, it's more difficult to kick the ball accurately. When we describe something as all over the place, we mean that it's chaotic, disorganized or confused. Niklas said that small margins can make all the difference to a game. Yes, a margin is [40]. Here we're talking about small details that can affect a player's performance or outcome of a match.",
+      "Now, speaking of how emotions can affect performance, I think it's time for the answer to your quiz question, Georgie. Yes, I asked you which part of the brain is best known for its role in processing fear? And I guessed B, the amygdala. Which was the correct answer? Well done. The amygdala is associated with our processing of fear and anxiety. Okay, time for a vocabulary recap. If there is something going on, something interesting or important is happening. Expertise is specialized knowledge or skill gained through study or experience. Conscious means involving active thought or attention. If something is driven by something, it is influenced by it and pushed forward by it. All over the place describes a situation or mental state which is disorganized, chaotic or confused.",
+      "And finally, a margin is a measure of difference, small details which can affect an outcome. Once again, our six minutes are up. But remember, you can find a free transcript, worksheet and quiz on our website, bbclearningenglish.com. Goodbye for now. Goodbye."
+    ],
+    "answers": [
+      "a huge fan of football",
+      "the passion",
+      "skill and athleticism",
+      "making very quick decisions",
+      "the best of the best",
+      "looking beyond the body",
+      "the highest pressures",
+      "there's something going on",
+      "brain training",
+      "high-pressure situations",
+      "emotional state",
+      "fear response",
+      "processing fear",
+      "detecting threats",
+      "the amygdala",
+      "Japanese scientists",
+      "a lot less active",
+      "rotated his right ankle",
+      "absolute expertise",
+      "very little conscious effort",
+      "gained with experience",
+      "done with awareness",
+      "not by accident",
+      "without thinking too much",
+      "brain data technology",
+      "design sessions",
+      "storing lots of information",
+      "overwhelm them",
+      "a safe environment",
+      "development and improvement",
+      "deal with the pressures",
+      "driven by",
+      "a lack of precision and focus",
+      "rare moments of stillness",
+      "brainwaves",
+      "stay relaxed",
+      "all over the place",
+      "an accurate corner",
+      "make all the difference",
+      "a measure of difference"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "74d950499f19",
+    "paraphrases": [
+      [
+        "athleticism",
+        "physical ability and skill in sport",
+        "khả năng vận động thể thao",
+        19.7,
+        31.9
+      ],
+      [
+        "there's something going on",
+        "something interesting or not yet understood is happening",
+        "có điều gì đó đang diễn ra",
+        64.3,
+        73.4
+      ],
+      [
+        "expertise",
+        "a high level of knowledge or skill gained through experience",
+        "chuyên môn thành thạo",
+        153,
+        161.9
+      ],
+      [
+        "conscious",
+        "involving awareness and deliberate attention",
+        "có ý thức và sự chú ý",
+        162.5,
+        170.4
+      ],
+      [
+        "overwhelm",
+        "place more demands on someone than they can easily handle",
+        "khiến ai bị quá tải",
+        196.4,
+        209.9
+      ],
+      [
+        "driven by",
+        "influenced or caused by",
+        "được chi phối bởi",
+        218.4,
+        235.9
+      ],
+      [
+        "precision",
+        "exactness and accuracy",
+        "độ chính xác",
+        236.5,
+        247.9
+      ],
+      [
+        "all over the place",
+        "disorganised or mentally confused",
+        "rối loạn, thiếu tập trung",
+        273,
+        284.4
+      ],
+      [
+        "make all the difference",
+        "have a decisive effect",
+        "tạo nên khác biệt quyết định",
+        285,
+        297.5
+      ],
+      [
+        "margin",
+        "a measure of difference between results",
+        "mức chênh lệch",
+        289,
+        297.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "athleticism",
+        "meaning": "khả năng vận động thể thao",
+        "note": "physical ability and skill in sport"
+      },
+      {
+        "term": "there's something going on",
+        "meaning": "có điều gì đó đang diễn ra",
+        "note": "something interesting or not yet understood is happening"
+      },
+      {
+        "term": "expertise",
+        "meaning": "chuyên môn thành thạo",
+        "note": "a high level of knowledge or skill gained through experience"
+      },
+      {
+        "term": "conscious",
+        "meaning": "có ý thức và sự chú ý",
+        "note": "involving awareness and deliberate attention"
+      },
+      {
+        "term": "overwhelm",
+        "meaning": "khiến ai bị quá tải",
+        "note": "place more demands on someone than they can easily handle"
+      },
+      {
+        "term": "driven by",
+        "meaning": "được chi phối bởi",
+        "note": "influenced or caused by"
+      },
+      {
+        "term": "precision",
+        "meaning": "độ chính xác",
+        "note": "exactness and accuracy"
+      },
+      {
+        "term": "all over the place",
+        "meaning": "rối loạn, thiếu tập trung",
+        "note": "disorganised or mentally confused"
+      },
+      {
+        "term": "make all the difference",
+        "meaning": "tạo nên khác biệt quyết định",
+        "note": "have a decisive effect"
+      },
+      {
+        "term": "margin",
+        "meaning": "mức chênh lệch",
+        "note": "a measure of difference between results"
+      }
+    ],
+    "signals": []
+  },
+  "69": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Becca. Cycling is [1] in Britain. Yes, this year, sales of bicycles or bikes, as they're usually called, are up in Britain. Many people choose cycling because it's good for their [2]. And electric bikes are making cycling [3], including older people. In this episode, we'll visit two countries, one with [4] and another where it's just getting started. And as usual, we'll be learning some useful new words and phrases, and remember you'll find all the vocabulary from this episode on our website, bbclearningenglish.com. But first, Neil, I have a question about a country that's [5].",
+      "The Netherlands, also often referred to as Holland. The Netherlands cycle network spreads over [6], and there are more bikes in the country than its [7]. So, [8], how many bikes are there in the Netherlands? Is it A, 20 million? B, 24 million? Or C, [9]? Well, I'm going to say C, 34 million. Ah, well, we'll reveal the correct answer later in the programme. Staying in the Netherlands, let's hear from Meredith Glaser, CEO of Amsterdam's Urban Cycling Institute. Here, Meredith tells BBC World Service programme The Inquiry more about Dutch people's love of cycling. The bicycle is [10] into [11], but the rise of cycling started in [12] when [13] [14], and it went from a toy for rich people to [15].",
+      "And this was [16] for cycling in the Netherlands. Cycling is deeply ingrained into Dutch culture. Deeply ingrained are two words that go together commonly, and it means something that's [17] within a person or culture, and [18]. During [19], bike manufacturing took off in the Netherlands. Take-off is a phrasal verb meaning to suddenly become [20]. Certain brands became symbols of a new, comfortable style of bike. New factories made bikes [21]. This was a milestone for cycling in the Netherlands. A milestone is an important event in someone's life or in [22]. Our second destination is better known for cars than bicycles, the United Arab Emirates or UAE.",
+      "UAE is hoping cycling could be [23] for visitors to explore [24] in cities like Dubai and Abu Dhabi. Transport consultant Martin Tillman, who lives in the Gulf region, explained more to BBC World Service programme The Inquiry. We also have [25] and [26]. All the cities in the Gulf are [27] and they would love to be ranked very high in those [28]. And cycling is seen as part of that quality of life solution. Gulf cities like Dubai want a reputation as places with [29]. The phrase quality of life refers to someone's level of [30] when living in a particular place. It's a measure of a person's [31].",
+      "Gulf cities are also interested in liveability, the degree to which somewhere is a pleasant place to live. Cycling is good for [32] and Dubai's town planners are hoping the [33] of cycle tracks already built will make the city more attractive to live in. Of course, there are big differences between the Netherlands and UAE. The temperature for one, which in Dubai regularly hits [34]. Martin told BBC World Service’s The Inquiry that Dubai is studying countries like the Netherlands, not to copy them, but to [35]. It's certainly not [36] of what is good in Holland or Denmark, but the key is that we're [37].",
+      "Cycling in UAE isn't a copy and paste of cycling in Holland. Martin uses the phrase a copy and paste to mean an exact copy of something which is moved and put somewhere else. Dubai can't simply copy the Netherlands, and a range of measures including [38] and [39] have been created for cycling in the heat. Cycling isn't the perfect solution for everyone, everywhere, but in some places it can be a [40]. Yes, just look at the Netherlands and that reminds me of your question, Becca. Ah yes, I asked you roughly how many bikes are there in the Netherlands. I said 34 million, was I right? There are certainly a lot of bikes in the Netherlands, however, there are only roughly 24 million bikes.",
+      "Only, that's still quite a lot. Right, let's recap the vocabulary we've learnt, starting with deeply ingrained. A combination of words meaning well established and unlikely to change. If something takes off, it suddenly becomes popular or successful. A milestone is an important event in the development of something or someone. Quality of life describes a person's well-being in terms of their level of enjoyment, comfort and health. The noun liveability means the degree to which a place is pleasant to live in. And finally, a copy and paste is an exact copy of something which is then moved and put somewhere else. Once again, our six minutes are up, but remember you can find a transcript and a worksheet and a quiz all over on our website at bbclearningenglish.com.",
+      "Bye for now."
+    ],
+    "answers": [
+      "a popular activity",
+      "health and the environment",
+      "accessible to more people",
+      "a long history of cycling",
+      "world-famous for its bikes",
+      "95,000 miles",
+      "18 million citizens",
+      "roughly speaking",
+      "34 million",
+      "deeply ingrained",
+      "Dutch culture",
+      "the industrial era",
+      "bicycle manufacturing",
+      "took off",
+      "an everyday tool for transportation",
+      "a really important milestone",
+      "firmly established",
+      "unlikely to change",
+      "the 1890s",
+      "popular or successful",
+      "cheaper to buy",
+      "the development of something",
+      "a greener way",
+      "tourist attractions",
+      "quality of life",
+      "liveability",
+      "very competitive",
+      "global rankings",
+      "a good quality of life",
+      "enjoyment, comfort and health",
+      "overall wellbeing",
+      "mental as well as physical health",
+      "600 kilometres",
+      "45 degrees Celsius",
+      "discover what works",
+      "a copy and paste",
+      "looking for the principles",
+      "water stations",
+      "shaded rest areas",
+      "popular and green alternative"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "ninety-five thousand miles",
+        "ninety five thousand miles"
+      ],
+      [
+        "eighteen million citizens"
+      ],
+      [],
+      [
+        "thirty-four million",
+        "thirty four million"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "the eighteen nineties"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "six hundred kilometres",
+        "600 kilometers",
+        "six hundred kilometers"
+      ],
+      [
+        "forty-five degrees Celsius",
+        "forty five degrees Celsius",
+        "45°C"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "b425cdba9f70",
+    "paraphrases": [
+      [
+        "accessible",
+        "available for people to use or take part in",
+        "có thể tiếp cận hoặc tham gia",
+        25.5,
+        30.8
+      ],
+      [
+        "roughly speaking",
+        "approximately",
+        "nói một cách ước chừng",
+        67,
+        78.3
+      ],
+      [
+        "deeply ingrained",
+        "firmly established and difficult to change",
+        "ăn sâu, khó thay đổi",
+        124.5,
+        138.3
+      ],
+      [
+        "took off",
+        "suddenly became successful or popular",
+        "phát triển hoặc trở nên phổ biến nhanh chóng",
+        138.6,
+        147.9
+      ],
+      [
+        "milestone",
+        "an important stage in development",
+        "cột mốc quan trọng",
+        156.1,
+        164.7
+      ],
+      [
+        "quality of life",
+        "the level of comfort, enjoyment and health in someone's life",
+        "chất lượng cuộc sống",
+        208.4,
+        219.5
+      ],
+      [
+        "liveability",
+        "how pleasant a place is to live in",
+        "mức độ đáng sống",
+        219.7,
+        226.6
+      ],
+      [
+        "global rankings",
+        "positions in comparisons across the world",
+        "bảng xếp hạng toàn cầu",
+        191.5,
+        202.6
+      ],
+      [
+        "a copy and paste",
+        "an exact copy moved to another context",
+        "sao chép nguyên xi sang hoàn cảnh khác",
+        266.4,
+        278.2
+      ],
+      [
+        "a popular and green alternative",
+        "a well-liked option that is better for the environment",
+        "lựa chọn thay thế phổ biến và thân thiện môi trường",
+        288.5,
+        296.6
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "accessible",
+        "meaning": "có thể tiếp cận hoặc tham gia",
+        "note": "available for people to use or take part in"
+      },
+      {
+        "term": "roughly speaking",
+        "meaning": "nói một cách ước chừng",
+        "note": "approximately"
+      },
+      {
+        "term": "deeply ingrained",
+        "meaning": "ăn sâu, khó thay đổi",
+        "note": "firmly established and difficult to change"
+      },
+      {
+        "term": "took off",
+        "meaning": "phát triển hoặc trở nên phổ biến nhanh chóng",
+        "note": "suddenly became successful or popular"
+      },
+      {
+        "term": "milestone",
+        "meaning": "cột mốc quan trọng",
+        "note": "an important stage in development"
+      },
+      {
+        "term": "quality of life",
+        "meaning": "chất lượng cuộc sống",
+        "note": "the level of comfort, enjoyment and health in someone's life"
+      },
+      {
+        "term": "liveability",
+        "meaning": "mức độ đáng sống",
+        "note": "how pleasant a place is to live in"
+      },
+      {
+        "term": "global rankings",
+        "meaning": "bảng xếp hạng toàn cầu",
+        "note": "positions in comparisons across the world"
+      },
+      {
+        "term": "a copy and paste",
+        "meaning": "sao chép nguyên xi sang hoàn cảnh khác",
+        "note": "an exact copy moved to another context"
+      },
+      {
+        "term": "a popular and green alternative",
+        "meaning": "lựa chọn thay thế phổ biến và thân thiện môi trường",
+        "note": "a well-liked option that is better for the environment"
+      }
+    ],
+    "signals": []
+  },
+  "70": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Phil. And I'm Becca. Sending emails is a big part of modern work, and most people try to write emails politely. Most, but not all. Recently, BBC Radio 4 programme All in the Mind asked listeners to tell them what they find rude in emails. Here, presenter Claudia Hammond and guest Pete Olusoga discuss what listeners had to say. Rachel in Manchester says what annoys her is, people who start their emails with just your name and without [1] like hi. She says the [2] always has the effect of putting her immediately [3]. We've got an anonymous one here who recently received [4] in response to a [5] and worded email.",
+      "One listener doesn't like emails which start with just her name because they put her on the defensive. The phrase, to put someone on the defensive, means to do or say something which makes them [6]. Another listener found it rude when their email was answered with a single emoji, and I think that would annoy me too. These emails are examples of people being [7], an adjective meaning [8]. And just to note, the noun that goes with this is [9]. In this episode, we'll be hearing more about rude emails at work, and as usual, we'll be learning some useful new vocabulary, all of which you can find on our website, bbclearningenglish.com. But first, I have a question for you Phil.",
+      "Last year, thousands of US government workers received an email requiring them to [10] by listing [11] that week, or resign. But who sent this email? Was it A, Donald Trump, B, JD Vance, or C, Elon Musk? Ooh, I don't know. Maybe JD Vance? We'll find out later in the programme. Now, according to some psychologists, rudeness in emails is based on a [12] humans feel when stressed. Here, psychologist Dr Emma Russell explains these responses for BBC Radio 4’s All in the Mind. So a fight response is usually when we try to [13]. Emails that are [14], or even cc’ing [15] in on the message in order to [16] and [17].",
+      "Then the flight response is when people try to protect themselves by [18], they won't reply. Or if they do reply, maybe they don't answer [19], or they're just trying to [20]. The fight response can make us belittle someone, make them feel [21]. For example, a boss sends a group email in which they [22] for the work you did. The boss wants to put you in your place, an idiom meaning to show someone that they are [23] they are. The flight response, meanwhile, can be seen when [24] or give [25]. Such colleagues want to get work off their plate.",
+      "Another idiom meaning to remove tasks from [26] and give them to someone else to deal with. Unfortunately, when stressed and [27], it's hard to make sure all your emails are polite. That's what Emma Russell said when she spoke to BBC Radio 4’s All in the Mind. Because we're operating in these environments where we are all quite [28], we are more [29] of engaging in incivility. We're more likely to be uncivil when we're frazzled. An informal adjective describing feeling [30] because you're doing [31] at the same time. Luckily, there are ways to help. If you feel angry when writing an email, [32]. One day, it might [33] or even your job.",
+      "Okay Becca, I'm going to [34] you to please reveal the answer to your question. Of course, Phil. I asked you who sent the email requiring workers to [35] or resign. I said that I thought it might have been JD Vance. Well, we're not going to fire you, Phil. But you are wrong. [36] was Elon Musk. Okay, let's recap the vocabulary we've learnt. Starting with the idiom, put someone on the defensive, meaning to make someone feel threatened or unsure. The adjective uncivil means impolite, and we have a similar noun that's incivility. To belittle someone means to make them feel inferior or unimportant. If you put someone in their place, you show them that they're not as important as they think they are.",
+      "To get something off your plate means to give someone else a task or problem instead of dealing with it yourself. And finally, if you're frazzled, you feel tired or anxious because you're doing too much. Once again, our six minutes are up. If you want to know more about [37], check out our series [38]. It's on our website along with [39] and [40] for this episode. And that's bbclearningenglish.com. But now, it's goodbye. Bye."
+    ],
+    "answers": [
+      "a simple greeting",
+      "unnecessary formality",
+      "on the defensive",
+      "a single emoji",
+      "carefully considered",
+      "feel threatened or unsure",
+      "uncivil",
+      "rude or impolite",
+      "incivility",
+      "justify their job",
+      "five things they had accomplished",
+      "fight or flight response",
+      "dominate or belittle other people",
+      "hostile in tone and language",
+      "senior personnel",
+      "elevate an issue",
+      "put someone in their place",
+      "withdrawing or avoiding",
+      "all of the points in the email",
+      "get it off their plate",
+      "inferior or unimportant",
+      "give someone else the credit",
+      "less important than they think",
+      "co-workers ignore your message",
+      "a quick, unhelpful reply",
+      "your own workload",
+      "working to a deadline",
+      "frazzled",
+      "at risk",
+      "tired or anxious",
+      "too many things",
+      "pause before you hit send",
+      "save your friendship",
+      "politely ask",
+      "justify their employment",
+      "The correct answer",
+      "communication at work",
+      "Office English",
+      "a quiz",
+      "a worksheet"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "232d4cbfa735",
+    "paraphrases": [
+      [
+        "on the defensive",
+        "feeling threatened and ready to protect yourself",
+        "ở thế phòng vệ",
+        58.6,
+        73.4
+      ],
+      [
+        "uncivil",
+        "rude or impolite",
+        "bất lịch sự",
+        80,
+        93.9
+      ],
+      [
+        "incivility",
+        "rude behaviour",
+        "sự bất lịch sự",
+        313.3,
+        320.4
+      ],
+      [
+        "justify their job",
+        "explain why their employment is warranted",
+        "giải trình lý do công việc của mình cần thiết",
+        113.8,
+        120.6
+      ],
+      [
+        "belittle",
+        "make someone feel unimportant or inferior",
+        "hạ thấp, coi thường ai",
+        186,
+        193.2
+      ],
+      [
+        "hostile",
+        "unfriendly or aggressive",
+        "mang tính thù địch",
+        161.9,
+        173.9
+      ],
+      [
+        "put you in your place",
+        "show that you are less important than you think",
+        "hạ vị thế của ai, cho họ biết giới hạn",
+        198,
+        209.4
+      ],
+      [
+        "get work off their plate",
+        "remove tasks from their own workload",
+        "trút bớt việc khỏi mình",
+        215.5,
+        228.5
+      ],
+      [
+        "frazzled",
+        "exhausted or anxious from doing too much",
+        "mệt mỏi, căng thẳng vì quá tải",
+        242,
+        260.9
+      ],
+      [
+        "working to a deadline",
+        "working with a fixed completion time",
+        "làm việc theo hạn chót",
+        228.6,
+        235.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "on the defensive",
+        "meaning": "ở thế phòng vệ",
+        "note": "feeling threatened and ready to protect yourself"
+      },
+      {
+        "term": "uncivil",
+        "meaning": "bất lịch sự",
+        "note": "rude or impolite"
+      },
+      {
+        "term": "incivility",
+        "meaning": "sự bất lịch sự",
+        "note": "rude behaviour"
+      },
+      {
+        "term": "justify their job",
+        "meaning": "giải trình lý do công việc của mình cần thiết",
+        "note": "explain why their employment is warranted"
+      },
+      {
+        "term": "belittle",
+        "meaning": "hạ thấp, coi thường ai",
+        "note": "make someone feel unimportant or inferior"
+      },
+      {
+        "term": "hostile",
+        "meaning": "mang tính thù địch",
+        "note": "unfriendly or aggressive"
+      },
+      {
+        "term": "put you in your place",
+        "meaning": "hạ vị thế của ai, cho họ biết giới hạn",
+        "note": "show that you are less important than you think"
+      },
+      {
+        "term": "get work off their plate",
+        "meaning": "trút bớt việc khỏi mình",
+        "note": "remove tasks from their own workload"
+      },
+      {
+        "term": "frazzled",
+        "meaning": "mệt mỏi, căng thẳng vì quá tải",
+        "note": "exhausted or anxious from doing too much"
+      },
+      {
+        "term": "working to a deadline",
+        "meaning": "làm việc theo hạn chót",
+        "note": "working with a fixed completion time"
+      }
+    ],
+    "signals": []
+  },
+  "71": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Georgie. Some kids hate eating broccoli. For others, it's mushrooms. And worst of all, of course, are [1]. Every parent of young children knows what food they will and won't eat. What food did you dislike as a child, Georgie? Ooh, when I was little, I used to absolutely hate [2]. But now, as an adult, I absolutely love both of those things. I'm not surprised. They're delicious. What about you, Neil? Did you dislike any foods? Do you know what? I think I liked most things. Family dinner time can be fun. [3], hear about everyone's day and share a meal. But when children [4] the food that's been cooked, the result is often [5].",
+      "BBC Radio 4 programme The Food Chain, asked [6] and [7], Charlotte Stirling-Reed, whether her kids eat everything she gives them. They definitely don't. We go through multiple periods of [8], where [9] is much lower, and then [10] it comes right back. It depends on the weather, what they've been doing that day. It can depend on [11]. At dinner time, Charlotte's children go through ups and downs, a phrase meaning that [12] happen to them. Sometimes they eat everything happily, other times they don't. It depends on many things, including their day, the weather and their mood. A person's mood is the way they're feeling at [13].",
+      "So how can parents make dinner time something everyone enjoys? In this episode, we'll be hearing from three experts on [14] and learning some useful new words and phrases too. And remember, you'll find all the vocabulary from this episode, along with a quiz and worksheet on our website, bbclearningenglish.com. But first of course, Georgie, I have a question for you. Charlotte Stirling-Reed is a child nutritionist, and she has some tips for [15]. Which of these do you think she recommends? Is it A? Make sure your child eats [16]. B, [17] to eat everything on the plate. Or C, introduce your child to lots of [18] quickly.",
+      "That's quite hard, they all seem like quite good tips. I'm going to go with C, introduce your child to lots of new flavours quickly. Okay, we'll find out the answer later in the programme. Doctor Anne Fishel is another expert in [19]. She [20] the Family Dinner Project, an organisation promoting [21] in the US. Here, Anne explains one reason why meal times can become stressful. To Ruth Alexander, for BBC World Service programme, the food chain. Many parents say, dinner time can become [22]. So why is it that what you're eating can [23]? I think for small children, it's one of the few areas that they [24]. I mean, parents can cook what they want and serve it when they want, but [25] whether they're going to eat it.",
+      "And for young kids, that's [26]. They have some control. Dinner time often becomes a battleground, a place where [27] happens. Anne thinks that's because it's one of the few areas where children have control. For kids, controlling what they're willing to eat is a big deal, something of [28] to them. If experts like Charlotte and Anne struggle at meal times, imagine how hard it could be if your child has [29], a condition where the body makes you sick after eating certain foods. That was the experience of Sharon Wee, a food writer from Singapore, who speaks here with BBC World Service programme, The Food Chain. My daughter was born with allergies and it was quite [30].",
+      "And to be honest with you, we found [31], which was [32]. She grew up eating rice and beans, probably for [33] of her life. Sharon's daughter's allergies [34], making cooking for the whole family a struggle. Luckily, Sharon discovered the winning formula, something her daughter could [35], rice and beans. A winning formula is a method or strategy that [36]. So Georgie, how can parents help their children develop [37]? Well, there are some things that our experts all agree upon. For one, [38], for example, by offering small, [39] before the meal. And most importantly of all, [40] by not pressurising kids to finish everything on their plate.",
+      "Right, well that also helps with your quiz question, Neil. So why not go ahead and reveal the correct answer? I asked you what child food nutritionist Charlotte Stirling-Reed recommends for stress-free family meals. Yes, I said C, introduce your child to lots of new flavours quickly. I'm afraid you were wrong Georgie, the answer is actually B, don't pressure your child to eat everything on the plate. Okay, let's recap the vocabulary we've learned, starting with ups and downs, a phrase describing the mixture of good and bad things that happen to someone. Your mood is how you feel at a particular time. A battleground is a place or situation where argument or conflict happens. If something is a big deal, it's of special importance to you.",
+      "A food allergy is a medical condition where certain foods make your body sick. And finally, a winning formula is a method or strategy that produces successful results. Once again, our six minutes are up, but if you'd like to learn more vocabulary on the topic of food, you can head to our topic page on our website bbclearningenglish.com. See you again soon, but for now it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "Brussels sprouts",
+      "nuts and avocados",
+      "A chance to reconnect",
+      "refuse to eat",
+      "conflict, rather than family fun",
+      "child nutritionist",
+      "mother of two",
+      "ups and downs",
+      "their appetite",
+      "all of a sudden",
+      "their mood",
+      "a mixture of good and bad things",
+      "a particular time",
+      "young children's eating habits",
+      "stress-free family meals",
+      "five pieces of fruit and veg a day",
+      "don't pressure your child",
+      "new flavours",
+      "child nutrition",
+      "co-founded",
+      "children's healthy eating",
+      "a battleground",
+      "trigger so much tension",
+      "have control over",
+      "it's up to kids to decide",
+      "a big deal",
+      "argument or conflict",
+      "special importance",
+      "a food allergy",
+      "a struggle at first",
+      "the winning formula",
+      "rice and beans",
+      "the first five years",
+      "restricted what she could eat",
+      "safely eat",
+      "produces successful results",
+      "good eating habits",
+      "give children a choice",
+      "healthy snacks and dips",
+      "create a stress-free atmosphere"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "5 pieces of fruit and veg a day"
+      ],
+      [],
+      [
+        "new flavors"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "the first 5 years"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "5ff10ce3897b",
+    "paraphrases": [
+      [
+        "reconnect",
+        "renew a sense of closeness",
+        "kết nối lại với nhau",
+        48,
+        58
+      ],
+      [
+        "ups and downs",
+        "a mixture of good and bad experiences",
+        "những lúc thuận lợi và khó khăn",
+        82,
+        93
+      ],
+      [
+        "appetite",
+        "the desire to eat",
+        "cảm giác muốn ăn",
+        69,
+        78.6
+      ],
+      [
+        "mood",
+        "the way someone feels at a particular time",
+        "tâm trạng tại một thời điểm",
+        92.6,
+        102.4
+      ],
+      [
+        "battleground",
+        "a situation in which people argue or clash",
+        "tình huống thường xảy ra xung đột",
+        202,
+        212.8
+      ],
+      [
+        "have control over",
+        "be able to decide what happens to something",
+        "có quyền quyết định đối với việc gì",
+        184.5,
+        202.1
+      ],
+      [
+        "a big deal",
+        "something particularly important",
+        "một việc rất quan trọng",
+        212.3,
+        224.1
+      ],
+      [
+        "food allergy",
+        "an adverse bodily reaction to certain foods",
+        "dị ứng thực phẩm",
+        223.7,
+        235.2
+      ],
+      [
+        "winning formula",
+        "an approach that leads to successful results",
+        "cách làm đem lại kết quả tốt",
+        265.3,
+        278.2
+      ],
+      [
+        "stress-free atmosphere",
+        "an environment without pressure or tension",
+        "bầu không khí không căng thẳng",
+        284.1,
+        297.3
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "reconnect",
+        "meaning": "kết nối lại với nhau",
+        "note": "renew a sense of closeness"
+      },
+      {
+        "term": "ups and downs",
+        "meaning": "những lúc thuận lợi và khó khăn",
+        "note": "a mixture of good and bad experiences"
+      },
+      {
+        "term": "appetite",
+        "meaning": "cảm giác muốn ăn",
+        "note": "the desire to eat"
+      },
+      {
+        "term": "mood",
+        "meaning": "tâm trạng tại một thời điểm",
+        "note": "the way someone feels at a particular time"
+      },
+      {
+        "term": "battleground",
+        "meaning": "tình huống thường xảy ra xung đột",
+        "note": "a situation in which people argue or clash"
+      },
+      {
+        "term": "have control over",
+        "meaning": "có quyền quyết định đối với việc gì",
+        "note": "be able to decide what happens to something"
+      },
+      {
+        "term": "a big deal",
+        "meaning": "một việc rất quan trọng",
+        "note": "something particularly important"
+      },
+      {
+        "term": "food allergy",
+        "meaning": "dị ứng thực phẩm",
+        "note": "an adverse bodily reaction to certain foods"
+      },
+      {
+        "term": "winning formula",
+        "meaning": "cách làm đem lại kết quả tốt",
+        "note": "an approach that leads to successful results"
+      },
+      {
+        "term": "stress-free atmosphere",
+        "meaning": "bầu không khí không căng thẳng",
+        "note": "an environment without pressure or tension"
+      }
+    ],
+    "signals": []
+  },
+  "72": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Becca. Neil, I noticed that you were [1] before you came into the studio to record this programme. Yes, I probably was. You know Becca, I spend [2] looking at my phone and I really don't like it. How about you? I don't think you're alone, I also spend way too much time looking at my phone. Well Becca, we are both adults but today we're talking about [3] and children. Screen time, that's how much time you spend using devices like [4]. Yes, and it's [5] of many parents that their children spend too much time on these devices. At the end of last year, Australia [6] to [7] for [8] and countries like the UK are considering [9].",
+      "So why is this? In this episode, we'll hear from [10] and [11] at the University of Cambridge talking about screen time and children. As usual, we'll be learning some useful new words and phrases and remember you'll find all this episode's vocabulary along with the transcript on our website, bbclearningenglish.com. But first, Neil, I have a question for you. According to the UK media regulator, how many children [12] have a smartphone? Is it A, [13], B, [14] or C, [15]? Wow, well, I'm going to guess 1 in 20 but I think it's probably more than that. Well, we'll find out the answer later. Dr Emily Goodacre is a research associate at the University of Cambridge.",
+      "Here she tells Shiona McCallum, presenter of BBC World Service programme Tech Life, her thoughts on whether we should take away children's [16] completely. Yeah, I think it's not as much as getting them away from technology but [17] about how we use technology with children. For me, [18] and therefore I think about [19] that think about childhood first and really think about how children [20] [21] and then see if there's a way that technology can enable that. Emily highlights how rather than stopping children from using technology, parents need to be [22] about how their children use it.",
+      "An intention is [23] to do something. So to be intentional is to act with that plan or reason in mind. It may make you [24] as a result. Emily also says the bar needs to be higher. The idiom the bar is low means that the [25] are minimal and [26]. Therefore, she believes the bar needs to be higher. Parents need to [27]. They need to think or act more carefully when considering how much time children spend with technology. You might also hear people say, [28]. Emily believes that being more intentional and setting the bar higher will enable children to learn and develop [29].",
+      "If you enable something, you encourage somebody's ability to do something or to [30]. Now let's hear Dr Becky Kennedy, a clinical psychologist and founder of [31] talking about how parents feel about tech and children for BBC World Service Program Tech Life. I find parents are very, very [32] what's really happening around technology and kids and then have [33] they can do in their home to [34] that feel better. Becky has found that many parents are eager to understand their children's use of technology. Eager is an adjective that describes wanting to do or have something very much. Becky also talks about making little shifts.",
+      "[35]. It can be used as a verb or a noun. Becky shares an example of a shift that can help parents [36], moving the device [37]. You can even say to a kid, you know why I moved it? It's actually because it's a really hard thing for me to expect from you, to see a screen in a room and not want to use it. I wasn't [38]. Becky explains how it's difficult for children to be expected to reduce their screen time if they can see their device. [39] doesn't set them up for success. If you set someone up for something, [40]. Yes, for example, earlier I set Neil up for a shock when I asked him a question about screen time.",
+      "Neil, I asked you, according to the UK media regulator, how many children aged three to four have a smartphone? And I said one in twenty. Well, it is in fact, c) one in five. Wow, I thought it might be more than I said. Now let's recap the vocabulary we've learned, starting with intentional. It's an adjective that describes acting with a plan or reason in mind. We had the expression the bar needs to be higher. To set the bar higher is to make your expectations higher. We also had enable. This is to encourage someone's ability to do something or to make something possible. To be eager is to want to do or have something very much. A shift is a small change. You can also use it as a verb to mean changing something slightly.",
+      "And if you set someone up for something, you prepare them for it. Once again, our six minutes are up. If you enjoyed this episode, you'll find a quiz and a free worksheet to practice the vocabulary you've learned on our website, bbclearningenglish.com. See you again soon, but for now it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "checking your phone",
+      "far too much time",
+      "screen time",
+      "smartphones, tablets and laptops",
+      "a particular worry",
+      "banned access",
+      "social media apps",
+      "under-16s",
+      "similar measures",
+      "a clinical psychologist",
+      "research associate",
+      "aged three to four",
+      "1 in 20",
+      "1 in 10",
+      "1 in 5",
+      "screen devices",
+      "being really intentional",
+      "the bar absolutely needs to be higher",
+      "how to design products",
+      "at different stages",
+      "learn and develop",
+      "more intentional",
+      "a plan or reason",
+      "act more carefully",
+      "standards, expectations or requirements",
+      "very easy to meet",
+      "make their expectations higher",
+      "set the bar higher or lower",
+      "alongside technology",
+      "make something possible",
+      "an online parenting platform",
+      "eager to understand",
+      "practical, realistic things",
+      "make little shifts",
+      "A shift is a small change",
+      "reduce children's screen time",
+      "somewhere it can't be seen",
+      "setting you up for success",
+      "Having the device in view",
+      "you prepare them for it"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "under sixteens",
+        "under 16s"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "one in twenty"
+      ],
+      [
+        "one in ten"
+      ],
+      [
+        "one in five"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "c8d9b65e3ba3",
+    "paraphrases": [
+      [
+        "screen time",
+        "time spent using devices with screens",
+        "thời gian sử dụng thiết bị có màn hình",
+        41.6,
+        48.1
+      ],
+      [
+        "banned access",
+        "prohibited people from using something",
+        "cấm quyền truy cập hoặc sử dụng",
+        54.3,
+        64.4
+      ],
+      [
+        "intentional",
+        "done with a clear plan or purpose",
+        "có chủ đích rõ ràng",
+        155.6,
+        174.9
+      ],
+      [
+        "the bar is low",
+        "the required standard is easy to meet",
+        "tiêu chuẩn yêu cầu còn thấp",
+        175,
+        186.1
+      ],
+      [
+        "set the bar higher",
+        "raise expectations or standards",
+        "nâng tiêu chuẩn hoặc kỳ vọng",
+        186.4,
+        202.6
+      ],
+      [
+        "enable",
+        "make something possible or help someone do it",
+        "tạo điều kiện cho việc gì",
+        211.4,
+        217.3
+      ],
+      [
+        "eager",
+        "very keen to do or have something",
+        "rất mong muốn làm hoặc có điều gì",
+        244.2,
+        255
+      ],
+      [
+        "shifts",
+        "small changes",
+        "những thay đổi nhỏ",
+        254.7,
+        260.3
+      ],
+      [
+        "setting you up for success",
+        "preparing conditions that help you succeed",
+        "tạo điều kiện để bạn thành công",
+        271,
+        287.2
+      ],
+      [
+        "set someone up for something",
+        "prepare someone for a particular situation",
+        "chuẩn bị cho ai trước một tình huống",
+        287,
+        298.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "screen time",
+        "meaning": "thời gian sử dụng thiết bị có màn hình",
+        "note": "time spent using devices with screens"
+      },
+      {
+        "term": "banned access",
+        "meaning": "cấm quyền truy cập hoặc sử dụng",
+        "note": "prohibited people from using something"
+      },
+      {
+        "term": "intentional",
+        "meaning": "có chủ đích rõ ràng",
+        "note": "done with a clear plan or purpose"
+      },
+      {
+        "term": "the bar is low",
+        "meaning": "tiêu chuẩn yêu cầu còn thấp",
+        "note": "the required standard is easy to meet"
+      },
+      {
+        "term": "set the bar higher",
+        "meaning": "nâng tiêu chuẩn hoặc kỳ vọng",
+        "note": "raise expectations or standards"
+      },
+      {
+        "term": "enable",
+        "meaning": "tạo điều kiện cho việc gì",
+        "note": "make something possible or help someone do it"
+      },
+      {
+        "term": "eager",
+        "meaning": "rất mong muốn làm hoặc có điều gì",
+        "note": "very keen to do or have something"
+      },
+      {
+        "term": "shifts",
+        "meaning": "những thay đổi nhỏ",
+        "note": "small changes"
+      },
+      {
+        "term": "setting you up for success",
+        "meaning": "tạo điều kiện để bạn thành công",
+        "note": "preparing conditions that help you succeed"
+      },
+      {
+        "term": "set someone up for something",
+        "meaning": "chuẩn bị cho ai trước một tình huống",
+        "note": "prepare someone for a particular situation"
+      }
+    ],
+    "signals": []
+  },
+  "73": {
+    "paragraphs": [
+      "Hello, this is Six Minute English from BBC Learning English. I'm Pippa. And I'm Phil. What's the last thing you bought and why did you buy it? I bought [1] recently because my old ones broke and I did lots of research to try and find a good pair. How about you? I bought a soft drink on the way to work this morning. It might be because I saw someone I like promoting it in an advert. We call this [2] but why do they work? Let's start by hearing from Ben Jones, a behavioral research expert speaking to BBC World Service programme Business Daily. When we're unsure we don't know what to do it's kind of easy to follow the lead of those who we think are [3].",
+      "It's [4]. It's something that helps us [5] or [6]. We start doing that [7]. But our parents for some people, it's about our teachers, you know these people will help us learn and [8] and some businesses can [9] through things like endorsements, you know [10], [11]. Ben says that endorsements work as a mental shortcut. This is something that helps us make a decision quickly. If we [12] then we don't need to think about it that much. In this episode we're going to look at the way that people can [13] to do things. And as usual we'll learn some useful new words and phrases and remember you'll find all the vocabulary and a quiz on our website bbclearningenglish.com.",
+      "Okay but first I have a question for you Pippa. Today we're talking about behavioral science. What's the name of the theory that says people respond to [14]? Is it a push theory, b pull theory or c [15]? Oh I'm not sure I'm going to say b pull theory. Okay well we'll find out the answer at the end of the program. In recent years many [16] have installed [17] for people to order their food. They've reported taking more money as a result. Could behavioral science tell us why this happens? Here's product designer Dean Ward speaking to BBC World Service’s Business Daily. Firstly the psychology of speaking to someone and [18], we think, is [19].",
+      "So would you like [20]? Would you like to [21]? Not all people but I think there's definitely a large proportion of people who may feel judged in those instances and may say no. There's the fact that you've got [22]. You can see the product, you can see what's in it, you can see all the products linked to it as well and also around [23] as well. Would you like to add this? Would you like to do that? Because you've got more time and you're not being judged, you're very much [24] to actually say yes to these things and that's typically what we're seeing. An [25] of typically [26]. If people feel judged then it means that they worry what other people will think of them.",
+      "If we have to ask a human for extra fries we might worry what they think of us but no one feels judged by [27]. If you upsell something then you get someone to [28]. For example waiters often try to get people to buy [29], more drinks or dessert. Dean says that upselling can increase people's basket spend. A basket spend is a total amount that someone spends in [30] on everything that's in their basket. Now this is an example of a business using behavioral science to nudge people to do things but it's not just businesses that use behavioral science in this way. In Tunisia the United Nations World Food Programme wanted to [31] to eat food together more often.",
+      "They made [32]. Let's hear from Takwa Khelifi from the World Food Programme talking to BBC World Service’s Business Daily. So we needed something really creative and really different to [33] or to let people see themselves in those stories because people are learning and changing by [34] and like [35], behaviors and others actions and [36] to things. So this is why we tried this project or tried this product or this TV series in order to impact people. Takwa says that they needed to think outside the box. This means to try and [37] to come up with [38]. The TV programme leads to people modeling behaviour.",
+      "If you [39] then you behave in a way that other people can copy. Now Phil I think it's time to hear the answer to your question. Yes it is. I asked what theory says that people respond to small prompts to change their behaviour. I thought it was pull theory. Which I'm afraid was the wrong answer. Nudge theory says that people's behaviour can be changed by small prompts or nudges. Okay let's recap the vocabulary we've learned starting with mental shortcut which is something that helps us make a decision quickly. Usually because we don't need to think about it. If someone feels judged then they're worried about what other people think about them. Upsell refers to persuading someone to buy something extra like a dessert at a restaurant.",
+      "Basket spend is what you spend in one transaction on the things in your shopping basket. If you think outside the box then you think about something in a different way to come up with [40]. And finally modelling is behaving in a way that others can copy. Once again our six minutes are up but why not head over to our website bbclearningenglish.com to try the quiz and worksheet for this episode. See you again soon. Bye."
+    ],
+    "answers": [
+      "a new pair of headphones",
+      "a celebrity endorsement",
+      "credible or knowledgeable",
+      "a mental shortcut",
+      "navigate uncertain times",
+      "make quick choices",
+      "from an early age",
+      "make sense of the world",
+      "draw on this",
+      "dentists recommending toothpaste",
+      "athletes endorsing sports wear",
+      "trust the endorsement",
+      "be convinced",
+      "small prompts",
+      "nudge theory",
+      "fast food chains",
+      "touchscreen machines",
+      "feeling judged",
+      "a key factor",
+      "extra fries",
+      "go large",
+      "more time to look",
+      "upsell",
+      "more inclined",
+      "increased basket spend",
+      "25-30%",
+      "a computer screen",
+      "spend more",
+      "larger portions",
+      "one transaction",
+      "encourage people",
+      "a TV show set in a restaurant",
+      "think outside of the box",
+      "imitating and modeling",
+      "observing others",
+      "emotional reactions",
+      "think in a different way",
+      "something creative",
+      "model behaviour",
+      "a creative solution"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "25 to 30 percent",
+        "twenty-five to thirty percent",
+        "25–30%"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "model behavior"
+      ],
+      []
+    ],
+    "contentRevision": "414d0e3b50f6",
+    "paraphrases": [
+      [
+        "celebrity endorsement",
+        "public promotion by a famous person",
+        "sự quảng bá của người nổi tiếng",
+        28,
+        43.1
+      ],
+      [
+        "credible",
+        "believable and trustworthy",
+        "đáng tin cậy",
+        47.6,
+        55.7
+      ],
+      [
+        "mental shortcut",
+        "a way of making a decision with less thought",
+        "cách ra quyết định nhanh, ít phải suy nghĩ",
+        76.2,
+        84.6
+      ],
+      [
+        "draw on",
+        "make use of an available resource",
+        "tận dụng một nguồn lực sẵn có",
+        67.6,
+        76.6
+      ],
+      [
+        "feel judged",
+        "worry about how others evaluate you",
+        "cảm thấy mình bị người khác đánh giá",
+        186.5,
+        196.2
+      ],
+      [
+        "upsell",
+        "persuade a customer to spend more",
+        "thuyết phục khách mua thêm hoặc mua nhiều hơn",
+        196.2,
+        208.9
+      ],
+      [
+        "basket spend",
+        "the total spent in a single transaction",
+        "tổng tiền trong một lần mua sắm",
+        208.5,
+        219.9
+      ],
+      [
+        "think outside the box",
+        "find an original way of approaching a problem",
+        "suy nghĩ sáng tạo ngoài lối quen thuộc",
+        272.4,
+        285.9
+      ],
+      [
+        "model behaviour",
+        "act in a way that other people can copy",
+        "làm mẫu hành vi để người khác học theo",
+        285.6,
+        291.1
+      ],
+      [
+        "nudge theory",
+        "an approach that uses small prompts to influence behaviour",
+        "lý thuyết tác động hành vi bằng gợi ý nhỏ",
+        304.4,
+        311.2
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "celebrity endorsement",
+        "meaning": "sự quảng bá của người nổi tiếng",
+        "note": "public promotion by a famous person"
+      },
+      {
+        "term": "credible",
+        "meaning": "đáng tin cậy",
+        "note": "believable and trustworthy"
+      },
+      {
+        "term": "mental shortcut",
+        "meaning": "cách ra quyết định nhanh, ít phải suy nghĩ",
+        "note": "a way of making a decision with less thought"
+      },
+      {
+        "term": "draw on",
+        "meaning": "tận dụng một nguồn lực sẵn có",
+        "note": "make use of an available resource"
+      },
+      {
+        "term": "feel judged",
+        "meaning": "cảm thấy mình bị người khác đánh giá",
+        "note": "worry about how others evaluate you"
+      },
+      {
+        "term": "upsell",
+        "meaning": "thuyết phục khách mua thêm hoặc mua nhiều hơn",
+        "note": "persuade a customer to spend more"
+      },
+      {
+        "term": "basket spend",
+        "meaning": "tổng tiền trong một lần mua sắm",
+        "note": "the total spent in a single transaction"
+      },
+      {
+        "term": "think outside the box",
+        "meaning": "suy nghĩ sáng tạo ngoài lối quen thuộc",
+        "note": "find an original way of approaching a problem"
+      },
+      {
+        "term": "model behaviour",
+        "meaning": "làm mẫu hành vi để người khác học theo",
+        "note": "act in a way that other people can copy"
+      },
+      {
+        "term": "nudge theory",
+        "meaning": "lý thuyết tác động hành vi bằng gợi ý nhỏ",
+        "note": "an approach that uses small prompts to influence behaviour"
+      }
+    ],
+    "signals": []
+  },
+  "74": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Pippa. In this episode we're [1]. For some, poetry is what you study at school, then forget, while for others it becomes [2]. Have you ever read or written any poetry, Neil? Well, I haven't written any poetry since I was at school. I would love to read more poetry, but I just don't get it really. I find it [3]. A good place to hear poetry is [4], [5] where anyone is allowed to stand up on stage to sing or [6]. Here BBC reporter Maria recites her open mic poem about a friend who [7] for BBC World Service programme People Fixing the World.",
+      "This is a poem I wrote about a friend who I love dearly. It's called Stroke. You’re awake and [8] who it is. I pull my mask past my lips and you study my face, eyes wide. I've enough stuff to tell you, I say, sinking into a chair, I stare. Sometimes if you go to an open mic night, people can really [9] with what they're saying, and even if you're [10], life can feel so much better after going to an open mic night. For Maria, poetry has the power to [11] and touch your soul, meaning to affect you deeply on [12]. In this episode, we'll hear more about [13], and as usual, we'll learn some useful new words and phrases.",
+      "And remember, you'll find all the vocabulary plus a quiz and worksheet on our website, bbclearningenglish.com But first, I have a question for you, Pippa. Just now, you use the phrase, the positive power of poetry, repeating [14] across [15]. Doing this is a common feature of poetry, but what's it called? Is it A, assonance, B, [16], or C, simile? Hmm, finally, my English degree might [17], and I'm going to say B, alliteration. Well, we'll find out at the end, and I hope you don't get embarrassed, Pippa. Now, poetry helped Maria [18], but could its power to heal work in other areas too? Hot poets is a group helping people understand the science behind [19] like climate change.",
+      "They go to meetings like the UN Climate Conference and listen to [20] being presented then they write a poem about it all and perform that [21]. Here's Hot Poet Liv Torc reciting her poem to BBC World Service’s People Fixing the World. It starts with [22]. A big blue murder mystery where the killer is not the whale, but an epic humanity fail of [23] at [24]. Liv's poem is based on [25]. It's [26] that many find hard to understand. Here Liv discusses this with Myra Anubi for BBC World Service programme, People Fixing the World. And Liv, I mean, so what you've identified is that there is an issue around [27].",
+      "Yes, a lot of this [28] is really hard to understand, or a lot of the science is quite [29] to normal people, so it's instantly [30]. Science uses lots of jargon, [31] which is quite different from [32]. For example, a scientist might use the word [33], while in everyday English we would say rain. Jargon can make scientific papers impenetrable, an adjective meaning [34], and worse it makes science a turn off, something that people dislike or find uninteresting. Hot Poets try to change all of that by making [35] easy to understand through poetry. And it works, says Kat Bruce, [36] whose study Liv based her poem on, talking here with Myra Anubi for BBC World Service’s People Fixing the World.",
+      "What did it mean for you, Kat, hearing the poem, having actually experienced everything she's saying? It still [37] when I hear it now. I think it's everything that I wish I could say and [38] myself. I feel like Liv has done that. Liv's poem gave Kat goosebumps, meaning she was so [39] that the hairs on her skin stood up making tiny bumps. Maybe poetry can't fix everything, but for Kat it's [40]. Now, what was the answer to your question, Neil? Well, you seemed very clear, Pippa, that when you use a string of words beginning with the same sound, it's called alliteration, and you're absolutely right. Phew! Okay, let's recap the vocabulary we've learnt, starting with open mic night, a live event where anyone is allowed to perform poems or music on stage.",
+      "If something touches your soul, it affects you deeply on an emotional or spiritual level. Jargon means special words and phrases that are used in a particular profession or subject. The adjective impenetrable means impossible to understand. A turn off is something that people dislike or find uninteresting. And finally, if you get goosebumps, the hairs on your skin stand up because you're cold, emotionally affected or afraid. Once again, our six minutes are up, but remember you'll find lots more episodes as well as a quiz and worksheet for this one on our website, bbclearningenglish.com. See you again soon, but for now it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "discussing poetry",
+      "an important part of their life",
+      "difficult to understand",
+      "an open mic night",
+      "a live event",
+      "recite poems",
+      "suffered a stroke",
+      "trying to grasp",
+      "touch your soul",
+      "having a bad day",
+      "heal emotions",
+      "an emotional or spiritual level",
+      "the positive power of poetry",
+      "the same initial ‘p’ sound",
+      "a string of words",
+      "alliteration",
+      "come in handy",
+      "overcome sadness",
+      "global issues",
+      "scientific papers",
+      "back to the audience",
+      "an adventure at sea",
+      "overfishing and polluting",
+      "unimaginable scale",
+      "a study into biodiversity",
+      "a complex research project",
+      "the communication of science",
+      "jargon",
+      "impenetrable",
+      "a turn off",
+      "specialist or technical vocabulary",
+      "everyday language",
+      "precipitation",
+      "impossible to understand",
+      "complex environmental ideas",
+      "the environmental scientist",
+      "gives me goosebumps",
+      "put into words",
+      "emotionally affected",
+      "making an impact for good"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "e49a477c130c",
+    "paraphrases": [
+      [
+        "open mic night",
+        "a live event where anyone can perform",
+        "đêm biểu diễn mở cho mọi người tham gia",
+        38.4,
+        51.2
+      ],
+      [
+        "recite",
+        "say a poem aloud",
+        "đọc thành tiếng một bài thơ",
+        44,
+        56.8
+      ],
+      [
+        "touch your soul",
+        "affect you deeply emotionally or spiritually",
+        "chạm tới cảm xúc sâu sắc",
+        88,
+        97.1
+      ],
+      [
+        "alliteration",
+        "repetition of an initial sound in nearby words",
+        "phép điệp âm đầu",
+        112.4,
+        135
+      ],
+      [
+        "come in handy",
+        "prove useful",
+        "trở nên hữu ích khi cần",
+        135.2,
+        140.7
+      ],
+      [
+        "jargon",
+        "specialist vocabulary used in a field",
+        "thuật ngữ chuyên ngành",
+        220.6,
+        232.7
+      ],
+      [
+        "impenetrable",
+        "very difficult or impossible to understand",
+        "khó hiểu, không thể hiểu thấu",
+        232.3,
+        245.3
+      ],
+      [
+        "turn off",
+        "something that makes people lose interest",
+        "điều khiến người ta mất hứng thú",
+        239,
+        250.6
+      ],
+      [
+        "goosebumps",
+        "small raised bumps on the skin caused by emotion or cold",
+        "nổi da gà do xúc động hoặc lạnh",
+        281.2,
+        295.1
+      ],
+      [
+        "put into words",
+        "express an idea or feeling verbally",
+        "diễn đạt thành lời",
+        268.6,
+        281.1
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "open mic night",
+        "meaning": "đêm biểu diễn mở cho mọi người tham gia",
+        "note": "a live event where anyone can perform"
+      },
+      {
+        "term": "recite",
+        "meaning": "đọc thành tiếng một bài thơ",
+        "note": "say a poem aloud"
+      },
+      {
+        "term": "touch your soul",
+        "meaning": "chạm tới cảm xúc sâu sắc",
+        "note": "affect you deeply emotionally or spiritually"
+      },
+      {
+        "term": "alliteration",
+        "meaning": "phép điệp âm đầu",
+        "note": "repetition of an initial sound in nearby words"
+      },
+      {
+        "term": "come in handy",
+        "meaning": "trở nên hữu ích khi cần",
+        "note": "prove useful"
+      },
+      {
+        "term": "jargon",
+        "meaning": "thuật ngữ chuyên ngành",
+        "note": "specialist vocabulary used in a field"
+      },
+      {
+        "term": "impenetrable",
+        "meaning": "khó hiểu, không thể hiểu thấu",
+        "note": "very difficult or impossible to understand"
+      },
+      {
+        "term": "turn off",
+        "meaning": "điều khiến người ta mất hứng thú",
+        "note": "something that makes people lose interest"
+      },
+      {
+        "term": "goosebumps",
+        "meaning": "nổi da gà do xúc động hoặc lạnh",
+        "note": "small raised bumps on the skin caused by emotion or cold"
+      },
+      {
+        "term": "put into words",
+        "meaning": "diễn đạt thành lời",
+        "note": "express an idea or feeling verbally"
+      }
+    ],
+    "signals": []
+  },
+  "75": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Pippa. Are you good at [1], Neil? Or do you like to spend it? Well, actually, a bit of both. I like to spend money on nice things, but I also try to save mainly because I've got children. How about you? Yeah, I'm the same. I like to save money or I try to for the future, but I also do spend it. I don't count [2] that I spend and save every single penny that I earn. Well, whether you're [3], [4] is common in the UK. Debt refers to money a person has borrowed to buy something and which they have to pay back, usually to a bank, [5] or another person. Many people [6], but it affects us all.",
+      "In 2025, over 1,000 people contacted the UK Citizens Advice Bureau every single day of the year for help with their debt. And when debt gets [7], it causes [8]. BBC Radio 4 programme Thinking Allowed interviewed one young man, Jason, about his debt. Whatever jobs there are aren't enough to [9]. Sometimes you need to [10]. I've done it a few times. You can't ever [11]. You can't see [12] other than [13] or something. I'd like to think I could clear them all one day, even if it means like five years [14]. Jason uses three phrases, payback, pay off and [15], all of which mean the same thing, to give back [16].",
+      "In this episode, we'll hear more about living with debt by learning some useful new words and phrases. And remember, you'll find all the vocabulary used plus a quiz and worksheet on our website, bbclearningenglish.com. But first, I have a question for you, Pippa. According to debt support group The Money Charity, roughly how much is the average British adult in debt through [17]? Is it a. [18], b. 4,200 pounds, or c. 6,200 pounds? I'm not sure. I'll say 2,200 pounds. OK. Well, we will find out the answer later in the programme. Jason's story features in a new book by sociologist Ryan Davey. Ryan spent months living in [19], which he gave [20] Woldham.",
+      "He talked with residents and listened to their [21]. Here, Ryan explains more to BBC Radio 4's Thinking Allowed. My approach was to let people know that I was interested in learning about their lives and how they were [22]. So I did some interviews with residents and I paid attention to where debt came up in [23]. For many people in Woldham, Jason included debt was an ordinary, ordinary feature of daily life and beyond that [24], so being behind with one or more [25] was part of daily life. The people of Woldham were making ends meet. To make ends meet means having just enough money to pay for [26] like [27].",
+      "Ryan found that many residents were in arrears, a phrase meaning to still owe money that should have [28]. For most residents, debt was a normal part of daily life. With [29], debt can be managed but for those who are [30] or on low incomes it can cause [31]. Here, Ryan discusses how the residents he met felt about their debt with BBC Radio 4's Thinking Allowed. Jason actually [32] between wanting to clear all of his debts. On the one hand and on the other, what he described as living on the never never and actually questioning [33] to pay his debts. Over the months that I knew him, [34] on him and his partner increased, they missed some of their bills, [35].",
+      "Jason was living on the never never, an informal phrase for buying the things you need by making [36] over a long time. It's called the never never because it seems the debt will never be repaid. Jason experienced financial strain, emotional stress caused by [37] to meet his [38] or to repay his debt. Debt is a serious issue, it affects many people and there are [39] who can help if you need it. Okay, Neil, what was the answer to your question? I asked what the average amount of debt a British adult has through credit cards, overdrafts and personal loans. I said it was around £2,200. I'm afraid that's not the right answer, in fact it's [40]. Okay, let's recap the vocabulary we've learned starting with debt.",
+      "Money a person has borrowed and needs to give back. The phrases to pay back, to pay off and to clear a debt, all mean to give back money you have borrowed. If someone is making ends meet, they have just enough money to pay for basic living expenses, and if they are in arrears, they still owe money that should have been repaid already. If you buy something on the never never, you buy it by making small regular payments over a long period. And finally, financial strain is emotional stress caused by a lack of money to meet your basic needs. Once again, our six minutes are up, but if you'd like to know how debt is spelled and all the other words from this episode, visit our website bbclearningenglish.com to find a full vocabulary list.",
+      "See you again soon, but for now it's goodbye."
+    ],
+    "answers": [
+      "saving money",
+      "every penny",
+      "a saver or a spender",
+      "being in debt",
+      "a credit card company",
+      "avoid talking about debt",
+      "out of control",
+      "stress and worry",
+      "provide for a family",
+      "take out loans",
+      "pay it back",
+      "a way out",
+      "winning the lottery",
+      "paying them off",
+      "clear debt",
+      "the money you've borrowed",
+      "credit cards, overdrafts and personal loans",
+      "2,200 pounds",
+      "a low-income housing estate",
+      "the fictional name",
+      "money worries",
+      "making ends meet",
+      "everyday conversations",
+      "being in arrears",
+      "monthly payment commitments",
+      "basic living expenses",
+      "food, bills and rent",
+      "already been repaid",
+      "a regular income",
+      "unemployed",
+      "serious distress",
+      "fluctuated",
+      "the supposed moral obligation",
+      "the financial strain",
+      "their internet was disconnected",
+      "regular small payments",
+      "a lack of money",
+      "basic needs",
+      "support groups",
+      "£4,232"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "two thousand two hundred pounds",
+        "two thousand and two hundred pounds",
+        "£2,200"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "4,232 pounds",
+        "four thousand two hundred and thirty-two pounds",
+        "four thousand two hundred thirty-two pounds"
+      ]
+    ],
+    "contentRevision": "c6601ce5e611",
+    "paraphrases": [
+      [
+        "debt",
+        "money that has been borrowed and must be returned",
+        "khoản tiền đã vay và phải trả",
+        42.2,
+        60.3
+      ],
+      [
+        "out of control",
+        "no longer manageable",
+        "vượt khỏi khả năng kiểm soát",
+        67.2,
+        82.4
+      ],
+      [
+        "take out loans",
+        "borrow money under a repayment agreement",
+        "vay tiền theo thỏa thuận hoàn trả",
+        82.6,
+        90.8
+      ],
+      [
+        "clear debt",
+        "repay all the money owed",
+        "thanh toán hết khoản nợ",
+        97.4,
+        107.9
+      ],
+      [
+        "making ends meet",
+        "having enough money for essential living costs",
+        "xoay xở đủ chi phí sinh hoạt",
+        198.4,
+        211.1
+      ],
+      [
+        "in arrears",
+        "behind with payments that should already have been made",
+        "chậm thanh toán khoản đã đến hạn",
+        210.6,
+        216.6
+      ],
+      [
+        "fluctuated",
+        "moved back and forth between different states",
+        "dao động giữa các trạng thái",
+        234.4,
+        253.9
+      ],
+      [
+        "on the never never",
+        "paying for purchases through small instalments over time",
+        "mua trả góp kéo dài",
+        260.5,
+        279.7
+      ],
+      [
+        "financial strain",
+        "stress caused by not having enough money",
+        "áp lực tài chính",
+        278,
+        286.9
+      ],
+      [
+        "basic needs",
+        "essential requirements for everyday life",
+        "nhu cầu thiết yếu hằng ngày",
+        279.3,
+        286.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "debt",
+        "meaning": "khoản tiền đã vay và phải trả",
+        "note": "money that has been borrowed and must be returned"
+      },
+      {
+        "term": "out of control",
+        "meaning": "vượt khỏi khả năng kiểm soát",
+        "note": "no longer manageable"
+      },
+      {
+        "term": "take out loans",
+        "meaning": "vay tiền theo thỏa thuận hoàn trả",
+        "note": "borrow money under a repayment agreement"
+      },
+      {
+        "term": "clear debt",
+        "meaning": "thanh toán hết khoản nợ",
+        "note": "repay all the money owed"
+      },
+      {
+        "term": "making ends meet",
+        "meaning": "xoay xở đủ chi phí sinh hoạt",
+        "note": "having enough money for essential living costs"
+      },
+      {
+        "term": "in arrears",
+        "meaning": "chậm thanh toán khoản đã đến hạn",
+        "note": "behind with payments that should already have been made"
+      },
+      {
+        "term": "fluctuated",
+        "meaning": "dao động giữa các trạng thái",
+        "note": "moved back and forth between different states"
+      },
+      {
+        "term": "on the never never",
+        "meaning": "mua trả góp kéo dài",
+        "note": "paying for purchases through small instalments over time"
+      },
+      {
+        "term": "financial strain",
+        "meaning": "áp lực tài chính",
+        "note": "stress caused by not having enough money"
+      },
+      {
+        "term": "basic needs",
+        "meaning": "nhu cầu thiết yếu hằng ngày",
+        "note": "essential requirements for everyday life"
+      }
+    ],
+    "signals": []
+  },
+  "76": {
+    "paragraphs": [
+      "6 Minute English from bbclearningenglish.com Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Georgie. Neil, I'm going to play you [1], and I want you to tell me how you feel when you hear them. Okay. First this, and now this. Oh, well, that first clip made me feel [2], but the second one, oh, it's horrible. I felt quite [3], actually. Oh, no. Well, this little experiment shows how much we are [4] around us. And that's a problem if you're one of the [5] around the world who live in cities. Yes, whether it's [6], [7], or the roar of airplanes overhead, modern cities are full of noise, and this can have [8].",
+      "The World Health Organisation reports that by 2050, around [9] will experience [10]. And [11] has been linked to [12]. In this episode, we'll be hearing about ways to make our cities quieter, more relaxing places, using some useful new words and phrases, and remember, you'll find all the vocabulary along with a quiz and worksheet on our website, bbclearningenglish.com. But now I have a question for you, Georgie. Sound is measured in units called [13]. But how many decibels would it be if I whispered a whisper is speaking like this? Is it A, three decibels, B, 13 decibels, or C, 30 decibels? Oh, that's really hard. I'll go for B, 13 decibels.",
+      "Well, we'll find out the answer at the end of the programme. Let's start in [14] in the world, Mumbai in India, where daytime noise levels regularly hit [15], which is over 20 decibels higher than World Health Organisation [16]. Listen to Mumbai native Chhavi Sachdev share her experiences of living in this noisy city with BBC World Service programme People Fixing the World. I mean, India in general is just really loud. We are a loud people. We dress loud, we talk loud, we celebrate loud, we watch movies loud. When people ask me what I miss about [17], I tell them it's the quiet because after [18] of living in the US and Europe, when I got back, I realised I [19].",
+      "I'd gotten used to [20]. Chhavi says Indians talk loud, celebrate loud and [21]. To dress loud means to wear clothes with [22] and [23]. When Chhavi returned to India after [24], she says she couldn't handle the noise. If you can't handle something, you find it [25]. So what can be done to [26] in cities like Mumbai? One interesting approach involves using sound itself to make things feel quieter. Soundscaping is the idea of adding certain sounds to [27] so that they sound and feel more relaxing. Sound artist Charles Montambault lives near the Parc des Madelinots, a busy city park in Montreal, Canada.",
+      "Charles was inspired to [28] he heard on holiday in the Magdalen Islands in his city park back home. On BBC World Service programme People Fixing the World, he tells reporter Natasha Fernandes that these sounds included ocean waves and some [29]. The sand on the Magdalen Islands can sing when you walk into the sand firmly. The sand makes some [30], so that's one sound that is kind of funny, kind of special. Inside the small park, [31], Charles and his team set up [32] in the form of [33]. So the installation was really to make this park a little quieter by adding some quiet noises.",
+      "So it's [34], but you can make a park less noisy by adding some [35]. The sand on the Magdalen Islands is squeaky. It makes [36] called a squeak when stepped on. Charles played recordings of this sand, ocean waves and other relaxing sounds through speakers [37]. He created an art installation, a work of art designed to give people [38]. By adding more relaxing sounds, Charles' installation actually made the park feel quieter. It's an example of something that's counterintuitive, meaning it happens differently from how you would expect. What a great idea. And similar soundscapes are now helping [39] relax in other cities too, including Tokyo and Barcelona.",
+      "Now Neil, you asked me a question about a very quiet sound, a whisper. So are you going to reveal the correct answer? I asked you how loud a whisper is. Yes, and I said 13 decibels. Well, 13 is an unlucky number, and you are wrong. It was actually [40]. Okay, let's recap the vocabulary we've learned, starting with decibel, the unit for measuring sound. Someone who dresses loud likes to wear clothes with bright colours and bold designs. If you can't handle something, you find it difficult to deal with. An art installation is an artwork designed to create an interactive experience in a certain space. The adjective squeaky describes things which make a high-pitched sound, like a mouse. Squeak, squeak! And finally, if you call something counterintuitive, you mean it happens differently from how you would expect.",
+      "Once again, our six minutes are up, but if you'd like to hear more about this and many other trending topics, you'll find more episodes and learning activities on our website, bbclearningenglish.com. See you again soon, but for now, it's goodbye. Goodbye. 6 Minute English, from bbclearningenglish.com"
+    ],
+    "answers": [
+      "two sound recordings",
+      "really relaxed",
+      "stressed out",
+      "affected by the noise",
+      "four billion people",
+      "the rattle of train tracks",
+      "honking car horns",
+      "serious effects",
+      "two and a half billion people",
+      "hearing loss",
+      "exposure to loud noise",
+      "stress and anxiety",
+      "decibels",
+      "one of the noisiest cities",
+      "80 decibels",
+      "recommendations",
+      "living abroad",
+      "12 years",
+      "couldn't handle it anymore",
+      "lower levels of noise",
+      "dress loud",
+      "bright colours",
+      "large bold patterns",
+      "living overseas",
+      "difficult to deal or cope with",
+      "tackle noise",
+      "busy public spaces",
+      "recreate the ocean sounds",
+      "unusual sounding sand",
+      "squeaky sounds",
+      "surrounded by busy roads",
+      "an immersive sound installation",
+      "speakers planted in flower beds",
+      "counterintuitive",
+      "calmer sounds",
+      "a high-pitched sound",
+      "hidden in the park",
+      "an interactive experience",
+      "city dwellers",
+      "30"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "4 billion people"
+      ],
+      [],
+      [],
+      [],
+      [
+        "2.5 billion people",
+        "two point five billion people"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "eighty decibels"
+      ],
+      [],
+      [],
+      [
+        "twelve years"
+      ],
+      [],
+      [],
+      [],
+      [
+        "bright colors"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "thirty"
+      ]
+    ],
+    "contentRevision": "3446e47f6883",
+    "paraphrases": [
+      [
+        "stressed out",
+        "feeling very anxious or tense",
+        "cảm thấy rất căng thẳng",
+        27.7,
+        40.3
+      ],
+      [
+        "hearing loss",
+        "a reduced ability to hear",
+        "suy giảm khả năng nghe",
+        61.4,
+        72.5
+      ],
+      [
+        "decibels",
+        "units used to measure sound level",
+        "đơn vị đo mức âm thanh",
+        91,
+        100.1
+      ],
+      [
+        "dress loud",
+        "wear bright colours and bold patterns",
+        "mặc đồ màu nổi, họa tiết nổi bật",
+        160,
+        168.8
+      ],
+      [
+        "can't handle",
+        "find too difficult to cope with",
+        "không thể chịu đựng hoặc xử lý",
+        169,
+        178.9
+      ],
+      [
+        "soundscaping",
+        "adding sounds to shape how a place feels",
+        "tạo cảnh quan âm thanh cho không gian",
+        183,
+        194.8
+      ],
+      [
+        "squeaky",
+        "making a high-pitched sound",
+        "phát ra tiếng cao, chói",
+        258.2,
+        264.7
+      ],
+      [
+        "art installation",
+        "art arranged to create an experience in a space",
+        "tác phẩm nghệ thuật sắp đặt",
+        271.4,
+        277.7
+      ],
+      [
+        "counterintuitive",
+        "contrary to what you would normally expect",
+        "trái với điều thường nghĩ",
+        278,
+        289.9
+      ],
+      [
+        "city dwellers",
+        "people who live in cities",
+        "những người sống ở thành phố",
+        291.6,
+        298
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "stressed out",
+        "meaning": "cảm thấy rất căng thẳng",
+        "note": "feeling very anxious or tense"
+      },
+      {
+        "term": "hearing loss",
+        "meaning": "suy giảm khả năng nghe",
+        "note": "a reduced ability to hear"
+      },
+      {
+        "term": "decibels",
+        "meaning": "đơn vị đo mức âm thanh",
+        "note": "units used to measure sound level"
+      },
+      {
+        "term": "dress loud",
+        "meaning": "mặc đồ màu nổi, họa tiết nổi bật",
+        "note": "wear bright colours and bold patterns"
+      },
+      {
+        "term": "can't handle",
+        "meaning": "không thể chịu đựng hoặc xử lý",
+        "note": "find too difficult to cope with"
+      },
+      {
+        "term": "soundscaping",
+        "meaning": "tạo cảnh quan âm thanh cho không gian",
+        "note": "adding sounds to shape how a place feels"
+      },
+      {
+        "term": "squeaky",
+        "meaning": "phát ra tiếng cao, chói",
+        "note": "making a high-pitched sound"
+      },
+      {
+        "term": "art installation",
+        "meaning": "tác phẩm nghệ thuật sắp đặt",
+        "note": "art arranged to create an experience in a space"
+      },
+      {
+        "term": "counterintuitive",
+        "meaning": "trái với điều thường nghĩ",
+        "note": "contrary to what you would normally expect"
+      },
+      {
+        "term": "city dwellers",
+        "meaning": "những người sống ở thành phố",
+        "note": "people who live in cities"
+      }
+    ],
+    "signals": []
+  },
+  "77": {
+    "paragraphs": [
+      "Hello, welcome to Six Minute English from BBC Learning English. I'm Becca. And I'm Georgie. Remember, you can find all this episodes vocabulary along with a transcript and worksheet on our website, bbclearningenglish.com. Now Becca, do you read a lot? Hmm, I don't [1]. I just feel like I don't have the time, Georgie. How about yourself? I would love to read more, but I don't read very much at the moment. I read mostly before bed because I feel like it [2] and go to sleep. And today we're talking all about reading. We'll be hearing from some experts about how reading can [3]. And as usual, we'll be learning some useful new words and phrases. Let's start with a quiz question.",
+      "[4] in the world is widely thought to be by [5] Marcel Proust, a book which, when translated into English, means [6]. But how many words does the book contain? Is it A, [7]? B, [8]? Or C, [9]? Okay, the longest novel in the world. I still think 13 million words sounds too many. So I'm going to go with B, 1.3 million. Alright, we'll find out at the end of the program. Now, we might think of reading as like speaking. We're [10] to do it, and then we learn. It's natural. If something is natural, it's something you were born with or that [11]. But Maryanne Wolf, author of the book Reader Come Home, says that this isn't true.",
+      "We think of language as natural. And reading is [12], so it must be natural. But it isn't. It isn't natural at all. Scientific studies suggest that when we're born, our brains already have [13] that allow our eyes to see and our [14] to produce sounds. But not with [15]. Let's hear more from psychologist and neuroscientist Rebecca Gotlieb, speaking to the BBC World Service. From [16], our brain hasn't had enough time to develop [17]. And so to build a reading brain network, we [18] involved in vision and [19] and language and attention and affect. Reading is really [20].",
+      "It involves activation in [21] of the cortex, the process of developing a reading brain alters everything from brain activity to [22] and [23]. The power of deep reading is really [24]. When we read deeply, we change our brains and we [25]. Rebecca says that our brains haven't evolved to include a dedicated reading brain. Dedicated here means designed and used for [26]. So, because we don't have a part of the brain designed specifically for reading, when we learn to read, we co-opt other parts of the brain. Co-opt here means to include someone or something, often [27]. Right. Learning to read means using lots of [28] that are designed for other things.",
+      "And this changes our brain structure compared to someone who hasn't learned to read. And the language we read also shapes our brain. [29], for example, use [30] of the alphabet to represent words and ideas. Research suggests that learning to read these symbols activates different areas of the brain to reading [31]. Scientists studied [32] who could read and speak Chinese and English. The man [33] which affected parts of his brain, including his ability to read Chinese. But amazingly, he was [34]. Maryanne Wolf explains more to the BBC World Service. It's a beautiful example of how [35] reflects the requirements of Chinese, which inevitably means more [36] and [37] of those beautifully [38] or characters.",
+      "Maryanne says that the brain's circuit is shaped by learning to read Chinese. A circuit is [39]. The visual qualities of Chinese symbols inevitably mean more visual areas of the brain are developed. Inevitably means in a way that cannot be stopped or avoided. Maryanne describes the symbolic Chinese characters as beautifully intricate. If something is intricate, it has lots of detail. And something which also has lots of detail or certainly lots of words, I asked you, Georgie, how many words are in Marcel Proust's Remembrance of Things Past? I said 1.3 million. And you were correct! Yay! The book also contains lots of very long sentences, including one with [40]. One sentence with 900 words, that is a lot.",
+      "Okay, it's time to recap the language we learned during this programme, starting with natural, which describes something you were born with or that comes from nature. Dedicated can describe something that is designed and used for one particular purpose. If you co-opt someone or something, you involve them, sometimes against their will. A circuit is a system of connections, for example, in the brain. Inevitably means in a way that cannot be stopped or avoided. And, intricate, describes something which has lots of detail. That's it for this episode of 6 Minute English. Tell us what you've learned with the worksheet on our website, bbclearningenglish.com. Thanks for joining us! Goodbye! Bye!"
+    ],
+    "answers": [
+      "read often",
+      "helps me relax",
+      "change our brains",
+      "The longest novel",
+      "French author",
+      "Remembrance of Things Past",
+      "130,000",
+      "1.3 million",
+      "13 million",
+      "born with the potential",
+      "comes from nature",
+      "written language",
+      "the networks",
+      "vocal cords",
+      "the pathways we need to read",
+      "an evolutionary timescale",
+      "a dedicated reading brain",
+      "co-opt parts of the brain",
+      "auditory processing",
+      "a whole brain process",
+      "all four lobes",
+      "brain structure",
+      "brain connectivity",
+      "fundamental to our humanity",
+      "change who we are",
+      "one particular purpose",
+      "against their will",
+      "different parts of the brain",
+      "Chinese characters",
+      "symbols instead of letters",
+      "an alphabet-based system",
+      "a bilingual man",
+      "suffered a stroke",
+      "still able to read English",
+      "the brain's circuit",
+      "visual memory",
+      "visual processing",
+      "intricate symbols",
+      "a system of connections",
+      "over 900 words"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "one hundred and thirty thousand",
+        "one hundred thirty thousand"
+      ],
+      [
+        "one point three million"
+      ],
+      [
+        "thirteen million"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "over nine hundred words"
+      ]
+    ],
+    "contentRevision": "47d3a7e85cff",
+    "paraphrases": [
+      [
+        "potential",
+        "the capacity to develop an ability",
+        "tiềm năng phát triển một khả năng",
+        88,
+        98.3
+      ],
+      [
+        "natural",
+        "inborn or originating in nature",
+        "bẩm sinh hoặc có nguồn gốc tự nhiên",
+        93.6,
+        104.7
+      ],
+      [
+        "dedicated",
+        "designed for one particular purpose",
+        "được dành riêng cho một mục đích",
+        183.6,
+        194.8
+      ],
+      [
+        "co-opt",
+        "bring something into use for a different purpose",
+        "huy động để dùng cho mục đích khác",
+        194.4,
+        210.8
+      ],
+      [
+        "fundamental",
+        "of basic and great importance",
+        "có tính nền tảng, rất quan trọng",
+        162.4,
+        183.9
+      ],
+      [
+        "bilingual",
+        "able to use two languages",
+        "có khả năng sử dụng hai ngôn ngữ",
+        232.6,
+        244.9
+      ],
+      [
+        "circuit",
+        "a system of connected parts",
+        "một hệ thống các bộ phận kết nối",
+        269,
+        281.5
+      ],
+      [
+        "inevitably",
+        "in a way that cannot be avoided",
+        "một cách không thể tránh khỏi",
+        281.1,
+        293.4
+      ],
+      [
+        "intricate",
+        "containing many detailed parts",
+        "tinh vi, có nhiều chi tiết",
+        292.9,
+        299.6
+      ],
+      [
+        "brain connectivity",
+        "the connections between parts of the brain",
+        "các kết nối giữa những phần của não",
+        162.4,
+        177.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "potential",
+        "meaning": "tiềm năng phát triển một khả năng",
+        "note": "the capacity to develop an ability"
+      },
+      {
+        "term": "natural",
+        "meaning": "bẩm sinh hoặc có nguồn gốc tự nhiên",
+        "note": "inborn or originating in nature"
+      },
+      {
+        "term": "dedicated",
+        "meaning": "được dành riêng cho một mục đích",
+        "note": "designed for one particular purpose"
+      },
+      {
+        "term": "co-opt",
+        "meaning": "huy động để dùng cho mục đích khác",
+        "note": "bring something into use for a different purpose"
+      },
+      {
+        "term": "fundamental",
+        "meaning": "có tính nền tảng, rất quan trọng",
+        "note": "of basic and great importance"
+      },
+      {
+        "term": "bilingual",
+        "meaning": "có khả năng sử dụng hai ngôn ngữ",
+        "note": "able to use two languages"
+      },
+      {
+        "term": "circuit",
+        "meaning": "một hệ thống các bộ phận kết nối",
+        "note": "a system of connected parts"
+      },
+      {
+        "term": "inevitably",
+        "meaning": "một cách không thể tránh khỏi",
+        "note": "in a way that cannot be avoided"
+      },
+      {
+        "term": "intricate",
+        "meaning": "tinh vi, có nhiều chi tiết",
+        "note": "containing many detailed parts"
+      },
+      {
+        "term": "brain connectivity",
+        "meaning": "các kết nối giữa những phần của não",
+        "note": "the connections between parts of the brain"
+      }
+    ],
+    "signals": []
+  },
+  "78": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Becca. Neil, do you believe that [1]? Well, I'm not sure about the kind of little green men that you see in [2], but also I think we cannot be [3]. What about you, Becca? What do you think? I agree. I think that maybe life does exist [4], but maybe not as we see in alien movies. Well, in this episode, we'll be learning from science and space experts about whether [5] exist on a planet [6]. Yes, and as usual, you can find a transcript for this episode along with all the vocabulary and a worksheet on our website, bbclearningenglish.com.",
+      "Okay, a quiz question for you, Becca. How long would it take to drive a car to the sun at [7]? Is it a, [8], b, [9], or c, [10]? Well, Neil, the sun seems very far away, so I'll go for c, 1,700 years. I hope you have enough petrol for that. Well, we'll find out the answer to the question later. Now though, some science and space experts are excited about a planet in [11] from our own. Science journalist Caroline Steele talks about this discovery on the BBC World Service programme, What in the World? So, scientists have been looking at [12], so that's a planet that exists in a solar system that isn't our own, called TRAPPIST-1e. And it's [13] like Earth, it's [14], and it exists in [15] around its sun, and its sun is called TRAPPIST-1.",
+      "Caroline explains that scientists have discovered that the planet TRAPPIST-1e exists in the habitable zone around its sun. The adjective habitable describes a place or habitat that is [16]. Yes, and a zone is [17]. For example, people who live in [18] have to be [19]. So a habitable zone is an area where something could live. Caroline goes on to explain why they think TRAPPIST-1e [20]. Scientists have been looking at [21] around TRAPPIST-1e, and they've ruled out that it's really full of [22], which is a great thing because they're [23], which would make the planet really hot, and there are [24] that it [25], which again is another sort of clue that [26].",
+      "Caroline Steele says that scientists are looking at the potential atmosphere around TRAPPIST-1e, that is, they want to find out if the atmosphere is capable or likely to become able to host life. If something has potential, it already has the qualities or abilities to do something. The adjective potential has a similar meaning, but refers to [27]. Exactly, we could say [28] in that it shows signs of helping the research. But when we talk about potential data, we're referring to data that could help us with [29]. She also mentions how scientists have [30] that TRAPPIST-1e is full of hydrogen or carbon dioxide. The phrasal verb rule out means to [31] or idea of something.",
+      "Scientists have found that TRAPPIST-1e is not full of those greenhouse gases, they've ruled it out. Indeed, and Caroline goes on to say how the atmosphere of TRAPPIST-1e is [32]. If something is dominated by something else, it is controlled by it or is [33] of it. TRAPPIST-1e is full of nitrogen, which is exciting because nitrogen is a sign of life and habitability. So what if nitrogen is actually found on this planet? Caroline Steel has more. My guess is what we'll do is try and see what other gases are in the atmosphere and [34] to work out [35] and whether or not it's a temperature that basically [36] or maybe it's [37].",
+      "But [38] that it has nitrogen, there's enough of it to keep the planet a decent temperature and then that's one step closer to finding life. Caroline guesses that scientists will focus on the planet's temperature and whether it could support life. She uses the expression fingers crossed to express hope for [39]. Yes, we often make the physical gesture of crossing our fingers [40]. We do. That reminds me, Neil. The answer to your question, fingers crossed that I answered correctly. I see what you've done there, Becca. Yes, I asked you how long it would take to drive to the sun at 100 kilometres an hour and you answered C 1,700 years. Well, the sun is very far away, but the answer was B, only 170 years.",
+      "Oh well, that's still longer than my lifetime. Now let's have a recap of the language we've learned in this episode, starting with habitable, which describes a place or habitat that is suitable for something to live. A zone is an area with a particular feature. Potential describes having possible qualities or abilities to do something. The phrasal verb rule out means to dismiss the possibility or idea of something. We also had dominated. If something is dominated by something else, it is controlled by it or is the most significant element of it. And finally, the expression fingers crossed is used to wish for hope or luck. Once again, our six minutes are up, but head over to our website, bbclearningenglish.com for a quiz and worksheet for this episode.",
+      "See you soon. Goodbye for now. Bye."
+    ],
+    "answers": [
+      "life exists away from planet Earth",
+      "science fiction movies",
+      "alone in the universe",
+      "beyond our planet",
+      "the conditions for life",
+      "40 light years away",
+      "100 kilometres an hour",
+      "70 years",
+      "170 years",
+      "1,700 years",
+      "a different solar system",
+      "an exoplanet",
+      "a rocky planet",
+      "a similar size to Earth",
+      "the habitable zone",
+      "suitable for something to live",
+      "an area with a particular feature",
+      "earthquake zones",
+      "prepared for danger",
+      "may be habitable",
+      "the potential atmosphere",
+      "hydrogen or carbon dioxide",
+      "greenhouse gases",
+      "some small clues",
+      "might be a nitrogen-dominated atmosphere",
+      "there could be life there",
+      "future capability",
+      "the data has potential",
+      "future research",
+      "ruled out",
+      "dismiss the possibility",
+      "dominated by nitrogen",
+      "the most significant element",
+      "use models",
+      "how warm the planet could be",
+      "could support life",
+      "too hot or too cold",
+      "fingers crossed",
+      "a positive outcome",
+      "for good luck"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "forty light years away"
+      ],
+      [
+        "one hundred kilometres an hour",
+        "100 kilometers an hour"
+      ],
+      [
+        "seventy years"
+      ],
+      [
+        "one hundred and seventy years",
+        "one hundred seventy years"
+      ],
+      [
+        "one thousand seven hundred years",
+        "seventeen hundred years"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "79a8c0e802ff",
+    "paraphrases": [
+      [
+        "exoplanet",
+        "a planet outside our own solar system",
+        "ngoại hành tinh, nằm ngoài Hệ Mặt Trời",
+        102.3,
+        111.3
+      ],
+      [
+        "habitable",
+        "suitable for living things",
+        "có điều kiện thích hợp để sinh sống",
+        132.1,
+        141.5
+      ],
+      [
+        "zone",
+        "an area with a particular characteristic",
+        "khu vực có một đặc điểm nhất định",
+        137.3,
+        150.9
+      ],
+      [
+        "potential atmosphere",
+        "an atmosphere that may exist",
+        "bầu khí quyển có thể tồn tại",
+        155.6,
+        169.8
+      ],
+      [
+        "small clues",
+        "limited pieces of suggestive evidence",
+        "những dấu hiệu nhỏ mang tính gợi ý",
+        169.4,
+        178.3
+      ],
+      [
+        "potential",
+        "possible future capacity or capability",
+        "khả năng hoặc tiềm năng trong tương lai",
+        190,
+        211.9
+      ],
+      [
+        "rule out",
+        "dismiss a possibility",
+        "loại trừ một khả năng",
+        211.5,
+        231.2
+      ],
+      [
+        "dominated by",
+        "having something as its main element",
+        "có một yếu tố chiếm ưu thế",
+        231.2,
+        250.3
+      ],
+      [
+        "could support life",
+        "might provide conditions for living things",
+        "có thể tạo điều kiện cho sự sống",
+        257.7,
+        272
+      ],
+      [
+        "fingers crossed",
+        "hoping that something good will happen",
+        "hy vọng một kết quả tốt đẹp",
+        277.2,
+        293.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "exoplanet",
+        "meaning": "ngoại hành tinh, nằm ngoài Hệ Mặt Trời",
+        "note": "a planet outside our own solar system"
+      },
+      {
+        "term": "habitable",
+        "meaning": "có điều kiện thích hợp để sinh sống",
+        "note": "suitable for living things"
+      },
+      {
+        "term": "zone",
+        "meaning": "khu vực có một đặc điểm nhất định",
+        "note": "an area with a particular characteristic"
+      },
+      {
+        "term": "potential atmosphere",
+        "meaning": "bầu khí quyển có thể tồn tại",
+        "note": "an atmosphere that may exist"
+      },
+      {
+        "term": "small clues",
+        "meaning": "những dấu hiệu nhỏ mang tính gợi ý",
+        "note": "limited pieces of suggestive evidence"
+      },
+      {
+        "term": "potential",
+        "meaning": "khả năng hoặc tiềm năng trong tương lai",
+        "note": "possible future capacity or capability"
+      },
+      {
+        "term": "rule out",
+        "meaning": "loại trừ một khả năng",
+        "note": "dismiss a possibility"
+      },
+      {
+        "term": "dominated by",
+        "meaning": "có một yếu tố chiếm ưu thế",
+        "note": "having something as its main element"
+      },
+      {
+        "term": "could support life",
+        "meaning": "có thể tạo điều kiện cho sự sống",
+        "note": "might provide conditions for living things"
+      },
+      {
+        "term": "fingers crossed",
+        "meaning": "hy vọng một kết quả tốt đẹp",
+        "note": "hoping that something good will happen"
+      }
+    ],
+    "signals": []
+  },
+  "79": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Phil. And I'm Pippa. If you've eaten anything today, then it's likely that some of your food was [1]. Food containing [2] like [3]. Ultra-processed foods are everywhere, from [4] to [5]. They might taste good, but the bad news is that ultra-processed foods have been [6]. They often contain lots of [7], and have been linked to problems like [8]. So how can we tell what food is ultra-processed and what's not? Here's health reporter Annabel Rackham on BBC World Service programme, What in the World. Ultra-processed foods are things that contain [9] and things that you wouldn't find in [10].",
+      "It's going to have things on there like [11], dyes and sweeteners. Annabel describes ultra-processed foods as things containing ingredients you wouldn't find in your kitchen. Do you eat much ultra-processed food, Pippa, or do you [12]? I used to eat a lot of ultra-processed foods, and now I try to [13] and not eat things like chocolate and snacks all day. How about you? I think the same. I try to cook things using just your [14], just so you know what's gone into it. In this episode, we'll be discussing ultra-processed food, as well as learning some useful new vocabulary. And remember, there's also a quiz and worksheet available on our website, bbclearningenglish.com.",
+      "But now I have a question for you, Pippa. [15] like [16] are another example of popular ultra-processed foods, but when were fizzy drinks invented? Was it A, [17], B, [18], or C, [19]? Well, I think it was before 1972, but 1772 sounds like too early, so I'm going to say B, 1872. We'll find out the answer at the end of the programme. One reason for the popularity of ultra-processed food is [20]. Let's hear more from health reporter Annabel, who talks here with Hannah Gelbart, presenter of BBC World Service’s What in the World. So I do think convenience is the main issue there. And again, with [21], you put it in the microwave for [22], it's done, it's hot, it serves you.",
+      "Whereas, you know, sometimes cooking a fresh meal [23], that can take a really long time. What's your ultra-processed guilty food? I'm a chocolate girl, a packet of biscuits, something like that, a cake. That's [24]. Ultra-processed foods like ready meals are convenient. A ready meal is a meal from a supermarket that has [25] and can be [26] in a microwave. That's a lot quicker and easier than cooking from scratch. An idiom meaning to do something from [27] without using anything that's already been made. Even though ultra-processed foods are [28], they taste good. That's why Annabel calls chocolate her guilty pleasure. A guilty pleasure is something you enjoy, but think you shouldn't and feel [29] about.",
+      "Ultra-processed food is a tricky topic. We know these foods have been linked to poor health, but at the same time, they're [30]. So what should we do? Here's Hannah and Annabel discussing this for BBC programme What in the World. Is it okay for me to have a packet of crisps [31]? Should we be cutting ultra-processed foods out of [32], or is there a way for us to still enjoy them [33]? I think the best thing to do is just [34]. Everything is fine [35]. Hannah asks if it's okay to eat ultra-processed foods once in a while or from time to time. The phrases once in a while and from time to time mean [36], sometimes but not very often.",
+      "Annabel replies using the phrase everything in moderation, which advises us that it's best to [37]. That sounds [38] to me, and it also means I won't feel bad about eating chocolate now and then. Okay, Pippa, it's time to reveal the answer to my question. Now, I asked you when fizzy drinks were invented. You said 1872, I'm afraid the correct answer was 1772. Apparently [39] was used to try to [40] on sea voyages. Wow, that is amazing. I wouldn't have thought it was that long ago. Right, let's recap the vocabulary we've learned, starting with ready meal. A meal from a supermarket that has already been prepared so you can heat it up quickly. If you do something from scratch, you do it from the very beginning without using anything that's already been made.",
+      "A guilty pleasure is something you enjoy, but feel guilty or embarrassed about because you think you shouldn't do it. The phrases once in a while and from time to time mean occasionally, not very often. And finally, the phrase everything in moderation is used to advise someone that is best to avoid too much of anything. Once again, our six minutes are up, but if you're hungry for more, head over to our website bbclearningenglish.com for more tasty topics and useful vocabulary. See you again soon, but for now, it's goodbye. Bye. Bye."
+    ],
+    "answers": [
+      "ultra-processed",
+      "artificial ingredients",
+      "additives and sweeteners",
+      "sliced bread",
+      "chocolate biscuits and crisps",
+      "linked to poor health",
+      "sugar and salt",
+      "obesity and diabetes",
+      "five or more ingredients",
+      "your average kitchen",
+      "emulsifiers, preservatives, additives",
+      "try to avoid it",
+      "cook everything myself",
+      "normal ingredients",
+      "Fizzy drinks",
+      "cola and lemonade",
+      "1772",
+      "1872",
+      "1972",
+      "convenience",
+      "a ready meal",
+      "a couple of minutes",
+      "from scratch",
+      "my guilty pleasure",
+      "already been prepared",
+      "heated up quickly",
+      "the very beginning",
+      "often unhealthy",
+      "a little embarrassed",
+      "cheap, convenient and taste good",
+      "once in a while",
+      "our diets completely",
+      "from time to time",
+      "not to panic",
+      "in moderation",
+      "occasionally",
+      "avoid too much of anything",
+      "sensible",
+      "carbonated water",
+      "prevent scurvy"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "5 or more ingredients"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "seventeen seventy-two",
+        "seventeen seventy two"
+      ],
+      [
+        "eighteen seventy-two",
+        "eighteen seventy two"
+      ],
+      [
+        "nineteen seventy-two",
+        "nineteen seventy two"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "d8fafd322b49",
+    "paraphrases": [
+      [
+        "ultra-processed",
+        "made with extensive processing and added ingredients",
+        "thực phẩm qua nhiều công đoạn chế biến với phụ gia",
+        13.3,
+        24.1
+      ],
+      [
+        "artificial ingredients",
+        "components made rather than naturally occurring",
+        "thành phần nhân tạo",
+        20,
+        24.1
+      ],
+      [
+        "convenience",
+        "ease of use and preparation",
+        "sự tiện lợi khi sử dụng hoặc chuẩn bị",
+        149.1,
+        154.2
+      ],
+      [
+        "ready meal",
+        "a prepared meal that only needs heating",
+        "bữa ăn chế biến sẵn, chỉ cần hâm nóng",
+        190.3,
+        197.1
+      ],
+      [
+        "from scratch",
+        "from the beginning without using a ready-made starting point",
+        "làm từ đầu, không dùng phần làm sẵn",
+        197.5,
+        206.8
+      ],
+      [
+        "guilty pleasure",
+        "something enjoyable that makes you feel a little guilty",
+        "thú vui khiến mình hơi áy náy",
+        212.6,
+        222.8
+      ],
+      [
+        "once in a while",
+        "occasionally",
+        "thỉnh thoảng, không thường xuyên",
+        256,
+        270.7
+      ],
+      [
+        "from time to time",
+        "now and then",
+        "đôi khi, thỉnh thoảng",
+        256,
+        270.7
+      ],
+      [
+        "everything in moderation",
+        "avoid excessive amounts of anything",
+        "mọi thứ nên dùng có chừng mực",
+        271.2,
+        278.9
+      ],
+      [
+        "carbonated water",
+        "water containing dissolved gas that makes bubbles",
+        "nước được bổ sung khí ga",
+        289.7,
+        307.2
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "ultra-processed",
+        "meaning": "thực phẩm qua nhiều công đoạn chế biến với phụ gia",
+        "note": "made with extensive processing and added ingredients"
+      },
+      {
+        "term": "artificial ingredients",
+        "meaning": "thành phần nhân tạo",
+        "note": "components made rather than naturally occurring"
+      },
+      {
+        "term": "convenience",
+        "meaning": "sự tiện lợi khi sử dụng hoặc chuẩn bị",
+        "note": "ease of use and preparation"
+      },
+      {
+        "term": "ready meal",
+        "meaning": "bữa ăn chế biến sẵn, chỉ cần hâm nóng",
+        "note": "a prepared meal that only needs heating"
+      },
+      {
+        "term": "from scratch",
+        "meaning": "làm từ đầu, không dùng phần làm sẵn",
+        "note": "from the beginning without using a ready-made starting point"
+      },
+      {
+        "term": "guilty pleasure",
+        "meaning": "thú vui khiến mình hơi áy náy",
+        "note": "something enjoyable that makes you feel a little guilty"
+      },
+      {
+        "term": "once in a while",
+        "meaning": "thỉnh thoảng, không thường xuyên",
+        "note": "occasionally"
+      },
+      {
+        "term": "from time to time",
+        "meaning": "đôi khi, thỉnh thoảng",
+        "note": "now and then"
+      },
+      {
+        "term": "everything in moderation",
+        "meaning": "mọi thứ nên dùng có chừng mực",
+        "note": "avoid excessive amounts of anything"
+      },
+      {
+        "term": "carbonated water",
+        "meaning": "nước được bổ sung khí ga",
+        "note": "water containing dissolved gas that makes bubbles"
+      }
+    ],
+    "signals": []
+  },
+  "80": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Becca. Worrying about work or exams, war and climate change in the news? It's no wonder that modern life is stressful. What makes you stress, Neil? Oh, good question. I think [1] to do something. That really makes me [2]. How about you? When I'm trying to do something that I've never tried before, and I'm not very good at it, that makes me feel really stressed. I find that stressful too. And how do you [3], Neil? Well, I try to slow down, pause, [4] and think that at some point, probably later today, everything will be OK again. How about you? Yes, same. But in my mind, I'm telling myself that I will be better at what I'm doing.",
+      "I just need to [5]. Many young people who feel stressed about the modern world use the word overwhelm to describe their feelings. And overwhelm was also the topic of a recent BBC World Service programme, What in the World. Here's Iqra Farooq and Claudia Hammond. So overwhelm is [6] where you are [7]. So you might feel [8]. You might feel you can't cope. And that might be [9], hopefully. But if it's not in the longer term, if that becomes more of a kind of [10] kind of stress, then that might lead to [11] in the end. Feeling overwhelmed and unable to cope with life can become chronic, meaning that it lasts for a long time.",
+      "Overwhelm can lead to burnout. [12] caused by working too hard. So how can we manage the stress in our lives and [13]? That's what we'll be discussing in this episode, along with some useful new words and phrases. You'll find all the vocabulary from this episode on our website, bbclearningenglish.com. But before we start, I have a question for you, Neil. One simple way of combating stress is [14]. So according to research conducted by BBC presenter and psychologist Claudia Hammond, which activity is thought to be the most restful? Is it A, [15]? B, [16]? Or C, [17]? Well, I think they're all quite relaxing, but I'm going to guess B, walking in nature.",
+      "I'm surprised, Neil. I know you love music, and we'll find out the answer later. One of the most stressful things facing many young people is exams. Here, Claudia Hammond offers some advice for [18] to BBC world services. What in the world? Particularly in the exam itself, if you feel stressed. Then just knowing that you may well [19] while you're stressed, that this, it [20], it sharpens and nerves [21] and allow you to really do your best. It's normal to feel nerves before an exam. Nerves is an informal word for [22]. But according to Claudia, nerves [23]. Yes, nerves can help concentrate the mind. The phrase concentrate or sharpen the mind means to [24] about something.",
+      "Like an actor or an athlete, feeling nerves before [25] can help them do their best. Claudia recommends other ways to [26] as well. These include slowing down and accepting that it's OK to be [27], rather than always [28]. Here she shares more tips with Iqra Farooq of BBC World Services. What in the world? And I guess there's no one size fits all as well when it comes to this. So if someone's listening and thinking, I want some [29] on just feeling overwhelmed generally in my life, what would you say to them? So first, I would say, accept that [30] is never going to end. It is always going to be there. So even, I know that might sound [31], but even if you get to the end of it today, tomorrow there will be something else on it.",
+      "And that is just life. And that is just [32]. There are many ways to [33]. Not a one-size-fits-all solution. The phrase one-size-fits-all describes trying to apply [34] to many [35]. Claudia's [36] is don't worry too much about your to-do list. The list of all the items you have to do. Why? Because it never ends. Every day there will be [37] to add to the list. So why stress? Some good advice there, Neil. I think I'll try these techniques next time I feel stressed. And speaking of ways to [38] reminds me of my question. I asked you earlier, according to research conducted by BBC presenter and psychologist Claudia Hammond, which activity is thought of to be the most restful?",
+      "And you answered B, walking in nature. Unfortunately, Neil, the answer is A, reading. Ah, well, reading is really relaxing as well. OK, let's recap the vocabulary from this episode, beginning with the adjective chronic, which means continuing for a long time. Burnout is a feeling of [39] caused by working too hard. If you say that a difficult situation sharpens or concentrates someone's mind, you mean that it makes them think clearly. Nerves are an informal word for worry or anxiety. A one-size-fits-all approach tries to apply the same solution to all problems rather than solving them individually. And finally, a to-do list is a list of all the tasks you have to do. Of course, another way to beat stress is [40].",
+      "And if that's improving your English, then why not visit our website? bbclearningenglish.com, where you'll find loads more activities for doing just that. See you again next time, but for now it's goodbye. Bye!"
+    ],
+    "answers": [
+      "not having enough time",
+      "stressed out",
+      "cope with stressful situations",
+      "take a breath",
+      "practise more",
+      "an emotional state",
+      "struggling with your current situation",
+      "overloaded",
+      "a temporary thing",
+      "chronic",
+      "burnout",
+      "Mental or physical exhaustion",
+      "feel happier and healthier",
+      "taking time to rest",
+      "reading for pleasure",
+      "walking in nature",
+      "listening to music",
+      "managing exam stress",
+      "perform better",
+      "concentrates the mind",
+      "sharpen your thinking",
+      "worry or anxiety",
+      "aren't necessarily bad",
+      "think more clearly",
+      "a big performance",
+      "reduce stress",
+      "good enough",
+      "trying for perfection",
+      "top tips",
+      "your to-do list",
+      "defeatist",
+      "signs of a busy life",
+      "combat stress",
+      "the same solution",
+      "different problems",
+      "final piece of advice",
+      "something new",
+      "de-stress",
+      "physical or mental exhaustion",
+      "doing something you love"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "practice more"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "87e2b901bd32",
+    "paraphrases": [
+      [
+        "overwhelm",
+        "a feeling that your situation is too much to manage",
+        "cảm giác quá tải, không xoay xở nổi",
+        79.9,
+        95
+      ],
+      [
+        "chronic",
+        "continuing over a long period",
+        "kéo dài trong một thời gian lâu",
+        100.8,
+        106.8
+      ],
+      [
+        "burnout",
+        "exhaustion resulting from excessive work",
+        "kiệt sức do làm việc quá sức",
+        106.8,
+        113.2
+      ],
+      [
+        "restful",
+        "helping you feel relaxed and rested",
+        "giúp thư giãn và nghỉ ngơi",
+        133.8,
+        155.5
+      ],
+      [
+        "nerves",
+        "feelings of worry or anxiety",
+        "cảm giác lo lắng, hồi hộp",
+        191.6,
+        198
+      ],
+      [
+        "concentrate the mind",
+        "make someone think more clearly",
+        "giúp tập trung, suy nghĩ rõ ràng",
+        198,
+        210.4
+      ],
+      [
+        "good enough",
+        "satisfactory without being perfect",
+        "đủ tốt dù chưa hoàn hảo",
+        215.7,
+        227.8
+      ],
+      [
+        "one-size-fits-all",
+        "using one solution for different problems",
+        "dùng cùng một giải pháp cho nhiều vấn đề",
+        256.5,
+        268.3
+      ],
+      [
+        "to-do list",
+        "a list of tasks you need to complete",
+        "danh sách các việc cần làm",
+        268.9,
+        283.2
+      ],
+      [
+        "beat stress",
+        "reduce or overcome feelings of stress",
+        "giảm hoặc vượt qua căng thẳng",
+        345.1,
+        356.3
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "overwhelm",
+        "meaning": "cảm giác quá tải, không xoay xở nổi",
+        "note": "a feeling that your situation is too much to manage"
+      },
+      {
+        "term": "chronic",
+        "meaning": "kéo dài trong một thời gian lâu",
+        "note": "continuing over a long period"
+      },
+      {
+        "term": "burnout",
+        "meaning": "kiệt sức do làm việc quá sức",
+        "note": "exhaustion resulting from excessive work"
+      },
+      {
+        "term": "restful",
+        "meaning": "giúp thư giãn và nghỉ ngơi",
+        "note": "helping you feel relaxed and rested"
+      },
+      {
+        "term": "nerves",
+        "meaning": "cảm giác lo lắng, hồi hộp",
+        "note": "feelings of worry or anxiety"
+      },
+      {
+        "term": "concentrate the mind",
+        "meaning": "giúp tập trung, suy nghĩ rõ ràng",
+        "note": "make someone think more clearly"
+      },
+      {
+        "term": "good enough",
+        "meaning": "đủ tốt dù chưa hoàn hảo",
+        "note": "satisfactory without being perfect"
+      },
+      {
+        "term": "one-size-fits-all",
+        "meaning": "dùng cùng một giải pháp cho nhiều vấn đề",
+        "note": "using one solution for different problems"
+      },
+      {
+        "term": "to-do list",
+        "meaning": "danh sách các việc cần làm",
+        "note": "a list of tasks you need to complete"
+      },
+      {
+        "term": "beat stress",
+        "meaning": "giảm hoặc vượt qua căng thẳng",
+        "note": "reduce or overcome feelings of stress"
+      }
+    ],
+    "signals": []
+  },
+  "81": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Becca. Neil, are there any foods that you used to really hate in the past, but now don't mind? Yes, actually. There's a Japanese food called Umeboshi, which when I first tried it, I really didn't like. But after a while I [1] and actually now I really love it. How about you? A similar story to me with olives, I used to really hate olives. But as I've grown older, I've also [2]. Well, in this episode, we'll be learning from [3] about why there are some foods we just hate, and whether it's possible to [4]. Yes, and as usual, you can find a transcript for this episode along with all the vocabulary and worksheet on our website, bbclearningenglish.com.",
+      "Okay, the question for you, Becca, what word means to have [5], such as [6]? Is it A, aerophobia, B, claustrophobia, or C, [7]? Well, Neil, I'll go for C, neophobia, because Neo sounds like new. That's clever thinking, but let's see. Now though, back to food, some experts have said that we can [8] to like new things. Ruth Alexander asks Dr. Dana Small of McGill University, where [9] comes from in this BBC World Service programme, The Food Chain? Are food dislikes [10], [11] in some way? Both. So there's many reasons why you can dislike a food. For example, you could, [12], smell coriander or [13].",
+      "So that's genetic, but there's also [14]. Dana explains that how we taste or smell something can be different [15]. However, how we taste or smell something [16]. Ruth asked if a dislike for certain food is hardwired. And Dana confirmed that this is sometimes the case. The adjective hardwired describes [17] in a particular way, for instance, because it's genetic. And Dana says that you could taste food differently to others via genetics. The preposition via means by the way of or [18]. For example, I get to work via a train. So there are lots of different reasons why we dislike some foods, but can we [19]?",
+      "Let's listen to [20] Clare Thornton-Wood explaining on the BBC World Service programme, The Food Chain. One of the really good techniques that we might use is something called [21], where you [22] that you don't like into something that you do like. For those parents who really say they like everything, we actually get [23]. And we offer those and actually people do eat them and try them. And I think it's [24] that it's an insect, but usually they find that once they eat it, there isn't anything [25] about it. It is a little bit like eating just a bit of [26]. Claire uses masking. Masking is the act of [27].",
+      "In Claire's clinic, she masks [28] with something that is liked. Yes, and what parents usually find out is that the food they dislike isn't inherently bad. The adverb inherently describes something that exists in a way which is [29]. So insects aren't inherently unpleasant to eat. Some of us think they are because the concept of eating them could be [30]. We talked about how people sometimes [31]. Claire talks about where these fears might come from. For instance, just say that you had eaten prawns in the past and you had [32] from eating them, you know, you'd have what you call [33]. There's a good chance that you might actually associate that with eating the prawn and think, oh, I don't want to eat prawn again because it's going to make me unwell.",
+      "So that's a sort of [34]. Claire said that you're likely to have a fear of a food if you've had [35] with it. She uses the example of eating a dodgy prawn which would make you unwell. If something is dodgy, it's generally bad or has [36]. But when we talk about food, it could mean that it's [37], old or [38], therefore making you sick. In fact, we may avoid dodgy things. To avoid is to [39]. So avoidance is [40]. Now, Neil, that reminds me of the question you asked earlier. Ah, yes. I asked you what word means to have a fear of new things and you answered C, Neophobia. And Becca, I'm pleased to say your answer was correct.",
+      "So my thinking was right. That's great. Now let's have a recap of the language we've learned in this episode, starting with hardwired, which describes automatically thinking or behaving in a particular way. Because of genetics, for example. Via is a preposition that means by way of or by use of. We had, masking, that's hiding or stopping something from being seen. The adverb inherently describes something that exists in a way which is natural or essential. We also had avoidance. That is the act of keeping away from something. And finally, when we talk about food, dodgy means something that can make you unwell. Once again, our six minutes are up, but head over to our website bbclearningenglish.com for a quiz and worksheet for this episode.",
+      "See you there soon, but for now, it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "got used to it",
+      "grown to love them",
+      "food experts",
+      "learn to love them",
+      "a fear of new things",
+      "trying new foods",
+      "neophobia",
+      "teach ourselves",
+      "our dislike of certain foods",
+      "learned or genetic",
+      "hardwired",
+      "via genetics",
+      "taste coriander differently",
+      "a really strong learning component",
+      "depending on our genetics",
+      "can also be learnt",
+      "automatically thinking or behaving",
+      "by the use of",
+      "change that",
+      "dietitian",
+      "masking",
+      "dip a food",
+      "chocolate covered insects",
+      "the concept",
+      "inherently unpleasant",
+      "crunchy chocolate",
+      "stopping something from being seen",
+      "the disliked foods",
+      "natural or essential",
+      "strange to us culturally",
+      "fear trying new food",
+      "become unwell",
+      "a dodgy prawn",
+      "fear-based avoidance",
+      "a bad experience",
+      "a bad reputation",
+      "undercooked",
+      "has been left out",
+      "keep away from something",
+      "the act of keeping away"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "13953bbfcbe9",
+    "paraphrases": [
+      [
+        "got used to it",
+        "became familiar and comfortable with it",
+        "đã quen và cảm thấy dễ chịu với nó",
+        20.8,
+        30.3
+      ],
+      [
+        "neophobia",
+        "a fear of unfamiliar or new things",
+        "nỗi sợ những thứ mới lạ",
+        58,
+        78.1
+      ],
+      [
+        "genetic",
+        "related to inherited biological characteristics",
+        "liên quan đến đặc điểm di truyền",
+        103.5,
+        117.7
+      ],
+      [
+        "hardwired",
+        "naturally set to think or behave in a certain way",
+        "được định sẵn cách nghĩ hoặc hành động",
+        128.4,
+        143.6
+      ],
+      [
+        "via",
+        "by way of or by using",
+        "thông qua hoặc bằng cách dùng",
+        144.7,
+        155.6
+      ],
+      [
+        "masking",
+        "hiding something or preventing it from being seen",
+        "che giấu, làm cho không nhận thấy",
+        204.8,
+        214.3
+      ],
+      [
+        "inherently",
+        "as a natural or essential part of something",
+        "vốn có, thuộc bản chất",
+        214.8,
+        234.8
+      ],
+      [
+        "fear-based avoidance",
+        "staying away from something because of fear",
+        "né tránh điều gì vì sợ hãi",
+        242,
+        262.9
+      ],
+      [
+        "dodgy",
+        "potentially unsafe or likely to make you ill, of food",
+        "không bảo đảm, có thể gây bệnh khi ăn",
+        263.9,
+        286.2
+      ],
+      [
+        "avoidance",
+        "the act of keeping away from something",
+        "hành vi tránh xa điều gì",
+        286.8,
+        294.8
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "got used to it",
+        "meaning": "đã quen và cảm thấy dễ chịu với nó",
+        "note": "became familiar and comfortable with it"
+      },
+      {
+        "term": "neophobia",
+        "meaning": "nỗi sợ những thứ mới lạ",
+        "note": "a fear of unfamiliar or new things"
+      },
+      {
+        "term": "genetic",
+        "meaning": "liên quan đến đặc điểm di truyền",
+        "note": "related to inherited biological characteristics"
+      },
+      {
+        "term": "hardwired",
+        "meaning": "được định sẵn cách nghĩ hoặc hành động",
+        "note": "naturally set to think or behave in a certain way"
+      },
+      {
+        "term": "via",
+        "meaning": "thông qua hoặc bằng cách dùng",
+        "note": "by way of or by using"
+      },
+      {
+        "term": "masking",
+        "meaning": "che giấu, làm cho không nhận thấy",
+        "note": "hiding something or preventing it from being seen"
+      },
+      {
+        "term": "inherently",
+        "meaning": "vốn có, thuộc bản chất",
+        "note": "as a natural or essential part of something"
+      },
+      {
+        "term": "fear-based avoidance",
+        "meaning": "né tránh điều gì vì sợ hãi",
+        "note": "staying away from something because of fear"
+      },
+      {
+        "term": "dodgy",
+        "meaning": "không bảo đảm, có thể gây bệnh khi ăn",
+        "note": "potentially unsafe or likely to make you ill, of food"
+      },
+      {
+        "term": "avoidance",
+        "meaning": "hành vi tránh xa điều gì",
+        "note": "the act of keeping away from something"
+      }
+    ],
+    "signals": []
+  },
+  "82": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Georgie. In winter, people find different ways of [1], like wearing extra clothes or staying indoors. But in some countries, there's another way of [2], going for a sauna. Yes, [3], like Sweden and Finland, have a long history of taking saunas, but now they're [4] in Britain too. Have you ever been for a sauna, Georgie? I have, yes, and if I'm honest, I'm not [5]. I don't really like being too hot. It's uncomfortable. What about you, Neil? Oh, really? I quite like a sauna. You feel [6] afterwards. So, what is a sauna? Well, a typical sauna is [7] heated with steam to around [8].",
+      "It's hot enough to make anyone sweat. But are saunas good for your health as well? That's what James Gallagher wanted to find out for BBC Radio 4 programme Inside Health. We're seeing what saunas do to the human body. They're popping up all over the country with claims that [9] boost your [10]. But are they [11]? James wants to find out if saunas are all they're cracked up to be. He means, are they as good as people say? And that's exactly what we'll be finding out in this episode, along with some useful new words and phrases. And remember, you can practice all the new vocabulary from this episode with the quiz and worksheet on our website, bbclearningenglish.com.",
+      "But now I have a question for you, Georgie. The word sauna comes from [12], but what does it mean? Does it mean a, sweat, b, hot water, or c, [13]? Oh, I'm going to guess c, bathhouse. OK, well, we'll find out if you're right at the end of the programme. In recent winters, saunas have [14] in the UK. BBC reporter James Gallagher met some people going to Môr A Sawna, [15] in South Wales. He asked them why they love saunas so much. Hello, everyone. Who loves a sauna? Me? Me? Me? Me? Me? Yeah. Tell me why. Oh, it's just so relaxing. It just makes you [16]. It's also great for [17] and if you're tense or anything like that at all. Yeah, I always love coming down here when I'm a bit [18].",
+      "And by the time that I'm finished, I feel like I've [19]. It's wonderful. The first speaker says saunas make her feel at ease, a phrase meaning [20]. And the next speaker thinks saunas are great if you feel tense, an adjective meaning [21]. Saunas make the final speaker feel like she's reset. You might already know the word reset to mean [22] when it's not working. But used in connection with a person, reset means to [23] so that you feel better about life. So it seems saunas do help people feel better, but is there [24] that it's good for us? Here's James Gallagher again speaking with Professor Damian Bailey, an expert in [25] for BBC Radio 4 programme Inside Health.",
+      "When we start to connect this to the arguments around [26], is there a health benefit to going in a sauna? Yeah, I mean, I looked at the research really closely. I was [27]. Huge benefits, I mean, really huge benefits. And it's cultural, of course, [28] in Finland, [29] of them use saunas. Maybe we should be copying what the Finns do because there's a [30] in [31] with the sauna-goers. Now, this is what we would call [32], but it's based on [33] of sauna-goers. These are observational data sets. So we really do need what we call RCTs, [34]. So everything, just as you've mentioned there, everything is [35].",
+      "But we can't [36] at the current data, the observational data. Damian discusses the evidence from Finland, a country where 90% of the population are regular sauna-goers. And it's impressive, a 40% reduction in deaths from all causes. But it's important to remember that this is based on observational data, information collected from watching [37] and not from [38]. Nevertheless, this observational data is based on evidence from thousands and thousands of Finns over many years. That's why Damian thinks we shouldn't turn our noses up at it. We shouldn't reject it simply because we think it's [39]. Well, all this talk about saunas has made me want to [40].",
+      "But not before you reveal the answer to your question, Neil. I asked you what the Finnish word sauna means. Is it A, sweat, B, hot water, or C, bathhouse? And I said bathhouse, am I right? You are absolutely correct. Well done. Yay. Okay, let's recap the vocabulary we've learned in this episode. If something is not all it's cracked up to be, it isn't as good as people say. When someone's at ease, they feel comfortable and unstressed. Whereas a tense person is worried and unable to relax. When someone resets, they start again after a rest, which has made them feel better about life. Observational data is information collected from watching people's natural behavior without interfering in it. And finally, if you turn your nose up at something, you reject it because you think it's not good enough for you.",
+      "Once again, our six minutes are up. But if you want to improve your English with more trending topics and useful vocabulary, you'll find plenty on our website, bbclearningenglish.com. See you again soon. But for now, it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "keeping warm",
+      "keeping the cold out",
+      "Nordic countries",
+      "popping up",
+      "a huge fan",
+      "really refreshed",
+      "a small wooden room",
+      "80 degrees Celsius",
+      "high temperatures",
+      "health and wellbeing",
+      "all they're cracked up to be",
+      "the Finnish language",
+      "bathhouse",
+      "grown in popularity",
+      "a beach sauna",
+      "feel at ease",
+      "relaxing muscles",
+      "stressed out",
+      "completely reset",
+      "comfortable and relaxed",
+      "worried and unable to relax",
+      "turning a computer off and on again",
+      "start again after a rest",
+      "actual medical evidence",
+      "human physiology",
+      "health benefits",
+      "fascinated by the evidence",
+      "5 million people",
+      "90%",
+      "40% reduction",
+      "all cause mortality",
+      "observational data",
+      "thousands and thousands",
+      "randomized controlled trials",
+      "absolutely controlled",
+      "turn our noses up",
+      "people's natural behavior",
+      "controlled medical trials",
+      "not good enough for us",
+      "give it another try"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "eighty degrees Celsius"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "five million people"
+      ],
+      [
+        "ninety percent",
+        "ninety per cent",
+        "90 percent",
+        "90 per cent"
+      ],
+      [
+        "forty percent reduction",
+        "forty per cent reduction",
+        "40 percent reduction",
+        "40 per cent reduction"
+      ],
+      [],
+      [],
+      [],
+      [
+        "randomised controlled trials"
+      ],
+      [],
+      [],
+      [
+        "people's natural behaviour"
+      ],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "8f4842c2cec5",
+    "paraphrases": [
+      [
+        "popping up",
+        "appearing in more places",
+        "xuất hiện ở ngày càng nhiều nơi",
+        22.8,
+        32
+      ],
+      [
+        "refreshed",
+        "feeling rested and full of renewed energy",
+        "cảm thấy tỉnh táo, khỏe khoắn trở lại",
+        42.1,
+        45.8
+      ],
+      [
+        "all they're cracked up to be",
+        "as good as people claim they are",
+        "tốt như người ta ca ngợi",
+        75.5,
+        84.4
+      ],
+      [
+        "at ease",
+        "comfortable and relaxed",
+        "thoải mái, không căng thẳng",
+        162.2,
+        167.5
+      ],
+      [
+        "tense",
+        "worried and unable to relax",
+        "lo lắng và không thể thư giãn",
+        168.3,
+        178
+      ],
+      [
+        "reset",
+        "start again after resting and feeling better",
+        "nghỉ ngơi lấy lại trạng thái tốt rồi bắt đầu lại",
+        179,
+        191.5
+      ],
+      [
+        "all cause mortality",
+        "deaths from every cause combined",
+        "tử vong do tất cả các nguyên nhân",
+        222.6,
+        235.1
+      ],
+      [
+        "observational data",
+        "information gathered by watching natural behaviour",
+        "dữ liệu thu được qua quan sát hành vi tự nhiên",
+        266.9,
+        283.1
+      ],
+      [
+        "turn our noses up",
+        "reject something as not good enough for us",
+        "chê và từ chối vì cho là không đủ tốt",
+        283.1,
+        294.2
+      ],
+      [
+        "give it another try",
+        "try doing it again",
+        "thử làm điều đó thêm lần nữa",
+        294.2,
+        299.1
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "popping up",
+        "meaning": "xuất hiện ở ngày càng nhiều nơi",
+        "note": "appearing in more places"
+      },
+      {
+        "term": "refreshed",
+        "meaning": "cảm thấy tỉnh táo, khỏe khoắn trở lại",
+        "note": "feeling rested and full of renewed energy"
+      },
+      {
+        "term": "all they're cracked up to be",
+        "meaning": "tốt như người ta ca ngợi",
+        "note": "as good as people claim they are"
+      },
+      {
+        "term": "at ease",
+        "meaning": "thoải mái, không căng thẳng",
+        "note": "comfortable and relaxed"
+      },
+      {
+        "term": "tense",
+        "meaning": "lo lắng và không thể thư giãn",
+        "note": "worried and unable to relax"
+      },
+      {
+        "term": "reset",
+        "meaning": "nghỉ ngơi lấy lại trạng thái tốt rồi bắt đầu lại",
+        "note": "start again after resting and feeling better"
+      },
+      {
+        "term": "all cause mortality",
+        "meaning": "tử vong do tất cả các nguyên nhân",
+        "note": "deaths from every cause combined"
+      },
+      {
+        "term": "observational data",
+        "meaning": "dữ liệu thu được qua quan sát hành vi tự nhiên",
+        "note": "information gathered by watching natural behaviour"
+      },
+      {
+        "term": "turn our noses up",
+        "meaning": "chê và từ chối vì cho là không đủ tốt",
+        "note": "reject something as not good enough for us"
+      },
+      {
+        "term": "give it another try",
+        "meaning": "thử làm điều đó thêm lần nữa",
+        "note": "try doing it again"
+      }
+    ],
+    "signals": []
+  },
+  "83": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Georgie. Neil, I saw you eating a healthy looking salad earlier. Is there anything else you do to stay healthy? At the moment, I am following [1] and I'm [2]. But I'm not sure if it's having much effect. How about you? Well, I'm training for [3] at the moment, so I'm doing a lot of running, but I still eat a lot of sugar. A sweet treat. Diet, exercise and eating [4] helps some people stay at a healthy weight. But with around [5] of British adults [6], that doesn't help everyone. But this has changed with the recent invention of [7]. Yes, weight loss drugs like Ozempic and Mounjaro have been a hot topic this year.",
+      "The drugs are modified versions of [8] which make us [9] when released into the body. Weight loss drugs are [10] and [11], but last much longer. The idea is that you feel full for longer, [12]. In this episode, we'll be hearing more about these drugs helping people lose weight. And as usual, we'll be learning some useful new words and phrases. Plus, there's a worksheet and quiz to practice all the vocabulary we'll learn on our website. But first, I have a question for you, Neil. The measurement used by doctors to estimate if someone is at a healthy weight is called BMI. But what does BMI stand for? Is it A, British medical index, B, [13], or C, body muscle index?",
+      "Well, I am [14] certain that I know the answer, Georgie. So I don't want to spoil it for our listeners. So we'll just find out at the end. Okay, then. For radio listener Lynne Massey-Davis, weight loss drugs have been [15]. Using the drug Mounjaro, Lynne lost [16], and now feels happier than ever about her weight. Something she discussed with Greg Foot, presenter of BBC Radio 4 programme, Sliced Bread. What's it like to be on it? Well, I don't get hungry, so [17]. And all those scripts about yourself that you're a bad person for eating, I feel like that judgment has [18]. And when you say food noise, what do you mean by that? For me, it was [19] like I got a devil and an angel on my shoulders.",
+      "The angel said, don't eat that because you shouldn't eat food. The devil inside me said, oh, but you just want a taste. It [20] for a very, very long time, probably for the best part of maybe [21]. Weight loss drugs help Lynne reduce food noise, a term for [22] about food. In fact, Lynne says her unwanted food noise has gone into the ether, meaning it has [23]. Before using Mounjaro, Lynne [24] about food. She says there was [25] and [26], an old idiom which describes having [27]. An imaginary angel representing Lynne's conscience told her what she should do, while a devil sat on the other shoulder, [28] in her ear.",
+      "Over many years, this [29] damaged Lynne's self-esteem, her [30] in [31]. Interestingly, weight loss drugs weren't invented to lose weight at all. They were [32], a disease caused when somebody's [33] get too high. It was only later that doctors noticed the drug's effect on weight. Professor Giles Yeo [34] and is also a consultant for companies developing weight loss drugs. Here he is talking to BBC Radio 4's Sliced Bread. We talk about Ozempic first because that was [35] for diabetes and then people begin to notice as [36] that people were losing weight. A lot of people with diabetes also have obesity and part of the effects of actually reversing the diabetes is the fact that they lose weight and so doctors began to sort of [37].",
+      "Ozempic was the first drug on the market. When something is on the market, it's [38]. Ozempic was designed for diabetes, but doctors noticed that patients lost weight as a side effect. A side effect is [39] of a drug or medicine. It's usually an undesirable effect, although not in this case as it helped people lose weight. But could weight loss drugs be too good to be true? A public health official in the UK warns that the drugs alone are not the solution and that people should be encouraged to have [40]. Right Georgie, isn't it time you revealed the answer to your question? Yes, I asked about BMI, which is the measurement used by doctors to estimate if someone is at a healthy weight.",
+      "But what does BMI stand for? Now Neil, you didn't give me an answer earlier. Yes, that's because I was sure the answer is B, body mass index. That's correct, well done. Okay, let's recap the vocabulary we've learnt starting with food noise, intrusive and unwanted thoughts about food. The idiom an angel on one shoulder and a devil on the other describes a personal dilemma where someone must choose whether to follow their conscience or not. Self-esteem means a belief in your own abilities and value. If something disappears into the ether, it completely goes away. It vanishes into the air. A product which is on the market is available for people to buy. And finally, a side effect is an unexpected and usually unwanted secondary effect of a drug or medicine.",
+      "Once again, our six minutes are up. But if you're interested in programs about health, we have a health topic page which you can find on our website, bbclearningenglish.com. See you there soon. Goodbye."
+    ],
+    "answers": [
+      "an exercise routine",
+      "eating healthily",
+      "a half marathon",
+      "in moderation",
+      "65%",
+      "estimated to be overweight",
+      "weight loss drugs",
+      "natural hormones",
+      "feel full",
+      "injected into the tummy",
+      "replicate this effect",
+      "eat less and lose weight",
+      "body mass index",
+      "99.9%",
+      "life-changing",
+      "20 kilograms in six months",
+      "food noise stops",
+      "drifted into the ether",
+      "a conflict",
+      "damaged my self-esteem",
+      "50 years",
+      "intrusive and unwanted thoughts",
+      "completely disappeared",
+      "felt conflicted",
+      "an angel on one shoulder",
+      "a devil on the other",
+      "a personal dilemma",
+      "whispering temptations",
+      "inner conflict",
+      "belief and confidence",
+      "her own abilities",
+      "originally designed for diabetes",
+      "blood sugar levels",
+      "researches obesity",
+      "the first on the market",
+      "a side effect",
+      "prescribe them off label",
+      "available for sale",
+      "an unexpected secondary effect",
+      "a healthier lifestyle"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "sixty-five percent",
+        "sixty-five per cent",
+        "65 percent",
+        "65 per cent"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "ninety-nine point nine percent",
+        "ninety-nine point nine per cent",
+        "99.9 percent",
+        "99.9 per cent"
+      ],
+      [],
+      [
+        "twenty kilograms in six months",
+        "20 kilograms in 6 months"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "fifty years"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "15ea4563f5e0",
+    "paraphrases": [
+      [
+        "in moderation",
+        "in reasonable rather than excessive amounts",
+        "ở mức vừa phải, không quá nhiều",
+        33.1,
+        45
+      ],
+      [
+        "replicate",
+        "produce the same effect again",
+        "tạo lại cùng một tác dụng",
+        60.7,
+        75.6
+      ],
+      [
+        "life-changing",
+        "having a major effect on someone's life",
+        "tạo ra thay đổi lớn trong cuộc sống",
+        117.6,
+        130
+      ],
+      [
+        "food noise",
+        "intrusive and unwanted thoughts about food",
+        "những ý nghĩ dai dẳng, không mong muốn về đồ ăn",
+        168.2,
+        181.2
+      ],
+      [
+        "into the ether",
+        "away until it completely disappears",
+        "biến mất hoàn toàn, như tan vào không khí",
+        175.2,
+        187.3
+      ],
+      [
+        "a personal dilemma",
+        "a situation requiring a difficult personal choice",
+        "tình thế phải đưa ra lựa chọn khó khăn",
+        187.3,
+        205.2
+      ],
+      [
+        "self-esteem",
+        "belief in your own abilities and worth",
+        "sự tin tưởng vào năng lực và giá trị bản thân",
+        205.7,
+        216.5
+      ],
+      [
+        "on the market",
+        "available for people to buy",
+        "được bán trên thị trường",
+        257.5,
+        269.7
+      ],
+      [
+        "side effect",
+        "a secondary effect beyond the intended one",
+        "tác dụng phụ ngoài tác dụng chính",
+        269.7,
+        281.5
+      ],
+      [
+        "too good to be true",
+        "so good that it seems hard to believe",
+        "tốt đến mức khó tin là thật",
+        281.5,
+        297.7
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "in moderation",
+        "meaning": "ở mức vừa phải, không quá nhiều",
+        "note": "in reasonable rather than excessive amounts"
+      },
+      {
+        "term": "replicate",
+        "meaning": "tạo lại cùng một tác dụng",
+        "note": "produce the same effect again"
+      },
+      {
+        "term": "life-changing",
+        "meaning": "tạo ra thay đổi lớn trong cuộc sống",
+        "note": "having a major effect on someone's life"
+      },
+      {
+        "term": "food noise",
+        "meaning": "những ý nghĩ dai dẳng, không mong muốn về đồ ăn",
+        "note": "intrusive and unwanted thoughts about food"
+      },
+      {
+        "term": "into the ether",
+        "meaning": "biến mất hoàn toàn, như tan vào không khí",
+        "note": "away until it completely disappears"
+      },
+      {
+        "term": "a personal dilemma",
+        "meaning": "tình thế phải đưa ra lựa chọn khó khăn",
+        "note": "a situation requiring a difficult personal choice"
+      },
+      {
+        "term": "self-esteem",
+        "meaning": "sự tin tưởng vào năng lực và giá trị bản thân",
+        "note": "belief in your own abilities and worth"
+      },
+      {
+        "term": "on the market",
+        "meaning": "được bán trên thị trường",
+        "note": "available for people to buy"
+      },
+      {
+        "term": "side effect",
+        "meaning": "tác dụng phụ ngoài tác dụng chính",
+        "note": "a secondary effect beyond the intended one"
+      },
+      {
+        "term": "too good to be true",
+        "meaning": "tốt đến mức khó tin là thật",
+        "note": "so good that it seems hard to believe"
+      }
+    ],
+    "signals": []
+  },
+  "84": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Phil. And I'm Becca. 6 Minute English listeners are [1], coming from all over the world including some of the coldest countries on Earth. Places like Finland where winter temperatures drop to [2]. Are you good at dealing with the cold, Phil? I'm not sure, but I do know that I don't like it. What about you Becca? Well, I'd rather be too hot and [3] than too cold and try to [4]. Yes, me too. Here in the UK, it never gets as cold as Finland. But it's not unusual to see some people dressed in t-shirts while others are [5]. Why do people feel the cold so differently? That's what we'll be discussing in this episode, as well as learning some useful new words and phrases.",
+      "And as always, you'll find all the vocabulary from this episode plus a quiz and worksheet on our website, bbclearningenglish.com. But now I have a question for you Becca. According to the Guinness Book of World Records, the lowest temperature ever recorded was a very cold [6]. But where? Was it A, the Arctic, B, Antarctica or C, [7]? I'm going to guess B, Antarctica. Okay, well we'll find out the answer at the end of the programme. Our experience of cold depends on many things, including [8], culture and [9]. But perhaps the most obvious thing is the clothes we wear. Professor Gunhild Sætren lives on the icy island of Svalbard, [10] inside the Arctic Circle.",
+      "Here she advises presenter Caroline Steel on how to dress against the cold for BBC World Service programme, CrowdScience. So what should we consider when [11]? [12], I would say that perhaps the gender differs. So male often are [13] perhaps than females. Then it's of course what you're used to. Are you [14]? Are you not? Gunhild says that first and foremost men and women feel the cold differently. She uses the phrase first and foremost to mean more than anything else. She wants to emphasise that something, in this case someone's gender, is [15] to consider. There is [16] about whether men or women are more tolerant of the cold.",
+      "Being tolerant of something means being [17] [18]. Another important factor is whether you are used to the cold, if being in [19] is something you're familiar with. It might sound obvious that someone born in Arctic Svalbard would feel less cold than someone born in Brazil, but apart from [20], are there actual [21] that allow people to [22]? Dr Cara Ocobock studies [23] in Northern Finland, people who live in cold temperatures every day and have done for centuries. She measures their reaction to [24] and compares it to ordinary Finns from [25]. Here, Cara shares her findings with Caroline Steel from BBC World Services, CrowdScience.",
+      "Ok, my guess is, the reindeer herders deal better in the cold? Yes and no. The more data we collect within this area, [26]. I can say that [27], at this point, the reindeer herders at least kind of [28] far better. They are [29]. So, do the reindeer herders deal better with the cold? The answer is [30]. A phrase meaning [31], used when there's [32] to a question. However, Cara does say subjectively the herders manage better. They don't feel so cold. Subjectively means based on your [33] rather than [34]. And physically, there are differences too. Reindeer herders are less likely to shiver.",
+      "[35] that cold muscles make to try and warm them up. In fact, how we experience the cold is probably [36] we've discussed, including [37] [38]. Right, I'm off to find my gloves and [39], so why don't you reveal the answer to the question, Phil? Yes, I asked where the lowest temperature on earth was ever recorded. You said B, Antarctica, and that is the right answer. The lowest temperature ever recorded on earth was at the Vostok Research Station in Antarctica in [40]. Let's recap the vocabulary we've learned, starting with the phrase first and foremost, meaning more than anything else. A person who is tolerant of something is able to endure it without being hurt.",
+      "If you're used to something, you're familiar with it. The idiom yes and no means partly and partly not and is used when you can't give a clear answer to a question. The adverb subjectively means in a way that's based on your personal experience rather than objective facts. And finally, a shiver is the shaking movement made by your muscles when you feel cold or afraid. Once again, our six minutes are up. But remember, you'll find a quiz and a worksheet for this episode on our website, bbclearningenglish.com. See you there soon, but for now, it's goodbye. Bye!"
+    ],
+    "answers": [
+      "truly global",
+      "minus 20 degrees Celsius",
+      "cool down",
+      "warm up",
+      "wrapped up in warm clothes",
+      "minus 89 degrees Celsius",
+      "the top of Mount Everest",
+      "our genes",
+      "place of birth",
+      "800 miles",
+      "choosing our clothes",
+      "First and foremost",
+      "more tolerant",
+      "used to dealing with the cold",
+      "the most important thing",
+      "some debate",
+      "able to endure it",
+      "without getting hurt",
+      "cold environments",
+      "environmental factors",
+      "physical differences",
+      "cope better with the cold",
+      "reindeer herders",
+      "extreme cold",
+      "warmer parts of the country",
+      "the more confusing the picture gets",
+      "subjectively",
+      "mentally handle the cold",
+      "far less likely to shiver",
+      "yes and no",
+      "partly and partly not",
+      "no clear answer",
+      "personal inner experience",
+      "objective facts",
+      "The shaky movement",
+      "a combination of everything",
+      "genetic adaptations",
+      "passed on from parents to children",
+      "woolly hat",
+      "1983"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "minus twenty degrees Celsius",
+        "-20 degrees Celsius"
+      ],
+      [],
+      [],
+      [],
+      [
+        "minus eighty-nine degrees Celsius",
+        "-89 degrees Celsius"
+      ],
+      [],
+      [],
+      [],
+      [
+        "eight hundred miles"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "nineteen eighty-three"
+      ]
+    ],
+    "contentRevision": "2cd4ce4dffcf",
+    "paraphrases": [
+      [
+        "wrapped up",
+        "wearing enough clothing to keep warm",
+        "mặc kín và đủ ấm",
+        38.2,
+        50.8
+      ],
+      [
+        "first and foremost",
+        "more importantly than anything else",
+        "trước hết và quan trọng hơn hết",
+        145.1,
+        161.4
+      ],
+      [
+        "tolerant",
+        "able to endure something without being hurt",
+        "có khả năng chịu đựng mà không bị tổn hại",
+        161.9,
+        172.1
+      ],
+      [
+        "used to",
+        "familiar with through experience",
+        "đã quen với qua trải nghiệm",
+        172.7,
+        184.2
+      ],
+      [
+        "reindeer herders",
+        "people who look after groups of reindeer",
+        "những người chăn tuần lộc",
+        195,
+        206.6
+      ],
+      [
+        "yes and no",
+        "partly true and partly not true",
+        "vừa đúng vừa không, không thể trả lời dứt khoát",
+        240.7,
+        256.7
+      ],
+      [
+        "subjectively",
+        "according to personal experience or feelings",
+        "theo trải nghiệm hoặc cảm nhận cá nhân",
+        257.7,
+        269.4
+      ],
+      [
+        "objective facts",
+        "facts independent of personal feelings",
+        "sự thật khách quan, không phụ thuộc cảm xúc",
+        257.7,
+        269.4
+      ],
+      [
+        "shiver",
+        "shake involuntarily when cold or afraid",
+        "run người khi lạnh hoặc sợ hãi",
+        348.2,
+        354.1
+      ],
+      [
+        "genetic adaptations",
+        "inherited changes that help organisms suit their environment",
+        "sự thích nghi di truyền với môi trường",
+        281.9,
+        290.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "wrapped up",
+        "meaning": "mặc kín và đủ ấm",
+        "note": "wearing enough clothing to keep warm"
+      },
+      {
+        "term": "first and foremost",
+        "meaning": "trước hết và quan trọng hơn hết",
+        "note": "more importantly than anything else"
+      },
+      {
+        "term": "tolerant",
+        "meaning": "có khả năng chịu đựng mà không bị tổn hại",
+        "note": "able to endure something without being hurt"
+      },
+      {
+        "term": "used to",
+        "meaning": "đã quen với qua trải nghiệm",
+        "note": "familiar with through experience"
+      },
+      {
+        "term": "reindeer herders",
+        "meaning": "những người chăn tuần lộc",
+        "note": "people who look after groups of reindeer"
+      },
+      {
+        "term": "yes and no",
+        "meaning": "vừa đúng vừa không, không thể trả lời dứt khoát",
+        "note": "partly true and partly not true"
+      },
+      {
+        "term": "subjectively",
+        "meaning": "theo trải nghiệm hoặc cảm nhận cá nhân",
+        "note": "according to personal experience or feelings"
+      },
+      {
+        "term": "objective facts",
+        "meaning": "sự thật khách quan, không phụ thuộc cảm xúc",
+        "note": "facts independent of personal feelings"
+      },
+      {
+        "term": "shiver",
+        "meaning": "run người khi lạnh hoặc sợ hãi",
+        "note": "shake involuntarily when cold or afraid"
+      },
+      {
+        "term": "genetic adaptations",
+        "meaning": "sự thích nghi di truyền với môi trường",
+        "note": "inherited changes that help organisms suit their environment"
+      }
+    ],
+    "signals": []
+  },
+  "85": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Becca. How many of our listeners, Neil, do you think love chocolate? Well, I can't think of anyone who doesn't love chocolate. I know I certainly do. Yes, I thought you might say that. Having seen your [1] most days. That's true. I do love a bit of [2]. Do you know I really like the one that's got some chilli in it. What's your favourite, Becca? Oh, I also love dark chocolate, but chilli's a bit spicy for me. I like it with [3]. Mmm, that's also good. But now to the stuff that makes chocolate possible. Cocoa, [4]. And it's become [5] in recent years. Now [6] could make chocolate even more expensive.",
+      "Today we'll talk about how this law could change things for farmers, companies and [7], as discussed on the recent BBC World Service programme, Business Daily. As always, we'll learn some useful new words and phrases, and you'll find all the vocabulary along with the transcripts on our website, bbclearningenglish.com. Before we get started, Neil, I have a question for you. Europeans are big fans of chocolate, just like us. Around how many tonnes of [8] were imported to Europe in 2023? Was it A, [9], B, [10], or C, [11]? Well, I have no idea, but I'm just going to guess and say 500,000 tonnes. We'll find out if you're right later on. Now, that new EU law that we were talking about earlier would stop companies buying cocoa from land where any trees were [12] in the last six years.",
+      "The process of cutting down trees is called [13]. Albert Smith, who owns [14], believes that the new law wouldn't change too much for his company. We have all the information on farm level already, because the producers that we work with are [15], that either work through [16] or [17], and all of our cocoa is already [18]. Albert adds that they already know where the cocoa beans come from, as they work with farmers from co-ops or social enterprises. A co-op, in this case, is [19]. A social enterprise is a business that wants to [20]. Because of working with farmers who are part of these organisations, Albert says that the cocoa they buy can already be traced back to the farms.",
+      "To trace something back to something means to [21]. Here's Albert Smith again. [22] means that farmers have to actually provide the [23] of their plantation, and for some farmers that are [24], that [25]. Albert suggests that giving a geolocation is difficult for some farmers, as they live in remote places and [26]. Geolocation is data taken from [27], which shows exactly where something is. And the term remote means at [28] from places where other people live. Because of these changes, the price of chocolate might go up even more, meaning that chocolate lovers like us could really notice the difference in our [29].",
+      "Reporter Matthew Kenyon asked a chocolate lover on the street if they would [30] for their chocolate. Absolutely I would do that because I think the normal chocolates are [31]. Definitely we have to pay more because the money will go to [32], to give them [33], also to [34]. And he asked another chocolate lover about whether he looks at where the cocoa beans come from. For me personally, absolutely not [35], because I want it to be produced as most efficiently as possible. The cost is [36]. But on principle, I want production to be [37]. Otherwise there's [38]. [39], it seems, there, Becca, whilst one chocolate lover would pay more for chocolate to support farmers in production.",
+      "The other doesn't worry too much about the cost, but says the production process should be as efficient as possible. Okay, time to answer our quiz question. Earlier I asked you how many tonnes of cocoa were imported to Europe in 2023. And you said 500,000 tonnes. Well, Neil, I'll tell you, it is [40]. Wow, well, I was wrong, and that really is a lot. Between us, we've probably eaten a few tonnes already this year. At least, Becca. I'd be interested to know what kind of chocolate our listeners enjoy. Me too, and whether they would be happy to pay more for their favourite chocolate bar. Okay, let's recap some of the vocabulary from this programme. Deforestation is the process of cutting down trees.",
+      "We heard co-op, which is a farm owned by its workers. A social enterprise is a business that wants to help the community. To trace something back to something is to find out where something's come from. Geolocation is data taken from a device, which can show you exactly where a person or thing is. And finally, remote means at a large distance from places where other people live. Once again, our six minutes are up. But if you want to test your knowledge, visit our website, bbclearningenglish.com, where you'll also find a worksheet and quiz for this episode. Bye, see you next time. Goodbye."
+    ],
+    "answers": [
+      "mid-morning snack",
+      "dark chocolate",
+      "sea salt",
+      "a key ingredient",
+      "more expensive",
+      "a new EU law",
+      "chocolate lovers",
+      "cocoa beans",
+      "500,000 tonnes",
+      "2 million tonnes",
+      "10 million tonnes",
+      "cut down",
+      "deforestation",
+      "a small chocolate business",
+      "small plantations",
+      "a co-op",
+      "a social enterprise",
+      "traced back to the plantation",
+      "a farm owned by its workers",
+      "help the community",
+      "find out where something has come from",
+      "Mapping",
+      "geolocations",
+      "very remote",
+      "comes also with a challenge",
+      "don't all have mobile phones",
+      "a special device",
+      "a large distance",
+      "bank accounts",
+      "pay more",
+      "way too cheap",
+      "local people",
+      "a better life",
+      "tackle deforestation",
+      "out of principle",
+      "completely irrelevant",
+      "as efficient as possible",
+      "a waste of everybody's time",
+      "Mixed opinions",
+      "two million tonnes"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "five hundred thousand tonnes",
+        "500000 tonnes",
+        "500,000 tons"
+      ],
+      [
+        "two million tonnes",
+        "2 million tons"
+      ],
+      [
+        "ten million tonnes",
+        "10 million tons"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "2 million tonnes",
+        "two million tons"
+      ]
+    ],
+    "contentRevision": "3c08ba8ae281",
+    "paraphrases": [
+      [
+        "a key ingredient",
+        "an essential component used to make something",
+        "một nguyên liệu quan trọng",
+        39.9,
+        49.9
+      ],
+      [
+        "deforestation",
+        "the removal of trees from an area",
+        "việc chặt phá rừng",
+        102.3,
+        115.8
+      ],
+      [
+        "co-op",
+        "a business jointly owned by its members or workers",
+        "hợp tác xã do các thành viên cùng sở hữu",
+        140.4,
+        151.6
+      ],
+      [
+        "social enterprise",
+        "a business whose purpose includes helping the community",
+        "doanh nghiệp hoạt động vì lợi ích cộng đồng",
+        148.7,
+        155.6
+      ],
+      [
+        "traced back",
+        "followed to its place of origin",
+        "được truy về nguồn gốc ban đầu",
+        156.6,
+        169.4
+      ],
+      [
+        "geolocation",
+        "data identifying an exact geographical position",
+        "dữ liệu xác định vị trí địa lý chính xác",
+        185.2,
+        199.5
+      ],
+      [
+        "remote",
+        "far away from places where people live",
+        "xa xôi, cách xa khu dân cư",
+        200.2,
+        204.5
+      ],
+      [
+        "tackle deforestation",
+        "take action to deal with forest destruction",
+        "hành động để giải quyết nạn phá rừng",
+        220.1,
+        235.7
+      ],
+      [
+        "irrelevant",
+        "not connected to the matter being considered",
+        "không liên quan đến điều đang xét",
+        241.7,
+        257.3
+      ],
+      [
+        "efficient",
+        "achieving results without wasting time or resources",
+        "hiệu quả, ít lãng phí thời gian hoặc nguồn lực",
+        251.6,
+        270.1
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "a key ingredient",
+        "meaning": "một nguyên liệu quan trọng",
+        "note": "an essential component used to make something"
+      },
+      {
+        "term": "deforestation",
+        "meaning": "việc chặt phá rừng",
+        "note": "the removal of trees from an area"
+      },
+      {
+        "term": "co-op",
+        "meaning": "hợp tác xã do các thành viên cùng sở hữu",
+        "note": "a business jointly owned by its members or workers"
+      },
+      {
+        "term": "social enterprise",
+        "meaning": "doanh nghiệp hoạt động vì lợi ích cộng đồng",
+        "note": "a business whose purpose includes helping the community"
+      },
+      {
+        "term": "traced back",
+        "meaning": "được truy về nguồn gốc ban đầu",
+        "note": "followed to its place of origin"
+      },
+      {
+        "term": "geolocation",
+        "meaning": "dữ liệu xác định vị trí địa lý chính xác",
+        "note": "data identifying an exact geographical position"
+      },
+      {
+        "term": "remote",
+        "meaning": "xa xôi, cách xa khu dân cư",
+        "note": "far away from places where people live"
+      },
+      {
+        "term": "tackle deforestation",
+        "meaning": "hành động để giải quyết nạn phá rừng",
+        "note": "take action to deal with forest destruction"
+      },
+      {
+        "term": "irrelevant",
+        "meaning": "không liên quan đến điều đang xét",
+        "note": "not connected to the matter being considered"
+      },
+      {
+        "term": "efficient",
+        "meaning": "hiệu quả, ít lãng phí thời gian hoặc nguồn lực",
+        "note": "achieving results without wasting time or resources"
+      }
+    ],
+    "signals": []
+  },
+  "86": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Becca. Neil, what do the following animals [1]? zebras, Giant Pandas and Magpies. That's pretty easy Becca, they're all [2]. Right, but do you know why these animals [3] to be black and white? Or probably something about [4]? That's usually the answer isn't it? It is. The animal world is full of colour, shiny blue peacocks and bright green frogs. But in fact, [5] are black and white. In this episode, we'll try to find out why, while also learning some useful new words and phrases. And remember, all the vocabulary from this episode is available on our website bbclearningenglish.com.",
+      "OK, time for a question for you Becca. According to one theory, some animals are black and white to warn [6] that they're dangerous or they [7]. But what is the scientific term for this? Is it A, [8], B, [9] or C, [10]? Well, Neil, I'm going to go with C, just because I've never heard of that word before. OK, I like your style. Some scientists think zebras [11] [12] from flies and other insects. Zoologist Dr Martin How tested this theory by covering horses, [13] of the zebra, in stripes. Here, Martin discusses his experiment with Caroline Steel from BBC World Service programme, CrowdScience. Do we know what it is about the stripes that's [14]?",
+      "Is it somehow like [15]? We originally set out to test whether maybe there were these [16] at play. So we did [17] where we tried [18] of rugs, but it turned out that practically every [19], every black and white pattern we used, almost every pattern was really [20]. Martin conducted a whole bunch of, meaning a lot of, tests using different colours and patterns. Black and white stripes created an optical illusion, [21] that makes your eyes see things differently from how they really are. As a result, the flies were put off, they [22] and didn't bite. So zebras stripes confuse insects, telling them to [23].",
+      "But are there other reasons animals are black and white? Nobody who's seen giant pandas in a zoo would find them hard to spot. Against [24], they [25]. But seen from a distance in the snowy mountain forests where they live, black and white makes [26]. Here's Professor Tim Caro, [27] on animal behaviour, explaining more to Caroline Steel for BBC World Service's CrowdScience. The giveaway for me was [28] of giant pandas taken either [29] or at a distance, and in two of those photos I was unable to see anything in the picture other than [30]. And then later on I realised that in fact there was a giant panda in the centre of that picture some distance away, but immediately that [31].",
+      "The pandas were so [32], Tim couldn't spot them in the photos, that's when something clicked in his mind, a phrase used when you [33] after trying for a long time. Tim understood that pandas use colour to hide, he calls this [34], something that makes it easy for people to discover something [35]. So are animals black and white to [36] like zebras, or for camouflage like pandas? Let's give the final word to Hannah Rowland, a researcher into another black and white animal, penguins. Really science never has a black and white answer, [37], with penguins being black and white, it's often [38]. The answer to why animals are black and white is not black and white.",
+      "A situation described as black and white means one where it's easy to understand what's right and wrong. In fact, there's no one reason why animals are black and white, Zebras avoid bites, pandas [39] and some animals like skunks warn other animals they're dangerous, it all depends on [40]. And talking of skunks reminds me of my question becca, according to one theory some animals are black and white to warn potential predators they're dangerous or taste bad, but what is the scientific term? And I chose C, aposematism, because I'd never heard of it before. Well, that's a great way of choosing, and it's done well for you because you're correct. Okay, let's recap the vocabulary we've learned starting with optical illusion, a visual trick where your eyes perceive things differently from how they really are.",
+      "A whole bunch of something means a lot of something. If something puts you off, it causes you to dislike it or lose interest. A giveaway is something that makes it easy for people to discover something secret or unknown. The phrase something clicked in my mind is used when you suddenly understand something at last. And finally, if you describe something as black and white, you mean it's easy to understand what is right and wrong. Once again, our six minutes are up, but head over to our website bbclearningenglish.com for a quiz and worksheet for this episode. See you there soon, but for now it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "have in common",
+      "black and white",
+      "evolved",
+      "survival",
+      "hundreds of animal species",
+      "potential predators",
+      "taste bad",
+      "camouflage",
+      "mimicry",
+      "aposematism",
+      "distinctive black and white stripes",
+      "prevent bites",
+      "a close relative",
+      "putting them off",
+      "visually confusing",
+      "optical illusions",
+      "a whole bunch of tests",
+      "different patterns",
+      "high contrast pattern",
+      "effective at stopping flies",
+      "a visual trick",
+      "lost interest",
+      "look elsewhere for food",
+      "a grassy background",
+      "stand out easily",
+      "the perfect disguise",
+      "a world authority",
+      "15 photos",
+      "fairly close up",
+      "rocks and snow",
+      "clicked in my mind",
+      "well camouflaged",
+      "suddenly understand something",
+      "a giveaway",
+      "secret or unknown",
+      "repel insects",
+      "excuse the pun",
+      "a very complex mixture of reasons",
+      "hide from predators",
+      "the specific animal"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "fifteen photos"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "ac8136067130",
+    "paraphrases": [
+      [
+        "have in common",
+        "share the same feature",
+        "có chung một đặc điểm",
+        13.8,
+        24.9
+      ],
+      [
+        "predators",
+        "animals that hunt and eat other animals",
+        "động vật săn và ăn động vật khác",
+        63.1,
+        70.7
+      ],
+      [
+        "distinctive",
+        "having a feature that is easy to recognise",
+        "có đặc điểm khác biệt, dễ nhận ra",
+        91.3,
+        105.8
+      ],
+      [
+        "optical illusion",
+        "a visual effect that misleads the eyes",
+        "ảo ảnh khiến mắt nhìn khác thực tế",
+        146.2,
+        153.5
+      ],
+      [
+        "a whole bunch of",
+        "a large number or amount of",
+        "một số lượng lớn",
+        139.7,
+        145.6
+      ],
+      [
+        "put off",
+        "made to lose interest or feel dislike",
+        "bị làm cho mất hứng hoặc không thích",
+        154.1,
+        158
+      ],
+      [
+        "stand out",
+        "be easy to notice",
+        "nổi bật, dễ được nhận thấy",
+        167.5,
+        180.5
+      ],
+      [
+        "clicked in my mind",
+        "became clear to me after trying to understand",
+        "chợt hiểu ra sau khi cố tìm hiểu",
+        206.6,
+        227.9
+      ],
+      [
+        "giveaway",
+        "a clue that reveals something previously unknown",
+        "dấu hiệu làm lộ điều chưa biết",
+        228.6,
+        238.2
+      ],
+      [
+        "black and white",
+        "clear-cut and easy to judge as right or wrong",
+        "rõ ràng, dễ phân biệt đúng sai",
+        265.3,
+        275.8
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "have in common",
+        "meaning": "có chung một đặc điểm",
+        "note": "share the same feature"
+      },
+      {
+        "term": "predators",
+        "meaning": "động vật săn và ăn động vật khác",
+        "note": "animals that hunt and eat other animals"
+      },
+      {
+        "term": "distinctive",
+        "meaning": "có đặc điểm khác biệt, dễ nhận ra",
+        "note": "having a feature that is easy to recognise"
+      },
+      {
+        "term": "optical illusion",
+        "meaning": "ảo ảnh khiến mắt nhìn khác thực tế",
+        "note": "a visual effect that misleads the eyes"
+      },
+      {
+        "term": "a whole bunch of",
+        "meaning": "một số lượng lớn",
+        "note": "a large number or amount of"
+      },
+      {
+        "term": "put off",
+        "meaning": "bị làm cho mất hứng hoặc không thích",
+        "note": "made to lose interest or feel dislike"
+      },
+      {
+        "term": "stand out",
+        "meaning": "nổi bật, dễ được nhận thấy",
+        "note": "be easy to notice"
+      },
+      {
+        "term": "clicked in my mind",
+        "meaning": "chợt hiểu ra sau khi cố tìm hiểu",
+        "note": "became clear to me after trying to understand"
+      },
+      {
+        "term": "giveaway",
+        "meaning": "dấu hiệu làm lộ điều chưa biết",
+        "note": "a clue that reveals something previously unknown"
+      },
+      {
+        "term": "black and white",
+        "meaning": "rõ ràng, dễ phân biệt đúng sai",
+        "note": "clear-cut and easy to judge as right or wrong"
+      }
+    ],
+    "signals": []
+  },
+  "87": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Becca. In this episode we're discussing [1] that's so popular we eat around [2] of it a year. We're talking about pepper. Do you add pepper to your food Becca? I do, Neil. Yes, I think it's an easy way to [3]. Yeah, I love a bit of pepper. I grind pepper onto everything. Well, not everything, but I do like it. Given its popularity, it's surprising that most people know very little about pepper. Did you know, for example, that peppers are [4], often growing [5]? [6] would be surprised how little we know. From ancient Greece onwards, pepper was prized as [7] of ingredients and explorers [8] in search of it, discovering [9] along the way.",
+      "In this episode, we'll [10] with pepper and learn some useful new words and phrases too. And remember, you'll find a transcript for you to read along with us as you listen on our website, bbclearningenglish.com Okay, first I have a question for you, of course, Becca. Although it's black pepper, you're most likely to see in shops and restaurants in the UK, there are [11] worldwide. But what is unusual about Phu Quoc, [12] from Vietnam? Does it A, make people cry? B, taste like [13] or C, cost more than gold? Hmm, well I don't think it would be as expensive as gold, and I kind of want it to taste like Parmesan cheese. Okay, well, we'll find out later in the programme.",
+      "Mathilde Roellinger is the daughter of Olivier Roellinger, [14] famous for his use of spices. While other little girls of her age were [15] on their breakfast yogurt, Mathilde was the only girl in Paris sprinkling pepper. Today, Mathilde runs the Épices Roellinger spice shop in the Opéra area of the city. Here, customers can find [16] from fruity red Cambodian Kampot pepper to Borneo's Sarawak black pepper with its [17]. These peppers have strong, [18]. But curiously, they enhance, rather than [19], the flavour of the food you're eating, as Mathilde explained to BBC World Service programme, the food chain. It will give [20] and transform it, but you will still have [21] of the different ingredients.",
+      "It will not [22] the other ingredient, but it will push them. It’s [23]. We can say in punctuation, like it's an exclamation. It's like [24]. Exactly. Mathilde says pepper gives food a kick. To give something a kick means to provide it with [25]. Pepper also makes flavours [26]. Mathilde calls it a catalyst. Something that causes another action to start, or makes it happen more quickly. In fact, she says pepper is like an exclamation mark. Saying something is like an exclamation mark means it shows strong emotion or excitement. The same thing an exclamation mark does in written punctuation. Mathilde's spice shop holds [27], where she explains to customers [28] and how they grow, [29] as they harden in the sun.",
+      "Reporter John Laurenson attended one of these tasting sessions for BBC World Service programme, the food chain. The different colours of pepper, though, as Mathilde started to say, do not correspond to the different varieties, but to [30] and what people do to them. They're green when they're young, black when they're [31], red when they're very mature. Grey pepper is [32], not a botanical one, ground to [33]. It is, says Mathilde, grey dust. She's [34] that one. The colour of pepper is [35], but by its maturity. A food's maturity describes the stage when a food is [36] and [37].",
+      "For peppers, this is when they wrinkle and go black. Often, [38] is used to grind pepper, to crush it into powder by pressing it between [39]. This happens with grey pepper, [40], which Mathilde is not keen on, meaning she doesn't like it. We've learned so much about pepper, I'll look at it differently the next time I sprinkle some on my food. Okay, Neil, I think it's time to reveal the answer to your question. Yes, I asked you what's unusual about Phu Quoc, a white pepper from Vietnam. I answered B because I want it to taste like Parmesan cheese. Well, you're lucky, because it is in fact B, it tastes like Parmesan cheese. Well done. Okay, let's recap the vocabulary we've learned, starting with the phrase, give something a kick, meaning to add extra thrill or excitement.",
+      "A catalyst causes something to start or speeds it up. If you say something is like an exclamation mark, you mean it signifies strong emotion, surprise or excitement, just like an exclamation mark does in writing. A food's maturity refers to the stage when it's fully grown and ready for harvest. To grind food means to crush it into powder by being pressed between two hard surfaces. And finally, if you're keen on something, you like it and enjoy doing it. Once again, our six minutes are up. But remember, you can find worksheets, quizzes and loads more resources to improve your English on our website, bbclearningenglish.com. See you there soon, but for now it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "a food seasoning",
+      "three quarters of a million tonnes",
+      "add some spice",
+      "the fruit of vines",
+      "over 10 metres high",
+      "Our ancestors",
+      "the black gold",
+      "crossed oceans",
+      "new continents",
+      "get reacquainted",
+      "hundreds of different varieties",
+      "a white pepper",
+      "Parmesan cheese",
+      "an award-winning French chef",
+      "sprinkling sugar",
+      "a huge range of peppers",
+      "woody aroma",
+      "distinctive tastes",
+      "overpower",
+      "a kick",
+      "the savour",
+      "disguise",
+      "a flavour catalyst",
+      "an exclamation mark",
+      "extra stimulation or excitement",
+      "more intense",
+      "pepper tasting sessions",
+      "the origin of her peppers",
+      "changing colour",
+      "the maturity of the peppercorns",
+      "mature and dried",
+      "an industrial creation",
+      "a fine powder",
+      "not very keen on",
+      "not determined by the variety",
+      "fully grown",
+      "ready to harvest",
+      "a pepper mill",
+      "two hard surfaces",
+      "an artificially produced pepper mix"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "three-quarters of a million tonnes",
+        "750,000 tonnes",
+        "750000 tonnes"
+      ],
+      [],
+      [],
+      [
+        "over ten metres high",
+        "over 10 meters high"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a flavor catalyst"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "changing color"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "7ecf38b26c33",
+    "paraphrases": [
+      [
+        "seasoning",
+        "something added to food to improve its flavour",
+        "gia vị được thêm để tăng hương vị",
+        13.3,
+        24.8
+      ],
+      [
+        "reacquainted",
+        "familiar again with something previously known",
+        "được làm quen lại với điều từng biết",
+        49,
+        66.1
+      ],
+      [
+        "woody aroma",
+        "a smell resembling wood",
+        "mùi hương gợi nhớ đến gỗ",
+        136.7,
+        144.7
+      ],
+      [
+        "enhance",
+        "improve or strengthen a quality",
+        "làm tăng hoặc cải thiện một đặc tính",
+        145.3,
+        157.8
+      ],
+      [
+        "give something a kick",
+        "add extra stimulation or excitement to it",
+        "tạo thêm vị mạnh hoặc sự kích thích",
+        177.2,
+        184.6
+      ],
+      [
+        "catalyst",
+        "something that starts or speeds up another action",
+        "chất hoặc yếu tố xúc tác",
+        185.3,
+        198.3
+      ],
+      [
+        "like an exclamation mark",
+        "expressing strong emotion or excitement",
+        "như dấu chấm than, thể hiện cảm xúc mạnh",
+        198.3,
+        208.8
+      ],
+      [
+        "maturity",
+        "the stage of being fully grown and ready to harvest",
+        "độ chín, giai đoạn sẵn sàng thu hoạch",
+        254.8,
+        272.4
+      ],
+      [
+        "grind",
+        "crush into powder between hard surfaces",
+        "nghiền thành bột giữa các bề mặt cứng",
+        266.8,
+        284.6
+      ],
+      [
+        "not keen on",
+        "not particularly fond of",
+        "không thích hoặc không hào hứng với",
+        279.1,
+        284.6
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "seasoning",
+        "meaning": "gia vị được thêm để tăng hương vị",
+        "note": "something added to food to improve its flavour"
+      },
+      {
+        "term": "reacquainted",
+        "meaning": "được làm quen lại với điều từng biết",
+        "note": "familiar again with something previously known"
+      },
+      {
+        "term": "woody aroma",
+        "meaning": "mùi hương gợi nhớ đến gỗ",
+        "note": "a smell resembling wood"
+      },
+      {
+        "term": "enhance",
+        "meaning": "làm tăng hoặc cải thiện một đặc tính",
+        "note": "improve or strengthen a quality"
+      },
+      {
+        "term": "give something a kick",
+        "meaning": "tạo thêm vị mạnh hoặc sự kích thích",
+        "note": "add extra stimulation or excitement to it"
+      },
+      {
+        "term": "catalyst",
+        "meaning": "chất hoặc yếu tố xúc tác",
+        "note": "something that starts or speeds up another action"
+      },
+      {
+        "term": "like an exclamation mark",
+        "meaning": "như dấu chấm than, thể hiện cảm xúc mạnh",
+        "note": "expressing strong emotion or excitement"
+      },
+      {
+        "term": "maturity",
+        "meaning": "độ chín, giai đoạn sẵn sàng thu hoạch",
+        "note": "the stage of being fully grown and ready to harvest"
+      },
+      {
+        "term": "grind",
+        "meaning": "nghiền thành bột giữa các bề mặt cứng",
+        "note": "crush into powder between hard surfaces"
+      },
+      {
+        "term": "not keen on",
+        "meaning": "không thích hoặc không hào hứng với",
+        "note": "not particularly fond of"
+      }
+    ],
+    "signals": []
+  },
+  "88": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Becca. Do you enjoy cooking, Neil? Yes, I do enjoy cooking. I think it's quite [1], especially after a busy day. How about you, Becca? I enjoy cooking when I'm feeding other people, but usually after a busy day at work, I don't enjoy cooking for myself. Well, we're talking about cooking today, and most of us can at least [2], but not everyone could make it as [3] in a world-famous restaurant. Being a top chef requires [4]. Many chefs work [5], [6], and busy kitchens cooking expensive food are very [7]. So, why do they do it? In this episode, we'll hear from one South African chef who started her own [8] in the country known as the Home of [9], France.",
+      "As usual, we'll be learning some useful new words and phrases, and remember you'll find all this episode's vocabulary, along with the transcript on our website, bbclearningenglish.com. But first, I have a question for you, Neil. The top prizes for any professional chef are [10]. Awards given to restaurants offering [11], but who is the winner of the most Michelin stars ever? Is it? A. Italian chef Enrico Bartolini. B. French chef Joël Robuchon. Or C. British chef Gordon Ramsay. I'm gonna say, A. The Italian chef Enrico Bartolini, because I went to Italy recently, and the food was amazing. Okay, we'll find out the answer later in this episode. Born in South Africa, chef Chantel Dartnall started her [12] at a three Michelin star restaurant in the exclusive Mayfair area of London.",
+      "Here, she tells Ruth Alexander, presenter of BBC World Service Program, the food chain, how it all got started. What happened is I had graduated from the Prue Leith College of Food and Wine, and decided to send [13] to all the three Michelin star restaurants that I could find at that moment in the Michelin Guide. So you [14] from the off? I aimed high. The only thing that they could say was no, and what would I lose? I received a call from Chef Paul Rhodes to say, when can you start? Wow. And this sort of just [15]. Chantel sent her CV to the world's top restaurants. CV is short for [16], a document listing someone's [17], which they write when [18].",
+      "In American English, it's called [19]. Chantel applied to only Michelin starred winning restaurants. She aimed high, meaning she was [20]. Chantel says [21], a phrase which means you shouldn't be afraid of trying to do something because the worst outcome is [22]. Luckily for Chantel, the answer was yes, and [23] in a top London restaurant catapulted, meaning [24]. At the age of [25], Chantel left London and returned home to open her own restaurant, Mosaic, near Pretoria in South Africa. She'd been inspired by [26], the use of [27] to decorate and flavour food. Here, Chantel tells more to BBC World Service programme, The Food Chain.",
+      "When I opened Mosaic in South Africa, I knew I wanted something [28] and something which diners had not seen. I wanted to have [29] and to [30]. And I think especially for botanical cuisine in South Africa, it was very much unknown. Chantel developed her own signature. A signature item is something that is typical of or [31] [32]. For example, whiskey is Scotland's [33]. Chantel's signature is cooking botanical food. Chantel's Mosaic restaurant is currently at the Château des Tesnières in Northern France, where it's listed among the [34] in the world. And in [35], she won the title [36].",
+      "These achievements have helped Chantel stand out to be [37] and better than other chefs. Chantel is still waiting, but surely it's [38] until she wins those coveted Michelin stars. Speaking of which, what was the answer to your question, Becca? Ah yes, I asked you earlier who is the winner of the most Michelin stars ever. I said that it was the Italian chef Enrico Bartolini. But unfortunately, it was incorrect. Ah no. The right answer is B, Joël Robuchon, our French chef with [39], [40]. Okay, let's recap the vocabulary we've learnt, starting with curriculum vitae, CV or Resume in American English. A document outlining someone's education, qualifications and work experience, which they prepare when looking for a job.",
+      "To aim high means to be ambitious and set high goals. The phrase, the worst they can do is say no, means don't be afraid of trying to do something for the fear of rejection. If something is catapulted, it's suddenly accelerated or launched forward. A signature item is something that a person or place is known for. And finally, to stand out means to be more noticeable or better than other similar things. Once again, our six minutes are up. If you enjoyed this episode, you'll find a quiz and worksheet to practice the vocabulary we've learnt on our website, bbclearningenglish.com. See you again soon, but for now, it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "relaxing",
+      "boil an egg",
+      "a professional chef",
+      "passion, dedication and hard work",
+      "15 hours a day",
+      "six days a week",
+      "stressful places to work",
+      "award-winning restaurant",
+      "Fine Dining",
+      "Michelin stars",
+      "outstanding cooking",
+      "culinary career",
+      "my CV",
+      "aimed high",
+      "catapulted my career",
+      "curriculum vitae",
+      "education, qualifications and work experience",
+      "looking for a job",
+      "a resume",
+      "ambitious",
+      "the worst they could do is say no",
+      "being rejected",
+      "learning her trade",
+      "accelerated her career",
+      "26",
+      "botanical cuisine",
+      "edible flowers and herbs",
+      "entirely different",
+      "my own signature",
+      "stand out",
+      "strongly associated with",
+      "a particular person or place",
+      "signature drink",
+      "top 200 restaurants",
+      "2017",
+      "Best Female Chef in the World",
+      "more noticeable",
+      "only a matter of time",
+      "31 stars",
+      "the most decorated chef in history"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "fifteen hours a day"
+      ],
+      [
+        "6 days a week"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "a résumé"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "twenty-six"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "top two hundred restaurants"
+      ],
+      [
+        "two thousand and seventeen",
+        "twenty seventeen"
+      ],
+      [],
+      [],
+      [],
+      [
+        "thirty-one stars"
+      ],
+      []
+    ],
+    "contentRevision": "18a929aaf412",
+    "paraphrases": [
+      [
+        "dedication",
+        "strong commitment to an activity or goal",
+        "sự tận tâm và cam kết với công việc",
+        41,
+        58.1
+      ],
+      [
+        "culinary",
+        "connected with cooking",
+        "thuộc về nấu nướng, ẩm thực",
+        111,
+        127.1
+      ],
+      [
+        "CV",
+        "a document listing education and work experience",
+        "bản tóm tắt học vấn, bằng cấp và kinh nghiệm",
+        157.1,
+        171.6
+      ],
+      [
+        "aimed high",
+        "set ambitious goals",
+        "đặt mục tiêu cao, đầy tham vọng",
+        172.2,
+        183.1
+      ],
+      [
+        "the worst they could do is say no",
+        "rejection is the worst outcome, so it is worth trying",
+        "điều tệ nhất chỉ là bị từ chối, nên cứ thử",
+        177.7,
+        192
+      ],
+      [
+        "catapulted",
+        "suddenly pushed forward or accelerated",
+        "được thúc đẩy tiến nhanh, đột ngột",
+        192.7,
+        202.2
+      ],
+      [
+        "botanical cuisine",
+        "cooking using edible flowers and herbs",
+        "ẩm thực sử dụng hoa và thảo mộc ăn được",
+        202.2,
+        218.4
+      ],
+      [
+        "signature",
+        "a characteristic feature strongly associated with someone",
+        "đặc trưng gắn liền với một người hoặc nơi",
+        237.5,
+        254.4
+      ],
+      [
+        "stand out",
+        "be more noticeable or better than others",
+        "nổi bật hoặc tốt hơn những đối tượng khác",
+        266.9,
+        277.5
+      ],
+      [
+        "only a matter of time",
+        "expected to happen eventually",
+        "sớm muộn cũng sẽ xảy ra",
+        277.5,
+        283.1
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "dedication",
+        "meaning": "sự tận tâm và cam kết với công việc",
+        "note": "strong commitment to an activity or goal"
+      },
+      {
+        "term": "culinary",
+        "meaning": "thuộc về nấu nướng, ẩm thực",
+        "note": "connected with cooking"
+      },
+      {
+        "term": "CV",
+        "meaning": "bản tóm tắt học vấn, bằng cấp và kinh nghiệm",
+        "note": "a document listing education and work experience"
+      },
+      {
+        "term": "aimed high",
+        "meaning": "đặt mục tiêu cao, đầy tham vọng",
+        "note": "set ambitious goals"
+      },
+      {
+        "term": "the worst they could do is say no",
+        "meaning": "điều tệ nhất chỉ là bị từ chối, nên cứ thử",
+        "note": "rejection is the worst outcome, so it is worth trying"
+      },
+      {
+        "term": "catapulted",
+        "meaning": "được thúc đẩy tiến nhanh, đột ngột",
+        "note": "suddenly pushed forward or accelerated"
+      },
+      {
+        "term": "botanical cuisine",
+        "meaning": "ẩm thực sử dụng hoa và thảo mộc ăn được",
+        "note": "cooking using edible flowers and herbs"
+      },
+      {
+        "term": "signature",
+        "meaning": "đặc trưng gắn liền với một người hoặc nơi",
+        "note": "a characteristic feature strongly associated with someone"
+      },
+      {
+        "term": "stand out",
+        "meaning": "nổi bật hoặc tốt hơn những đối tượng khác",
+        "note": "be more noticeable or better than others"
+      },
+      {
+        "term": "only a matter of time",
+        "meaning": "sớm muộn cũng sẽ xảy ra",
+        "note": "expected to happen eventually"
+      }
+    ],
+    "signals": []
+  },
+  "89": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Phil. And I'm Becca. Have you ever done something [1], Phil? Like [2] maybe or [3]? I've climbed some mountains but only very little ones so it wasn't that challenging. If physical challenges are something you enjoy, maybe you should try [4] or [5] as it used to be called. A combination of [6] with a difference. In artistic swimming, athletes dance underwater while [7]. Did you say dance underwater? Yes, swimmers dance [8] in the water holding their breath. As we'll hear, it's [9] which requires [10], [11] and [12].",
+      "As usual, we'll be learning some useful new words and phrases and you can practice these with the quiz and worksheet on our website. That's bbclearningenglish.com. Great. But first, Phil, I have a question for you. Artistic swimming became [13] in [14], but which country has won the most [15] since then? Is it A, Russia, B, China or C, the USA? Oh, I think it's B, China. Well, we'll reveal the correct answer later in this episode. Silvia Solymosyová from Slovakia is a European championship medalist. She's also the first artistic swimmer with [16]. After videos of her walking upside down underwater [17]. Here, she explains the different types of swimming dances, called [18]. to Datshiane Navanayagam, presenter of BBC World Service Program, the conversation.",
+      "If you had to explain artistic swimming to someone who has never seen it, how would you describe it? So I would say it depends if you're watching like [19] or [20] or [21] because in solo there's one person in duet there's two people and in team routines there can be [22] and in the team routines there's [23] and actually in the routines we are smiling but we are [24] because we are actually maybe dying. We don't have [25] so that we are smiling and people think that it's easy when it's actually not. Artistic swimming routines are performed solo, meaning by just one person or as a duet which means by two people. There are also team routines where one swimmer is lifted up out of the water.",
+      "What all these routines have in common is that physically they are [26]. Yes, artistic routines are done upside down under water without oxygen. The swimmer's movements need to be [27] and above all it has to [28] because judges award points for [29]. Silvia says she hides behind a smile, an idiom meaning to hide pain by presenting [30]. To succeed at the top level of any sport requires [31]. Silvia trains [32], [33], [34] of her coach, who's also her mum and a former artistic swimming champion herself. Here Silvia discusses [35] she's made to succeed with Datshiane Navanayagam for BBC World Services, the conversation.",
+      "How easy was it being trained and coached by your mum? I think it's good on one side because you can practice more at home but [36] it's not sometimes good because you're training when you're at home, when you're supposed to be [37]. There's [38] from it in a way I guess. Yeah I didn't have time for anything else. Silvia thinks there are good and bad things about being coached by her mum. It's good because she can practice at home but on the other hand it feels like she's training all the time. She uses the phrase on the other hand to show [39]. What Silvia really looks forward to is chilling, a slang word meaning relaxing or hanging out. For young athletes, balancing sport with school and friends is difficult and it's hard to get a respite from training.",
+      "A respite is [40] from doing something difficult. Do you know what Becca? I think I need a respite from all this talk about training. Now what was the answer to your question? Ah yes Phil. I asked you which country had won the most gold medals for artistic swimming since the beginning of the Olympic sport? And I said I thought it was China. Well you're very close geographically it is in fact Russia. Okay let's recap the vocabulary we've learnt, starting with solo, something done alone and duet, something done by two people. The idiom hide behind a smile means to hide painful feelings by presenting a happy external appearance. The phrase on the other hand is used to introduce a contrasting opinion or statement.",
+      "Chillin’ is slang for relaxing. And finally a respite is a break from doing something difficult. Once again our six minutes are up but if you'd like to practice the vocabulary you've learnt from this or any of our other episodes then head over to our website bbclearningenglish.com for quizzes, pronunciation tips and much more. Thanks for joining us and goodbye for now. Bye!"
+    ],
+    "answers": [
+      "physically challenging",
+      "running a marathon",
+      "climbing a mountain",
+      "artistic swimming",
+      "synchronised swimming",
+      "dance and gymnastics",
+      "holding their breath",
+      "upside down",
+      "an extremely demanding sport",
+      "discipline",
+      "stamina",
+      "years of training",
+      "an Olympic sport",
+      "1984",
+      "gold medals",
+      "over a million social media followers",
+      "went viral",
+      "routines",
+      "a solo",
+      "duet",
+      "team routine",
+      "eight people or 10 people",
+      "a lot of lifts",
+      "hiding behind a smile",
+      "oxygen",
+      "incredibly hard",
+      "as graceful as a ballet dancer",
+      "look effortless",
+      "artistic expression",
+      "a happy outward appearance",
+      "a huge amount of dedication",
+      "eight hours a day",
+      "six days a week",
+      "under the guidance",
+      "the sacrifices",
+      "on the other hand",
+      "chilling",
+      "no respite",
+      "this contrasting opinion",
+      "a temporary break"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "synchronized swimming"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "nineteen eighty-four"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "eight people or ten people",
+        "8 people or 10 people"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "8 hours a day"
+      ],
+      [
+        "6 days a week"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "a7bc0be87e19",
+    "paraphrases": [
+      [
+        "demanding",
+        "requiring a great deal of effort",
+        "đòi hỏi nhiều nỗ lực",
+        51.7,
+        65.9
+      ],
+      [
+        "stamina",
+        "the ability to keep making an effort for a long time",
+        "sức bền để duy trì hoạt động lâu",
+        51.7,
+        65.9
+      ],
+      [
+        "went viral",
+        "spread rapidly and widely online",
+        "lan truyền nhanh và rộng trên mạng",
+        108.6,
+        121.4
+      ],
+      [
+        "solo",
+        "performed by one person alone",
+        "được thực hiện bởi một người",
+        163.3,
+        176.4
+      ],
+      [
+        "duet",
+        "a performance by two people",
+        "màn trình diễn của hai người",
+        163.3,
+        176.4
+      ],
+      [
+        "effortless",
+        "appearing to require no effort",
+        "trông như không cần cố gắng",
+        183.1,
+        196.3
+      ],
+      [
+        "hides behind a smile",
+        "conceals pain by appearing happy",
+        "che giấu nỗi đau bằng vẻ ngoài vui vẻ",
+        196.3,
+        210.4
+      ],
+      [
+        "on the other hand",
+        "introducing a contrasting point of view",
+        "mặt khác, đưa ra ý kiến tương phản",
+        256.9,
+        274.7
+      ],
+      [
+        "chilling",
+        "relaxing or spending time casually",
+        "thư giãn hoặc nghỉ ngơi thoải mái",
+        274.7,
+        280.7
+      ],
+      [
+        "respite",
+        "a temporary rest from something difficult",
+        "khoảng nghỉ tạm thời khỏi việc khó khăn",
+        280.9,
+        291.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "demanding",
+        "meaning": "đòi hỏi nhiều nỗ lực",
+        "note": "requiring a great deal of effort"
+      },
+      {
+        "term": "stamina",
+        "meaning": "sức bền để duy trì hoạt động lâu",
+        "note": "the ability to keep making an effort for a long time"
+      },
+      {
+        "term": "went viral",
+        "meaning": "lan truyền nhanh và rộng trên mạng",
+        "note": "spread rapidly and widely online"
+      },
+      {
+        "term": "solo",
+        "meaning": "được thực hiện bởi một người",
+        "note": "performed by one person alone"
+      },
+      {
+        "term": "duet",
+        "meaning": "màn trình diễn của hai người",
+        "note": "a performance by two people"
+      },
+      {
+        "term": "effortless",
+        "meaning": "trông như không cần cố gắng",
+        "note": "appearing to require no effort"
+      },
+      {
+        "term": "hides behind a smile",
+        "meaning": "che giấu nỗi đau bằng vẻ ngoài vui vẻ",
+        "note": "conceals pain by appearing happy"
+      },
+      {
+        "term": "on the other hand",
+        "meaning": "mặt khác, đưa ra ý kiến tương phản",
+        "note": "introducing a contrasting point of view"
+      },
+      {
+        "term": "chilling",
+        "meaning": "thư giãn hoặc nghỉ ngơi thoải mái",
+        "note": "relaxing or spending time casually"
+      },
+      {
+        "term": "respite",
+        "meaning": "khoảng nghỉ tạm thời khỏi việc khó khăn",
+        "note": "a temporary rest from something difficult"
+      }
+    ],
+    "signals": []
+  },
+  "90": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Phil. And I'm Pippa. Are you a big reader, Phil? Sometimes yes, sometimes no. Sometimes I go while without reading anything. What about you? Well, I really love to read. I read on the train to work all the time. Well, that is a great way to get some reading in, I guess. Yes, and reading of course is [1], [2] which is useful or important in everyone's life. But reading can be [3] for people with [4], [5] making it hard for people to [6]. It's thought that around [7] in the UK are dyslexic. And many dyslexic children [8] where the focus is on reading and writing.",
+      "But in this episode, we'll be hearing how dyslexics have other skills which allow them to [9]. As usual, we'll be learning some useful new words and phrases and remember you'll find all the vocabulary for this episode on our website bbclearningenglish.com. But first, I have a question for you, Phil. Studies have shown that people with dyslexia have [10] in certain areas and can excel in [11], [12] and [13]. So, which famous scientist was dyslexic? Was it A, Stephen Hawking, B, [14] or C, Marie Curie? Oh, I think I think it's B, I think it's Albert Einstein. Well, we'll find out the answer at the end of the programme. Now, the British charity Made By Dyslexia shares [15] and works with schools and teachers to [16] about the condition.",
+      "The charity recently [17] with British celebrities who have dyslexia for [18]. If you're dyslexic, it's kind of [19], it's like the way that you think. Our brains, they're wired to, I think, [20]. The way I see the world might be different from somebody else, but that's [21]. In fact, it's [22]. You might recognise some of those voices, including actors Orlando Bloom and Keira Knightley and businessman Richard Branson. The message is that far from being a disability dyslexia is their superpower, the ability to do something other people can't. Made By Dyslexia was founded by [23] Kate Griggs and Kate co-authored a report showing that [24] could [25] by billions.",
+      "BBC World Service programme People Fixing the World met Kate at the report's London launch event, where she explained why being dyslexic can actually give advantages in life, including some exciting [26]. If you think about what you have to do as a spy, you have to be [27], [28] and [29] so you can see whether there's [30]. It's natural that dyslexics are [31]. Kate thinks dyslexics make good spies, people who [32] about another country's government or organisations. Why? Because they're good at reading people. To read people means to be able to understand someone's [33] through their [34], rather than their words.",
+      "Also present at the London charity event was space scientist and dyslexic herself, Dr Maggie Aderin-Pocock. Here, Maggie tells BBC World Service People Fixing the World, how being dyslexic contributes [35] to her project teams. Well, I think it's recognising people's skills and differences. It's about [36]. We do it in science and that's when we reach for the stars, but to do that we need to know our skills and [37]. Maggie thinks that everyone's skills should be valued or considered important. Dyslexics may struggle to read or spell, but their skills in problem solving and communication, for example, can be essential for [38].",
+      "By valuing everyone's contribution, business and science teams can [39], an idiom meaning to [40] and try to achieve something difficult, even if it seems impossible. And talking of reaching for the stars, Pippa, I think it's time you revealed the answer to your question about successful scientists. Yes, I asked you which famous scientist was dyslexic? Was it A, Stephen Hawking, B, Albert Einstein or C, Marie Curie, and you were right Phil, it was Albert Einstein. Okay, let's recap the vocabulary we've learned, starting with life skill, an essential skill such as reading or problem solving, which is useful in everyone's life. A superpower is the ability to do something that other people can't.",
+      "A spy is someone who secretly collects information about other countries, governments or organisations. If you're good at reading people, you can understand people's real intentions through how they act and behave instead of what they say. If you value something or someone, you consider them to be important. And finally, the idiom to reach for the stars means to have high or ambitious aims and try to achieve something difficult, even if it seems impossible. Once again, our six minutes are up, but remember you can find many more trending topics plus a quiz and worksheet for this episode on our website, bbclearningenglish.com. Hope to see you there soon, but for now, it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "a life skill",
+      "an essential skill",
+      "a struggle",
+      "dyslexia",
+      "a learning difficulty",
+      "read, write or spell",
+      "1 in 10 people",
+      "struggle at school",
+      "excel in the workplace",
+      "enhanced abilities",
+      "creative thinking",
+      "problem-solving",
+      "inventiveness",
+      "Albert Einstein",
+      "online learning tools",
+      "raise awareness",
+      "collaborated",
+      "this promotional video",
+      "your superpower",
+      "process information differently",
+      "valid",
+      "vital",
+      "social entrepreneur",
+      "empowering dyslexic workers",
+      "boost the global economy",
+      "job prospects",
+      "reading people really quickly",
+      "spotting complex patterns",
+      "solving problems really quickly",
+      "a terror threat",
+      "brilliant spies",
+      "secretly collect information",
+      "true intentions",
+      "body language and behaviour",
+      "different skills and ideas",
+      "teamwork and collaboration",
+      "value all the skills",
+      "scientific success",
+      "reach for the stars",
+      "be ambitious"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "one in ten people"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "body language and behavior"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "256ef61ab07d",
+    "paraphrases": [
+      [
+        "life skill",
+        "an ability useful in everyday life",
+        "kỹ năng hữu ích trong đời sống",
+        28.9,
+        40.8
+      ],
+      [
+        "dyslexia",
+        "a learning difficulty affecting reading, writing or spelling",
+        "chứng khó đọc, ảnh hưởng đến đọc, viết hoặc đánh vần",
+        35,
+        48.1
+      ],
+      [
+        "excel",
+        "do something extremely well",
+        "thực hiện điều gì rất xuất sắc",
+        54,
+        65.4
+      ],
+      [
+        "raise awareness",
+        "increase people's understanding of an issue",
+        "nâng cao nhận thức về một vấn đề",
+        103.3,
+        120.1
+      ],
+      [
+        "superpower",
+        "an exceptional ability others do not have",
+        "khả năng đặc biệt mà người khác không có",
+        144.1,
+        157.9
+      ],
+      [
+        "job prospects",
+        "possible future employment opportunities",
+        "triển vọng và cơ hội việc làm",
+        169.7,
+        182.1
+      ],
+      [
+        "spies",
+        "people who secretly gather information for others",
+        "những người bí mật thu thập thông tin",
+        193.5,
+        208.3
+      ],
+      [
+        "read people",
+        "understand intentions through behaviour and body language",
+        "hiểu ý định qua hành vi và ngôn ngữ cơ thể",
+        208.3,
+        219.8
+      ],
+      [
+        "valued",
+        "considered important and worthwhile",
+        "được coi trọng, đánh giá là có giá trị",
+        250.7,
+        264.4
+      ],
+      [
+        "reach for the stars",
+        "try to achieve highly ambitious goals",
+        "cố gắng vươn tới mục tiêu cao",
+        265.3,
+        277.6
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "life skill",
+        "meaning": "kỹ năng hữu ích trong đời sống",
+        "note": "an ability useful in everyday life"
+      },
+      {
+        "term": "dyslexia",
+        "meaning": "chứng khó đọc, ảnh hưởng đến đọc, viết hoặc đánh vần",
+        "note": "a learning difficulty affecting reading, writing or spelling"
+      },
+      {
+        "term": "excel",
+        "meaning": "thực hiện điều gì rất xuất sắc",
+        "note": "do something extremely well"
+      },
+      {
+        "term": "raise awareness",
+        "meaning": "nâng cao nhận thức về một vấn đề",
+        "note": "increase people's understanding of an issue"
+      },
+      {
+        "term": "superpower",
+        "meaning": "khả năng đặc biệt mà người khác không có",
+        "note": "an exceptional ability others do not have"
+      },
+      {
+        "term": "job prospects",
+        "meaning": "triển vọng và cơ hội việc làm",
+        "note": "possible future employment opportunities"
+      },
+      {
+        "term": "spies",
+        "meaning": "những người bí mật thu thập thông tin",
+        "note": "people who secretly gather information for others"
+      },
+      {
+        "term": "read people",
+        "meaning": "hiểu ý định qua hành vi và ngôn ngữ cơ thể",
+        "note": "understand intentions through behaviour and body language"
+      },
+      {
+        "term": "valued",
+        "meaning": "được coi trọng, đánh giá là có giá trị",
+        "note": "considered important and worthwhile"
+      },
+      {
+        "term": "reach for the stars",
+        "meaning": "cố gắng vươn tới mục tiêu cao",
+        "note": "try to achieve highly ambitious goals"
+      }
+    ],
+    "signals": []
+  },
+  "91": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Pippa and I'm Beth. In English, what we say and what we mean are sometimes two very different things. We often use [1] [2] or for humour, something known as [3]. For example, people say, I am so hungry [4], but of course no one really could. Here's presenter Michael Rosen and linguist Derek Bousfield discussing one example of hyperbole on BBC Radio 4's Word of Mouth. People do say, \"[5]!\" Yeah, or as my daughters would say, \"I’ve had [6] today.\" And when they say mare, which is obviously shortened from nightmare, what it basically means is they’ve had a mild and potentially [7] at work.",
+      "You might call [8] a nightmare. Derek's daughter used the word mare, short for nightmare, to describe her terrible day at work, but she was exaggerating. Her day wasn't really terrible, more like [9]. Can you remember a time when what you said wasn't really [10] Beth? Well, sometimes we say, hi, y’alright, which means hi, are you all right, like are you okay, but actually [11]. It just means hello, doesn't it? Yeah, I have a friend who actually just says all right and they just mean hello, they don't mean are you okay, they don't want to hear about my day. No, if you're having a bad day, they don't want to know, they're just saying hello.",
+      "In this episode, we'll be finding out more about how the meaning of words changes in English. As usual, we'll be learning some useful new words and phrases and remember you'll find all the vocabulary from this episode on our website, bbclearningenglish.com. But first, I have a question for you, Beth. The word hyperbole comes from [12], huper and ballo. But what is their [13]? Is it A [14]? B to over speak or C to over think. I have no idea, Pippa, I'm going to say to over speak. Okay, we'll find out the answer at the end of the programme. It's not just hyperbole that changes the meaning of words, it's opposite something called [15] has the same effect too. understatement involves [16] something.",
+      "For example, imagine you were served [17] in a restaurant, but instead of saying how bad the food was, you just said it was [18]. Here's linguist Derek Bousfield discussing understatement on BBC Radio 4's Word of Mouth. We love understatement as a way of kind of signaling that [19] has gone on. It's a kind of [20], [21], not taking oneself too seriously, identity when you do that. Because [22] is [23] in [24]. And so linguistically not taking yourself too seriously is really [25]. Understatement is valued in British culture, unlike taking yourself too seriously. If you take yourself too seriously, you think you're [26].",
+      "In Britain, this is a no-no, a way of behaving that is [27]. In other words, it's not the done thing, meaning it's not what you're expected to do in [28]. Another area where the meaning of words can be [29] is [30]. Here, Michael Rosen responds to [31] where his toe gets [32] by Derek Bousfield for BBC Radio 4 programme Word of Mouth. Imagine I stepped on your toe. Oh, Michael, I'm really sorry and you said [33]. Oh, right. That probably means he isn't. Yes, I'm actually [34], a little bit annoyed, but then I don't want to [35] with you. You're [36], so I don't want to get into a whole thing.",
+      "So I say, yeah, it's all good. It's all good. Exactly. It's a bit like, I mean, that's a British English one, an equivalent American English one would be [37]. If someone tells you it's all good, they could actually be feeling miffed, an adjective meaning [38] or hurt by someone's behaviour. But no matter how annoyed you are, you probably don't want to get into a barney, [39] so you say something like, it's all good or no worries and move on. As an English learner, unclear word meanings are a challenge. A lot depends on the situation and on [40], so don't be shy, get talking to others in English. And if you make a mistake, say no worries and carry on.",
+      "Okay, Pippa, I think it's time to reveal the answer to your question. Yes, you thought the ancient Greek words huper and ballo meant over speak, but the answer was actually a to overthrow. huper means beyond and ballo means I throw. Oh well. Okay, let's recap the vocabulary we've learnt, starting with mare, short for nightmare, meaning an unpleasant or difficult experience. If you take yourself too seriously, you consider yourself and your actions more important than they really are. In Britain, this is a no-no, a way of behaving that is not socially acceptable. The done thing, on the other hand, is what you are expected to do in a particular social situation. If you're miffed, you're slightly annoyed by someone's behaviour.",
+      "And finally, a barney is a loud argument or quarrel. Once again, our six minutes are up, but if you're keen to practise these new words and phrases, then check out our website, bbclearningenglish.com. Where you'll find our worksheets and quiz for this episode. See you again soon, but for now, goodbye. Bye."
+    ],
+    "answers": [
+      "exaggeration",
+      "for emphasis",
+      "hyperbole",
+      "I could eat a horse",
+      "Absolute nightmare",
+      "a mare",
+      "slightly humorous occurrence",
+      "an unpleasant or difficult experience",
+      "strange or annoying",
+      "what you meant",
+      "we don't really want to hear the answer",
+      "two ancient Greek words",
+      "literal meaning",
+      "to overthrow",
+      "understatement",
+      "de-emphasising",
+      "an awful meal",
+      "less than perfect",
+      "something much more serious",
+      "performative",
+      "sardonic",
+      "taking yourself too seriously",
+      "a no-no",
+      "British culture",
+      "the done thing",
+      "more important than you really are",
+      "not socially acceptable",
+      "a particular social situation",
+      "easily misunderstood",
+      "apologising",
+      "an imaginary situation",
+      "accidentally stepped on",
+      "it's all good",
+      "a bit miffed",
+      "have a barney",
+      "a stranger",
+      "no worries",
+      "slightly annoyed",
+      "a loud argument or quarrel",
+      "the relationship between speaker and listener"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "f1cea18fd20a",
+    "paraphrases": [
+      [
+        "hyperbole",
+        "deliberate exaggeration for effect",
+        "cách nói phóng đại để tạo hiệu ứng",
+        15.6,
+        35.5
+      ],
+      [
+        "mare",
+        "an unpleasant or difficult experience, short for nightmare",
+        "trải nghiệm khó chịu; dạng rút gọn của nightmare",
+        58.9,
+        75.7
+      ],
+      [
+        "understatement",
+        "making something sound less serious than it is",
+        "cách nói giảm mức độ nghiêm trọng",
+        147.7,
+        171.4
+      ],
+      [
+        "less than perfect",
+        "not as good as it should be",
+        "chưa tốt như mong đợi; cách nói giảm",
+        154,
+        171.4
+      ],
+      [
+        "take yourself too seriously",
+        "think you matter more than you really do",
+        "coi bản thân quan trọng quá mức",
+        192.6,
+        205.3
+      ],
+      [
+        "no-no",
+        "socially unacceptable behaviour",
+        "hành vi không được xã hội chấp nhận",
+        205.7,
+        212.2
+      ],
+      [
+        "the done thing",
+        "behaviour expected in a social situation",
+        "cách cư xử được mong đợi trong tình huống xã hội",
+        212.2,
+        217.5
+      ],
+      [
+        "miffed",
+        "slightly annoyed or offended",
+        "hơi bực bội hoặc phật ý",
+        257.7,
+        269.9
+      ],
+      [
+        "barney",
+        "a loud argument or quarrel",
+        "một cuộc cãi vã ồn ào",
+        269.9,
+        279.5
+      ],
+      [
+        "carry on",
+        "continue doing something",
+        "tiếp tục làm điều đang làm",
+        280.3,
+        298.6
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "hyperbole",
+        "meaning": "cách nói phóng đại để tạo hiệu ứng",
+        "note": "deliberate exaggeration for effect"
+      },
+      {
+        "term": "mare",
+        "meaning": "trải nghiệm khó chịu; dạng rút gọn của nightmare",
+        "note": "an unpleasant or difficult experience, short for nightmare"
+      },
+      {
+        "term": "understatement",
+        "meaning": "cách nói giảm mức độ nghiêm trọng",
+        "note": "making something sound less serious than it is"
+      },
+      {
+        "term": "less than perfect",
+        "meaning": "chưa tốt như mong đợi; cách nói giảm",
+        "note": "not as good as it should be"
+      },
+      {
+        "term": "take yourself too seriously",
+        "meaning": "coi bản thân quan trọng quá mức",
+        "note": "think you matter more than you really do"
+      },
+      {
+        "term": "no-no",
+        "meaning": "hành vi không được xã hội chấp nhận",
+        "note": "socially unacceptable behaviour"
+      },
+      {
+        "term": "the done thing",
+        "meaning": "cách cư xử được mong đợi trong tình huống xã hội",
+        "note": "behaviour expected in a social situation"
+      },
+      {
+        "term": "miffed",
+        "meaning": "hơi bực bội hoặc phật ý",
+        "note": "slightly annoyed or offended"
+      },
+      {
+        "term": "barney",
+        "meaning": "một cuộc cãi vã ồn ào",
+        "note": "a loud argument or quarrel"
+      },
+      {
+        "term": "carry on",
+        "meaning": "tiếp tục làm điều đang làm",
+        "note": "continue doing something"
+      }
+    ],
+    "signals": []
+  },
+  "92": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Pippa. Whatever you think of social media, in [1] it has changed the internet. Facebook, Twitter, now known as X, and in the early days Myspace used to be places to [2] or share photos of your breakfast. But with [3], the fun of [4] changed into something much stranger. As Tristan and Asma, presenters of BBC World Service programme, The Global Story, found out. Oh, what is this? I think it's a man who's supposed to look like Jesus. It's a man who looks a bit like his dog. He's been AI'd, right? It has to be AI'd. He's holding his dog and his face looks like his dog, so he's half Jesus, half dog.",
+      "A half dog, half Jesus photo, is [5] and [6]. It's an example of how the use of AI in social media has evolved so much that today it's hard to know what's [7] and what's not. In this episode, we'll discuss how social media is changing in [8], and as usual, we'll learn some useful new words and phrases. And remember, you'll find all the vocabulary along with a transcript on our website, bbclearningenglish.com. But first, I have a question for you, Pippa. You mentioned MySpace as one of the earlier [9], but the first electronic message was actually sent much earlier in [10] using [11] tapped out by hand on [12].",
+      "So, what was this [13] called? Was it A, [14], B, [15], or C, [16]? I think Morse code. Okay, we'll find out the answer later. The introduction of AI has [17] from social media. Indeed, a recent report found that social media activity [18] and has been going down ever since. Millennial and digital native Kyle Chayka is [19]. He spoke about the problem to Tristan Redmond for BBC World Service programme, The Global Story. Okay, Kyle, was there a moment for you when you felt like social media changed? Oh, man. I mean, in 2015, 2016, I think, in the United States, when Twitter became [20], it kind of [21] that the internet was a space you could go to just have fun and [22] and find cool friends and discuss the latest [23].",
+      "Kyle uses the informal expression, oh man, [24] showing excitement or enthusiasm. He remembers the internet in 2016 when Twitter was full of [25] about the US elections. For Kyle, this shattered the illusion that the internet was fun. If something shatters your illusions, it destroys [26] you hold, making you realise [27]. Kyle thinks social media was friendlier before, an online space to [28], have fun and discuss the latest cultural happenings. A cultural happening is an event that embodies [29] of [30] at a particular time in history. For example, the hit television show Game of Thrones was a cultural happening for millennials in the 2010s.",
+      "So what's the future of social media? Will the amount of [31] continue to grow? Here's Kyle Chayka again, sharing his thoughts with BBC World Services, the global story. We see the large social networks and the [32] leaning in to generated content, and I think users don't actually want that. I think it's [33] for now and people will [34] from it. So instead, I see people gravitating towards [35], connecting more closely with [36], like creator types, and just posting less in general. Kyle thinks the tech behemoths, meaning [37], will continue pushing AI. However, many people want content which is [38].",
+      "They think AI is a novelty, something which is new and unusual and therefore exciting, but which probably won't last. Instead, Kyle thinks people will gravitate towards [39]. If you gravitate towards something, you are [40] to it. Social media has changed fast and is still in motion. It's come a long way from the first electronic messages of 1844, which you mentioned in your question, Neil. So, did I get the correct answer? I asked what this new form of communication was, and you said that it was C Morse code, and that, Pippa, is the correct answer. Okay, let's recap the vocabulary we've learned, starting with the exclamation, oh man, used to show excitement or enthusiasm.",
+      "To shatter an illusion is to destroy someone's misconceptions, causing them to realise an unpleasant reality. A cultural happening is an event that embodies the values and interests of a particular social group at a particular time. A behemoth is an extremely large and powerful company or organisation. A novelty is something which is new and unusual and therefore exciting. And finally, if you gravitate towards something, you are naturally attracted to it. Once again, our six minutes are up, but if you're still using the internet, head over to our website, bbclearningenglish.com, where you'll find a worksheet and quiz for this episode. See you again soon, but for now it's goodbye."
+    ],
+    "answers": [
+      "less than a generation",
+      "post messages to friends",
+      "the rise of AI",
+      "connecting with friends",
+      "generated by AI",
+      "posted online",
+      "created by humans",
+      "the age of AI",
+      "social media platforms",
+      "1844",
+      "a series of dots and dashes",
+      "a telegraph wire",
+      "new form of communication",
+      "semaphore",
+      "dial-up",
+      "Morse code",
+      "turned some users away",
+      "peaked in 2022",
+      "a writer specialising in social media",
+      "the hub of election discourse",
+      "shattered the illusion",
+      "express yourself",
+      "cultural happenings",
+      "an exclamation",
+      "angry political debate",
+      "a false belief",
+      "an unpleasant truth",
+      "make friends",
+      "the values and interests",
+      "a particular group",
+      "AI generated content",
+      "tech behemoths",
+      "a novelty",
+      "drift away",
+      "smaller online spaces",
+      "individual voices",
+      "large and powerful companies",
+      "more personal and meaningful",
+      "smaller online communities",
+      "naturally drawn or attracted"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "eighteen forty-four"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "peaked in twenty twenty-two",
+        "peaked in two thousand and twenty-two"
+      ],
+      [
+        "a writer specializing in social media"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "b1b72ee194a5",
+    "paraphrases": [
+      [
+        "generation",
+        "people born and living around the same period",
+        "thế hệ sinh ra và sống trong cùng thời kỳ",
+        11.9,
+        24.3
+      ],
+      [
+        "peaked",
+        "reached its highest level",
+        "đạt đến mức cao nhất",
+        122.6,
+        134.5
+      ],
+      [
+        "hub",
+        "a central place for an activity",
+        "trung tâm của một hoạt động",
+        153.9,
+        169.6
+      ],
+      [
+        "oh man",
+        "an informal exclamation of strong feeling",
+        "thán từ thân mật thể hiện cảm xúc mạnh",
+        177.7,
+        184.8
+      ],
+      [
+        "shatters your illusions",
+        "destroys a false belief and reveals an unpleasant truth",
+        "làm tan vỡ ảo tưởng, bộc lộ sự thật khó chịu",
+        191.1,
+        202.9
+      ],
+      [
+        "cultural happening",
+        "an event reflecting a group's values at a particular time",
+        "sự kiện thể hiện giá trị văn hóa của một nhóm",
+        209.6,
+        225
+      ],
+      [
+        "behemoths",
+        "extremely large and powerful organisations",
+        "những tổ chức khổng lồ, có sức mạnh lớn",
+        265,
+        271.2
+      ],
+      [
+        "novelty",
+        "something exciting because it is new and unusual",
+        "điều mới lạ gây hứng thú",
+        271.9,
+        283.7
+      ],
+      [
+        "drift away",
+        "gradually lose interest and move away",
+        "dần mất hứng và rời xa",
+        244.3,
+        255.5
+      ],
+      [
+        "gravitate towards",
+        "be naturally attracted to",
+        "tự nhiên bị thu hút về phía",
+        284.3,
+        297
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "generation",
+        "meaning": "thế hệ sinh ra và sống trong cùng thời kỳ",
+        "note": "people born and living around the same period"
+      },
+      {
+        "term": "peaked",
+        "meaning": "đạt đến mức cao nhất",
+        "note": "reached its highest level"
+      },
+      {
+        "term": "hub",
+        "meaning": "trung tâm của một hoạt động",
+        "note": "a central place for an activity"
+      },
+      {
+        "term": "oh man",
+        "meaning": "thán từ thân mật thể hiện cảm xúc mạnh",
+        "note": "an informal exclamation of strong feeling"
+      },
+      {
+        "term": "shatters your illusions",
+        "meaning": "làm tan vỡ ảo tưởng, bộc lộ sự thật khó chịu",
+        "note": "destroys a false belief and reveals an unpleasant truth"
+      },
+      {
+        "term": "cultural happening",
+        "meaning": "sự kiện thể hiện giá trị văn hóa của một nhóm",
+        "note": "an event reflecting a group's values at a particular time"
+      },
+      {
+        "term": "behemoths",
+        "meaning": "những tổ chức khổng lồ, có sức mạnh lớn",
+        "note": "extremely large and powerful organisations"
+      },
+      {
+        "term": "novelty",
+        "meaning": "điều mới lạ gây hứng thú",
+        "note": "something exciting because it is new and unusual"
+      },
+      {
+        "term": "drift away",
+        "meaning": "dần mất hứng và rời xa",
+        "note": "gradually lose interest and move away"
+      },
+      {
+        "term": "gravitate towards",
+        "meaning": "tự nhiên bị thu hút về phía",
+        "note": "be naturally attracted to"
+      }
+    ],
+    "signals": []
+  },
+  "93": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Beth. Neil, when you're chatting with friends, do you usually have the same or different opinion on things going on in the world? Oh, well, that's interesting. I think I probably have quite [1] and that's kind of why we're friends. Ah, well, we might like to believe that we're [2] of others' beliefs. But for many people, it can be difficult to communicate with people who have very [3] to our own. And this [4] could be increasing with our use of social media. For example, [5] tend to show us what we already like and agree with. Of course, we can't always agree with everyone else.",
+      "We all have [6] on topics like [7]. But some worry that it's becoming more and more common to [8] when they disagree, than to [9]. So are we becoming [10]? Divided means [11] with and separated from others, to not be together? And how can we be more accepting and open to the opinions of others? That's what we'll be discussing in this programme. And as usual, we'll be learning some useful new words and phrases. Remember, you can find all the vocabulary from this programme on our website, bbclearningenglish.com. But first I have a question for you, Beth. According to a recent Ipsos poll, what percentage of the British population believes society is divided?",
+      "Is it A, [12], B, [13] or C, [14]? Oh, I'm going to say 50%. Well, we'll find out the answer later in the programme. Paul Dolan, Professor of Behavioural Science at the London School of Economics, thinks we should learn how to [15] and be [16] when we disagree. Here he explains more about how to do this on BBC World Service programme, All in the Mind. Generally, we're going to be [17] and more respectfully, if we [18]. It takes [19] when you're proper aroused for [20] to calm down. But within a few seconds it can start calming down, right? You take [21] and you start feeling calmer. It's not to say that always being calm is good.",
+      "Anger can be [22] and [23] actually can be very good for us. Generally, people make better decisions and are [24] when they're happier. But much of the time it will be just a case of calming down to try and [25] of the environment. Paul thinks we should take time to calm down when we feel aroused, which here means to feel anger or [26]. He said it takes 15 minutes for the amygdala, the part of the brain that experiences emotions to calm down when we're aroused. While anger can be motivational, make us more [27], Paul says people can speak more openly when they're happier, when heat is taken out of the environment.",
+      "Heat in this context means [28] like anger. Now, one recent dating experiment looked into what people say they want in [29], according to their [30]. Researchers found that many single people included details on things like what they want their partner to look like, their height, the [31] they vote for, but many also say they want a partner who is [32] of different views. If you are open-minded, you're willing to [33]. However, the researchers concluded that while people want a partner to be open-minded and tolerant, they don't want to be very open-minded themselves. So how can we be more open to getting to know people that we might disagree with?",
+      "Here's Paul Dolan again, talking to presenter Claudia Hammond of BBC World Services, All in the Mind. So, I guess one very obvious answer is to [34], to actually just get out more and [35], because it's what political scientists think is [36], the more you're around people that are different, the more you realise that actually they're not that different and you [37] and open-minded. So being around people that are different, I think that's probably the way that we're going to tackle that Paul says political scientists think the silver bullet is to get offline and meet people. A silver bullet means [38] to [39]. By meeting people who have different opinions and beliefs to you, the more you'll realise they're not that different to you at all.",
+      "And that could make you [40] and lead to a society that is less divided. And speaking of divided, isn't it time you revealed the answer to your question, Neil? Yes, I asked what percentage of the British population believes society is divided, according to a recent poll by the organisation Ipsos? I said 50%. Was that correct? It was not correct. It is, in fact, 80%. Wow, that's a lot. Okay, let's recap the vocabulary we've learned in this programme, starting with divided, which means in disagreement, not together. Aroused means feel a strong emotion like anger. If something is motivational, it makes us determined and enthusiastic. Heat means an intense feeling like anger. If you are open-minded, you are willing to listen to and consider new ideas.",
+      "And finally, a silver bullet means a simple solution to a complicated problem. Once again, our six minutes are up. If you've enjoyed this programme, why not try practicing the new vocabulary you've learned with our worksheet? It's available to download now from our website, bbclearningenglish.com. And you could also try out the quiz while you're there. Goodbye for now. Goodbye."
+    ],
+    "answers": [
+      "similar opinions",
+      "accepting and tolerant",
+      "different opinions",
+      "lack of acceptance",
+      "algorithms",
+      "personal opinions and beliefs",
+      "religion and politics",
+      "react with violence",
+      "solve disagreements together peacefully",
+      "a more divided society",
+      "in disagreement",
+      "20%",
+      "50%",
+      "80%",
+      "control our emotions",
+      "open to discussions",
+      "making better decisions",
+      "calm down",
+      "15 minutes",
+      "the amygdala",
+      "a deep breath",
+      "motivational",
+      "positive emotions",
+      "more engaging and more open",
+      "take some of the heat out",
+      "strong disagreement",
+      "determined and enthusiastic",
+      "an intense feeling",
+      "an ideal partner",
+      "dating profile",
+      "political party",
+      "open-minded and tolerant",
+      "listen to and consider new ideas",
+      "get offline",
+      "meet people",
+      "the silver bullet",
+      "become more tolerant",
+      "a simple solution",
+      "a complicated problem",
+      "more accepting"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "twenty percent",
+        "twenty per cent",
+        "20 percent",
+        "20 per cent"
+      ],
+      [
+        "fifty percent",
+        "fifty per cent",
+        "50 percent",
+        "50 per cent"
+      ],
+      [
+        "eighty percent",
+        "eighty per cent",
+        "80 percent",
+        "80 per cent"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "fifteen minutes"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "69586f22ef99",
+    "paraphrases": [
+      [
+        "tolerant",
+        "willing to accept opinions different from your own",
+        "sẵn sàng chấp nhận ý kiến khác mình",
+        30.1,
+        48
+      ],
+      [
+        "divided",
+        "in disagreement and separated from others",
+        "bất đồng và chia rẽ",
+        69.1,
+        82.1
+      ],
+      [
+        "calm down",
+        "become less emotionally agitated",
+        "bình tĩnh lại, giảm kích động",
+        139.4,
+        153.6
+      ],
+      [
+        "aroused",
+        "experiencing a strong emotion such as anger",
+        "bị kích động bởi cảm xúc mạnh như tức giận",
+        166.8,
+        185.6
+      ],
+      [
+        "motivational",
+        "making someone determined and enthusiastic",
+        "tạo động lực, sự quyết tâm và nhiệt tình",
+        186.3,
+        197.2
+      ],
+      [
+        "heat",
+        "an intense emotion such as anger in this context",
+        "cảm xúc gay gắt như tức giận trong ngữ cảnh này",
+        191,
+        201.7
+      ],
+      [
+        "open-minded",
+        "willing to consider unfamiliar ideas",
+        "cởi mở, sẵn sàng xem xét ý tưởng mới",
+        221,
+        232.8
+      ],
+      [
+        "get offline",
+        "stop using the internet for a while",
+        "tạm rời mạng Internet",
+        249.9,
+        269.5
+      ],
+      [
+        "silver bullet",
+        "a simple solution to a complex problem",
+        "giải pháp đơn giản cho vấn đề phức tạp",
+        274.6,
+        283.7
+      ],
+      [
+        "less divided",
+        "more united despite differences",
+        "bớt chia rẽ, gần gũi hơn dù có khác biệt",
+        284.3,
+        299.4
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "tolerant",
+        "meaning": "sẵn sàng chấp nhận ý kiến khác mình",
+        "note": "willing to accept opinions different from your own"
+      },
+      {
+        "term": "divided",
+        "meaning": "bất đồng và chia rẽ",
+        "note": "in disagreement and separated from others"
+      },
+      {
+        "term": "calm down",
+        "meaning": "bình tĩnh lại, giảm kích động",
+        "note": "become less emotionally agitated"
+      },
+      {
+        "term": "aroused",
+        "meaning": "bị kích động bởi cảm xúc mạnh như tức giận",
+        "note": "experiencing a strong emotion such as anger"
+      },
+      {
+        "term": "motivational",
+        "meaning": "tạo động lực, sự quyết tâm và nhiệt tình",
+        "note": "making someone determined and enthusiastic"
+      },
+      {
+        "term": "heat",
+        "meaning": "cảm xúc gay gắt như tức giận trong ngữ cảnh này",
+        "note": "an intense emotion such as anger in this context"
+      },
+      {
+        "term": "open-minded",
+        "meaning": "cởi mở, sẵn sàng xem xét ý tưởng mới",
+        "note": "willing to consider unfamiliar ideas"
+      },
+      {
+        "term": "get offline",
+        "meaning": "tạm rời mạng Internet",
+        "note": "stop using the internet for a while"
+      },
+      {
+        "term": "silver bullet",
+        "meaning": "giải pháp đơn giản cho vấn đề phức tạp",
+        "note": "a simple solution to a complex problem"
+      },
+      {
+        "term": "less divided",
+        "meaning": "bớt chia rẽ, gần gũi hơn dù có khác biệt",
+        "note": "more united despite differences"
+      }
+    ],
+    "signals": []
+  },
+  "94": {
+    "paragraphs": [
+      "Hello, and welcome to 6 Minute English from BBC Learning English. I'm Beth. And I'm Neil. Now, it's Christmas time in the UK at the moment, and like with celebrations around the world, lots of people have many [1] about Christmas. Beth, do you have any happy Christmas memories? I have a lot. My cousins and I used to always [2] for the family. That was always fun. What about you? Christmas was [3]. I lived in Canada when I was a kid and it was always snowing, so it just felt perfect. Amazing. Well, at this time of year, we might look back at the Christmases from the past, from [4], and feel like they were happier or more magical than Christmas feels today.",
+      "Yes, thinking about the past can make us feel [5]. It's a strange feeling we call [6], and we're going to be talking about nostalgia today, as well as [7]. And as usual, we'll be learning some useful new words and phrases. You can practice these with the quiz and the worksheets on our website. Go to bbclearningenglish.com. First Beth, I have a question for you. In the UK, the most popular Christmas meal is [8]. Oh yes, and all the roast potatoes and [9]. That's right, yes, but which of these has become a popular food to eat at Christmas time in Japan? Is it a turkey ramen, b [10], or c takeaway pizza? I think the answer is fried chicken.",
+      "Well, we'll find out at the end of the programme. Now, at Christmas, people often create [11] that they [12]. Common traditions in the UK include [13] for Father Christmas that's Santa Claus, who [14] for children. Well, here is host of BBC Radio 4's All in the Mind, Claudia Hammond, talking to psychology professor Darryl O'Connor about his Christmas traditions. Hello, Darryl. I wonder whether you think nostalgia for Christmas past [15] your Christmas [16]? Well, indeed, it does, Claudia. So actually, I [17] my childhood Christmas with lots and lots of nostalgia. So when I was a child, every single Christmas morning, we would have to [18] and my father would go into the front room of the house just to [19], [20] Santa Claus was still there.",
+      "And then we had to wait. And then, of course, I have [21] for my children. They line up on the stairs as well. How sweet, [22]. When Claudia asked Darryl whether nostalgia influences his present-day Christmases, Darryl responds, [23]. This is a common conversational way to say yes or agree with someone. We say, indeed, followed by do in [24]. On Christmas morning, Darryl asks his children to queue up on the stairs so he can check for Santa Claus, just like Darryl's father did when he was small. And Claudia likes this tradition, imagining the children waiting on the stairs, dying for their presents. We use the phrase dying for informally when someone [25].",
+      "Now, when we remember Christmas from the past and feel nostalgia, we often remember things [26]. But was the past definitely better? Are we [27]? This is what Claudia Hammond asked Catherine Loveday, who's a professor of [28] on BBC Radio 4 programme All in the Mind. How accurate are nostalgic memories? Are they accurate? Well, they're often going to be [29] and made [30], of course, and that's what we do with our past generally. But it doesn't really matter. I mean, in our work, we've just shown that [31] is not about [32]. It doesn't matter if [33]. It doesn't matter how we frame it. In fact, it's actually better for us in a way to [34] and to [35] to [36].",
+      "Catherine says that our memories are often rose-tinted. If a memory is rose-tinted, we only see the positive things about it and don't remember any of [37]. But according to Catherine, it doesn't always matter. She says the function of memory is not accuracy. Function means [38]. In fact, Catherine says that how we frame a memory doesn't matter. Frame can be used as a verb to mean how we think of or describe something like a memory. So our memories aren't that accurate. And it isn't that important, unless, of course, we need to remember [39] about something important. So our nostalgia about Christmas memories might not be based on what things were actually like in the past.",
+      "But we shouldn't worry too much. And I think it's time I revealed the answer to my quiz question. Beth, I asked what has become [40] to eat in Japan at Christmas time. And I said fried chicken. Was I right? You were absolutely correct. Let's recap the vocabulary we've learnt, starting with nostalgia, a feeling of happiness and also some sadness when you think about a thing that happened in the past. The phrase indeed, followed by the present simple form of do, can be used informally instead of answering yes. For example, Beth, do you enjoy eating Brussels sprouts at Christmas? Indeed, I do. Dying for something is an informal phrasal verb we use to say that we really want something. Rose tinted means seeing only the positive parts of something and not the bad parts.",
+      "Function means the purpose of something. And frame can be used as a verb to mean how we think of or describe something. Once again, our six minutes are up. Test what you've learned in the episode with the quiz and worksheets on our website. To all our listeners who are celebrating Christmas, Merry Christmas, and we hope you all have a good end to the year. See you soon. Bye!"
+    ],
+    "answers": [
+      "happy memories",
+      "put on a Christmas performance",
+      "magical",
+      "our childhood",
+      "happy and sad at the same time",
+      "nostalgia",
+      "Christmas memories and traditions",
+      "a roast turkey",
+      "Brussels sprouts",
+      "fried chicken",
+      "family traditions",
+      "repeat every year",
+      "putting out a snack",
+      "delivers presents",
+      "influences",
+      "present plans",
+      "look back on",
+      "queue up on the stairs",
+      "double check",
+      "just in case",
+      "repeated that exact same thing",
+      "dying for their presents",
+      "indeed, it does",
+      "the present tense",
+      "really wants something",
+      "in a very positive way",
+      "remembering correctly",
+      "cognitive neuroscience",
+      "rose-tinted",
+      "more positive",
+      "the function of memory",
+      "accuracy",
+      "some of the details are wrong",
+      "reframe our memories",
+      "slightly adjust them",
+      "suit who we are now",
+      "the bad parts",
+      "the purpose of something",
+      "factual details",
+      "a traditional food"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "bc5e85410be1",
+    "paraphrases": [
+      [
+        "nostalgia",
+        "mixed happiness and sadness when thinking about the past",
+        "cảm giác vừa vui vừa buồn khi nhớ về quá khứ",
+        54.6,
+        70.7
+      ],
+      [
+        "traditions",
+        "customs repeated over time",
+        "những phong tục được lặp lại qua thời gian",
+        110.2,
+        127.9
+      ],
+      [
+        "queue up",
+        "wait in a line",
+        "xếp hàng để chờ đến lượt",
+        145.5,
+        166.4
+      ],
+      [
+        "indeed, it does",
+        "an emphatic conversational way of agreeing",
+        "cách khẳng định đồng ý trong hội thoại",
+        170.8,
+        186.2
+      ],
+      [
+        "dying for",
+        "wanting something very much",
+        "rất mong muốn có điều gì",
+        200,
+        211.7
+      ],
+      [
+        "rose-tinted",
+        "remembered mainly in a positive way",
+        "được nhìn qua lăng kính màu hồng",
+        258.5,
+        268
+      ],
+      [
+        "function",
+        "the purpose something serves",
+        "chức năng hoặc mục đích của điều gì",
+        268.4,
+        278
+      ],
+      [
+        "accuracy",
+        "being correct and faithful to the facts",
+        "độ chính xác, đúng với thực tế",
+        244.7,
+        258.2
+      ],
+      [
+        "frame",
+        "think about or describe something in a particular way",
+        "nhìn nhận hoặc mô tả theo một cách nhất định",
+        278.4,
+        287.9
+      ],
+      [
+        "factual details",
+        "specific information about what actually happened",
+        "chi tiết thực tế về điều đã xảy ra",
+        288.6,
+        297.5
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "nostalgia",
+        "meaning": "cảm giác vừa vui vừa buồn khi nhớ về quá khứ",
+        "note": "mixed happiness and sadness when thinking about the past"
+      },
+      {
+        "term": "traditions",
+        "meaning": "những phong tục được lặp lại qua thời gian",
+        "note": "customs repeated over time"
+      },
+      {
+        "term": "queue up",
+        "meaning": "xếp hàng để chờ đến lượt",
+        "note": "wait in a line"
+      },
+      {
+        "term": "indeed, it does",
+        "meaning": "cách khẳng định đồng ý trong hội thoại",
+        "note": "an emphatic conversational way of agreeing"
+      },
+      {
+        "term": "dying for",
+        "meaning": "rất mong muốn có điều gì",
+        "note": "wanting something very much"
+      },
+      {
+        "term": "rose-tinted",
+        "meaning": "được nhìn qua lăng kính màu hồng",
+        "note": "remembered mainly in a positive way"
+      },
+      {
+        "term": "function",
+        "meaning": "chức năng hoặc mục đích của điều gì",
+        "note": "the purpose something serves"
+      },
+      {
+        "term": "accuracy",
+        "meaning": "độ chính xác, đúng với thực tế",
+        "note": "being correct and faithful to the facts"
+      },
+      {
+        "term": "frame",
+        "meaning": "nhìn nhận hoặc mô tả theo một cách nhất định",
+        "note": "think about or describe something in a particular way"
+      },
+      {
+        "term": "factual details",
+        "meaning": "chi tiết thực tế về điều đã xảy ra",
+        "note": "specific information about what actually happened"
+      }
+    ],
+    "signals": []
+  },
+  "95": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Pippa. And I'm Beth. [1] is the activity of walking in the countryside, looking for plants you can eat that grow [2]. That's anything from [3] to [4]. It's something humans have always done. And recently, it's become [5] among groups of young people. Pippa, have you ever been foraging? Yes, we used to go and pick blackberries when I was younger, but I haven't really done it as an adult. And I would be a bit nervous to look for mushrooms or things like that. What about you? I'm exactly the same. If I see a blackberry on a bush, I will eat it. But mushrooms, no, too scary. So, in this episode, we'll meet two young women from different countries who are [6] foraging wild food.",
+      "They're both [7], having learned to forage by [8] around them. And it's important to say that they only eat what they can identify with [9], sticking to the rule, [10]. We'll also be learning some useful new words and phrases, all of which you'll find on our website, bbclearningenglish.com. But before that, I have a question for you, Pippa. As mentioned, when foraging, you must know for certain what is [11]. Something definitely not safe to eat is the mushroom death cap. As the name suggests, it's one of [12], and it's common across [13]. But what colour is it? Are death cap mushrooms A, brown, B, white, or C, red?",
+      "I'm going to say, if it's dangerous, maybe it's red. Okay, well, we'll find out later in the programme. First, let's meet Roushanna Gray, [14] living in Cape Point, South Africa. Roushanna learned how to forage from her [15], as she explains here to BBC World Service programme, the conversation. So she is a [16], she has [17] of plants, and so I would be kind of [18] and learning about these new plants, all new to me, and wondering if you could eat them. Something that's incredibly important in foraging is to know [19] if you can eat it. [20] of the plant, and so she was my plant person. Roushanna's mother-in-law is a horticulturist, a person who studies or grows plants such as flowers, fruits, and vegetables.",
+      "She has a deep knowledge of the wild plants growing in nature. A deep knowledge means [21] of a subject gained from [22], not just knowing [23]. One skill foragers need is scanning the landscape. Scanning means [24] with your eyes to find some particular thing. In this case, [25]. And of course, Roushanna only eats plants that she can [26]. Plants that she knows 110% are safe to eat. Here the idiom 110% means Roushanna is [27], she has no doubt. And that's important, as the consequences of eating [28] are [29], sickness or even death. Our second female forager, Emily Smith, moved to [30] to work on a project cataloging and collecting wild mushrooms.",
+      "With around [31], [32] of which are edible, mushrooms are an important part of [33]. But with names like Death Cap and [34], mushrooms are what many wild foragers worry about the most. Emily discussed these worries with BBC World Service programme, The Conversation. That [35] is a bit misplaced, I think, because plants can be just as dangerous, if not more dangerous, than mushrooms. And I think that mushrooms have been [36]. I mean, you've got to [37], as Roushanna said, in anything that you pick. You need to know what it is [38]. If in doubt, throw it out. Is a very good phrase to say. Emily thinks there's a stigma around mushrooms.",
+      "A stigma is a negative belief about something, which is [39]. In fact, many plants are just as poisonous as mushrooms. The main thing is to exercise caution, to act with [40] so as to avoid possible dangers. In other words, to be careful. And the best way of doing that is learning the difference between what's safe to eat and what's not. Speaking of which, what was the answer to your question, Beth? Ah, I asked you, what colour are death cap mushrooms? You said red, which I also thought was the answer, but actually, they are white. Right, it's time to recap the vocabulary we've learned about foraging, starting with horticulturalist, a person who studies or grows plants.",
+      "If you have a deep knowledge of a subject, you have a thorough understanding of it gained from experience and study. Scanning involves searching a wide area with your eyes to find some particular thing. If you're 110% sure about something, you're absolutely certain you have no doubt. A stigma is an unfair negative belief about something. And finally, to exercise caution is a more formal way of saying to be careful. Something you should definitely remember if you go wild foraging yourself. Once again, our six minutes are up. If you enjoyed this episode, you'll find a quiz and worksheet to practice the vocabulary on our website, bbclearningenglish.com. See you again soon. Bye for now. Goodbye."
+    ],
+    "answers": [
+      "Foraging",
+      "in the wild",
+      "blackberries and chestnuts",
+      "mushrooms and wild garlic",
+      "fashionable",
+      "passionate about",
+      "self-taught",
+      "studying the natural world",
+      "100% certainty",
+      "if in doubt, leave it out",
+      "safe to eat",
+      "the world's deadliest mushrooms",
+      "the British Isles",
+      "a wild food forager",
+      "mother-in-law",
+      "horticulturist",
+      "a deep knowledge",
+      "scanning the landscape",
+      "110%",
+      "Positive identification",
+      "a thorough understanding",
+      "experience and study",
+      "the basic facts",
+      "searching a wide area",
+      "edible plants and herbs",
+      "positively identify",
+      "completely sure",
+      "poisonous plants",
+      "serious",
+      "rural Japan",
+      "5,000 varieties",
+      "300",
+      "traditional Japanese cooking",
+      "a reputation for being poisonous",
+      "stigma",
+      "much maligned",
+      "exercise caution",
+      "before you consume it",
+      "not necessarily true or fair",
+      "care and attention"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "one hundred percent certainty",
+        "one hundred per cent certainty",
+        "100 percent certainty",
+        "100 per cent certainty"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "one hundred and ten percent",
+        "one hundred and ten per cent",
+        "a hundred and ten percent",
+        "a hundred and ten per cent",
+        "110 percent",
+        "110 per cent"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "five thousand varieties",
+        "5000 varieties"
+      ],
+      [
+        "three hundred"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "23f7e89e971e",
+    "paraphrases": [
+      [
+        "foraging",
+        "searching for wild food to eat",
+        "tìm kiếm thức ăn mọc tự nhiên",
+        14.4,
+        30.9
+      ],
+      [
+        "self-taught",
+        "having learned without formal instruction",
+        "tự học, không qua đào tạo chính quy",
+        65.5,
+        79.3
+      ],
+      [
+        "if in doubt, leave it out",
+        "do not include it when you are uncertain",
+        "nếu không chắc chắn thì bỏ qua",
+        70.5,
+        79.3
+      ],
+      [
+        "horticulturist",
+        "a person who studies or grows plants",
+        "người nghiên cứu hoặc trồng cây",
+        164.9,
+        171.7
+      ],
+      [
+        "deep knowledge",
+        "a thorough understanding gained through experience and study",
+        "hiểu biết sâu sắc qua học tập và trải nghiệm",
+        172.7,
+        183.9
+      ],
+      [
+        "scanning",
+        "searching a wide area with your eyes",
+        "quan sát quét một vùng rộng để tìm kiếm",
+        184.7,
+        196
+      ],
+      [
+        "110%",
+        "completely certain, used emphatically here",
+        "cách nói nhấn mạnh sự chắc chắn tuyệt đối",
+        201.3,
+        210.3
+      ],
+      [
+        "stigma",
+        "an unfair negative belief about something",
+        "định kiến tiêu cực không công bằng",
+        272.1,
+        284.6
+      ],
+      [
+        "maligned",
+        "spoken about unfairly or negatively",
+        "bị nói xấu hoặc đánh giá bất công",
+        251.6,
+        261.1
+      ],
+      [
+        "exercise caution",
+        "act carefully to avoid possible danger",
+        "hành động thận trọng để tránh nguy hiểm",
+        285.3,
+        294.2
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "foraging",
+        "meaning": "tìm kiếm thức ăn mọc tự nhiên",
+        "note": "searching for wild food to eat"
+      },
+      {
+        "term": "self-taught",
+        "meaning": "tự học, không qua đào tạo chính quy",
+        "note": "having learned without formal instruction"
+      },
+      {
+        "term": "if in doubt, leave it out",
+        "meaning": "nếu không chắc chắn thì bỏ qua",
+        "note": "do not include it when you are uncertain"
+      },
+      {
+        "term": "horticulturist",
+        "meaning": "người nghiên cứu hoặc trồng cây",
+        "note": "a person who studies or grows plants"
+      },
+      {
+        "term": "deep knowledge",
+        "meaning": "hiểu biết sâu sắc qua học tập và trải nghiệm",
+        "note": "a thorough understanding gained through experience and study"
+      },
+      {
+        "term": "scanning",
+        "meaning": "quan sát quét một vùng rộng để tìm kiếm",
+        "note": "searching a wide area with your eyes"
+      },
+      {
+        "term": "110%",
+        "meaning": "cách nói nhấn mạnh sự chắc chắn tuyệt đối",
+        "note": "completely certain, used emphatically here"
+      },
+      {
+        "term": "stigma",
+        "meaning": "định kiến tiêu cực không công bằng",
+        "note": "an unfair negative belief about something"
+      },
+      {
+        "term": "maligned",
+        "meaning": "bị nói xấu hoặc đánh giá bất công",
+        "note": "spoken about unfairly or negatively"
+      },
+      {
+        "term": "exercise caution",
+        "meaning": "hành động thận trọng để tránh nguy hiểm",
+        "note": "act carefully to avoid possible danger"
+      }
+    ],
+    "signals": []
+  },
+  "96": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Georgie. Neil, have you ever [1]? Yes, I have. I can't say that I enjoyed it much. I was [2], to be honest. How about you? I used to ride horses a lot, actually. My favourite thing was to ride a horse through [3]. I love horses. They’re so [4]. The relationship between humans and horses has been close [5], but recently this has gone beyond riding horses for fun, or using them for work. Equine assisted services, sometimes called [6], is a health trend where caring and interacting with horses, is used to heal [7]. Here's Datshiane Navanayagam, presenter of BBC World Service Programme, the conversation, to explain.",
+      "Equine assisted services is now [8] which encompasses [9], involving activities and interactions with horses to promote [10]. Equine assisted services is an umbrella term, a term for a large number of different things which all belong to [11]. So horse therapy includes many activities, from feeling the horse's movement, which can help children with [12] like [13], to simply [14], which can help [15]. Grooming a horse means [16] the horse's coat of hair. Various animals can be used in therapy, but horses are particularly suitable, as they're very [17].",
+      "Being in contact with them affects [18] of the brain [19]. In this episode, we'll hear more about the horses helping people work through mental, emotional and [20], and as usual, we'll learn some useful new vocabulary. And remember, you'll find all the words and phrases from this episode on our website, bbclearningenglish.com. But now I have a question for you, Neil. We've heard some of the [21] horses possess, but which of the following about horses is also true? Is it A? Horses always [22]. B, horses can make [23], or C. Horses have [24]. Well, I'm sure I've seen a horse lying down, so I don't know about his vision, though, so I'm going to say B, a horse can make over 100 sounds.",
+      "Okay, we'll find out the answer later in the programme. Horse therapist Claudia Nicholson first felt [25] of horses as a child. She now runs her own centre for equine assisted learning in the south of England, where she spoke with BBC World Service programme The Conversation. I would spend [26] sitting in a stable with my pony. I was going through [27]. My parents had separated. I had a lot of [28], and I would feel [29] with the connection of the pony. As a child, Claudia spent hours on end with her pony. Phrases like days or hours on end mean days or hours doing something [30]. Spending time with her pony helped Claudia through puberty, the stage of life when a child grows into an adult because of changes in their body which allow them to have children.",
+      "It was her teenage experiences that led Claudia to start her own horse therapy centre. She works a lot with teenage girls and [31]. A child in care is a child who's being looked after by [32] because they cannot be cared for by their parents or family. Here Claudia talks more about her work with children and horses to BBC World Services, the conversation. It would take maybe a few sessions for [33] to be formed, and it's quite extraordinary to see a child that's [34], especially these children in care. They can be brushing the pony's body. They might want to have a cry which they've been [35]. The horse regulates them. Many of the children Claudia works with suffer trauma.",
+      "It takes time for them to build a [36] with their horse. The phrase bond of trust is a strong feeling of [37] between two people. Horses really are special animals. They sense human feelings like [38] through [39] and respond with [40]. This makes them perfect animal therapists. And that's not all right Georgie. Let's find out the answer to your question. Yes Neil, well, I asked you which sentence about horses was true and you said that horses can make over 100 sounds. Sadly, that was the wrong answer. The correct answer was C. Horses have near 360 degree vision, which is surprising. Wow, that's amazing. Okay, let's recap the vocabulary we've learnt.",
+      "Starting with umbrella term, a term used to describe many different things which all belong to a single common category. Grooming an animal like a horse or a dog means brushing and cleaning its coat of hair. If you do something for hours on end, you do it continuously without stopping. Puberty is the stage of life when a child grows into an adult because of changes in their body, which allow them to have children. A child who is in care is being looked after by the local authorities because they cannot be cared for by their parents. And finally, a bond of trust is a strong feeling of reliance and confidence between two people. Once again, our six minutes are up, but remember you'll find a quiz and worksheet for this episode over on our website, bbclearningenglish.com.",
+      "See you there soon, but for now it's goodbye. Goodbye."
+    ],
+    "answers": [
+      "ridden a horse",
+      "a bit scared",
+      "the countryside",
+      "majestic and lovely",
+      "throughout history",
+      "horse therapy",
+      "physical and mental illness",
+      "an umbrella term",
+      "a whole range of treatments",
+      "better human wellbeing",
+      "a single common category",
+      "muscle disorders",
+      "cerebral palsy",
+      "grooming the horse",
+      "calm anxiety",
+      "cleaning and brushing",
+      "sensitive to human emotions",
+      "the limbic area",
+      "dealing with stress",
+      "physical challenges",
+      "special qualities",
+      "sleep standing up",
+      "over 100 sounds",
+      "almost 360 degree vision",
+      "the healing power",
+      "hours on end",
+      "puberty",
+      "unanswered questions",
+      "met and safe and held",
+      "continuously without stopping",
+      "children in care",
+      "the local authorities",
+      "a relationship of trust",
+      "experienced a lot of trauma",
+      "holding on to",
+      "bond of trust",
+      "reliance and confidence",
+      "fear or sadness",
+      "breath, heart rate and movement",
+      "gentleness and calm"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "over one hundred sounds",
+        "over a hundred sounds"
+      ],
+      [
+        "almost three hundred and sixty degree vision",
+        "almost three hundred sixty degree vision",
+        "almost 360-degree vision"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "e5accad40815",
+    "paraphrases": [
+      [
+        "equine",
+        "relating to horses",
+        "thuộc về hoặc liên quan đến ngựa",
+        36.8,
+        54.4
+      ],
+      [
+        "umbrella term",
+        "a label covering several things in one category",
+        "thuật ngữ bao quát nhiều thứ cùng một nhóm",
+        66,
+        76.7
+      ],
+      [
+        "grooming",
+        "cleaning and brushing an animal's coat",
+        "chăm sóc, làm sạch và chải lông động vật",
+        82.5,
+        93.5
+      ],
+      [
+        "sensitive",
+        "quick to notice or respond to feelings",
+        "nhạy cảm với cảm xúc",
+        94,
+        108.7
+      ],
+      [
+        "hours on end",
+        "for many hours without stopping",
+        "liên tục suốt nhiều giờ",
+        195.9,
+        206.1
+      ],
+      [
+        "puberty",
+        "the stage of physical development towards adulthood",
+        "giai đoạn dậy thì, cơ thể phát triển thành người lớn",
+        206.3,
+        215.2
+      ],
+      [
+        "in care",
+        "looked after by local authorities rather than family",
+        "được chính quyền chăm sóc thay cho gia đình",
+        221,
+        231.3
+      ],
+      [
+        "trauma",
+        "lasting emotional harm from deeply distressing experiences",
+        "tổn thương tinh thần do trải nghiệm đau buồn",
+        264.3,
+        275.7
+      ],
+      [
+        "bond of trust",
+        "a strong connection based on confidence and reliance",
+        "mối gắn kết dựa trên sự tin tưởng",
+        264.3,
+        275.7
+      ],
+      [
+        "gentleness",
+        "a calm, kind and non-forceful manner",
+        "sự dịu dàng, nhẹ nhàng",
+        275.7,
+        293
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "equine",
+        "meaning": "thuộc về hoặc liên quan đến ngựa",
+        "note": "relating to horses"
+      },
+      {
+        "term": "umbrella term",
+        "meaning": "thuật ngữ bao quát nhiều thứ cùng một nhóm",
+        "note": "a label covering several things in one category"
+      },
+      {
+        "term": "grooming",
+        "meaning": "chăm sóc, làm sạch và chải lông động vật",
+        "note": "cleaning and brushing an animal's coat"
+      },
+      {
+        "term": "sensitive",
+        "meaning": "nhạy cảm với cảm xúc",
+        "note": "quick to notice or respond to feelings"
+      },
+      {
+        "term": "hours on end",
+        "meaning": "liên tục suốt nhiều giờ",
+        "note": "for many hours without stopping"
+      },
+      {
+        "term": "puberty",
+        "meaning": "giai đoạn dậy thì, cơ thể phát triển thành người lớn",
+        "note": "the stage of physical development towards adulthood"
+      },
+      {
+        "term": "in care",
+        "meaning": "được chính quyền chăm sóc thay cho gia đình",
+        "note": "looked after by local authorities rather than family"
+      },
+      {
+        "term": "trauma",
+        "meaning": "tổn thương tinh thần do trải nghiệm đau buồn",
+        "note": "lasting emotional harm from deeply distressing experiences"
+      },
+      {
+        "term": "bond of trust",
+        "meaning": "mối gắn kết dựa trên sự tin tưởng",
+        "note": "a strong connection based on confidence and reliance"
+      },
+      {
+        "term": "gentleness",
+        "meaning": "sự dịu dàng, nhẹ nhàng",
+        "note": "a calm, kind and non-forceful manner"
+      }
+    ],
+    "signals": []
+  },
+  "97": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Beth. In Britain, we call them crisps and you might know them as [1]. But whatever you call them, these [2] are probably the world's [3]. Neil, are you a big crisp eater and what's your favourite flavour? I love crisps, Beth. They are my favourite snack. My favourite flavour is [4], which is [5] because a lot of people don't like that flavour. I think my favourite is [6]. Yummy. You're making me hungry. Well, crisps might be popular, but with [7], they're not [8]. So why do we love them so much? That's what BBC World Service Programme, the food chain, wanted to find out.",
+      "Here, presenter Ruth Alexander talks to Mitchell Dingwell, a food executive responsible for [9]. Why do we love crisps so much? I think it's just that crunch, right? You can't beat [10] and the [11] in your mouth and it just becomes [12]. You just want more of it. For Mitchell, the best thing about crisps is the loud crunch. He says [13]. An idiom meaning something like, that's the best thing and you won't find anything better. Mitchell says once you started eating crisps, it's hard to stop and you just want to eat [14]. He calls this a snowball effect. A situation where doing something causes other similar things to happen.",
+      "You eat one crisp and before you know it, [15]. In this episode, we'll be visiting two countries in love with crisps. And as usual, we'll be learning some useful new words and phrases, all of which you can find on our website, bbclearningenglish.com. But first, I have a question for you, Beth. The record for [16] was recently broken in [17]. But how much did the packet weigh? Was it A, [18], B, [19] or C, [20]? OK, wow, they are all huge. I'm going to guess about 3.5 tonnes. OK, we'll find out the answer later. Let's travel first to Singapore, home of Jolene Ng, [21] who specialises in [22].",
+      "Here's Jolene talking with Ruth Alexander for BBC programme, the food chain. Is the potato chip, the most popular of all salty snacks? It's very, very much dependent on [23]. But if I were to look at certain countries, you could see like in the UK, it's very much [24]. You don't have it only during snack times. You have it [25] as well. Or you put it, my husband's from UK, and he kind of put it in his sandwich as well. Oh, yeah, [26] with a crisp inside. Oh, yeah, that's great. Exactly. Jolene says the popularity of different snacks depends on personal preference. Someone's [27] for something based on their [28].",
+      "In some places, crisps are part and parcel of everyday life. Part and parcel means to be [29] or feature of something. In Britain, crisps are so essential that people even eat crisps sandwiches. But not everywhere is so in love with potato chips. Let's meet Jenny Martinez, a food blogger from Mexico. In Mexico, tortilla corn chips are eaten instead of potato chips. And it's common to see [30] selling bags of corn tortillas filled with [31]. Here, Jenny tells Ruth Alexander more for BBC World Service programme, The Food Chain. For you. Which is your [32], the tortilla chip or the potato chip? Definitely the tortilla chip. Why? Because you could do so many things, [33].",
+      "Adding some [34], [35] or just [36] with a mixture of [37]. Ruth asks if tortillas are Jenny's go-to snack. You can use the phrase go-to to describe something which is [38] to be the best thing for a particular purpose. For example, for a lot of people, Wikipedia is the go-to website for online information. And Jenny thinks corn tortillas are especially good with guacamole, [39], which sounds delicious. And maybe a little healthier than a British crisp sandwich. Speaking of which, what was the answer to your question, Neil? I asked you how heavy the world's largest bag of crisps was. And I said very heavy, over three and a half tonnes. Well, it's not that big.",
+      "But the real answer is still enormous. About 1.5 tonnes. The bag, made in Riyadh, was [40]. Okay, let's recap the vocabulary we've learned, starting with the phrase, you can't beat that. Meaning that something is the best and you won't find anything better. A snowball effect is a situation where one action causes other similar actions to happen. Someone's personal preference is their subjective liking or disliking for something based on their own opinion. To be part and parcel of something means to be an essential or integral feature of it. And something which is described as the go-to can be relied upon as the best thing for a particular situation. And finally, guacamole is a paste made of mashed avocado, lime juice and salt.",
+      "Delicious. Once again, our six minutes are up. But if you're hungry for more, then head over to our website, bbclearningenglish.com, where you'll find a worksheet and quiz for this episode. See you again soon, but for now, goodbye. Goodbye."
+    ],
+    "answers": [
+      "potato chips",
+      "fried potato slices",
+      "favourite snack",
+      "prawn cocktail",
+      "controversial",
+      "salt and vinegar",
+      "lots of oil and salt",
+      "the healthiest food",
+      "developing new crisp flavours",
+      "the crunch",
+      "delicious salty feeling",
+      "a snowball effect",
+      "you can't beat it",
+      "more and more",
+      "the whole packet's gone",
+      "the world's largest packet of crisps",
+      "Saudi Arabia",
+      "about 1.5 tonnes",
+      "about 2.5 tonnes",
+      "about 3.5 tonnes",
+      "a market research analyst",
+      "salty snacks",
+      "personal preference",
+      "part and parcel of life",
+      "with lunch",
+      "a cheese sandwich",
+      "subjective liking or disliking",
+      "personal opinion",
+      "an essential element",
+      "street vendors",
+      "different sauces",
+      "go-to snack",
+      "dip it in almost everything",
+      "guacamole",
+      "spicy salsa",
+      "sour cream",
+      "chipotle sauce",
+      "relied upon",
+      "a paste made of mashed avocado",
+      "nine metres tall"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [
+        "favorite snack"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "developing new crisp flavors"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "about one point five tonnes",
+        "about one and a half tonnes",
+        "about 1.5 tons"
+      ],
+      [
+        "about two point five tonnes",
+        "about two and a half tonnes",
+        "about 2.5 tons"
+      ],
+      [
+        "about three point five tonnes",
+        "about three and a half tonnes",
+        "about 3.5 tons"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "9 metres tall",
+        "nine meters tall"
+      ]
+    ],
+    "contentRevision": "4c091a5b000f",
+    "paraphrases": [
+      [
+        "controversial",
+        "causing disagreement or divided opinions",
+        "gây tranh cãi, có nhiều ý kiến trái chiều",
+        32.5,
+        38.4
+      ],
+      [
+        "crunch",
+        "a loud crisp sound when biting something hard",
+        "tiếng giòn khi cắn thức ăn cứng",
+        66.9,
+        75.6
+      ],
+      [
+        "can't beat it",
+        "cannot find anything better than it",
+        "không có gì tốt hơn điều đó",
+        75.9,
+        87.5
+      ],
+      [
+        "snowball effect",
+        "one action leading to more similar actions",
+        "hiệu ứng một hành động kéo theo nhiều hành động tương tự",
+        88.1,
+        104.2
+      ],
+      [
+        "personal preference",
+        "a liking based on an individual's own opinion",
+        "sở thích dựa trên ý kiến cá nhân",
+        186.5,
+        196.7
+      ],
+      [
+        "part and parcel",
+        "an essential part of something",
+        "phần thiết yếu, không thể thiếu",
+        197.6,
+        210.1
+      ],
+      [
+        "street vendors",
+        "people who sell goods in the street",
+        "những người bán hàng trên đường phố",
+        215,
+        229.8
+      ],
+      [
+        "go-to",
+        "reliably the best choice for a particular purpose",
+        "lựa chọn đáng tin cậy cho một mục đích",
+        257.3,
+        274
+      ],
+      [
+        "guacamole",
+        "a dip made mainly from mashed avocado",
+        "món xốt làm chủ yếu từ quả bơ nghiền",
+        274,
+        283.4
+      ],
+      [
+        "enormous",
+        "extremely large",
+        "rất lớn, có kích thước khổng lồ",
+        298.3,
+        307.6
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "controversial",
+        "meaning": "gây tranh cãi, có nhiều ý kiến trái chiều",
+        "note": "causing disagreement or divided opinions"
+      },
+      {
+        "term": "crunch",
+        "meaning": "tiếng giòn khi cắn thức ăn cứng",
+        "note": "a loud crisp sound when biting something hard"
+      },
+      {
+        "term": "can't beat it",
+        "meaning": "không có gì tốt hơn điều đó",
+        "note": "cannot find anything better than it"
+      },
+      {
+        "term": "snowball effect",
+        "meaning": "hiệu ứng một hành động kéo theo nhiều hành động tương tự",
+        "note": "one action leading to more similar actions"
+      },
+      {
+        "term": "personal preference",
+        "meaning": "sở thích dựa trên ý kiến cá nhân",
+        "note": "a liking based on an individual's own opinion"
+      },
+      {
+        "term": "part and parcel",
+        "meaning": "phần thiết yếu, không thể thiếu",
+        "note": "an essential part of something"
+      },
+      {
+        "term": "street vendors",
+        "meaning": "những người bán hàng trên đường phố",
+        "note": "people who sell goods in the street"
+      },
+      {
+        "term": "go-to",
+        "meaning": "lựa chọn đáng tin cậy cho một mục đích",
+        "note": "reliably the best choice for a particular purpose"
+      },
+      {
+        "term": "guacamole",
+        "meaning": "món xốt làm chủ yếu từ quả bơ nghiền",
+        "note": "a dip made mainly from mashed avocado"
+      },
+      {
+        "term": "enormous",
+        "meaning": "rất lớn, có kích thước khổng lồ",
+        "note": "extremely large"
+      }
+    ],
+    "signals": []
+  },
+  "98": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Beth. And I'm Pippa. Everywhere you look online, from gaming and fashion to music, travel and culture, you'll find [1]. These social media influencers do what they're famous for, influencing and [2]. Do you follow any social media influencers Beth? I don't follow any specifically, I would say, but I do see influencers on Facebook and Instagram, things like that. Well, the most successful influencers have [3], and not surprisingly, this has [4] of another group of people trying to [5] to the public. Politicians. Politicians using the media to [6] is nothing new, but in this episode, we'll be finding out what happens when social media influencers [7].",
+      "As usual, we'll be learning some useful new words and phrases, and remember there's a transcript of this episode to read along with while you listen. It's available now on our website, bbclearningenglish.com. But first, I have a question for you, Beth. The most followed Instagram account of 2025 belongs to footballer Cristiano Ronaldo. But how many followers does he have? A, [8], B, [9], or C, [10]? Oh, I'm going to go down the middle, 67 million. Well, we'll find out the answer later in the programme. Around the world, politicians are realising that they can reach a lot of people through social media influencers. There have even been [11] of politicians [12] of influencers, in places like Colombia, Argentina, and Indonesia.",
+      "And one place where politics has become a big topic on social media is Nigeria. Nigeria is a country with [13]. There are around [14] in total, and [15] of them are [16]. Many of these [17] are [18], meaning not interested in [19], but they do follow social media influencers. Adline Okere is BBC Igbo news editor in Lagos, Nigeria. She spoke with BBC World Service programme, the fifth floor about the situation there. Influencers are [20] to [21] of these young people. Some of them started, you know, [22]. Some of them started out with lifestyle and then [23]. Adline thinks influencers are super important in Nigerian politics.",
+      "She uses super to mean very [24] or [25]. For example, if you say you're super happy about something, you mean you're very happy about it. In Nigeria, influencers are shaping the narrative of elections. If someone shapes a narrative, they have [26] over how something is [27]. Influencing things, of course, is exactly what influencers do, but now more and more [28] are [29] into politics. When you branch out, you start doing something different from what you usually do, such as [30]. So what happens when influencers become politicians themselves? Here, Adline Okere explains more to Faranak Amidi, presenter of BBC World Services, the fifth floor.",
+      "What about in Nigeria? Is there [31] against these influencers who got involved in [32]? Absolutely, a huge pushback. They also go back and [33] about these people from [34] and then publish them on social media. In Nigeria, there was a pushback against social media influencers turned politicians. A pushback is [35] of something that has happened. In fact, [36] was so bad people started to dig up information about influencers who promote politicians. If you dig up information about someone, you try to [37] about them. We have a similar phrase, [38], which means trying to find information about someone which could [39].",
+      "So social media can be [40] for politicians. But getting involved in politics doesn't always go well for social media influencers. Okay, Pippa, isn't it time you revealed the answer to your question? Yes, I asked how many followers does Cristiano Ronaldo, the footballer, have? And the answer was C, 667 million at the time of recording. That's a lot more than I have, Beth. And me, wow. Okay, let's recap the vocabulary we've learned, starting with the phrasal verb turned off, meaning uninterested. When super is placed before an adjective, it means very or more than usual. Social media influencers who shape the narrative have a strong influence over how something is presented or understood. If you branch out into something new, you start doing an activity or job that is different from what you usually do.",
+      "A pushback is a negative reaction to something new that has happened. And finally, the phrasal verb dig up means to try and find information. This is often about a person and their private life in order to try and damage their reputation. Once again, our six minutes are up, but why not head over to our website, bbclearningenglish.com to try the quiz and worksheets for this episode. See you there soon, but for now, goodbye. Bye."
+    ],
+    "answers": [
+      "social media influencers",
+      "creating trends",
+      "millions of followers",
+      "caught the attention",
+      "get their message out",
+      "win elections",
+      "become politicians themselves",
+      "6.7 million",
+      "67 million",
+      "667 million",
+      "allegations",
+      "paying for the support",
+      "a huge young population",
+      "200 million people",
+      "70%",
+      "under 30",
+      "young voters",
+      "turned off",
+      "traditional media",
+      "super important",
+      "shaping the narrative",
+      "activism",
+      "branched into politics",
+      "extremely",
+      "more than usual",
+      "a strong influence",
+      "presented or understood",
+      "social media personalities",
+      "branching out",
+      "a new activity or job",
+      "a pushback",
+      "promoting political parties",
+      "dig up information",
+      "their personal lives",
+      "a negative reaction or rejection",
+      "the public reaction",
+      "find details",
+      "dig up dirt on someone",
+      "damage their reputation",
+      "a powerful tool"
+    ],
+    "acceptedVariants": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "six point seven million"
+      ],
+      [
+        "sixty-seven million"
+      ],
+      [
+        "six hundred and sixty-seven million",
+        "six hundred sixty-seven million"
+      ],
+      [],
+      [],
+      [],
+      [
+        "two hundred million people"
+      ],
+      [
+        "seventy percent",
+        "seventy per cent",
+        "70 percent",
+        "70 per cent"
+      ],
+      [
+        "under thirty"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "127bbccf7263",
+    "paraphrases": [
+      [
+        "caught the attention",
+        "made someone notice and take interest",
+        "thu hút sự chú ý",
+        40.4,
+        57.5
+      ],
+      [
+        "allegations",
+        "claims of wrongdoing that have not necessarily been proved",
+        "những cáo buộc chưa nhất thiết được chứng minh",
+        108.5,
+        121.7
+      ],
+      [
+        "turned off",
+        "not interested or made to lose interest",
+        "không còn hứng thú hoặc bị mất hứng",
+        135.8,
+        147.3
+      ],
+      [
+        "super",
+        "very or more than usual, before an adjective",
+        "rất, cực kỳ; đứng trước tính từ",
+        174.8,
+        188.8
+      ],
+      [
+        "shaping the narrative",
+        "influencing how events are presented and understood",
+        "định hướng cách sự việc được kể và hiểu",
+        189.1,
+        199.8
+      ],
+      [
+        "branch out",
+        "start a new kind of activity",
+        "mở rộng sang lĩnh vực hoạt động mới",
+        200.6,
+        217.7
+      ],
+      [
+        "pushback",
+        "a negative reaction or resistance",
+        "sự phản đối hoặc phản ứng tiêu cực",
+        248.6,
+        259.1
+      ],
+      [
+        "dig up information",
+        "search for and uncover details",
+        "tìm kiếm, khai thác thông tin",
+        259.8,
+        272.2
+      ],
+      [
+        "dig up dirt on someone",
+        "seek information that could harm someone's reputation",
+        "đào bới thông tin có thể làm tổn hại danh tiếng",
+        272.9,
+        279.8
+      ],
+      [
+        "at the time of recording",
+        "when this programme was recorded",
+        "tại thời điểm chương trình được ghi âm",
+        294.2,
+        307
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "caught the attention",
+        "meaning": "thu hút sự chú ý",
+        "note": "made someone notice and take interest"
+      },
+      {
+        "term": "allegations",
+        "meaning": "những cáo buộc chưa nhất thiết được chứng minh",
+        "note": "claims of wrongdoing that have not necessarily been proved"
+      },
+      {
+        "term": "turned off",
+        "meaning": "không còn hứng thú hoặc bị mất hứng",
+        "note": "not interested or made to lose interest"
+      },
+      {
+        "term": "super",
+        "meaning": "rất, cực kỳ; đứng trước tính từ",
+        "note": "very or more than usual, before an adjective"
+      },
+      {
+        "term": "shaping the narrative",
+        "meaning": "định hướng cách sự việc được kể và hiểu",
+        "note": "influencing how events are presented and understood"
+      },
+      {
+        "term": "branch out",
+        "meaning": "mở rộng sang lĩnh vực hoạt động mới",
+        "note": "start a new kind of activity"
+      },
+      {
+        "term": "pushback",
+        "meaning": "sự phản đối hoặc phản ứng tiêu cực",
+        "note": "a negative reaction or resistance"
+      },
+      {
+        "term": "dig up information",
+        "meaning": "tìm kiếm, khai thác thông tin",
+        "note": "search for and uncover details"
+      },
+      {
+        "term": "dig up dirt on someone",
+        "meaning": "đào bới thông tin có thể làm tổn hại danh tiếng",
+        "note": "seek information that could harm someone's reputation"
+      },
+      {
+        "term": "at the time of recording",
+        "meaning": "tại thời điểm chương trình được ghi âm",
+        "note": "when this programme was recorded"
+      }
+    ],
+    "signals": []
+  },
+  "99": {
+    "paragraphs": [
+      "Hello, this is 6 Minute English from BBC Learning English, I'm Phil. And I'm Pippa. In this episode we're discussing [1], the rules about what makes [2], and in particular [3] about what you should and shouldn't do when eating. So Phil, what's the worst thing someone can do while eating, in your opinion? For me, it's being very noisy when you do it. [4]. Okay, I don't have too many rules about eating, but I was always told growing up that you shouldn't have [5], and I never really understood why, but I always remember that one. So, we'll be hearing more about [6] from some college students and an expert on British etiquette, and as usual we'll be learning some useful new words and phrases, all of which you can find on our website bbclearningenglish.com.",
+      "But first, I have a question for you, Pippa. Ideas about polite behaviour change a lot [7]. So, when BBC programme The Food Chain asked listeners from around the world about eating manners in their country, what do you think was [8]? Was it A, people [9], B, people [10], or C, people [11]? Hmm, I don't think it's people eating with their hands because lots of people around the world do that as kind of their normal way of eating. But maybe it's B, people eating noisily, I think, like you mentioned Phil, that's quite annoying. Well, we'll find out the answer later in the programme. The Food Chain also interviewed students at London's City of Westminster College about family dinner times.",
+      "Samuel is 19 and from Sierra Leone, and Aya is 18 and British, but her family are from Iraq. Let's listen as they chat with BBC World Services, the Food Chain. Yeah, I would say [12] really do matter because it also is really important how you [13], how you [14] to the person. What I don't want to see is any [15] or with [16], please and thank you. I would like to see though, [17] [18] [19], sometimes and I thought this could be like picky for everyone else, but having [20] [21], just in case you [22]. The students think etiquette is important. Samuel says it's about making [23].",
+      "Your first impression is [24] about someone when you meet them for the first time. For Aya, eating with your mouth open is [25]. She also thinks people should use a napkin, although that could be seen as [26]. Picky here means being [27]. For this group of students, showing [28] for the meal is very important, and this idea is common across most if not [29] throughout history. So imagine a scene from a TV show like Game of Thrones. Two enemy forces have stopped fighting, [30] and now gather for a meal. The leaders [31], meaning they lift up and touch drinks and [32]. They hold up a glass of alcohol and drink it to [33].",
+      "Now keep that image in mind, because we're going to hear British etiquette coach Rupert Wesson explaining why people clink glasses. Here he is, talking to Ruth Alexander, presenter of BBC World Service programme, The Food Chain. Perhaps the simplest example is why do we clink glasses? When we have a toast, if you clink glasses, you're [34] a bit of your drink into his cup and he's slopping a bit of drink into your cup, and therefore by having that toast, you are showing, look, [35], you trust me and that's why we do it. If you've [36] that's now slopped into your cup, you won't drink it. Correct. Hats at the table. We're hearing from BBC World Service listeners that that is a no-no.",
+      "Is that right? It's not something I would do. In fact, I would not be [37] anyway. So Phil, when we clink glasses in a toast, some of my drink might spill into your glass, and some of your drink might spill into mine. Historically, this [38] was a way of proving the drinks were not poisoned. Ruth also asks about wearing hats at the table, and Rupert calls this a no-no. A no-no is an informal phrase for something that is considered [39]. Etiquette varies a lot over time and culture, but the essential point is always to [40] by doing some things and avoiding others. And speaking of things to avoid, what was the answer to your question, Phil? Okay, well, I asked you what listeners of the food chain thought was the biggest etiquette problem when people are eating.",
+      "You said that it was people eating noisily, and I can reveal. That's the right answer. It was people eating noisily. Okay, let's recap the vocabulary we've learned about mealtime, do's and don'ts. Rules about how you should and shouldn't behave. Your first impression of someone is the opinion you form when meeting them for the first time. The word picky is used to describe someone who is too strict about rules. If you clink glasses, you touch two drinking glasses together as a gesture of friendship, probably because you're making a toast, a show of respect that involves drinking from a glass of alcohol. And finally, a no-no is an informal word for something considered socially unacceptable. Once again, our six minutes are up, but if you'd like to find out more about dining etiquette, then head over to our website bbclearningenglish.com to download a program worksheet and try the quiz.",
+      "See you again soon, but for now, it's goodbye. Bye."
+    ],
+    "answers": [
+      "etiquette",
+      "polite behaviour",
+      "the do's and don'ts",
+      "I can't stand it",
+      "your elbows on the table",
+      "mealtime manners",
+      "from country to country",
+      "the most common complaint",
+      "eating with their hands",
+      "eating noisily",
+      "burping at the table",
+      "first impressions",
+      "portray yourself",
+      "present yourself",
+      "loud chewing",
+      "your mouth open",
+      "eye contact",
+      "having a conversation",
+      "using your cutlery",
+      "a tissue or napkin",
+      "on your lap",
+      "spill anything",
+      "a good first impression",
+      "the opinion you form",
+      "definitely rude",
+      "picky",
+      "too strict about the rules",
+      "respect and appreciation",
+      "all cultures",
+      "made peace",
+      "clink glasses",
+      "make a toast",
+      "show respect",
+      "slopping",
+      "I trust you",
+      "poisoned my drink",
+      "wearing a hat inside",
+      "mixing of drinks",
+      "socially unacceptable",
+      "show appreciation"
+    ],
+    "acceptedVariants": [
+      [],
+      [
+        "polite behavior"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "contentRevision": "ec1ddf324db0",
+    "paraphrases": [
+      [
+        "etiquette",
+        "rules about polite behaviour",
+        "quy tắc ứng xử lịch sự",
+        12.5,
+        28.7
+      ],
+      [
+        "do's and don'ts",
+        "rules about what you should and should not do",
+        "những điều nên làm và không nên làm",
+        12.5,
+        28.7
+      ],
+      [
+        "can't stand it",
+        "find it extremely unpleasant or annoying",
+        "không thể chịu nổi điều đó",
+        28.7,
+        33.7
+      ],
+      [
+        "first impression",
+        "an opinion formed when first meeting someone",
+        "ấn tượng hình thành khi gặp lần đầu",
+        153.8,
+        165.3
+      ],
+      [
+        "cutlery",
+        "knives, forks and spoons used for eating",
+        "dao, nĩa và thìa dùng khi ăn",
+        140.1,
+        152.8
+      ],
+      [
+        "napkin",
+        "cloth or paper used at meals to protect clothing or wipe the mouth",
+        "khăn ăn dùng để lau hoặc giữ quần áo sạch",
+        140.1,
+        152.8
+      ],
+      [
+        "picky",
+        "overly strict or particular about rules here",
+        "quá khắt khe với quy tắc trong ngữ cảnh này",
+        165.8,
+        177.1
+      ],
+      [
+        "clink glasses",
+        "touch drinking glasses together",
+        "chạm các ly đồ uống vào nhau",
+        192.4,
+        205.4
+      ],
+      [
+        "make a toast",
+        "raise a drink as a gesture of respect",
+        "nâng ly chúc mừng hoặc bày tỏ sự tôn trọng",
+        197.6,
+        205.4
+      ],
+      [
+        "no-no",
+        "something considered socially unacceptable",
+        "điều bị coi là không được chấp nhận trong xã hội",
+        272.3,
+        282.9
+      ]
+    ],
+    "vocabulary": [
+      {
+        "term": "etiquette",
+        "meaning": "quy tắc ứng xử lịch sự",
+        "note": "rules about polite behaviour"
+      },
+      {
+        "term": "do's and don'ts",
+        "meaning": "những điều nên làm và không nên làm",
+        "note": "rules about what you should and should not do"
+      },
+      {
+        "term": "can't stand it",
+        "meaning": "không thể chịu nổi điều đó",
+        "note": "find it extremely unpleasant or annoying"
+      },
+      {
+        "term": "first impression",
+        "meaning": "ấn tượng hình thành khi gặp lần đầu",
+        "note": "an opinion formed when first meeting someone"
+      },
+      {
+        "term": "cutlery",
+        "meaning": "dao, nĩa và thìa dùng khi ăn",
+        "note": "knives, forks and spoons used for eating"
+      },
+      {
+        "term": "napkin",
+        "meaning": "khăn ăn dùng để lau hoặc giữ quần áo sạch",
+        "note": "cloth or paper used at meals to protect clothing or wipe the mouth"
+      },
+      {
+        "term": "picky",
+        "meaning": "quá khắt khe với quy tắc trong ngữ cảnh này",
+        "note": "overly strict or particular about rules here"
+      },
+      {
+        "term": "clink glasses",
+        "meaning": "chạm các ly đồ uống vào nhau",
+        "note": "touch drinking glasses together"
+      },
+      {
+        "term": "make a toast",
+        "meaning": "nâng ly chúc mừng hoặc bày tỏ sự tôn trọng",
+        "note": "raise a drink as a gesture of respect"
+      },
+      {
+        "term": "no-no",
+        "meaning": "điều bị coi là không được chấp nhận trong xã hội",
+        "note": "something considered socially unacceptable"
+      }
+    ],
+    "signals": []
   }
 };

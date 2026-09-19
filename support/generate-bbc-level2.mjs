@@ -1,6 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
 
+throw new Error("Retired importer: its abridged source transcript, decimal splitting and arbitrary gaps are not suitable for listening assessment. Edit the individually reviewed support/reviewed-lessons records and run support/build-reviewed-content.mjs instead.");
+
 const root = path.resolve(import.meta.dirname, "..");
 const sourceDir = path.join(root, "source-media-work", "bbc40");
 const manifest = JSON.parse(fs.readFileSync(path.join(sourceDir, "manifest.json"), "utf8"));

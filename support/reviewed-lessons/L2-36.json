@@ -1,0 +1,201 @@
+{
+  "code": "L2-36",
+  "status": "reviewed",
+  "reviewDate": "2026-09-19",
+  "audioEvidence": "media/level2/l2-36.mp3",
+  "evidenceNote": "Full restored old script and full timestamped audio recognition compared individually; manual corrections, selected meaningful gaps and authored equivalents. ",
+  "transcript": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil. And I'm Becca. How many of our listeners, Neil, do you think love chocolate? Well, I can't think of anyone who doesn't love chocolate. I know I certainly do. Yes, I thought you might say that. Having seen your mid-morning snack most days. That's true. I do love a bit of dark chocolate. Do you know I really like the one that's got some chilli in it. What's your favourite, Becca? Oh, I also love dark chocolate, but chilli's a bit spicy for me. I like it with sea salt. Mmm, that's also good. But now to the stuff that makes chocolate possible. Cocoa, a key ingredient. And it's become more expensive in recent years. Now a new EU law could make chocolate even more expensive.\n\nToday we'll talk about how this law could change things for farmers, companies and chocolate lovers, as discussed on the recent BBC World Service programme, Business Daily. As always, we'll learn some useful new words and phrases, and you'll find all the vocabulary along with the transcripts on our website, bbclearningenglish.com. Before we get started, Neil, I have a question for you. Europeans are big fans of chocolate, just like us. Around how many tonnes of cocoa beans were imported to Europe in 2023? Was it A, 500,000 tonnes, B, 2 million tonnes, or C, 10 million tonnes? Well, I have no idea, but I'm just going to guess and say 500,000 tonnes. We'll find out if you're right later on. Now, that new EU law that we were talking about earlier would stop companies buying cocoa from land where any trees were cut down in the last six years.\n\nThe process of cutting down trees is called deforestation. Albert Smith, who owns a small chocolate business, believes that the new law wouldn't change too much for his company. We have all the information on farm level already, because the producers that we work with are small plantations, that either work through a co-op or a social enterprise, and all of our cocoa is already traced back to the plantation. Albert adds that they already know where the cocoa beans come from, as they work with farmers from co-ops or social enterprises. A co-op, in this case, is a farm owned by its workers. A social enterprise is a business that wants to help the community. Because of working with farmers who are part of these organisations, Albert says that the cocoa they buy can already be traced back to the farms.\n\nTo trace something back to something means to find out where something has come from. Here's Albert Smith again. Mapping means that farmers have to actually provide the geolocations of their plantation, and for some farmers that are very remote, that comes also with a challenge. Albert suggests that giving a geolocation is difficult for some farmers, as they live in remote places and don't all have mobile phones. Geolocation is data taken from a special device, which shows exactly where something is. And the term remote means at a large distance from places where other people live. Because of these changes, the price of chocolate might go up even more, meaning that chocolate lovers like us could really notice the difference in our bank accounts.\n\nReporter Matthew Kenyon asked a chocolate lover on the street if they would pay more for their chocolate. Absolutely I would do that because I think the normal chocolates are way too cheap. Definitely we have to pay more because the money will go to local people, to give them a better life, also to tackle deforestation. And he asked another chocolate lover about whether he looks at where the cocoa beans come from. For me personally, absolutely not out of principle, because I want it to be produced as most efficiently as possible. The cost is completely irrelevant. But on principle, I want production to be as efficient as possible. Otherwise there's a waste of everybody's time. Mixed opinions, it seems, there, Becca, whilst one chocolate lover would pay more for chocolate to support farmers in production.\n\nThe other doesn't worry too much about the cost, but says the production process should be as efficient as possible. Okay, time to answer our quiz question. Earlier I asked you how many tonnes of cocoa were imported to Europe in 2023. And you said 500,000 tonnes. Well, Neil, I'll tell you, it is two million tonnes. Wow, well, I was wrong, and that really is a lot. Between us, we've probably eaten a few tonnes already this year. At least, Becca. I'd be interested to know what kind of chocolate our listeners enjoy. Me too, and whether they would be happy to pay more for their favourite chocolate bar. Okay, let's recap some of the vocabulary from this programme. Deforestation is the process of cutting down trees.\n\nWe heard co-op, which is a farm owned by its workers. A social enterprise is a business that wants to help the community. To trace something back to something is to find out where something's come from. Geolocation is data taken from a device, which can show you exactly where a person or thing is. And finally, remote means at a large distance from places where other people live. Once again, our six minutes are up. But if you want to test your knowledge, visit our website, bbclearningenglish.com, where you'll also find a worksheet and quiz for this episode. Bye, see you next time. Goodbye.",
+  "gaps": [
+    "mid-morning snack",
+    "dark chocolate",
+    "sea salt",
+    "a key ingredient",
+    "more expensive",
+    "a new EU law",
+    "chocolate lovers",
+    "cocoa beans",
+    "500,000 tonnes",
+    "2 million tonnes",
+    "10 million tonnes",
+    "cut down",
+    "deforestation",
+    "a small chocolate business",
+    "small plantations",
+    "a co-op",
+    "a social enterprise",
+    "traced back to the plantation",
+    "a farm owned by its workers",
+    "help the community",
+    "find out where something has come from",
+    "Mapping",
+    "geolocations",
+    "very remote",
+    "comes also with a challenge",
+    "don't all have mobile phones",
+    "a special device",
+    "a large distance",
+    "bank accounts",
+    "pay more",
+    "way too cheap",
+    "local people",
+    "a better life",
+    "tackle deforestation",
+    "out of principle",
+    "completely irrelevant",
+    "as efficient as possible",
+    "a waste of everybody's time",
+    "Mixed opinions",
+    "two million tonnes"
+  ],
+  "acceptedVariants": {
+    "500,000 tonnes": [
+      "five hundred thousand tonnes",
+      "500000 tonnes",
+      "500,000 tons"
+    ],
+    "2 million tonnes": [
+      "two million tonnes",
+      "2 million tons"
+    ],
+    "10 million tonnes": [
+      "ten million tonnes",
+      "10 million tons"
+    ],
+    "two million tonnes": [
+      "2 million tonnes",
+      "two million tons"
+    ]
+  },
+  "paraphrases": [
+    [
+      "a key ingredient",
+      "an essential component used to make something",
+      "một nguyên liệu quan trọng",
+      39.9,
+      49.9
+    ],
+    [
+      "deforestation",
+      "the removal of trees from an area",
+      "việc chặt phá rừng",
+      102.3,
+      115.8
+    ],
+    [
+      "co-op",
+      "a business jointly owned by its members or workers",
+      "hợp tác xã do các thành viên cùng sở hữu",
+      140.4,
+      151.6
+    ],
+    [
+      "social enterprise",
+      "a business whose purpose includes helping the community",
+      "doanh nghiệp hoạt động vì lợi ích cộng đồng",
+      148.7,
+      155.6
+    ],
+    [
+      "traced back",
+      "followed to its place of origin",
+      "được truy về nguồn gốc ban đầu",
+      156.6,
+      169.4
+    ],
+    [
+      "geolocation",
+      "data identifying an exact geographical position",
+      "dữ liệu xác định vị trí địa lý chính xác",
+      185.2,
+      199.5
+    ],
+    [
+      "remote",
+      "far away from places where people live",
+      "xa xôi, cách xa khu dân cư",
+      200.2,
+      204.5
+    ],
+    [
+      "tackle deforestation",
+      "take action to deal with forest destruction",
+      "hành động để giải quyết nạn phá rừng",
+      220.1,
+      235.7
+    ],
+    [
+      "irrelevant",
+      "not connected to the matter being considered",
+      "không liên quan đến điều đang xét",
+      241.7,
+      257.3
+    ],
+    [
+      "efficient",
+      "achieving results without wasting time or resources",
+      "hiệu quả, ít lãng phí thời gian hoặc nguồn lực",
+      251.6,
+      270.1
+    ]
+  ],
+  "vocabulary": [
+    [
+      "a key ingredient",
+      "một nguyên liệu quan trọng",
+      "an essential component used to make something"
+    ],
+    [
+      "deforestation",
+      "việc chặt phá rừng",
+      "the removal of trees from an area"
+    ],
+    [
+      "co-op",
+      "hợp tác xã do các thành viên cùng sở hữu",
+      "a business jointly owned by its members or workers"
+    ],
+    [
+      "social enterprise",
+      "doanh nghiệp hoạt động vì lợi ích cộng đồng",
+      "a business whose purpose includes helping the community"
+    ],
+    [
+      "traced back",
+      "được truy về nguồn gốc ban đầu",
+      "followed to its place of origin"
+    ],
+    [
+      "geolocation",
+      "dữ liệu xác định vị trí địa lý chính xác",
+      "data identifying an exact geographical position"
+    ],
+    [
+      "remote",
+      "xa xôi, cách xa khu dân cư",
+      "far away from places where people live"
+    ],
+    [
+      "tackle deforestation",
+      "hành động để giải quyết nạn phá rừng",
+      "take action to deal with forest destruction"
+    ],
+    [
+      "irrelevant",
+      "không liên quan đến điều đang xét",
+      "not connected to the matter being considered"
+    ],
+    [
+      "efficient",
+      "hiệu quả, ít lãng phí thời gian hoặc nguồn lực",
+      "achieving results without wasting time or resources"
+    ]
+  ],
+  "signals": [],
+  "issuesFixed": [
+    "Restored spoken introductions, source names, transitions and closing lines",
+    "Replaced forty arbitrary word windows with individually selected complete phrases",
+    "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+    "Used original-audio segment evidence for replay intervals",
+    "Scoped saved answers to this content revision"
+  ]
+}

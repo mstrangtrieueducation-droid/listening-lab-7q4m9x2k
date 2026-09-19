@@ -743,8 +743,528 @@
         "Rejoined split sentences and restored the spoken outro",
         "Verified all ten replay clips against the recording"
       ]
+    },
+    {
+      "code": "L2-11",
+      "status": "content-reviewed-build-validated",
+      "revision": "43cb5b81226f",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-12",
+      "status": "content-reviewed-build-validated",
+      "revision": "b4826e13ec54",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-13",
+      "status": "content-reviewed-build-validated",
+      "revision": "5945ffb3a513",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-14",
+      "status": "content-reviewed-build-validated",
+      "revision": "490d17b352a2",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-15",
+      "status": "content-reviewed-build-validated",
+      "revision": "be815fb142ad",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-16",
+      "status": "content-reviewed-build-validated",
+      "revision": "865d32e0f2a9",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-17",
+      "status": "content-reviewed-build-validated",
+      "revision": "77083f259730",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-18",
+      "status": "content-reviewed-build-validated",
+      "revision": "ba260f6d135d",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-19",
+      "status": "content-reviewed-build-validated",
+      "revision": "74d950499f19",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-20",
+      "status": "content-reviewed-build-validated",
+      "revision": "b425cdba9f70",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-21",
+      "status": "content-reviewed-build-validated",
+      "revision": "232d4cbfa735",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-22",
+      "status": "content-reviewed-build-validated",
+      "revision": "5ff10ce3897b",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-23",
+      "status": "content-reviewed-build-validated",
+      "revision": "c8d9b65e3ba3",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-24",
+      "status": "content-reviewed-build-validated",
+      "revision": "414d0e3b50f6",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-25",
+      "status": "content-reviewed-build-validated",
+      "revision": "e49a477c130c",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-26",
+      "status": "content-reviewed-build-validated",
+      "revision": "c6601ce5e611",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-27",
+      "status": "content-reviewed-build-validated",
+      "revision": "3446e47f6883",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-28",
+      "status": "content-reviewed-build-validated",
+      "revision": "47d3a7e85cff",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-29",
+      "status": "content-reviewed-build-validated",
+      "revision": "79a8c0e802ff",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-30",
+      "status": "content-reviewed-build-validated",
+      "revision": "d8fafd322b49",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-31",
+      "status": "content-reviewed-build-validated",
+      "revision": "87e2b901bd32",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-32",
+      "status": "content-reviewed-build-validated",
+      "revision": "13953bbfcbe9",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-33",
+      "status": "content-reviewed-build-validated",
+      "revision": "8f4842c2cec5",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-34",
+      "status": "content-reviewed-build-validated",
+      "revision": "15ea4563f5e0",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-35",
+      "status": "content-reviewed-build-validated",
+      "revision": "2cd4ce4dffcf",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-36",
+      "status": "content-reviewed-build-validated",
+      "revision": "3c08ba8ae281",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-37",
+      "status": "content-reviewed-build-validated",
+      "revision": "ac8136067130",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-38",
+      "status": "content-reviewed-build-validated",
+      "revision": "7ecf38b26c33",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-39",
+      "status": "content-reviewed-build-validated",
+      "revision": "18a929aaf412",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-40",
+      "status": "content-reviewed-build-validated",
+      "revision": "a7bc0be87e19",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-41",
+      "status": "content-reviewed-build-validated",
+      "revision": "256ef61ab07d",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-42",
+      "status": "content-reviewed-build-validated",
+      "revision": "f1cea18fd20a",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-43",
+      "status": "content-reviewed-build-validated",
+      "revision": "b1b72ee194a5",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-44",
+      "status": "content-reviewed-build-validated",
+      "revision": "69586f22ef99",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-45",
+      "status": "content-reviewed-build-validated",
+      "revision": "bc5e85410be1",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-46",
+      "status": "content-reviewed-build-validated",
+      "revision": "23f7e89e971e",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-47",
+      "status": "content-reviewed-build-validated",
+      "revision": "e5accad40815",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-48",
+      "status": "content-reviewed-build-validated",
+      "revision": "4c091a5b000f",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-49",
+      "status": "content-reviewed-build-validated",
+      "revision": "127bbccf7263",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
+    },
+    {
+      "code": "L2-50",
+      "status": "content-reviewed-build-validated",
+      "revision": "ec1ddf324db0",
+      "gapCount": 40,
+      "issuesFixed": [
+        "Restored spoken introductions, source names, transitions and closing lines",
+        "Replaced forty arbitrary word windows with individually selected complete phrases",
+        "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+        "Used original-audio segment evidence for replay intervals",
+        "Scoped saved answers to this content revision"
+      ]
     }
   ],
-  "pending": 40,
+  "pending": 0,
   "note": "Build validation is not proof of deployment. Unlisted lessons have not completed individual review."
 }

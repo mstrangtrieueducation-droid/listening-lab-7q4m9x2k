@@ -37,3 +37,22 @@ test('revision scopes saved answers while preserving existing routing/form ident
   const old = JSON.parse(fs.readFileSync(new URL('../support/review-baseline.json',import.meta.url),'utf8'));
   for (const token of Object.keys(old.routes)) assert(source.includes(`"${token}"`), `Lost route ${token}`);
 });
+
+test('L2-11–50 preserve recovered speech, decimal quiz values and genuine equivalents', () => {
+  const full = index => reviewedContent[index].paragraphs.join(' ').replace(/\[(\d+)\]/g, (_, n) => reviewedContent[index].answers[Number(n)-1]);
+  for (let i=60; i<100; i++) {
+    assert(reviewedContent[i], `Missing reviewed L2-${i-49}`);
+    assert(full(i).includes('BBC Learning English'));
+    assert(!full(i).includes('this programme from the programme'));
+    assert(!reviewedContent[i].paraphrases.some(p => /^the idea that /i.test(p[1])));
+  }
+  assert(full(72).includes('before you came into the studio'));
+  assert(full(83).includes('99.9%'));
+  assert(full(91).includes('potentially slightly humorous occurrence'));
+  assert(full(92).includes('A, semaphore, B, dial-up, or C, Morse code'));
+  for (const value of ['1.5 tonnes','2.5 tonnes','3.5 tonnes']) assert(full(97).includes(value));
+  assert(full(98).includes('6.7 million'));
+  assert(full(98).includes('at the time of recording'));
+  assert(!isCorrectAnswer('15 tonnes','about 1.5 tonnes'));
+  assert(!isCorrectAnswer('67 million','6.7 million'));
+});

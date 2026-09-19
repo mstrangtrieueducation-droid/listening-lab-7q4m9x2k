@@ -1,0 +1,193 @@
+{
+  "code": "L2-16",
+  "status": "reviewed",
+  "reviewDate": "2026-09-19",
+  "audioEvidence": "media/level2/l2-16.mp3",
+  "evidenceNote": "Full restored old script and full timestamped audio recognition compared individually; manual corrections, selected meaningful gaps and authored equivalents. Restored complete decimal values and units. Projection versus prediction remains conditional, not a guarantee.",
+  "transcript": "Hello, this is 6 Minute English from BBC Learning English, I'm Phil. And I'm Pippa. This summer is becoming one of the hottest ever, with heat waves across Europe. Here in the UK, a new record for the highest June temperature was set at a sweltering 37.7 degrees Celsius. It seems that year after year, temperatures are going up. In 2015, the COP21 summit agreed to limit global warming to 1.5 degrees Celsius. But since then, research shows temperatures exceeding that, leading to warnings of catastrophic damage to Earth's life support systems. In this episode, we'll be discussing how hot the planet could get using some useful new vocabulary. And remember, you'll find a free transcript to read along with on our website, bbclearningenglish.com.\n\nBut first, I have a question for you Phil. Scientists monitor climate change using the Earth's energy imbalance. The difference between the solar energy entering the Earth's atmosphere and the radiation going back out into space. But which unit do scientists use for this? Is it A, Fahrenheit, B, watts per square metre, or C, joules? Oh, I know joules is something to do with energy, so I'm going to go with C. Well, we'll find out the answer at the end of the programme, although careful listeners might hear the answer sooner. Yes, exciting. So, how do scientists calculate the effects of climate change in the first place? The answer is with models. Huge amounts of physical and chemical data are fed into supercomputers, which then paint pictures of possible futures on Earth.\n\nBut as NASA climate scientist Kate Marvel explained to BBC World Service programme, the climate question, nothing is certain. Climate models don't make predictions, they make projections. Predictions are saying this is what will happen. And a projection is conditional. A projection is, if we do this, then this will happen. Climate models don't make predictions, those are statements about what's likely to happen. Instead, they make projections about different possible futures. And these depend on many things. In other words, climate models are conditional, meaning that they depend on other factors. The main factor in climate change, of course, is human activity, especially greenhouse gas emissions. Another influence on climate models is clouds.\n\nWe usually associate hot summers with cloudless blue skies. But in fact, clouds play a big part in the climate, as Kate Marvel explained to the BBC World Service. So the thing about clouds is that they have this dual effect. They both cool the planet by blocking sunlight, and they warm the planet because they have their own greenhouse effect. Right now, the unit that scientists use to measure the energy imbalance of the planet, how much it's out of whack, is watts like in a light bulb per square metre. Kate starts by saying, \"The thing about clouds is...\" She uses the expression the thing about to introduce the most important detail about something. Here, that detail is that clouds both cool the planet by blocking sunlight, but also warm it by trapping heat.\n\nSo, climate models monitor clouds to accurately measure how much the earth is out of whack. If something is out of whack, it's out of balance and not working properly. Climate models sound very complicated to me, Pippa. For one thing, how can you monitor clouds which are constantly moving and changing? Yeah, and how much information from around the world would the supercomputers need to make accurate projections? It's a concern that BBC presenter Graihagh Jackson raised with Kate Marvel for BBC World Service programme, The Climate Question. Surely we need to know the trajectory we're heading in in order to adapt? Oh, absolutely. I am very pro-science. I am very pro-doing science because no climate change is unfortunately not on the table.\n\nKate is very pro-science. If you're pro-something, it means you're in favour of it. Models are complex, but they're necessary because unfortunately, no climate change at all is not on the table. And that's an idiom meaning it's not an option. If all this sounds a bit depressing, Kate's final message is more hopeful. Climate models prove beyond doubt that the problem of global warming is created by humans. So we know beyond doubt that the solution is also in our hands. Now, Pippa, careful listeners might already know, but go ahead and reveal the correct answer to your question. Yes, I asked you which unit do scientists use to measure the earth's energy imbalance? And the answer was watts per square metre?\n\nAnd I didn't know that, Phil. Right, it's time to recap the vocabulary we heard during this programme. A prediction is a statement about what you think will happen in the future. The adjective conditional means depending on other factors. You can use the informal expression the thing about to introduce the most important feature or detail of something. The phrase out of whack means out of balance and not working properly. If you're pro-something, you're in favour of it. And if something is not on the table, it's not an option. It's not available to us. That's the end of this episode of 6 Minute English. Find a worksheet and quiz on our website to test what you've learned. We'll be back next week with another episode, so make sure you don't miss it.\n\nBye for now. Bye.",
+  "gaps": [
+    "heat waves",
+    "a new record",
+    "37.7 degrees Celsius",
+    "year after year",
+    "limit global warming",
+    "1.5 degrees Celsius",
+    "catastrophic damage",
+    "life support systems",
+    "the Earth's energy imbalance",
+    "the solar energy",
+    "the Earth's atmosphere",
+    "radiation",
+    "watts per square metre",
+    "calculate the effects",
+    "physical and chemical data",
+    "supercomputers",
+    "possible futures on Earth",
+    "nothing is certain",
+    "make projections",
+    "conditional",
+    "depend on other factors",
+    "human activity",
+    "greenhouse gas emissions",
+    "cloudless blue skies",
+    "dual effect",
+    "blocking sunlight",
+    "greenhouse effect",
+    "out of whack",
+    "the most important detail",
+    "trapping heat",
+    "out of balance",
+    "constantly moving and changing",
+    "make accurate projections",
+    "the trajectory",
+    "in order to adapt",
+    "pro-science",
+    "not on the table",
+    "in favour of it",
+    "beyond doubt",
+    "in our hands"
+  ],
+  "acceptedVariants": {
+    "37.7 degrees Celsius": [
+      "thirty-seven point seven degrees Celsius",
+      "thirty seven point seven degrees Celsius",
+      "37.7°C"
+    ],
+    "1.5 degrees Celsius": [
+      "one point five degrees Celsius",
+      "1.5°C"
+    ]
+  },
+  "paraphrases": [
+    [
+      "catastrophic damage",
+      "extremely serious destruction",
+      "thiệt hại thảm khốc",
+      41.6,
+      50.7
+    ],
+    [
+      "possible futures",
+      "different ways events might develop",
+      "những kịch bản tương lai có thể xảy ra",
+      109.4,
+      117.5
+    ],
+    [
+      "projections",
+      "conditional estimates of what may happen",
+      "dự tính dựa trên điều kiện",
+      125.4,
+      138.5
+    ],
+    [
+      "conditional",
+      "dependent on other factors",
+      "phụ thuộc vào các điều kiện khác",
+      151.0,
+      156.6
+    ],
+    [
+      "dual effect",
+      "two different effects",
+      "tác động kép",
+      177.0,
+      188.5
+    ],
+    [
+      "out of whack",
+      "out of balance or not functioning properly",
+      "mất cân bằng hoặc hoạt động không ổn",
+      225.2,
+      229.5
+    ],
+    [
+      "the trajectory",
+      "the course of development",
+      "chiều hướng phát triển",
+      254.0,
+      259.9
+    ],
+    [
+      "pro-science",
+      "in favour of scientific investigation",
+      "ủng hộ khoa học",
+      260.0,
+      269.9
+    ],
+    [
+      "not on the table",
+      "not available as an option",
+      "không phải một lựa chọn có thể cân nhắc",
+      277.2,
+      288.7
+    ],
+    [
+      "beyond doubt",
+      "without uncertainty",
+      "không còn nghi ngờ",
+      294.2,
+      303.8
+    ]
+  ],
+  "vocabulary": [
+    [
+      "catastrophic damage",
+      "thiệt hại thảm khốc",
+      "extremely serious destruction"
+    ],
+    [
+      "possible futures",
+      "những kịch bản tương lai có thể xảy ra",
+      "different ways events might develop"
+    ],
+    [
+      "projections",
+      "dự tính dựa trên điều kiện",
+      "conditional estimates of what may happen"
+    ],
+    [
+      "conditional",
+      "phụ thuộc vào các điều kiện khác",
+      "dependent on other factors"
+    ],
+    [
+      "dual effect",
+      "tác động kép",
+      "two different effects"
+    ],
+    [
+      "out of whack",
+      "mất cân bằng hoặc hoạt động không ổn",
+      "out of balance or not functioning properly"
+    ],
+    [
+      "the trajectory",
+      "chiều hướng phát triển",
+      "the course of development"
+    ],
+    [
+      "pro-science",
+      "ủng hộ khoa học",
+      "in favour of scientific investigation"
+    ],
+    [
+      "not on the table",
+      "không phải một lựa chọn có thể cân nhắc",
+      "not available as an option"
+    ],
+    [
+      "beyond doubt",
+      "không còn nghi ngờ",
+      "without uncertainty"
+    ]
+  ],
+  "signals": [],
+  "issuesFixed": [
+    "Restored spoken introductions, source names, transitions and closing lines",
+    "Replaced forty arbitrary word windows with individually selected complete phrases",
+    "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+    "Used original-audio segment evidence for replay intervals",
+    "Scoped saved answers to this content revision"
+  ]
+}

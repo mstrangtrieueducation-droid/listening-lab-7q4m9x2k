@@ -1,0 +1,183 @@
+{
+  "code": "L2-25",
+  "status": "reviewed",
+  "reviewDate": "2026-09-19",
+  "audioEvidence": "media/level2/l2-25.mp3",
+  "evidenceNote": "Full restored old script and full timestamped audio recognition compared individually; manual corrections, selected meaningful gaps and authored equivalents. Extracted audio rechecked at 44–78, 183–208 and 292–317 seconds to recover missing speech. Original mask spelling preserved in the poem; specialist names retained from the source.",
+  "transcript": "Hello, this is 6 Minute English from BBC Learning English, I'm Neil. And I'm Pippa. In this episode we're discussing poetry. For some, poetry is what you study at school, then forget, while for others it becomes an important part of their life. Have you ever read or written any poetry, Neil? Well, I haven't written any poetry since I was at school. I would love to read more poetry, but I just don't get it really. I find it difficult to understand. A good place to hear poetry is an open mic night, a live event where anyone is allowed to stand up on stage to sing or recite poems. Here BBC reporter Maria recites her open mic poem about a friend who suffered a stroke for BBC World Service programme People Fixing the World.\n\nThis is a poem I wrote about a friend who I love dearly. It's called Stroke. You’re awake and trying to grasp who it is. I pull my mask past my lips and you study my face, eyes wide. I've enough stuff to tell you, I say, sinking into a chair, I stare. Sometimes if you go to an open mic night, people can really touch your soul with what they're saying, and even if you're having a bad day, life can feel so much better after going to an open mic night. For Maria, poetry has the power to heal emotions and touch your soul, meaning to affect you deeply on an emotional or spiritual level. In this episode, we'll hear more about the positive power of poetry, and as usual, we'll learn some useful new words and phrases.\n\nAnd remember, you'll find all the vocabulary plus a quiz and worksheet on our website, bbclearningenglish.com But first, I have a question for you, Pippa. Just now, you use the phrase, the positive power of poetry, repeating the same initial ‘p’ sound across a string of words. Doing this is a common feature of poetry, but what's it called? Is it A, assonance, B, alliteration, or C, simile? Hmm, finally, my English degree might come in handy, and I'm going to say B, alliteration. Well, we'll find out at the end, and I hope you don't get embarrassed, Pippa. Now, poetry helped Maria overcome sadness, but could its power to heal work in other areas too? Hot poets is a group helping people understand the science behind global issues like climate change.\n\nThey go to meetings like the UN Climate Conference and listen to scientific papers being presented then they write a poem about it all and perform that back to the audience. Here's Hot Poet Liv Torc reciting her poem to BBC World Service’s People Fixing the World. It starts with an adventure at sea. A big blue murder mystery where the killer is not the whale, but an epic humanity fail of overfishing and polluting at unimaginable scale. Liv's poem is based on a study into biodiversity. It's a complex research project that many find hard to understand. Here Liv discusses this with Myra Anubi for BBC World Service programme, People Fixing the World. And Liv, I mean, so what you've identified is that there is an issue around the communication of science.\n\nYes, a lot of this jargon is really hard to understand, or a lot of the science is quite impenetrable to normal people, so it's instantly a turn off. Science uses lots of jargon, specialist or technical vocabulary which is quite different from everyday language. For example, a scientist might use the word precipitation, while in everyday English we would say rain. Jargon can make scientific papers impenetrable, an adjective meaning impossible to understand, and worse it makes science a turn off, something that people dislike or find uninteresting. Hot Poets try to change all of that by making complex environmental ideas easy to understand through poetry. And it works, says Kat Bruce, the environmental scientist whose study Liv based her poem on, talking here with Myra Anubi for BBC World Service’s People Fixing the World.\n\nWhat did it mean for you, Kat, hearing the poem, having actually experienced everything she's saying? It still gives me goosebumps when I hear it now. I think it's everything that I wish I could say and put into words myself. I feel like Liv has done that. Liv's poem gave Kat goosebumps, meaning she was so emotionally affected that the hairs on her skin stood up making tiny bumps. Maybe poetry can't fix everything, but for Kat it's making an impact for good. Now, what was the answer to your question, Neil? Well, you seemed very clear, Pippa, that when you use a string of words beginning with the same sound, it's called alliteration, and you're absolutely right. Phew! Okay, let's recap the vocabulary we've learnt, starting with open mic night, a live event where anyone is allowed to perform poems or music on stage.\n\nIf something touches your soul, it affects you deeply on an emotional or spiritual level. Jargon means special words and phrases that are used in a particular profession or subject. The adjective impenetrable means impossible to understand. A turn off is something that people dislike or find uninteresting. And finally, if you get goosebumps, the hairs on your skin stand up because you're cold, emotionally affected or afraid. Once again, our six minutes are up, but remember you'll find lots more episodes as well as a quiz and worksheet for this one on our website, bbclearningenglish.com. See you again soon, but for now it's goodbye. Goodbye.",
+  "gaps": [
+    "discussing poetry",
+    "an important part of their life",
+    "difficult to understand",
+    "an open mic night",
+    "a live event",
+    "recite poems",
+    "suffered a stroke",
+    "trying to grasp",
+    "touch your soul",
+    "having a bad day",
+    "heal emotions",
+    "an emotional or spiritual level",
+    "the positive power of poetry",
+    "the same initial ‘p’ sound",
+    "a string of words",
+    "alliteration",
+    "come in handy",
+    "overcome sadness",
+    "global issues",
+    "scientific papers",
+    "back to the audience",
+    "an adventure at sea",
+    "overfishing and polluting",
+    "unimaginable scale",
+    "a study into biodiversity",
+    "a complex research project",
+    "the communication of science",
+    "jargon",
+    "impenetrable",
+    "a turn off",
+    "specialist or technical vocabulary",
+    "everyday language",
+    "precipitation",
+    "impossible to understand",
+    "complex environmental ideas",
+    "the environmental scientist",
+    "gives me goosebumps",
+    "put into words",
+    "emotionally affected",
+    "making an impact for good"
+  ],
+  "acceptedVariants": {},
+  "paraphrases": [
+    [
+      "open mic night",
+      "a live event where anyone can perform",
+      "đêm biểu diễn mở cho mọi người tham gia",
+      38.4,
+      51.2
+    ],
+    [
+      "recite",
+      "say a poem aloud",
+      "đọc thành tiếng một bài thơ",
+      44.0,
+      56.8
+    ],
+    [
+      "touch your soul",
+      "affect you deeply emotionally or spiritually",
+      "chạm tới cảm xúc sâu sắc",
+      88.0,
+      97.1
+    ],
+    [
+      "alliteration",
+      "repetition of an initial sound in nearby words",
+      "phép điệp âm đầu",
+      112.4,
+      135.0
+    ],
+    [
+      "come in handy",
+      "prove useful",
+      "trở nên hữu ích khi cần",
+      135.2,
+      140.7
+    ],
+    [
+      "jargon",
+      "specialist vocabulary used in a field",
+      "thuật ngữ chuyên ngành",
+      220.6,
+      232.7
+    ],
+    [
+      "impenetrable",
+      "very difficult or impossible to understand",
+      "khó hiểu, không thể hiểu thấu",
+      232.3,
+      245.3
+    ],
+    [
+      "turn off",
+      "something that makes people lose interest",
+      "điều khiến người ta mất hứng thú",
+      239.0,
+      250.6
+    ],
+    [
+      "goosebumps",
+      "small raised bumps on the skin caused by emotion or cold",
+      "nổi da gà do xúc động hoặc lạnh",
+      281.2,
+      295.1
+    ],
+    [
+      "put into words",
+      "express an idea or feeling verbally",
+      "diễn đạt thành lời",
+      268.6,
+      281.1
+    ]
+  ],
+  "vocabulary": [
+    [
+      "open mic night",
+      "đêm biểu diễn mở cho mọi người tham gia",
+      "a live event where anyone can perform"
+    ],
+    [
+      "recite",
+      "đọc thành tiếng một bài thơ",
+      "say a poem aloud"
+    ],
+    [
+      "touch your soul",
+      "chạm tới cảm xúc sâu sắc",
+      "affect you deeply emotionally or spiritually"
+    ],
+    [
+      "alliteration",
+      "phép điệp âm đầu",
+      "repetition of an initial sound in nearby words"
+    ],
+    [
+      "come in handy",
+      "trở nên hữu ích khi cần",
+      "prove useful"
+    ],
+    [
+      "jargon",
+      "thuật ngữ chuyên ngành",
+      "specialist vocabulary used in a field"
+    ],
+    [
+      "impenetrable",
+      "khó hiểu, không thể hiểu thấu",
+      "very difficult or impossible to understand"
+    ],
+    [
+      "turn off",
+      "điều khiến người ta mất hứng thú",
+      "something that makes people lose interest"
+    ],
+    [
+      "goosebumps",
+      "nổi da gà do xúc động hoặc lạnh",
+      "small raised bumps on the skin caused by emotion or cold"
+    ],
+    [
+      "put into words",
+      "diễn đạt thành lời",
+      "express an idea or feeling verbally"
+    ]
+  ],
+  "signals": [],
+  "issuesFixed": [
+    "Restored spoken introductions, source names, transitions and closing lines",
+    "Replaced forty arbitrary word windows with individually selected complete phrases",
+    "Rewrote ten equivalent paraphrases with Vietnamese meanings",
+    "Used original-audio segment evidence for replay intervals",
+    "Scoped saved answers to this content revision"
+  ]
+}
