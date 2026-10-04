@@ -879,7 +879,13 @@ export default function Home() {
   const renderText = (text: string) => text.split(/(\[\d+\])/g).map((part, index) => {
     const match = part.match(/\[(\d+)\]/); if (!match) return <span key={index}>{part}</span>;
     const answerIndex = Number(match[1]) - 1; const correct = isCorrectAnswer(currentValues[answerIndex], lesson.answers[answerIndex], lesson.acceptedVariants?.[answerIndex]);
-    return <span className="blank-wrap" key={index} style={{width: `${Math.min(48, Math.max(20, lesson.answers[answerIndex].length + 3))}ch`}}><span className="blank-number">{match[1]}</span><input disabled={submitted} aria-label={`Answer ${match[1]}`} className={submitted ? (correct ? "correct" : "wrong") : ""} value={currentValues[answerIndex]} onChange={e => { const all = values.map(row => [...row]); all[lessonIndex][answerIndex] = e.target.value; setValues(all); }} />{submitted && !correct && <small>{lesson.answers[answerIndex]}</small>}</span>;
+    // Let the native keyboard own the draft. Audio time updates must not write
+    // React's last committed value over a mobile keyboard's pending composition.
+    // Remount only when opening a different answer or restoring a locked attempt.
+    const saveDraft = (value: string) => setValues(previous => previous.map((row, rowIndex) =>
+      rowIndex === lessonIndex ? row.map((answer, column) => column === answerIndex ? value : answer) : row
+    ));
+    return <span className="blank-wrap" key={index} style={{width: `${Math.min(48, Math.max(20, lesson.answers[answerIndex].length + 3))}ch`}}><span className="blank-number">{match[1]}</span><input key={`${lessonIndex}:${answerIndex}:${submitted}`} disabled={submitted} aria-label={`Answer ${match[1]}`} className={submitted ? (correct ? "correct" : "wrong") : ""} defaultValue={currentValues[answerIndex]} onInput={e => saveDraft(e.currentTarget.value)} onCompositionEnd={e => saveDraft(e.currentTarget.value)} onBlur={e => saveDraft(e.currentTarget.value)} />{submitted && !correct && <small>{lesson.answers[answerIndex]}</small>}</span>;
   });
 
   return <main>
